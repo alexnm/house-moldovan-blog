@@ -1,0 +1,16 @@
+---
+layout: layouts/home.njk
+permalink: /spotlights/
+eleventyNavigation:
+  key: Spotlights
+  order: 3
+---
+
+<div class="wide-content">
+
+  <h1>{{collections.spotlights.length}} Spotlights</h1>
+
+  {% set postslist = collections.spotlights %}
+  {% include "postslist.njk" %}
+
+</div>

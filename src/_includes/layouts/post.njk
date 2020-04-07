@@ -1,0 +1,48 @@
+---
+layout: layouts/base.njk
+permalink: /travel/{{pageTitle | slug}}/
+---
+<div class="cover-image" style="background-image: url('{{cover}}')">
+  <div class="cover-overlay">
+    <div>
+      <h1>{{pageTitle}}</h1>
+      <p>{{subTitle}}</p>
+      <span class="tag-list mobile-only">
+        {% for tag in tags %}
+          {%- if tag != 'itineraries' and tag != 'spotlights' -%}
+          {% set tagUrl %}/explore/{{ tag | slug }}/{% endset %}
+          <a class="link-button" href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+      </span>
+    </div>
+  </div>
+</div>
+<div class="cover-band">
+  <div class="text-content">
+    <div class="cover-band-content">
+      <a class="link" target="_blank" href="{{mapsLink}}">{{region}}</a>
+      <span>{{ content | readingTime }} read</span>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="text-content markdown-content">
+  {{ content | safe }}
+
+  <p><a href="{{ '/' | url }}">← Home</a></p>
+</div>
+
+<div class="spacer-vertical-5"></div>
+
+<div class="wide-content text-center">
+  <h2>You might also enjoy</h2>
+
+  {% set postslist = collections.spotlights | head(-3) %}
+  {% include "postslist.njk" %}
+</div>
+
+<div class="spacer-vertical-5"></div>
+

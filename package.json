@@ -1,0 +1,32 @@
+{
+  "name": "house-moldovan-blog",
+  "version": "0.1.0",
+  "description": "Blog website made with eleventy",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexnm/house-moldovan-blog.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexnm/house-moldovan-blog/issues"
+  },
+  "homepage": "https://github.com/alexnm/house-moldovan-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy-navigation": "^0.1.3",
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "luxon": "^1.21.3",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.2.5"
+  },
+  "dependencies": {
+    "eleventy-plugin-reading-time": "0.0.1"
+  }
+}

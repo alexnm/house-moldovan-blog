@@ -1,0 +1,18 @@
+---
+permalink: /explore/
+layout: layouts/home.njk
+---
+
+<div class="cover-image"></div>
+
+<div class="text-content text-center">
+
+  <h1>Explore</h1>
+
+  <div class="spacer-vertical-3"></div>
+
+  {% set tags = collections.tagList %}
+  {% include "tagcloud.njk" %}
+
+  <div class="spacer-vertical-3"></div>
+</div>

@@ -1,0 +1,16 @@
+---
+layout: layouts/home.njk
+permalink: /itineraries/
+eleventyNavigation:
+  key: Itineraries
+  order: 2
+---
+
+<div class="wide-content">
+
+  <h1>{{collections.itineraries.length}} Itineraries</h1>
+
+  {% set postslist = collections.itineraries %}
+  {% include "postslist.njk" %}
+
+</div>

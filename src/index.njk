@@ -1,0 +1,48 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+
+<div class="cover-image"></div>
+
+<div class="wide-content">
+  <div class="spacer-vertical-5"></div>
+
+  <div class="text-content text-center">
+    <h1>Travel Stories From Around the World</h1>
+    <p>Welcome to our travel blog! not sure what to put here, but some content will appear soon! Stay tuned. We will write posts about our travels, itineraries and spotlights on certain destinations, all with tips and tricks and useful information.</p>
+  </div>
+  
+  <div class="spacer-vertical-3"></div>
+
+  {% set tags = collections.tagList %}
+  {% include "tagcloud.njk" %}
+
+  <div class="spacer-vertical-5"></div>
+
+  <div class="text-content text-center">
+    <h2>Latest itineraries</h2>
+    <p>Check out some</p>
+  </div>
+
+  <div class="spacer-vertical-3"></div>
+
+  {% set postslist = collections.itineraries | head(-3) %}
+  {% include "postslist.njk" %}
+  
+  <div class="spacer-vertical-5"></div>
+
+   <div class="text-content text-center">
+    <h2>Latest spotlights</h2>
+    <p>Check out some</p>
+  </div>
+
+  <div class="spacer-vertical-3"></div>
+
+  {% set postslist = collections.spotlights | head(-3) %}
+  {% include "postslist.njk" %}
+
+  <div class="spacer-vertical-5"></div>
+</div>
