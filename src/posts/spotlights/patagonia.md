@@ -10,7 +10,7 @@ mapsLink: https://www.google.com/maps/place/Patagonia/@-45.6701249,-78.2254399,5
 tags:
   - south america
   - patagonia
-  - treking
+  - trekking
 ---
 
 ## First stop, 🇦🇷El Chalten

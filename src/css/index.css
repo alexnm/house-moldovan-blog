@@ -151,19 +151,19 @@ ul {
 /* cover image */
 
 .cover-image {
-  background-image: url('/img/cover.jpg');
+  background-image: url('/img/home-cover.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 350px;
+  height: calc(100vh - 96px);
   position: relative;
 }
 
 .cover-overlay {
   position: absolute;
-  height: 350px;
+  height: calc(100vh - 96px);
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   color: var(--white);
   text-align: center;
   display: flex;

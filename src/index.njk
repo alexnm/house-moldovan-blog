@@ -6,23 +6,22 @@ eleventyNavigation:
 ---
 
 <div class="cover-image">
+  <div class="cover-overlay">
+  <div class="text-content text-center">
+    <h1>Travel Stories From Around the World</h1>
+    <p>Welcome to our travel blog! We like to write about our travels, we cover itineraries and spotlights on destinations around the world, all packed with tips and useful information.</p>
+  
+    <div class="spacer-vertical-3"></div>
 
+    {% set tags = collections.tagList %}
+    {% include "tagcloud.njk" %}
+  </div>
+  
+  </div>
 </div>
 
 <div class="wide-content">
   <div class="spacer-vertical-3"></div>
-
-  <div class="text-content text-center">
-    <h1>Travel Stories From Around the World</h1>
-    <p>Welcome to our travel blog! We like to write about our travels, we cover itineraries and spotlights on destinations around the world, all packed with tips and useful information.</p>
-  </div>
-  
-  <div class="spacer-vertical-3"></div>
-
-  {% set tags = collections.tagList %}
-  {% include "tagcloud.njk" %}
-
-  <div class="spacer-vertical-5"></div>
 
   <div class="text-content text-center">
     <h2>Latest itineraries</h2>

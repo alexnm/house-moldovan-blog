@@ -9,7 +9,7 @@ region: 🌎 Southern Cone
 mapsLink: https://www.google.com/maps/@-39.4462487,-69.3856776,4.62z
 tags:
   - south america
-  - treking
+  - trekking
   - nature
 ---
 
