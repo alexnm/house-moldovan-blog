@@ -10,7 +10,7 @@
   --font-size-regular: 16px;
   --font-size-small: 15px;
   --font-size-large: 22px;
-  --font-size-title: 26px;
+  --font-size-title: 32px;
   --font-weight-normal: 400;
   --font-weight-bold: 600;
 
@@ -357,8 +357,7 @@ ul {
   padding: 0.25rem 0.5rem;
   background-color: var(--accent);
   border-radius: var(--border-radius);
-  transition: background-color var(--motion-fade-speed) var(--motion-fade-function);
-  transition: border-radius var(--motion-fade-speed) var(--motion-fade-function);
+  transition: all var(--motion-fade-speed) var(--motion-fade-function);
 }
 
 .link-button:hover {
