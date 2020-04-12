@@ -7,10 +7,11 @@ eleventyNavigation:
 ---
 
 <div class="wide-content">
-
+  <div class="spacer-vertical-1"></div>
   <h1>{{collections.itineraries.length}} Itineraries</h1>
+  <div class="spacer-vertical-1"></div>
 
   {% set postslist = collections.itineraries %}
-  {% include "postslist.njk" %}
+  {% include "components/postslist.njk" %}
 
 </div>

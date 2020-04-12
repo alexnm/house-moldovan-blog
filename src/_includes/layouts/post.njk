@@ -1,12 +1,13 @@
 ---
 layout: layouts/base.njk
-permalink: /travel/{{pageTitle | slug}}/
 ---
 <div class="cover-image" style="background-image: url('{{cover}}')">
   <div class="cover-overlay">
     <div>
       <h1>{{pageTitle}}</h1>
+      <div class="spacer-vertical-1"></div>
       <p>{{subTitle}}</p>
+      <div class="spacer-vertical-3"></div>
       <span class="tag-list mobile-only">
         {% for tag in tags %}
           {%- if tag != 'itineraries' and tag != 'spotlights' -%}
@@ -27,21 +28,16 @@ permalink: /travel/{{pageTitle | slug}}/
   </div>
 </div>
 
-
-
-<div class="text-content markdown-content">
-  {{ content | safe }}
-
-  <p><a href="{{ '/' | url }}">← Home</a></p>
-</div>
+{{ content | safe }}
 
 <div class="spacer-vertical-5"></div>
 
 <div class="wide-content text-center">
   <h2>You might also enjoy</h2>
+  <div class="spacer-vertical-1"></div>
 
   {% set postslist = collections.spotlights | head(-3) %}
-  {% include "postslist.njk" %}
+  {% include "components/postslist.njk" %}
 </div>
 
 <div class="spacer-vertical-5"></div>

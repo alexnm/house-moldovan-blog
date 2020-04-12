@@ -9,12 +9,11 @@ eleventyNavigation:
   <div class="cover-overlay">
   <div class="text-content text-center">
     <h1>Travel Stories From Around the World</h1>
+    <div class="spacer-vertical-1"></div>
     <p>Welcome to our travel blog! We like to write about our travels, we cover itineraries and spotlights on destinations around the world, all packed with tips and useful information.</p>
-  
-    <div class="spacer-vertical-3"></div>
-
+    <div class="spacer-vertical-1"></div>
     {% set tags = collections.tagList %}
-    {% include "tagcloud.njk" %}
+    {% include "components/tagcloud.njk" %}
   </div>
   
   </div>
@@ -24,18 +23,6 @@ eleventyNavigation:
   <div class="spacer-vertical-3"></div>
 
   <div class="text-content text-center">
-    <h2>Latest itineraries</h2>
-    <p>Planning a big trip? maybe you get inspired from this category of articles</p>
-  </div>
-
-  <div class="spacer-vertical-3"></div>
-
-  {% set postslist = collections.itineraries | head(-3) %}
-  {% include "postslist.njk" %}
-  
-  <div class="spacer-vertical-5"></div>
-
-   <div class="text-content text-center">
     <h2>Latest spotlights</h2>
     <p>All you need to know about the places you want to visit</p>
   </div>
@@ -43,7 +30,19 @@ eleventyNavigation:
   <div class="spacer-vertical-3"></div>
 
   {% set postslist = collections.spotlights | head(-3) %}
-  {% include "postslist.njk" %}
+  {% include "components/postslist.njk" %}
+  
+  <div class="spacer-vertical-5"></div>
+
+   <div class="text-content text-center">
+    <h2>Latest itineraries</h2>
+    <p>Planning a big trip? maybe you get inspired from this category of articles</p>
+  </div>
+
+  <div class="spacer-vertical-3"></div>
+
+  {% set postslist = collections.itineraries | head(-3) %}
+  {% include "components/postslist.njk" %}
 
   <div class="spacer-vertical-5"></div>
 </div>

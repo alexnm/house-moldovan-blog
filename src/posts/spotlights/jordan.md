@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/spotlight.njk
 pageTitle: 2 days in Jordan
 subTitle: Enjoy the Jordanian desert and wander the lost city of Petra
 coverThumb: /img/jordan/petra-camel.jpg

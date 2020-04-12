@@ -7,12 +7,13 @@ layout: layouts/base.njk
 
 <div class="text-content text-center">
 
+  <div class="spacer-vertical-1"></div>
   <h1>Explore</h1>
 
   <div class="spacer-vertical-3"></div>
 
   {% set tags = collections.tagList %}
-  {% include "tagcloud.njk" %}
+  {% include "components/tagcloud.njk" %}
 
   <div class="spacer-vertical-3"></div>
 </div>

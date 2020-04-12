@@ -17,10 +17,11 @@ permalink: /explore/{{ tag | slug }}/
 ---
 
 <div class="wide-content">
+  <div class="spacer-vertical-1"></div>
   <h1>Explore <span class="text-capitalize">{{ tag }}</span></h1>
-
+  <div class="spacer-vertical-1"></div>
   {% set postslist = collections[ tag ] %}
-  {% include "postslist.njk" %}
+  {% include "components/postslist.njk" %}
 
   <div class="spacer-vertical-3"></div>
 

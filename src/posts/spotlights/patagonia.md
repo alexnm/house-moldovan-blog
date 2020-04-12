@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/spotlight.njk
 pageTitle: Snapshots of Patagonia
 subTitle: Patagonia might be the most beautiful place in the world
 coverThumb: /img/chile/torres-del-paine.jpg

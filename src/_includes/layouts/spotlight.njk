@@ -1,0 +1,14 @@
+---
+layout: layouts/post.njk
+permalink: /travel/{{pageTitle | slug}}/
+---
+
+<div class="text-content markdown-content">
+  <p>{{coverText}}</p>
+
+  {{ content | safe }}
+
+  <p><a href="{{ '/' | url }}">← Home</a></p>
+</div>
+
+
