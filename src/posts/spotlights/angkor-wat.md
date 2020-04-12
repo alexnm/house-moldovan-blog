@@ -22,7 +22,7 @@ Tickets for Angkor Wat are sold [outside the temples area](https://goo.gl/maps/4
 
 Ok, here's the thing. Angkor Wat is one of those sites where you can spend many days moving around and still not have enough time to see everything. It depends on how passionate you are about the history, culture and archeological value of the sites.
 
-We spent 1 and a half days in total and it was really nice as we got to see most of the main sites and we spent quite some time outside of the most crowded areas, so we could fully enjoy the spectacular sites.
+We spent 1 and a half days in total and it was really nice as we got to see most of the main sites and we spent quite some time outside of the most crowded areas, so we could enjoy the sites alone.
 
 Tickets are sold for 1 day ($37) or for 3 days ($62). Our recommendation, if you don't have a lot of time, is to go for the day ticket and make the most out of your day there.
 
@@ -42,9 +42,9 @@ Renting a bike is fun, but can be quite challenging under intense heat and long 
 
 ## Stops
 
-Angkor Wat is the name of the entire area, but it's also the name of the main temple, the one most people can recognize before they even set foot in Cambodia. It is so important for the country, that is even represented on the flag: 🇰🇭.
+Angkor Wat is the name of the entire area, but it's also the name of the main temple, the one most people can recognize before they even set foot in Cambodia. It is so important for the country, that they put it on the flag: 🇰🇭.
 
-However, there are a lot of other temples really worth visiting during your stay.
+However, there are a lot of other temples really worth visiting during your stay. Here's a quick guide on things you should not miss in Angkor Wat.
 
 ### Ta Prohm
 
