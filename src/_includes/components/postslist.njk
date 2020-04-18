@@ -1,7 +1,7 @@
 <ul class="postlist">
   {% for post in postslist | reverse %}
     <li class="postlist-item">
-      <div class="postcard" href="{{ post.url | url }}">
+      <article class="postcard" href="{{ post.url | url }}">
         <a class="post-image-link" href="{{post.url | url}}" title="{{post.data.pageTitle}}">
           <div class="post-image" style="background-image: url('{{ post.data.coverThumb }}')"></div>
         </a>
@@ -12,7 +12,7 @@
           <p class="post-text">{{ post.data.coverText }}</p>
           <a class="post-cta link-button" href="{{post.url | url}}">Explore</a>
         </div>
-      </div>
+      </article>
     </li>
   {% endfor %}
 </ul>

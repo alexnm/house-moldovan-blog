@@ -7,12 +7,16 @@ const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
 const CleanCSS = require('clean-css')
 const pluginReadingTime = require('eleventy-plugin-reading-time')
+const pluginTOC = require('eleventy-plugin-toc')
+const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language')
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss)
   eleventyConfig.addPlugin(pluginSyntaxHighlight)
   eleventyConfig.addPlugin(pluginNavigation)
   eleventyConfig.addPlugin(pluginReadingTime)
+  eleventyConfig.addPlugin(pluginTOC)
+  eleventyConfig.addPlugin(inclusiveLangPlugin)
 
   eleventyConfig.setDataDeepMerge(true)
 
@@ -43,7 +47,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('tagList', require('./src/_11ty/getTagList'))
 
   eleventyConfig.addPassthroughCopy('img')
-  eleventyConfig.addPassthroughCopy('src/css')
 
   eleventyConfig.addWatchTarget('src/css')
 
@@ -53,9 +56,10 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true
   }).use(markdownItAnchor, {
-    permalink: true,
+    // permalink: true,
     permalinkClass: 'direct-link',
-    permalinkSymbol: '#'
+    permalinkBefore: true,
+    permalinkSymbol: '🔗'
   })
   eleventyConfig.setLibrary('md', markdownLibrary)
 

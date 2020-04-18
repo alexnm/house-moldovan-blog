@@ -1,15 +1,16 @@
 {
   "title": "House Moldovan",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "url": "https://housemoldovan.com/",
+  "description": "Travel Stories From Around the World",
+  "image": "https://housemoldovan.com/img/home-cover.jpg",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Travel Stories From Around the World",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://housemoldovan.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "House Moldovan",
+    "email": "alex.n.moldovan@gmail.com"
   }
 }

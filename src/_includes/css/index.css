@@ -26,7 +26,7 @@
   --motion-fade-function: ease-out;
 }
 
-@media only screen and (min-width: 840px) {
+@media only screen and (min-width: 790px) {
   :root {
     --font-size-small: 16px;
     --font-size-regular: 18px;
@@ -77,6 +77,16 @@ a {
 ul {
   list-style: none;
   padding: 0;
+  margin: 0;
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-top: 1px solid var(--text-color-light);
+}
+
+figure {
   margin: 0;
 }
 
@@ -143,7 +153,7 @@ ul {
   }
 }
 
-@media only screen and (min-width: 840px) {
+@media only screen and (min-width: 790px) {
   .header {
     padding: 0 1.5rem;
   }
@@ -177,7 +187,7 @@ ul {
   justify-content: center;
 }
 
-@media only screen and (min-width: 840px) {
+@media only screen and (min-width: 790px) {
   .cover-image,
   .cover-overlay {
     height: 60vh;
@@ -200,9 +210,9 @@ ul {
   justify-content: space-between;
 }
 
-@media only screen and (min-width: 840px) {
+@media only screen and (min-width: 790px) {
   .cover-band-content {
-    width: 800px;
+    width: 750px;
   }
 }
 
@@ -341,6 +351,27 @@ ul {
   padding: 0.6rem 1.2rem;
 }
 
+.article-footnote {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  font-size: var(--font-size-small);
+}
+
+.article-footnote > .link:first-child {
+  display: none;
+}
+
+@media only screen and (min-width: 390px) {
+  .article-footnote {
+    justify-content: space-between;
+  }
+
+  .article-footnote > .link:first-child {
+    display: block;
+  }
+}
+
 /* Spacing */
 
 .wide-content {
@@ -349,14 +380,21 @@ ul {
 }
 
 .text-content {
-  max-width: 800px;
+  max-width: 750px;
   margin: auto 1rem;
 }
 
 .markdown-content img {
-  max-width: 95%;
+  max-width: 90%;
   display: block;
-  margin: 0.5rem auto;
+  margin: 1rem auto 0.5rem auto;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius);
+}
+
+.markdown-content figcaption {
+  font-size: var(--font-size-small);
+  text-align: center;
 }
 
 .markdown-content h1,
@@ -367,6 +405,12 @@ ul {
 
 .markdown-content p {
   margin: 1rem 0;
+}
+
+.markdown-content ul {
+  list-style-type: circle;
+  margin-left: 1.5rem;
+  margin-top: -1rem;
 }
 
 .markdown-content br {
@@ -388,13 +432,9 @@ ul {
   margin-top: 1rem;
 }
 
-@media only screen and (min-width: 840px) {
+@media only screen and (min-width: 790px) {
   .text-content {
     margin: auto;
-  }
-
-  .markdown-content img {
-    max-width: 700px;
   }
 
   .spacer-vertical-5 {
@@ -422,12 +462,36 @@ ul {
   text-transform: capitalize;
 }
 
-.link {
-  border-bottom: var(--underline-width) solid transparent;
-  transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
+.text-title {
+  font-size: var(--font-size-title);
 }
 
-.link:hover {
+.text-large {
+  font-size: var(--font-size-large);
+}
+
+.link,
+.toc a,
+.markdown-content a {
+  border-bottom: var(--underline-width) solid transparent;
+  transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
+  outline: none;
+}
+
+.toc li {
+  margin-top: 0.25rem;
+}
+
+.toc .direct-link {
+  display: none;
+}
+
+.link:hover,
+.toc a:hover,
+.markdown-content a:hover,
+.link:focus,
+.toc a:focus,
+.markdown-content a:focus {
   border-color: var(--accent-secondary);
 }
 
@@ -470,10 +534,16 @@ ul {
   align-items: center;
 }
 
-@media only screen and (min-width: 390px) {
-  .info {
-    padding: 1rem;
-  }
+.info span {
+  flex: 1;
+}
+
+.info:before {
+  content: ' ';
+  display: inline-block;
+  margin-right: 0.5rem;
+  width: 1rem;
+  height: 1rem;
 }
 
 .info.tip {
@@ -481,14 +551,7 @@ ul {
 }
 
 .info.tip:before {
-  content: ' ';
-  display: inline-block;
-  background: url('/img/icons/thumbtack-solid.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 24px;
-  height: 16px;
-  margin-right: 0.5rem;
+  background: url('/img/icons/thumbtack-solid.svg') center no-repeat;
 }
 
 .info.warning {
@@ -496,15 +559,20 @@ ul {
 }
 
 .info.warning:before {
-  content: ' ';
-  display: inline-block;
-  background: url('/img//icons/exclamation-triangle-solid.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 24px;
-  height: 16px;
-  margin-right: 0.5rem;
+  background: url('/img/icons/exclamation-triangle-solid.svg') center no-repeat;
 }
+
+@media only screen and (min-width: 390px) {
+  .info {
+    padding: 1rem;
+  }
+
+  .info:before {
+    margin-right: 1rem;
+  }
+}
+
+/* About page */
 
 .about-images {
   display: flex;

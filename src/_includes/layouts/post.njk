@@ -30,11 +30,25 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
+<div class="text-content">
+  <hr/>
+
+  <p class="article-footnote">
+    <a class="link" href="{{ '/' | url }}">← Home</a>
+    <span>
+      Share this story on
+      <a href="https://twitter.com/share?text={{ pageTitle | url }}&url=https://house-moldovan.com{{ page.url | url }}" target="_blank" class="link">Twitter</a>
+      or 
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https://house-moldovan.com{{ page.url | url }}" target="_blank" class="link" >Facebook</a>
+    </span>
+  </p>
+</div>
+
 <div class="spacer-vertical-5"></div>
 
 <div class="wide-content text-center">
   <h2>You might also enjoy</h2>
-  <div class="spacer-vertical-1"></div>
+  <div class="spacer-vertical-3"></div>
 
   {% set postslist = collections.spotlights | head(-3) %}
   {% include "components/postslist.njk" %}
