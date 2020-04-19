@@ -2,14 +2,14 @@
 layout: layouts/itinerary.njk
 pageTitle: South American Adventure
 subTitle: A three week tour of the southern cone 🇦🇷🇨🇱🇧🇷🇺🇾
+headline: How you can make the most out of a 3 week tour of Argentina, Chile and Uruguay
 coverThumb: /img/argentina/perito-moreno-balcony.jpg
-cover: /img/cover.jpg
-coverText: How you can make the most out of a 3 week tour of Argentina, Chile and Uruguay
+coverImage: /img/argentina/el-chalten-cover.jpg
 region: 🌎 Southern Cone
 mapsLink: https://www.google.com/maps/@-39.4462487,-69.3856776,4.62z
 tags:
   - south america
-  - trekking
+  - hiking
   - nature
 itinerary:
   highlights:
@@ -50,7 +50,7 @@ Highlights
 - "La Bombonera" Stadium, home of Boca Juniors
 - Admire street art around the area, with surprisingly quiet streets for a weekend day
 
-From Buenos Aires, we took a plane to El Calafate and then a transfer to El Chalten. There, we stayed for 3 days, hiking in the mountains around the "capital of trekking" of Argentina. In total, we spent 5 full days in Patagonia, including a day trip to the Chilean side, hiking and sightseeing around some of the most amazing landscapes we ever saw, at the southern end of the world!
+From Buenos Aires, we took a plane to El Calafate and then a transfer to El Chalten. There, we stayed for 3 days, hiking in the mountains around the "capital of hiking" of Argentina. In total, we spent 5 full days in Patagonia, including a day trip to the Chilean side, hiking and sightseeing around some of the most amazing landscapes we ever saw, at the southern end of the world!
 
 ## Laguna de los Tres
 

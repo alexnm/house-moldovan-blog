@@ -3,13 +3,20 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ pageTitle or metadata.title }}</title>
+    {% if pageTitle or renderData.pageTitle %}
+      {% set titleFromPage = (pageTitle or renderData.pageTitle) + " | " + metadata.title %}
+    {% endif %}
+    <title>{{ titleFromPage or metadata.title }}</title>
     <meta name="description" content="{{ subTitle or metadata.description }}">
+    {% if coverImage %}
+      {% set coverImageURL = "https://housemoldovan.com" + coverImage %}
+    {% endif %}
     
-    <meta property="og:title" content="{{ pageTitle or metadata.title }}">
+    <meta property="og:title" content="{{ pageTitle or renderData.pageTitle or metadata.title }}">
     <meta property="og:description" content="{{ subTitle or metadata.description }}">
     <meta property="og:image" content="{{ coverImageURL or metadata.image }}">
     <meta property="og:url" content="https://housemoldovan.com">
+    <meta name="twitter:card" content="summary_large_image">
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet">

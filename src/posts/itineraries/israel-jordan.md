@@ -2,9 +2,9 @@
 layout: layouts/itinerary.njk
 pageTitle: A Taste of the Middle East
 subTitle: Ten days in 🇮🇱Israel and 🇯🇴Jordan
+headline: Our first travel impressions after 10 days in Israel and Jordan in February-March 2020.
 coverThumb: /img/israel/jerusalem.jpg
-cover: /img/israel/jerusalem.jpg
-coverText: Our first travel impressions after 10 days in Israel and Jordan in February-March 2020.
+coverImage: /img/israel/jerusalem.jpg
 region: 🌍 Middle East
 mapsLink: https://www.google.com/maps/@31.497481,35.2795334,7.5z
 tags:
