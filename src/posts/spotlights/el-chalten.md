@@ -180,7 +180,7 @@ El Chalten is about 3 hours away from El Calafate by bus. You can also take a bu
 
 There are a couple of supermarkets in El Chalten, but they aren't always well supplied. There's also a very good [local shop](https://goo.gl/maps/kM7WRRJg9X4JzDRx5) with fresh dairy and meat (it seems to be closed now, though). Besides these, there are a bunch of sport equipments stores that sell very good snack bars, perfect for long hikes.
 
-We stayed at a very clean [hotel](https://goo.gl/maps/xSNpjAEW4f1WptUq8) with kind hosts. They helped us with planning our day trips and recommended places to eat. Speaking of, close to the hotel there are two very cosy restaurants owned by local people: one for [meat lovers](https://goo.gl/maps/JWS2bmFHhZ8mb9W38) with excellent parilla (steak) and one with more [generic food](https://goo.gl/maps/wSeQZURCZVd6xYrE9).
+We stayed at a clean [hotel](https://goo.gl/maps/xSNpjAEW4f1WptUq8) with very kind hosts. They helped us plan our day trips and recommended places to eat. Speaking of, close to the hotel there are two very cosy restaurants owned by local people: one for [meat lovers](https://goo.gl/maps/JWS2bmFHhZ8mb9W38) with excellent parilla (steak) and one with more [generic food](https://goo.gl/maps/wSeQZURCZVd6xYrE9).
 
 ### Packing checklist
 
