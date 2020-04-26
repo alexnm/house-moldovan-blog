@@ -1,7 +1,7 @@
 ---
 layout: layouts/itinerary.njk
 pageTitle: South American Adventure
-subTitle: A three week tour of the southern cone 🇦🇷🇨🇱🇧🇷🇺🇾
+subTitle: A three week tour of the southern cone
 headline: How you can make the most out of a 3 week tour of Argentina, Chile and Uruguay
 coverThumb: /img/argentina/perito-moreno-balcony.jpg
 coverImage: /img/argentina/el-chalten-cover.jpg

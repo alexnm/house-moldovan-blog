@@ -15,7 +15,7 @@ tags:
 
 ## Understand
 
-El Chalten is a small mountain village in the south part of the Argentinian Patagonia. The closeset airport is about 3 hour away in El Calafate, the major hub of the area. El Chalten is the starting point for a number of trails and circuits that can take from 2-3 hours to 5-6 days.
+El Chalten is a small mountain village in the south part of the Argentinian Patagonia. The closest airport is about 3 hours away in El Calafate, the major hub of the area. El Chalten is the starting point for a number of trails and circuits that can take from 2-3 hours to 5-6 days.
 
 <figure>
   <img src="/img/argentina/el-chalten-welcome.jpg" alt="Welcome sign in El Chalten">
@@ -24,13 +24,13 @@ El Chalten is a small mountain village in the south part of the Argentinian Pata
 
 The town is mostly active in the summer months (December - March) and it receives a lot of visitors during that time so make sure you book your accommodation in advance because most of the hotels will be fully booked when you arrive.
 
-This is a very remote location, so don't expect luxury hotels and restaurants. It is pretty much packed with mountain loving people so you'll find the atmosphere very relaxed and friendly. The hotel owners are super friendly and will give you all the advices you need for spending your time around: where to eat, where to shop, what hikes to do, etc.
+This is a very remote location, so don't expect luxury hotels and restaurants. It is pretty much packed with mountain loving people so you'll find the atmosphere very relaxed and friendly. The hotel owners are super friendly and will give you all the advice you need for spending your time around: where to eat, where to shop, what hikes to do, etc.
 
 ## Days trips/hikes
 
-While in Patagonia, you should keep an eye on the weather forecast. We heard of travellers that spend one week in El Chalten and only got 1-2 days of good weather for hiking. So be prepared for rain and snow, even in the middle of the summer.
+While in Patagonia, you should keep an eye on the weather forecast. We heard of travellers that spent one week in El Chalten and only got 1-2 days of good weather for hiking. So be prepared for rain and snow, even in the middle of the summer.
 
-We spent 3 days in El Chalten and we were fortunate enough to have 2 days of decent weather and only one day of heavy rain and fog. So here are 3 activites that you can do during your stay. Two of them involve full day hikes and one involves booking a day trip with a local company.
+We spent 3 days in El Chalten and we were fortunate enough to have 2 days of decent weather and only one day of heavy rain and fog. So here are 3 activites that you can do during your stay. Two of them are full day hikes and one is a day trip booked with a local company.
 
 ### Laguna de los Tres
 
@@ -45,7 +45,7 @@ The hike starts at the north end of the town and is called "Sendero al Fitz Roy"
 
 We had mixed weather in the morning as we started hiking. We had sun, fog, rain and snow in a two hour interval, so you can really say you are experiencing all seasons in one.
 
-After 4-5km of steady climbing you have small fork where you have two options: either walk by Laguna Capri or go the Mirador del Fitz Roy. The path merges again after a few hundred meters, so you don't worry about missing too much.
+After 4-5km of steady climbing you arrive at a small fork where you have two options: either walk by Laguna Capri or go to Mirador del Fitz Roy. The path merges again after a few hundred meters, so you don't worry about missing too much.
 
 If the weather is clear (not the case for our morning) the viewpoint towards Fitz Roy is amazing, both from the Mirador (mirador = viewpoint in spanish) and from the Laguna Capri. From the Mirador, you can also see the end point of the trail, the steep climb towards Laguna de los Tres.
 
@@ -55,6 +55,8 @@ If the weather is clear (not the case for our morning) the viewpoint towards Fit
 </figure>
 
 After this point, the trail continues pretty flat for 2-3km until you reach Camp Poincenot. From here, you have several other routes that you can take if you plan on spending multiple days hiking in the area.
+
+A side note here is that there are toilets (wooden, not that clean, but toilets nevertheless) in this camp, as well as in the other smaller camps along the way. You're welcome to use them, but bring some toilet paper / paper tissues with you.
 
 The last part of the hike is a steep climb towards Laguna de los Tres. You get some 400m of vertical climb in about 1km, so make sure you stay hydrated and take some breaks along the way.
 
@@ -67,17 +69,17 @@ However, at the end of the climb you get rewarded with the most spectacular sigh
 
 <figure>
   <img src="/img/argentina/laguna-de-los-tres.jpg" alt="Laguna de los tres and Mount Fitz Roy">
-  <figcaption>Laguna de los tres and Mount Fitz Roy.</figcaption>
+  <figcaption>Laguna de Los Tres and Mount Fitz Roy.</figcaption>
 </figure>
 
-There's a ridge on the left side of the lake that you can climb and you get an awesome view of both Laguna de los Tres and Laguna Sucia. The latter has an incredible milky blue color that looks unreal.
+There's a ridge on the left side of the lake that you can climb and you get an awesome view of both Laguna de Los Tres and Laguna Sucia. The latter has an incredible milky blue color that looks unreal.
 
 <figure>
   <img src="/img/argentina/laguna-sucia.jpg" alt="Laguna Sucia">
   <figcaption>Laguna Sucia from above.</figcaption>
 </figure>
 
-From the lake shore, the return hike to El Chalten is pretty much a leisure walk, mostly downhill. The only tricky part is the climb from the lake until the camp, the same 400 meters you ascended before. We were lucky to enjoy a sunny afternoon and got a very nice viewpoint towards the mountain on the way back.
+From the lake shore, the return hike to El Chalten is pretty much a leisure walk, mostly downhill. The only tricky part is the descent from the lake to the camp, the same 400 meters you ascended before. We were lucky to enjoy a sunny afternoon and got a very nice viewpoint towards the mountain on the way back.
 
 <figure>
   <img src="/img/argentina/laguna-de-los-tres-evening.jpg" alt="Mount Fitz Roy viewpoint">
@@ -155,13 +157,15 @@ Then the trip continued on the boat and back to the shore of the lake, where we 
   <figcaption>Huemul lake and glacier.</figcaption>
 </figure>
 
-After the trip to Huemul glacier, we returned to the bus for the trip back to El Chalten. We definitely recommend taking this trip from El Chalten, especially if you don't have favorable weather for a full day of hiking. The landscape is a bit different than what you have around El Chalten with denser and wild forests.
+After the trip to Huemul glacier, we returned to the bus for the trip back to El Chalten. 
+
+We definitely recommend taking this trip from El Chalten, especially if you don't have favorable weather for a full day of hiking. The landscape is a bit different than what you have around El Chalten with denser and wild forests.
 
 ## Travel Tips
 
 El Chalten is an amazing destination, not to be missed when you are touring Argentina. It is truly the capital of hiking and trekking.
 
-Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to have wear multiple layers so you can adapt to the weather.
+Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to wear multiple layers so you can adapt to the weather. Also, the weather changes really fast, so don't stop to add or remove layers every time you are a bit cold or hot, or else you'll end up doing that every 5 minutes.
 
 <div class="info warning">
   <span>Always carry a light rain coat/poncho, you never know what the day holds.</span>
@@ -174,10 +178,14 @@ El Chalten is about 3 hours away from El Calafate by bus. You can also take a bu
   <figcaption>This is how the bus to El Calafate looks like.</figcaption>
 </figure>
 
+There are a couple of supermarkets in El Chalten, but they aren't always well supplied. There's also a very good [local shop](https://goo.gl/maps/kM7WRRJg9X4JzDRx5) with fresh dairy and meat (it seems to be closed now, though). Besides these, there are a bunch of sport equipments stores that sell very good snack bars, perfect for long hikes.
+
+We stayed at a clean [hotel](https://goo.gl/maps/xSNpjAEW4f1WptUq8) with very kind hosts. They helped us plan our day trips and recommended places to eat. Speaking of, close to the hotel there are two very cosy restaurants owned by local people: one for [meat lovers](https://goo.gl/maps/JWS2bmFHhZ8mb9W38) with excellent parilla (steak) and one with more [generic food](https://goo.gl/maps/wSeQZURCZVd6xYrE9).
+
 ### Packing checklist
 
-- Sunglasses and sun protective hat
-- Raincoat
-- At least 3 layers, including a windstopper
+- Sunglasses, sunscreen and sun protecting hat
+- At least 3 layers of clothing, including a fleece jacket and a windstopper
+- A raincoat
 - Hiking shoes
-- A light backpack for carrying some snacks and water
+- A light backpack for carrying food and water for the day

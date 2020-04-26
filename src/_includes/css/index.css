@@ -183,6 +183,13 @@ figure {
   }
 }
 
+/* Main */
+
+.main {
+  min-height: calc(100vh - 3rem - 52px);
+  overflow: auto;
+}
+
 /* Footer */
 .footer {
   display: flex;
@@ -190,7 +197,7 @@ figure {
 
   box-shadow: var(--box-shadow-top);
   font-size: var(--font-size-small);
-  padding: 0.5rem 1.5rem;
+  padding: 0.5rem 1rem;
   margin-top: 0.5rem;
 }
 
@@ -199,6 +206,10 @@ figure {
 }
 
 @media only screen and (min-width: 790px) {
+  .footer {
+    padding: 0.5rem 1.5rem;
+  }
+
   .footer .about-us {
     display: inline;
   }
@@ -321,6 +332,7 @@ figure {
   grid-template-columns: 1fr;
   grid-column-gap: 2%;
   grid-row-gap: 2rem;
+  margin-bottom: 2rem;
 }
 
 @media only screen and (min-width: 630px) {
@@ -516,6 +528,10 @@ figure {
   .spacer-vertical-3 {
     margin-top: 3rem;
   }
+
+  .wide-content {
+    margin: auto 1.5rem;
+  }
 }
 
 @media only screen and (min-width: 1280px) {
@@ -632,12 +648,24 @@ figure {
   background: url('/img/icons/pin.svg') center no-repeat;
 }
 
+@media (prefers-color-scheme: dark) {
+  .info.tip:before {
+    background: url('/img/icons/pin-dark.svg') center no-repeat;
+  }
+}
+
 .info.warning {
   background-color: var(--background-accent-secondary);
 }
 
 .info.warning:before {
   background: url('/img/icons/warning.svg') center no-repeat;
+}
+
+@media (prefers-color-scheme: dark) {
+  .info.warning:before {
+    background: url('/img/icons/warning-dark.svg') center no-repeat;
+  }
 }
 
 @media only screen and (min-width: 390px) {
