@@ -165,7 +165,7 @@ We definitely recommend taking this trip from El Chalten, especially if you don'
 
 El Chalten is an amazing destination, not to be missed when you are touring Argentina. It is truly the capital of hiking and trekking.
 
-Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to wear multiple layers so you can adapt to the weather. Also, the weather changes really fast, so don't stop and add / remove layers every time you are a bit cold / hot, or else you'll end up doing that every 5 minutes.
+Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to wear multiple layers so you can adapt to the weather. Also, the weather changes really fast, so don't stop and add or remove layers every time you are a bit cold or hot, or else you'll end up doing that every 5 minutes.
 
 <div class="info warning">
   <span>Always carry a light rain coat/poncho, you never know what the day holds.</span>
@@ -178,10 +178,14 @@ El Chalten is about 3 hours away from El Calafate by bus. You can also take a bu
   <figcaption>This is how the bus to El Calafate looks like.</figcaption>
 </figure>
 
+There are a couple of supermarkets in El Chalten, but they aren't always well supplied. There's also a very good [local shop](https://goo.gl/maps/kM7WRRJg9X4JzDRx5) with fresh dairy and meat (it seems to be closed now, though). Besides these, there are a bunch of sport equipments stores that sell very good snack bars, perfect for long hikes.
+
+We stayed at a very clean [hotel](https://goo.gl/maps/xSNpjAEW4f1WptUq8) with kind hosts. They helped us with planning our day trips and recommended places to eat. Speaking of, close to the hotel there are two very cosy restaurants owned by local people: one for [meat lovers](https://goo.gl/maps/JWS2bmFHhZ8mb9W38) with excellent parilla (steak) and one with more [generic food](https://goo.gl/maps/wSeQZURCZVd6xYrE9).
+
 ### Packing checklist
 
-- Sunglasses and sun protective hat
-- Sunscreen cream
-- At least 3 layers of clothing, including a raincoat and windstopper
+- Sunglasses, sunscreen and sun protecting hat
+- At least 3 layers of clothing, including a fleece jacket and a windstopper
+- A raincoat
 - Hiking shoes
-- A light backpack for carrying some snacks and water
+- A light backpack for carrying food and water for the day
