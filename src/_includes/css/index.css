@@ -1,12 +1,13 @@
 :root {
   --accent: #ffcf56;
   --accent-secondary: #f49f8d;
-  --text-color: #333;
-  --text-color-light: #a0a0a0;
-  --background-grey: #f3f3fe;
+  --background: #fff;
   --background-accent: #ffefc6;
   --background-accent-secondary: #fee3e3;
-  --white: #fff;
+  --background-accent-tertiary: #f3f3fe;
+  --text-color: #333;
+  --text-color-on-accent: #333;
+  --text-color-cover: #fff;
 
   --font-family: 'Nunito', sans-serif;
   --font-size-regular: 16px;
@@ -35,6 +36,18 @@
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent: #ffcf56;
+    --accent-secondary: #f49f8d;
+    --background: #333;
+    --background-accent: #625a37;
+    --background-accent-secondary: #633f3f;
+    --background-accent-tertiary: #53535a;
+    --text-color: #eee;
+  }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -44,7 +57,7 @@ body {
   margin: 0;
   font-family: var(--font-family);
   color: var(--text-color);
-  background-color: var(--white);
+  background-color: var(--background);
   font-size: var(--font-size-regular);
   font-weight: var(--font-weight-regular);
 }
@@ -83,7 +96,7 @@ ul {
 hr {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  border-top: 1px solid var(--text-color-light);
+  border-top: 1px solid var(--background-accent-tertiary);
 }
 
 figure {
@@ -180,7 +193,7 @@ figure {
   padding: 1rem;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.4);
-  color: var(--white);
+  color: var(--text-color-cover);
   text-align: center;
   display: flex;
   align-items: center;
@@ -197,7 +210,7 @@ figure {
 .cover-band {
   height: 3rem;
   width: 100%;
-  background-color: var(--background-grey);
+  background-color: var(--background-accent-tertiary);
   display: flex;
   flex-direction: column;
   box-shadow: var(--box-shadow);
@@ -255,7 +268,7 @@ figure {
   padding: 1rem 1.25rem;
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
-  background: var(--background-grey);
+  background: var(--background-accent-tertiary);
 }
 
 @media only screen and (min-width: 630px) {
@@ -301,6 +314,12 @@ figure {
   box-shadow: var(--box-shadow);
   border-radius: var(--border-radius);
   overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+  .postcard {
+    border: 1px solid #666;
+  }
 }
 
 .postcard .post-image-link {
@@ -385,7 +404,7 @@ figure {
 }
 
 .markdown-content img {
-  max-width: 90%;
+  max-width: 100%;
   display: block;
   margin: 1rem auto 0.5rem auto;
   box-shadow: var(--box-shadow);
@@ -417,6 +436,17 @@ figure {
   display: none;
 }
 
+.markdown-content a {
+  transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
+  outline: none;
+  border-bottom: var(--underline-width) solid var(--accent);
+}
+
+.markdown-content a:hover,
+.markdown-content a:focus {
+  border-bottom-color: var(--accent-secondary);
+}
+
 .spacer-vertical-5 {
   width: 100%;
   margin-top: 3.5rem;
@@ -432,7 +462,21 @@ figure {
   margin-top: 1rem;
 }
 
+@media only screen and (min-width: 480px) {
+  .text-content {
+    margin: auto 2rem;
+  }
+
+  .markdown-content img {
+    max-width: 95%;
+  }
+}
+
 @media only screen and (min-width: 790px) {
+  .markdown-content img {
+    max-width: 90%;
+  }
+
   .text-content {
     margin: auto;
   }
@@ -471,11 +515,14 @@ figure {
 }
 
 .link,
-.toc a,
-.markdown-content a {
+.toc a {
   border-bottom: var(--underline-width) solid transparent;
   transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
   outline: none;
+}
+
+.link.accent {
+  border-bottom-color: var(--accent);
 }
 
 .toc li {
@@ -488,15 +535,13 @@ figure {
 
 .link:hover,
 .toc a:hover,
-.markdown-content a:hover,
 .link:focus,
-.toc a:focus,
-.markdown-content a:focus {
+.toc a:focus {
   border-color: var(--accent-secondary);
 }
 
 .link-button {
-  color: var(--text-color);
+  color: var(--text-color-on-accent);
   padding: 0.25rem 0.5rem;
   background-color: var(--accent);
   border-radius: var(--border-radius);
@@ -526,6 +571,7 @@ figure {
 }
 
 .info {
+  font-size: var(--font-size-small);
   margin: 1rem 0;
   border-radius: var(--border-radius);
   padding: 0.5rem;
@@ -547,11 +593,11 @@ figure {
 }
 
 .info.tip {
-  background-color: var(--background-grey);
+  background-color: var(--background-accent-tertiary);
 }
 
 .info.tip:before {
-  background: url('/img/icons/thumbtack-solid.svg') center no-repeat;
+  background: url('/img/icons/pin.svg') center no-repeat;
 }
 
 .info.warning {
@@ -559,7 +605,7 @@ figure {
 }
 
 .info.warning:before {
-  background: url('/img/icons/exclamation-triangle-solid.svg') center no-repeat;
+  background: url('/img/icons/warning.svg') center no-repeat;
 }
 
 @media only screen and (min-width: 390px) {

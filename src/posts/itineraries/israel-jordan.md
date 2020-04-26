@@ -49,7 +49,7 @@ Going north from Tel Aviv, along the Mediterranean coast, you have a lot of impr
 Whether you are a believer or not, Jerusalem is one of the destinations you have to reach at least once in your lifetime. The legends, the history, the birth of Abrahamic religions, it's all centered around this city, that in turn is considered holy by jews, muslims and christians alike. Get ready for some serious walking and make sure your knees are in good shape for some ups and downs.
 
 <div class="info tip">
-  <span>For some amazing veggie wraps, check out <a target="_blank" class="link" href="https://g.page/jahnoonbarj?share">Jachnun Bar</a>, we ate there 3 days in a row!</span>
+  <span>For some amazing veggie wraps, check out <a target="_blank" class="link accent" href="https://g.page/jahnoonbarj?share">Jachnun Bar</a>, we ate there 3 days in a row!</span>
 </div>
 
 ## Temple Mount

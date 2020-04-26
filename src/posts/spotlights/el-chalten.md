@@ -161,7 +161,7 @@ After the trip to Huemul glacier, we returned to the bus for the trip back to El
 
 El Chalten is an amazing destination, not to be missed when you are touring Argentina. It is truly the capital of hiking and trekking.
 
-Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to have wear multiple layers so you can adapt to the weather. And
+Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to have wear multiple layers so you can adapt to the weather.
 
 <div class="info warning">
   <span>Always carry a light rain coat/poncho, you never know what the day holds.</span>
