@@ -20,6 +20,7 @@
   --underline-width: 2px;
   --border-radius: 8px;
   --box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.3);
+  --box-shadow-top: 0px -1px 3px 0px rgba(0, 0, 0, 0.3);
 
   --motion-movement-speed: 0.25s;
   --motion-movement-function: ease-in-out;
@@ -178,6 +179,27 @@ figure {
   }
 
   .house {
+    display: inline;
+  }
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  justify-content: space-between;
+
+  box-shadow: var(--box-shadow-top);
+  font-size: var(--font-size-small);
+  padding: 0.5rem 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.footer .about-us {
+  display: none;
+}
+
+@media only screen and (min-width: 790px) {
+  .footer .about-us {
     display: inline;
   }
 }
