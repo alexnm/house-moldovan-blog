@@ -1,8 +1,8 @@
 <ul class="postlist">
   {% for post in postslist | reverse %}
     <li class="postlist-item">
-      <article class="postcard" href="{{ post.url | url }}">
-        <a class="post-image-link" href="{{post.url | url}}" title="{{post.data.pageTitle}}">
+      <article class="postcard">
+        <a class="post-image-link" href="{{post.url | url}}" title="{{post.data.pageTitle}}" tabindex="-1" aria-hidden="true">
           <div class="post-image" style="background-image: url('{{ post.data.coverThumb }}')"></div>
         </a>
         <div class="post-content">
@@ -10,7 +10,7 @@
             <h2>{{ post.data.pageTitle }}</h2>
           </div>
           <p class="post-text">{{ post.data.headline }}</p>
-          <a class="post-cta link-button" href="{{post.url | url}}">Explore</a>
+          <a class="post-cta link-button" href="{{post.url | url}}" title="{{post.data.pageTitle}}">Explore</a>
         </div>
       </article>
     </li>

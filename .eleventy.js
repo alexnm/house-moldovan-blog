@@ -1,14 +1,17 @@
 const { DateTime } = require('luxon')
+const path = require('path')
 const fs = require('fs')
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const pluginNavigation = require('@11ty/eleventy-navigation')
 const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
-const CleanCSS = require('clean-css')
 const pluginReadingTime = require('eleventy-plugin-reading-time')
 const pluginTOC = require('eleventy-plugin-toc')
 const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language')
+const postcss = require('postcss')
+const autoprefixer = require('autoprefixer')
+const cssnano = require('cssnano')
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss)
@@ -17,10 +20,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginReadingTime)
   eleventyConfig.addPlugin(pluginTOC)
   eleventyConfig.addPlugin(inclusiveLangPlugin)
-
-  eleventyConfig.setDataDeepMerge(true)
-
-  eleventyConfig.addLayoutAlias('post', 'layouts/post.njk')
 
   eleventyConfig.addFilter('readableDate', dateObj => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('dd LLL yyyy')
@@ -40,8 +39,11 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n)
   })
 
-  eleventyConfig.addFilter('cssmin', function(code) {
-    return new CleanCSS({}).minify(code).styles
+  eleventyConfig.addPairedAsyncShortcode('postcss', async code => {
+    const filepath = path.join(__dirname, 'src/_includes/css/index.css')
+    return await postcss([autoprefixer, cssnano])
+      .process(code, { from: filepath })
+      .then(result => result.css)
   })
 
   eleventyConfig.addCollection('tagList', require('./src/_11ty/getTagList'))
@@ -62,6 +64,7 @@ module.exports = function(eleventyConfig) {
     permalinkSymbol: '🔗'
   })
   eleventyConfig.setLibrary('md', markdownLibrary)
+  eleventyConfig.setDataDeepMerge(true)
 
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({

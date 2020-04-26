@@ -8,21 +8,14 @@ layout: layouts/base.njk
       <div class="spacer-vertical-1"></div>
       <p>{{subTitle}}</p>
       <div class="spacer-vertical-3"></div>
-      <span class="tag-list mobile-only">
-        {% for tag in tags %}
-          {%- if tag != 'itineraries' and tag != 'spotlights' -%}
-          {% set tagUrl %}/explore/{{ tag | slug }}/{% endset %}
-          <a class="link-button" href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
-          {%- endif -%}
-        {% endfor %}
-      </span>
+      {% include "components/tagcloud.njk" %}
     </div>
   </div>
 </div>
 <div class="cover-band">
   <div class="text-content">
     <div class="cover-band-content">
-      <a class="link" target="_blank" href="{{mapsLink}}">{{region}}</a>
+      <a class="link" target="_blank" title="location: {{region}}" href="{{mapsLink}}">{{region}}</a>
       <span>{{ content | readingTime }} read</span>
     </div>
   </div>

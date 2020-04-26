@@ -1,6 +1,6 @@
-<div class="tag-cloud">
+<ul class="tag-cloud">
   {% for tag in tags %}
     {% set tagUrl %}/explore/{{ tag | slug }}/{% endset %}
-    <a class="link-button" href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+    <li><a class="link-button" href="{{ tagUrl | url }}" class="tag">{{ tag }}</a></li>
   {% endfor %}
-</div>
+</ul>

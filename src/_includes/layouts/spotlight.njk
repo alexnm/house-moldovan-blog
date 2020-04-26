@@ -7,10 +7,8 @@ permalink: /travel/{{pageTitle | slug}}/
   <p>{{headline}}</p>
 
   <p>This article covers:</p>
-  <nav>
-    {{ content | toc | safe }}
-  </nav>
-
+  {{ content | toc | safe }}
+  
   <article>
     {{ content | safe }}
   </article>

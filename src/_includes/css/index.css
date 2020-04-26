@@ -112,6 +112,10 @@ figure {
   height: 3rem;
   align-items: center;
   box-shadow: var(--box-shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--background);
 }
 
 .left-side {
@@ -142,17 +146,19 @@ figure {
   display: none;
 }
 
-.nav-item {
+.nav-item a {
   transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
   border-top: var(--underline-width) solid transparent;
   border-bottom: var(--underline-width) solid transparent;
+  outline: none;
 }
 
-.nav-item:hover {
+.nav-item a:hover,
+.nav-item a:focus {
   border-bottom-color: var(--accent-secondary);
 }
 
-.nav-item-active {
+.nav-item-active a {
   border-bottom-color: var(--accent);
 }
 
@@ -546,9 +552,11 @@ figure {
   background-color: var(--accent);
   border-radius: var(--border-radius);
   transition: all var(--motion-fade-speed) var(--motion-fade-function);
+  outline: none;
 }
 
-.link-button:hover {
+.link-button:hover,
+.link-button:focus {
   background-color: var(--accent-secondary);
   border-radius: 0;
 }
@@ -560,10 +568,12 @@ figure {
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
+  font-size: var(--font-size-small);
 }
 
-.tag-cloud .link-button {
+.tag-cloud li {
   margin: 0.1rem;
+  display: inline-flex;
 }
 
 .tag-list {
@@ -625,7 +635,7 @@ figure {
 }
 
 .about-images img {
-  width: 50%;
+  width: 47.5%;
   display: block;
 }
 
