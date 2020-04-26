@@ -2,7 +2,7 @@
 layout: layouts/spotlight.njk
 pageTitle: Exploring the Temples of Angkor Wat
 subTitle: Make the most out of your trip to 🇰🇭Cambodia's crown jewel
-headline: So you have a single day to visit this magnificent site? There's a lot of ground to cover, way too many spots you don't want to miss, so here are a few tips about how to organize your trip.
+headline: So you have a single day to visit this magnificent site? There's a lot of ground to cover and way too many spots you don't want to miss, so here are a few tips about how to organize your trip.
 coverThumb: /img/cambodia/angkor-wat.jpg
 coverImage: /img/cambodia/angkor-wat.jpg
 region: 🌏 Siem Reap, Cambodia
@@ -202,19 +202,19 @@ Water is your best friend, but might come at a high price in some areas, make su
   <span>Remember that this is a tropical destination, so consult your doctor about vaccines and other precautions you need to take before your trip.</span>
 </div>
 
-### Our Experience
+### Our Itinerary
 
-We spent 1 and a half days in total and it was really nice as we got to see most of the main sites. For quite some time, we went outside of the most crowded areas, so we could enjoy the sites alone.
+We spent 1 and a half days in total and it was really nice as we got to see most of the main sites. We had enough time to go outside of the most crowded areas, so we could enjoy the sites alone.
 
 In the first day, we started with Ta-Prohm, to get ahead of the crowds. Then we followed the grand circuit counter-clockwise, and stopped along the way to see Pre Rup, Easter Mebon, and then the quiet premises of Jayatataka. Our next visit was Preah Khan, followed by a quick stop to eat at a [local restaurant](https://goo.gl/maps/m8TUitL7n5CQQPkJ6). 
 
-We finished the day with two impressive sites: Ankgor Thom and Angkor Wat. We've seen the sunset from the top of Angkow Wat, and then quickly left for the city. Biking back took us around 30 minutes, and the trip itself was quite safe (altough for Mela it was a bit scary to bike in the roundabouts).
-
-The second day started early in the morning. We left with our rented tuk-tuk to see the sunrise at Angkor Wat. Afterwards, we've seen some more temples that we missed in the first day, like Ta Som and Ta Nei.
+We finished the day with two impressive sites: Ankgor Thom and Angkor Wat. We saw the sunset from there, and then quickly left for the city. Cycling back took us around 30 minutes, and the trip itself was quite safe (altough for Mela it was a bit scary in the roundabouts).
 
 <div class="info warning">
   <span>If you decide to rent a bike, make sure to plan some time to get back to the city before dark.</span>
 </div>
+
+The second day started early in the morning. We left with our rented tuk-tuk to see the sunrise at Angkor Wat. Afterwards, taking advantage of the fact that the tuk-tuk could cover more ground, we picked some temples that we missed in the first day, like Ta Som and Ta Nei. Around lunch time, we headed back to the city to catch our flight.
 
 ### Packing checklist
 
