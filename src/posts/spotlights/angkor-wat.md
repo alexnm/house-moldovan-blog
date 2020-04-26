@@ -1,7 +1,7 @@
 ---
 layout: layouts/spotlight.njk
 pageTitle: Exploring the Temples of Angkor Wat
-subTitle: Make the most out of your trip to 🇰🇭Cambodia's crown jewel
+subTitle: Make the most out of your trip to Cambodia's crown jewel
 headline: So you have a single day to visit this magnificent site? Here are a few tips about how to organize your visit
 coverThumb: /img/cambodia/angkor-wat.jpg
 coverImage: /img/cambodia/angkor-wat.jpg

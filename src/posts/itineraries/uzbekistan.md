@@ -1,7 +1,7 @@
 ---
 layout: layouts/itinerary.njk
 pageTitle: On the Silk Road
-subTitle: A cultural trip in beautiful 🇺🇿Uzbekistan
+subTitle: A cultural trip in beautiful Uzbekistan
 headline: Khiva, Bukhara, Samarkand and much more. Uzbekistan is one of the hidden cultural gems of central Asia and definitely a must visit
 coverThumb: /img/uzbekistan/registan.jpg
 coverImage: /img/uzbekistan/registan.jpg
