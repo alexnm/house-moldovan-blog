@@ -2,7 +2,7 @@
 layout: layouts/spotlight.njk
 pageTitle: Exploring the Temples of Angkor Wat
 subTitle: Make the most out of your trip to Cambodia's crown jewel
-headline: So you have a single day to visit this magnificent site? Here are a few tips about how to organize your visit
+headline: So you have a single day to visit this magnificent site? There's a lot of ground to cover and way too many spots you don't want to miss, so here are a few tips about how to organize your trip.
 coverThumb: /img/cambodia/angkor-wat.jpg
 coverImage: /img/cambodia/angkor-wat.jpg
 region: 🌏 Siem Reap, Cambodia
@@ -32,9 +32,7 @@ Ok, here's the thing. Angkor Wat is one of those sites where you can spend many 
 <figure>
   <img src="/img/cambodia/intro.jpg" alt="Detailed sculptures in Angkor Wat">
   <figcaption>Detailed sculptures in Angkor Wat.</figcaption>
-</figure>
-
-We spent 1 and a half days in total and it was really nice as we got to see most of the main sites and we spent quite some time outside of the most crowded areas, so we could enjoy the sites alone.
+</figure> 
 
 Tickets are sold for 1 day ($37) or for 3 days ($62). Our recommendation, if you don't have a lot of time, is to go for the day ticket and make the most out of your day there.
 
@@ -59,9 +57,7 @@ Renting a bike is fun, but can be quite challenging under intense heat and long 
 
 ## Stops
 
-Angkor Wat is the name of the entire area, but it's also the name of the main temple, the one most people can recognize before they even set foot in Cambodia. It is so important for the country, that they put it on the flag: 🇰🇭.
-
-But there are a lot of other temples really worth visiting during your stay. Here's a quick guide on things you should not miss in Angkor Wat.
+Angkor Wat is the name of the entire area, but it's also the name of the main temple, the one most people can recognize before they even set foot in Cambodia. It is so important for the country, that they put it on their <a target="_blank" href="https://en.wikipedia.org/wiki/Flag_of_Cambodia#/media/File:Flag_of_Cambodia.svg" title="Cambodian flag">flag</a>.
 
 There are two classic circuits recommended for Angkor Wat: the small circuit and the grand circuit. But really, you don't have to stick with the recommendation since there are multiple routes to get from A to B at the site.
 
@@ -89,7 +85,7 @@ Ta Prohm is located almost in the center of the entire Angkor Wat area and this 
 
 ### Angkor Thom
 
-Angkor Thom is the biggest site in Ankgor Wat and is fact a city with multiple temples and buildings, not just a single temple. At the exact center of the square city (really, [check it out on the map](https://goo.gl/maps/bFz2VxDkDFeAC8pg8)) lies Bayon, another amazing temple which is a must stop during your visit.
+Angkor Thom is the biggest site in Ankgor Wat and is in fact a city with multiple temples and buildings, not just a single temple. At the exact center of the square city (really, [check it out on the map](https://goo.gl/maps/bFz2VxDkDFeAC8pg8)) lies Bayon, another amazing temple which is a must stop during your visit.
 
 <figure>
   <img src="/img/cambodia/bayon.jpg" alt="Bayon temple is at the center of Angkor Thom">
@@ -131,7 +127,7 @@ Inside, the temple has 3 levels that you can access, the 3rd one being the one w
   <span>There's a queue for accessing the 3rd level of the temple, keep that in mind if you are on a tight schedule</span>
 </div>
 
-The 3rd level is an active temple, so you are required to have your shoulders and knees covered. This is the only place with a strict dress code in the entire site and keep in mind that a t-shirt or blouse is required they don't allow scarfs that cover your upper body. Also, long sleeve pants are required, or at least shorts that are long enough to cover your knees.
+The 3rd level is an active temple, so you are required to have your shoulders and knees covered. This is the only place with a strict dress code in the entire site and keep in mind that a t-shirt or blouse is required, as they don't allow scarfs that cover your upper body. Also, long sleeve pants are required, or at least shorts that are long enough to cover your knees.
 
 <figure>
   <img src="/img/cambodia/angkor-wat-inside.jpg" alt="Inside the main courtyard of the temple.">
@@ -205,6 +201,20 @@ Water is your best friend, but might come at a high price in some areas, make su
 <div class="info warning">
   <span>Remember that this is a tropical destination, so consult your doctor about vaccines and other precautions you need to take before your trip.</span>
 </div>
+
+### Our Itinerary
+
+We spent 1 and a half days in total and it was really nice as we got to see most of the main sites. We had enough time to go outside of the most crowded areas, so we could enjoy the sites alone.
+
+In the first day, we started with Ta-Prohm, to get ahead of the crowds. Then we followed the grand circuit counter-clockwise, and stopped along the way to see Pre Rup, Easter Mebon, and then the quiet premises of Jayatataka. Our next visit was Preah Khan, followed by a quick stop to eat at a [local restaurant](https://goo.gl/maps/m8TUitL7n5CQQPkJ6). 
+
+We finished the day with two impressive sites: Ankgor Thom and Angkor Wat. We saw the sunset from there, and then quickly left for the city. Cycling back took us around 30 minutes, and the trip itself was quite safe (altough for Mela it was a bit scary in the roundabouts).
+
+<div class="info warning">
+  <span>If you decide to rent a bike, make sure to plan some time to get back to the city before dark.</span>
+</div>
+
+The second day started early in the morning. We left with our rented tuk-tuk to see the sunrise at Angkor Wat. Afterwards, taking advantage of the fact that the tuk-tuk could cover more ground, we picked some temples that we missed in the first day, like Ta Som and Ta Nei. Around lunch time, we headed back to the city to catch our flight.
 
 ### Packing checklist
 
