@@ -45,16 +45,14 @@
       </nav>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main class="main">
       {{ content | safe }}
     </main>
 
     <footer class="footer">
       <span>© 2020 House Moldovan</span>
       <a href="/about" class="link accent about-us">About us</a>
-      <ul class="social-media">
-        <a target="_blank" href="https://www.instagram.com/housemoldovan/" class="link accent">Follow us on Instagram</a>
-      </ul> 
+      <a target="_blank" href="https://www.instagram.com/housemoldovan/" class="link accent">Follow us on Instagram</a>
     </footer>
   </body>
 </html>
