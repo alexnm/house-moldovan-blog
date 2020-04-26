@@ -165,7 +165,7 @@ We definitely recommend taking this trip from El Chalten, especially if you don'
 
 El Chalten is an amazing destination, not to be missed when you are touring Argentina. It is truly the capital of hiking and trekking.
 
-Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to wear multiple layers so you can adapt to the weather. Also, the weather changes really fast, so don't stop and add or remove layers every time you are a bit cold or hot, or else you'll end up doing that every 5 minutes.
+Keep in mind that the weather in Patagonia is unpredictable, so you might end up with four seasons in a single day. Our recommendation is to wear multiple layers so you can adapt to the weather. Also, the weather changes really fast, so don't stop to add or remove layers every time you are a bit cold or hot, or else you'll end up doing that every 5 minutes.
 
 <div class="info warning">
   <span>Always carry a light rain coat/poncho, you never know what the day holds.</span>
