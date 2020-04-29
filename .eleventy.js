@@ -5,6 +5,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss')
 const pluginNavigation = require('@11ty/eleventy-navigation')
 const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
+const markdownItLinkAttributes = require('markdown-it-link-attributes')
 const pluginReadingTime = require('eleventy-plugin-reading-time')
 const pluginTOC = require('eleventy-plugin-toc')
 const postcss = require('postcss')
@@ -53,12 +54,19 @@ module.exports = function(eleventyConfig) {
     html: true,
     breaks: true,
     linkify: true
-  }).use(markdownItAnchor, {
-    // permalink: true,
-    permalinkClass: 'direct-link',
-    permalinkBefore: true,
-    permalinkSymbol: '🔗'
   })
+    .use(markdownItAnchor, {
+      // permalink: true,
+      permalinkClass: 'direct-link',
+      permalinkBefore: true,
+      permalinkSymbol: '🔗'
+    })
+    .use(markdownItLinkAttributes, {
+      attrs: {
+        target: '_blank',
+        rel: 'noopener noreferrer'
+      }
+    })
   eleventyConfig.setLibrary('md', markdownLibrary)
   eleventyConfig.setDataDeepMerge(true)
 
