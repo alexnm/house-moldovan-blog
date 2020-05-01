@@ -14,4 +14,15 @@ permalink: /travel/{{pageTitle | slug}}/
   </article>
 </div>
 
+<div class="text-content">
+  <div class="card checklist">
+    <h2>Packing checklist</h2>
+    <ul>
+      {% for listItem in packing %}
+        <li>{{listItem}}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
 

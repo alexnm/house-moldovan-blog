@@ -12,7 +12,7 @@ permalink: /travel/{{pageTitle | slug}}/
   <div class="spacer-vertical-3"></div>
 
   <div class="itinerary-summary">
-    <div class="highlights-card">
+    <div class="highlights card">
       <h2>Highlights</h2>
       <ul>
         {% for highlight in itinerary.highlights %}
@@ -21,7 +21,7 @@ permalink: /travel/{{pageTitle | slug}}/
       </ul>
     </div>
 
-    <div class="summary-card">
+    <div class="summary card">
       <h2>Itinerary</h2>
       <span>Number of Days: <strong>{{itinerary.summary.days}}</strong></span>
       <span>Best period: <strong>{{itinerary.summary.period}}</strong></span>

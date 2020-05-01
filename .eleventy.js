@@ -7,6 +7,7 @@ const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
 const markdownItLinkAttributes = require('markdown-it-link-attributes')
 const pluginReadingTime = require('eleventy-plugin-reading-time')
+const pluginSVG = require('eleventy-plugin-svg-contents')
 const pluginTOC = require('eleventy-plugin-toc')
 const postcss = require('postcss')
 const autoprefixer = require('autoprefixer')
@@ -16,6 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss)
   eleventyConfig.addPlugin(pluginNavigation)
   eleventyConfig.addPlugin(pluginReadingTime)
+  eleventyConfig.addPlugin(pluginSVG)
   eleventyConfig.addPlugin(pluginTOC)
 
   eleventyConfig.addFilter('readableDate', dateObj => {
