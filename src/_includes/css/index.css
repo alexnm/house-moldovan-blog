@@ -487,6 +487,36 @@ figure {
   border-bottom-color: var(--accent-secondary);
 }
 
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid var(--background-accent);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  font-size: var(--font-size-small);
+}
+
+.markdown-content thead {
+  border-bottom: var(--underline-width) solid var(--background-accent);
+  text-align: left;
+}
+
+.markdown-content th {
+  padding: 0.5rem 1rem;
+}
+
+.markdown-content td {
+  padding: 0.2rem 1rem;
+}
+
+.markdown-content tr:first-child td {
+  padding-top: 0.5rem;
+}
+
+.markdown-content tr:last-child td {
+  padding-bottom: 0.5rem;
+}
+
 .spacer-vertical-5 {
   width: 100%;
   margin-top: 3.5rem;

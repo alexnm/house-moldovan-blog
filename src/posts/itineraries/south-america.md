@@ -24,7 +24,7 @@ itinerary:
     budget: 3500$ pp
 ---
 
-| Day     | Highlights                       | Overnight Stay  |
+|         | Highlights                       | Overnight Stay  |
 | ------  | -------------------------------- | --------------- |
 | Day 0   | Flight to Buenos Aires           | Plane :)        |
 | Day 1   | Buenos Aires Free Walking Tour   | Buenos Aires    |
