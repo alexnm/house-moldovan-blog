@@ -62,8 +62,8 @@ The fun part began as soon as we entered the Wadi Rum National Park and exchange
 Touring the Wadi Rum desert is an surreal experience. You feel small as you climb on top of a sand dune to get a 360 degree view of the surrounding area. There's something about the emptiness of the desert that cannot be described, it has to be felt in person.
 
 <figure>
-  <img src="/img/jordan/wadi-rum.jpg" alt="">
-  <figcaption>One of the many viewpoints in Wadi Rum.</figcaption>
+  <img src="/img/jordan/wadi-rum-camels.jpg" alt="">
+  <figcaption>Touring the Wadi Rum desert.</figcaption>
 </figure>
 
 We spent around 2-3 hours touring the desert, with 4 stops for short hikes to viewpoints. Around 4pm we arrived at the bedouin camp, which would be our home for the next hours and for the night to come.
