@@ -88,7 +88,7 @@ From the lake shore, the return hike to El Chalten is pretty much a leisure walk
 
 All in all, the hike could take anything between 10 and 12 hours, depending on how much time you want to spend at each stop. The total altitude gain is 700m. You can read more about the technical details of the hike and also check out the map [on this website](https://elchalten.com/v4/en/laguna-de-los-tres-trek-el-chalten.php).
 
-#### Highlights
+**Highlights**
 
 - Snowfall in the middle of the summer!
 - The first glimpse of the Fitz Roy peak, after 4 hours of hiking
@@ -139,7 +139,7 @@ This is the viewpoint, the mountain top itself is another 200m up and you have t
 
 Together with the return trip to El Chalten, the hike should take you 7-8 hours at a steady pace, including time for stops along the way. You can check [the same website](https://elchalten.com/v4/en/pliegue-tumbado-trek-el-chalten.php) for additional details about the hike and the map of the area.
 
-#### Highlights
+**Highlights**
 
 - Incredibly beautiful trail through the low forests of secular trees
 - Trying not to fall as we hiked up the mountain!
@@ -173,11 +173,11 @@ Then the trip continued on the boat and back to the shore of the lake, where we 
   <figcaption>Huemul lake and glacier.</figcaption>
 </figure>
 
-After the trip to Huemul glacier, we returned to the bus for the trip back to El Chalten. 
+After the trip to Huemul glacier, we returned to the bus for the trip back to El Chalten.
 
 We definitely recommend taking this trip from El Chalten, especially if you don't have favorable weather for a full day of hiking. The landscape is a bit different than what you have around El Chalten with denser and wild forests.
 
-#### Highlights
+**Highlights**
 
 - Green forests with Lenga trees, many of them more than 200 years old
 - Hiking upstream to the foothills of the Vespigniani glacier
