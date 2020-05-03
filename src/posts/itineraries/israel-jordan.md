@@ -51,7 +51,7 @@ When you think of the Middle East, Tel Aviv is probably not what you have in min
   <figcaption>Tel Aviv sea front.</figcaption>
 </figure>
 
-Tel Aviv is a modern city and is in fact the ecomonic and financial heart of the state of Israel. There's a laid back atmosphere in the entire city that you can't really find in other places in Israel. People are super relaxed and very welcoming. The most interesting aspect is seeing how the city was built for people with parks, pedestrian alleys and tons of places for social interaction.
+Tel Aviv is a modern city and is in fact the ecomonic and financial heart of the state of Israel. There's a laid back atmosphere in the entire city that you can't really find in other places in Israel. People are super relaxed and very welcoming. The most interesting aspect is seeing how the city was built for people: with parks, pedestrian alleys and tons of places for social interaction.
 
 Recommended activities:
 
@@ -65,14 +65,14 @@ When in the Middle East, you have to try hummus and falafel. There are a lot of 
 
 Going north from Tel Aviv, along the Mediterranean coast, you have a lot of impressive old cities and natural landscapes to visit. Distances in Israel are small and the highway network is quite good, so you are able to do a lot in a day.
 
-We booked a day trip with [a local company](https://www.click-tours.com/tour/caesarea-haifa-acre-and-rosh-hanikra/) so we had a professional guide for the entire day. Renting a car is also an option if you want to explore on your own. The first stop was the ancient roman city of Caesarea, built by king Herod and decidated to emperor Octavian.
+We booked a day trip with [a local company](https://www.click-tours.com/tour/caesarea-haifa-acre-and-rosh-hanikra/) so we had a professional guide for the entire day. Renting a car is also an option if you want to explore on your own. The first stop was the ancient roman city of Caesarea, built by king Herod and dedicated to emperor Octavian.
 
 <figure>
   <img src="/img/israel/caesarea.jpg" alt="">
   <figcaption>The roman ruins at Caesarea.</figcaption>
 </figure>
 
-Then we continued north, towards the border with Lebanon where we went down with a cable car to the caves of Rosh Hanikra, a natural monument dug by the sea water in the white limestone hills. Then we stopped in the old city of Akko or Acre, where we had lunch and a quick tour of the impressive crusader citadel.
+Then we continued north, towards the border with Lebanon where we went down with a cable car to the caves of Rosh Hanikra, a natural monument dug by the sea water in the white limestone hills. Our next stop was in the old city of Akko or Acre, where we had lunch and a quick tour of the impressive crusader citadel.
 
 <figure>
   <img src="/img/israel/coast.jpg" alt="">
@@ -95,7 +95,7 @@ Finally, we ended our tour with a panoramic view of the Bahá'í Gardens in Haif
 
 As the modern city of Tel Aviv grew, it engulfed the old port town of Jaffa. Jaffa is one of the oldest cities in the world and used to be the city port for Jerusalem, so it always had a great strategic value for the region.
 
-If you are staying in the central area of Tel Aviv, Jaffa is 40 to 60 minutes away by foot, depending on your location of course. You can take a relaxing walk on the promendate of the Mediterranean Sea among cyclists, runners, families and people with pets.
+If you are staying in the central area of Tel Aviv, Jaffa is 40 to 60 minutes away by foot, depending on your location of course. You can take a relaxing walk on the promenade of the Mediterranean Sea among cyclists, runners, families and people with pets.
 
 <figure>
   <img src="/img/israel/jaffa.jpg" alt="">
@@ -158,7 +158,7 @@ The entrance to the Temple Mount is done via a suspended bridge next to the West
 
 ### Mount of Olives
 
-On the other side of the old town, lies a hill full of religious meaning for christianity. Mount of Olives is mentioned numerious times in the New Testament, as the place where Jesus used for praying during his last days. Starting from the top of the hill, you can visit various churches of different branches of Christianity and the milenia old olive trees in the Gethsemane Garden.
+On the other side of the old town, lies a hill full of religious meaning for christianity. Mount of Olives is mentioned many times in the New Testament as the place where Jesus used to pray during his last days. Starting from the top of the hill, you can visit various churches of different branches of Christianity and the milenia old olive trees in the Gethsemane Garden.
 
 Mount of Olives also gives you a great panoramic view of the Temple Mount and the old city.
 
@@ -176,7 +176,7 @@ For our last day in Jerusalem, we decided to visit the Holocaust Remembrace Cent
   <figcaption>The Hall of Names with all the victims of the Holocaust.</figcaption>
 </figure>
 
-The entire area is built not only as a museum, but also as a educational center and memorial. It tells the complete story of the jewish communities during the horrors of the Second World War in Europe.
+The entire area is built not only as a museum, but also as an educational center and memorial. It tells the complete story of the jewish communities during the horrors of the Second World War in Europe.
 
 ## Day 7: Eilat
 
@@ -219,9 +219,9 @@ Israelis celebrate the Shabbat on Saturday and most of the stores and restaurant
 
 It is common to see young soldiers on the streets and in buses carrying their service weapons. Military service is mandatory in Israel for men and women. We were there for more than a week but never felt unsafe in any way. Yes they have ocassional problems in the region, especially as you get close to the Gaza Strip, but nothing major to be concerned about as a tourist.
 
-Israel has an extensive bus network that runs between major cities. The major bus company is called Egged. It is better to book your trips in advance, if possible, as buses tend to ride full on the longer distances, even outside the high season. Between Tel Aviv in Jerusalem, you have very frequent buses from multiple bus stations in Tel Aviv, all going to the Jerusalem central bus station. You can just show up at the nearest bus station. The ride takes about an hour. There's also a new train available on this route if you prefer that.
+Israel has an extensive bus network that runs between major cities. The major bus company is called Egged. It is better to book your trips in advance, if possible, as buses tend to ride full on the longer distances, even outside the high season. Between Tel Aviv in Jerusalem, you have very frequent buses from multiple bus stations in Tel Aviv, all going to the Jerusalem central bus station. For this one, you can just show up at the nearest bus station. The ride takes about an hour. There's also a new train available on this route if you prefer that.
 
-One thing to consider is that Jerusalem and Petra are pretty high in the mountains, so the weather is not always hot as you would expect. We visited in February had some rainy days and overall temperatures didn't go above 15°C. In Petra, we were greated with 4°C and fog in the morning, so keep that in mind when you pack for your adventure in the Middle East. Tel Aviv was a bit warmer during the same time. Eilat on the other hand enjoys 200+ days of sunshine a year and is a perfect destination for sea and sun lovers all year round.
+One thing to consider is that Jerusalem and Petra are pretty high in the mountains, so the weather is not always as hot as you would expect. We visited in February, we had some rainy days and overall temperatures didn't go above 15°C. In Petra, we were greated with 4°C and fog in the morning, so keep that in mind when you pack for your adventure in the Middle East. Tel Aviv was a bit warmer during the same time. Eilat on the other hand enjoys 200+ days of sunshine a year and is a perfect destination for sea and sun lovers all year round.
 
 There are a bunch of other locations we didn't consider this time: the Dead Sea, Masada, Nazareth and Bethleem in Israel, Amman, Jerash and the Dead Sea again in Jordan, but we will definitely come back for a more extended visit at some point.
 
