@@ -32,7 +32,7 @@ Petra and Wadi Rum are usually visited together due to their proximity, but of c
 
 ## How to organize your trip
 
-We visited Jordan during [a longer trip that also covered Israel](/travel/a-taste-of-the-middle-east/). But of course you can visit Jordan separately since you can easily spend around a week touring the entire country.
+We visited Jordan during [a longer trip that also covered Israel](/travel/a-taste-of-the-middle-east/). However, it is a country that you can visit separately, you can easily spend around a week touring it.
 
 Since we only had a few days and getting in and out of Jordan from Israel is not that straight-forward (though it's not as hard as you think), we decided to book a trip with an Israeli company. It turned out to be the best decision as we had an amazing experience with [Abraham Tours](https://www.abrahamtours.com/) and we definitely recommend them to everyone.
 
@@ -40,7 +40,7 @@ A lot of travel agencies in Israel offer trips to Petra and if you're short on t
 
 Petra and Wadi Rum are located in the southern part of Jordan, so the best starting point is Eilat, the small town on the Red Sea. You can also book trips directly from Jerusalem or Tel Aviv, but you spend a lot of time on the road and it's not worth it. Plus, Eilat is a great destination by itself and there are plenty of things to do there, if you choose to stay for a few days.
 
-So in the middle of our stay in Eilat, we booked [this 2 day trip](https://www.abrahamtours.com/tours/petra-and-wadi-rum-2-day-from-eilat/) to Jordan. Keep in mind that while the trip itself seems expensive when you consider the period, Jordan in general is a very expensive country.
+So in the middle of our stay in Eilat, we booked [this 2 day trip](https://www.abrahamtours.com/tours/petra-and-wadi-rum-2-day-from-eilat/) to Jordan. Keep in mind that while the trip itself seems expensive when you consider the period, Jordan is in general a very expensive country.
 
 We were 12 people in the group, and it was a great experience. Someone from the travel agency organized our departure from Eilat and we were driven to the border, which is just outside the city. We crossed the actual border on foot, and there was another person waiting for us on the Jordanian side. He helped us with the legal formalities and guided us to our small bus. There we met our guide, Mahmoud, who was with us for the entire duration of the trip.
 
@@ -93,7 +93,7 @@ Other than that, the camp area has an open fire where they serve tea non-stop an
 
 The best part is that there is no internet connection or phone signal, so you actually get to spend your time with the other guests. We had a great time getting to know our trip companions better and meeting other people from all over the world during the evening.
 
-Later during the night, you should definitely go outside and enjoy the starry night sky. There are few places on Earth where the light polution is so low.
+Later during the night, you should definitely go outside and enjoy the starry night sky. There are few places on Earth where the light pollution is so low.
 
 ### Petra
 
