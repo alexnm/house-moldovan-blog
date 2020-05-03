@@ -11,6 +11,12 @@ tags:
   - south america
   - patagonia
   - hiking
+packing:
+  - Sunglasses, sunscreen and sun protecting hat
+  - At least 3 layers of clothing, including a fleece jacket and a windstopper
+  - A raincoat
+  - Hiking shoes
+  - A light backpack for carrying food and water for the day
 ---
 
 ## Understand
@@ -32,7 +38,7 @@ While in Patagonia, you should keep an eye on the weather forecast. We heard of 
 
 We spent 3 days in El Chalten and we were fortunate enough to have 2 days of decent weather and only one day of heavy rain and fog. So here are 3 activites that you can do during your stay. Two of them are full day hikes and one is a day trip booked with a local company.
 
-### Laguna de los Tres
+### Laguna de Los Tres
 
 This is probably the most popular one day activity in El Chalten. It allows you go get a closer look at the highest peak in the area, Mount Fitz Roy. It involves about 20km of hiking (10km one-way) through the beautiful Patagonian landscape.
 
@@ -47,7 +53,7 @@ We had mixed weather in the morning as we started hiking. We had sun, fog, rain 
 
 After 4-5km of steady climbing you arrive at a small fork where you have two options: either walk by Laguna Capri or go to Mirador del Fitz Roy. The path merges again after a few hundred meters, so you don't worry about missing too much.
 
-If the weather is clear (not the case for our morning) the viewpoint towards Fitz Roy is amazing, both from the Mirador (mirador = viewpoint in spanish) and from the Laguna Capri. From the Mirador, you can also see the end point of the trail, the steep climb towards Laguna de los Tres.
+If the weather is clear (not the case for our morning) the viewpoint towards Fitz Roy is amazing, both from the Mirador (mirador = viewpoint in spanish) and from the Laguna Capri. From the Mirador, you can also see the end point of the trail, the steep climb towards Laguna de Los Tres.
 
 <figure>
   <img src="/img/argentina/laguna-de-los-tres-mirador.jpg" alt="Mount Fitz Roy in the clouds">
@@ -58,7 +64,7 @@ After this point, the trail continues pretty flat for 2-3km until you reach Camp
 
 A side note here is that there are toilets (wooden, not that clean, but toilets nevertheless) in this camp, as well as in the other smaller camps along the way. You're welcome to use them, but bring some toilet paper / paper tissues with you.
 
-The last part of the hike is a steep climb towards Laguna de los Tres. You get some 400m of vertical climb in about 1km, so make sure you stay hydrated and take some breaks along the way.
+The last part of the hike is a steep climb towards Laguna de Los Tres. You get some 400m of vertical climb in about 1km, so make sure you stay hydrated and take some breaks along the way.
 
 <figure>
   <img src="/img/argentina/laguna-de-los-tres-climb.jpg" alt="Trail going up the mountain">
@@ -68,7 +74,7 @@ The last part of the hike is a steep climb towards Laguna de los Tres. You get s
 However, at the end of the climb you get rewarded with the most spectacular sight of Mount Fitz Roy and the lake.
 
 <figure>
-  <img src="/img/argentina/laguna-de-los-tres.jpg" alt="Laguna de los tres and Mount Fitz Roy">
+  <img src="/img/argentina/laguna-de-los-tres.jpg" alt="Laguna de Los tres and Mount Fitz Roy">
   <figcaption>Laguna de Los Tres and Mount Fitz Roy.</figcaption>
 </figure>
 
@@ -101,13 +107,13 @@ All in all, the hike could take anything between 10 and 12 hours, depending on h
 
 Most people will recommend a different hike for your second day, to Laguna Torre, for a nice view of the Cerro Torre, another famous mountain in the area. But if you prefer a more difficult challenge and you have a clear weather, you should definitely do the hike to Loma del Pliegue Tumbado.
 
-Unlike the hikes to Laguna de los Tres and Laguna Torre, this one actually involves going up the mountain to an amazing viewpoint. But don't worry, it's not that steep and it's definitely not too difficult for anyone with a decent level of fitness. You will experience much stronger winds, because you are in the open mountains.
+Unlike the hikes to Laguna de Los Tres and Laguna Torre, this one actually involves going up the mountain to an amazing viewpoint. But don't worry, it's not that steep and it's definitely not too difficult for anyone with a decent level of fitness. You will experience much stronger winds, because you are in the open mountains.
 
 <div class="info tip">
   <span>Make sure you bring a pair of glasses that protect you from the strong wind</span>
 </div>
 
-The hike starts from the south part of the town, from the Visitors Center. Inside the Visitors Center, you can ask the rangers about the weather forecast for the day. Unlike the hike to Laguna de los Tres, this one is very steady going up and doesn't have any big vertical climbs. The total altitude difference is about 1100m until the top of the mountain and 900m until the viewpoint.
+The hike starts from the south part of the town, from the Visitors Center. Inside the Visitors Center, you can ask the rangers about the weather forecast for the day. Unlike the hike to Laguna de Los Tres, this one is very steady going up and doesn't have any big vertical climbs. The total altitude difference is about 1100m until the top of the mountain and 900m until the viewpoint.
 
 <figure>
   <img src="/img/argentina/fitz-roy-viewpoint.jpg" alt="Mount Fitz Roy viewpoint">
@@ -173,7 +179,7 @@ Then the trip continued on the boat and back to the shore of the lake, where we 
   <figcaption>Huemul lake and glacier.</figcaption>
 </figure>
 
-After the trip to Huemul glacier, we returned to the bus for the trip back to El Chalten. 
+After the trip to Huemul glacier, we returned to the bus for the trip back to El Chalten.
 
 We definitely recommend taking this trip from El Chalten, especially if you don't have favorable weather for a full day of hiking. The landscape is a bit different than what you have around El Chalten with denser and wild forests.
 
@@ -184,7 +190,7 @@ We definitely recommend taking this trip from El Chalten, especially if you don'
 - Hiking up to the amazing Huemul glacier with its milky green lake
 - Hot chocolate and biscuits at the Ecocamp
 
-## Travel Tips
+## Travel tips
 
 El Chalten is an amazing destination, not to be missed when you are touring Argentina. It is truly the capital of hiking and trekking.
 
