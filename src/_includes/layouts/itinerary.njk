@@ -9,7 +9,7 @@ permalink: /travel/{{pageTitle | slug}}/
 
   <p>{{headline}}</p>
   
-  <div class="spacer-vertical-3"></div>
+  <div class="spacer-vertical-1"></div>
 
   <div class="itinerary-summary">
     <div class="highlights card">
@@ -22,7 +22,7 @@ permalink: /travel/{{pageTitle | slug}}/
     </div>
 
     <div class="summary card">
-      <h2>Itinerary</h2>
+      <h2>Summary</h2>
       <span>Number of Days: <strong>{{itinerary.summary.days}}</strong></span>
       <span>Best period: <strong>{{itinerary.summary.period}}</strong></span>
       <span>Travel method: <strong>{{itinerary.summary.method}}</strong></span>
@@ -30,7 +30,7 @@ permalink: /travel/{{pageTitle | slug}}/
     </div>
   </div>
 
-  <div class="spacer-vertical-3"></div>
+  <div class="spacer-vertical-1"></div>
 
   <article class="markdown-content">
     {{ content | safe }}
