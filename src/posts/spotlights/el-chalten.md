@@ -94,6 +94,15 @@ From the lake shore, the return hike to El Chalten is pretty much a leisure walk
 
 All in all, the hike could take anything between 10 and 12 hours, depending on how much time you want to spend at each stop. The total altitude gain is 700m. You can read more about the technical details of the hike and also check out the map [on this website](https://elchalten.com/v4/en/laguna-de-los-tres-trek-el-chalten.php).
 
+**Highlights**
+
+- Snowfall in the middle of the summer!
+- The first glimpse of the Fitz Roy peak, after 4 hours of hiking
+- Arriving at the shore of Laguna de los Tres
+- The view of the milky blue Laguna Sucia, which is just below Laguna de los Tres
+- Soaring condors around the highest peaks in the area
+- The view of the entire mountain range in the evening sun as you hike back towards El Chalten
+
 ### Loma del Pliegue Tumbado
 
 Most people will recommend a different hike for your second day, to Laguna Torre, for a nice view of the Cerro Torre, another famous mountain in the area. But if you prefer a more difficult challenge and you have a clear weather, you should definitely do the hike to Loma del Pliegue Tumbado.
@@ -136,6 +145,13 @@ This is the viewpoint, the mountain top itself is another 200m up and you have t
 
 Together with the return trip to El Chalten, the hike should take you 7-8 hours at a steady pace, including time for stops along the way. You can check [the same website](https://elchalten.com/v4/en/pliegue-tumbado-trek-el-chalten.php) for additional details about the hike and the map of the area.
 
+**Highlights**
+
+- Incredibly beautiful trail through the low forests of secular trees
+- Trying not to fall as we hiked up the mountain!
+- Eating a sandwich at the cover of a rock wall
+- The amazing viewpoint of Loma del Pliegue Tumbado
+
 ### Lago del Desierto
 
 This activity is doable on good and bad weather. We had a bad weather forecast for our final day in El Chalten, so we went to a local travel agency, [Exploradores Lago del Desierto](http://www.exploradoreslagodeldesierto.com/), and booked a trip to Lago del Desierto. The lake is 15km from El Chalten and is accessible via a pretty bad road. Renting a car is also an option, but it is a bit more expensive. The day trip starts from the center of El Chalten and you are taken to the lake with a small bus.
@@ -167,6 +183,13 @@ After the trip to Huemul glacier, we returned to the bus for the trip back to El
 
 We definitely recommend taking this trip from El Chalten, especially if you don't have favorable weather for a full day of hiking. The landscape is a bit different than what you have around El Chalten with denser and wild forests.
 
+**Highlights**
+
+- Green forests with Lenga trees, many of them more than 200 years old
+- Hiking upstream to the foothills of the Vespigniani glacier
+- Hiking up to the amazing Huemul glacier with its milky green lake
+- Hot chocolate and biscuits at the Ecocamp
+
 ## Travel tips
 
 El Chalten is an amazing destination, not to be missed when you are touring Argentina. It is truly the capital of hiking and trekking.
@@ -187,3 +210,13 @@ El Chalten is about 3 hours away from El Calafate by bus. You can also take a bu
 There are a couple of supermarkets in El Chalten, but they aren't always well supplied. There's also a very good [local shop](https://goo.gl/maps/kM7WRRJg9X4JzDRx5) with fresh dairy and meat (it seems to be closed now, though). Besides these, there are a bunch of sport equipments stores that sell very good snack bars, perfect for long hikes.
 
 We stayed at a clean [hotel](https://goo.gl/maps/xSNpjAEW4f1WptUq8) with very kind hosts. They helped us plan our day trips and recommended places to eat. Speaking of, close to the hotel there are two very cosy restaurants owned by local people: one for [meat lovers](https://goo.gl/maps/JWS2bmFHhZ8mb9W38) with excellent parilla (steak) and one with more [generic food](https://goo.gl/maps/wSeQZURCZVd6xYrE9).
+
+### Packing checklist
+
+- Sunglasses, sunscreen and sun protecting hat
+- At least 3 layers of clothing, including a fleece jacket and a windstopper
+- A raincoat
+- Hiking shoes
+- A light backpack for carrying food and water for the day
+- Extra: Almost everybody that flies to Patagonia has a backpack, and a lof of them are the same, so they're really easy to confuse. Make sure to have a distinctive mark on yours.
+- Extra: Prepare for little to no internet for a few days, even in the airport :)
