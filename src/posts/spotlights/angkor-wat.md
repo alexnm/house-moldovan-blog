@@ -10,6 +10,11 @@ mapsLink: https://www.google.com/maps/place/Krong+Siem+Reap,+Cambodia/@13.340505
 tags:
   - south-east asia
   - culture
+packing:
+  - Sunscreen and mosquito repellent
+  - Sunglasses and sun hat
+  - A light backpack for carrying some snacks and water
+  - T-shirt and long sleeve pants
 ---
 
 ## Understand
@@ -32,7 +37,7 @@ Ok, here's the thing. Angkor Wat is one of those sites where you can spend many 
 <figure>
   <img src="/img/cambodia/intro.jpg" alt="Detailed sculptures in Angkor Wat">
   <figcaption>Detailed sculptures in Angkor Wat.</figcaption>
-</figure> 
+</figure>
 
 Tickets are sold for 1 day ($37) or for 3 days ($62). Our recommendation, if you don't have a lot of time, is to go for the day ticket and make the most out of your day there.
 
@@ -151,7 +156,7 @@ Even if you think you've seen enough, please take our advice and check out Preah
   <figcaption>One of the hidden gems of Angkor Wat.</figcaption>
 </figure>
 
-### Other Locations
+### Other locations
 
 Some of the other locations worth visiting are on the grand circuit so they are not that crowded. Going around the grand circuit will allow you to spend time alone and in silence at a lot of temples which are equally impressive to those on the small circuit.
 
@@ -180,17 +185,17 @@ A couple of highlights outside the main temples that are worth your time:
 
 You need to be in good shape to do the grand circuit by bike. Even the tuk-tuks take some time to circle the entire area, so be prepared for long distances.
 
-## Travel Tips
+## Travel tips
 
 We hope this paints a good picture of what Ankgor Wat is about. At the end, here are a couple of useful tips that we can share about our experience.
 
-### Visa and Money
+### Visa and money
 
 You can fly into Siem Riep from most of the big airports in South-East Asia. There are direct flights from Vietnam, Thailand as well as from Phnom-Phen. You can apply for an e-visa on the [official government website](https://www.evisa.gov.kh/).
 
 Cambodia has their own currency called Riel, but US dollars are also working like a parallel currency. Expect to get Riel change when you pay with USD cash. The 1 USD banknote will get you a lot of basic goods.
 
-### Food and Accommodation
+### Food and accommodation
 
 Siem Reap is a very touristy place, so expect to see a lot of hotels and restaurants. You can find good deals for accommodations, just make sure you have an air-conditioned room since sleeping with a window open is not an option.
 
@@ -202,11 +207,11 @@ Water is your best friend, but might come at a high price in some areas, make su
   <span>Remember that this is a tropical destination, so consult your doctor about vaccines and other precautions you need to take before your trip.</span>
 </div>
 
-### Our Itinerary
+### Our itinerary
 
 We spent 1 and a half days in total and it was really nice as we got to see most of the main sites. We had enough time to go outside of the most crowded areas, so we could enjoy the sites alone.
 
-In the first day, we started with Ta-Prohm, to get ahead of the crowds. Then we followed the grand circuit counter-clockwise, and stopped along the way to see Pre Rup, Easter Mebon, and then the quiet premises of Jayatataka. Our next visit was Preah Khan, followed by a quick stop to eat at a [local restaurant](https://goo.gl/maps/m8TUitL7n5CQQPkJ6). 
+In the first day, we started with Ta-Prohm, to get ahead of the crowds. Then we followed the grand circuit counter-clockwise, and stopped along the way to see Pre Rup, Easter Mebon, and then the quiet premises of Jayatataka. Our next visit was Preah Khan, followed by a quick stop to eat at a [local restaurant](https://goo.gl/maps/m8TUitL7n5CQQPkJ6).
 
 We finished the day with two impressive sites: Ankgor Thom and Angkor Wat. We saw the sunset from there, and then quickly left for the city. Cycling back took us around 30 minutes, and the trip itself was quite safe (altough for Mela it was a bit scary in the roundabouts).
 
@@ -215,10 +220,3 @@ We finished the day with two impressive sites: Ankgor Thom and Angkor Wat. We sa
 </div>
 
 The second day started early in the morning. We left with our rented tuk-tuk to see the sunrise at Angkor Wat. Afterwards, taking advantage of the fact that the tuk-tuk could cover more ground, we picked some temples that we missed in the first day, like Ta Som and Ta Nei. Around lunch time, we headed back to the city to catch our flight.
-
-### Packing checklist
-
-- Sunscreen and mosquito repellent
-- Sunglasses and sun hat
-- A light backpack for carrying some snacks and water
-- T-shirt and long sleeve pants

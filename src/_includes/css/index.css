@@ -268,46 +268,44 @@ figure {
   }
 }
 
-/* Itineraries */
+/* Cards */
 
 .itinerary-summary {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-size: var(--font-size-small);
 }
 
-.itinerary-summary > *:not(:last-child) {
-  margin-bottom: 1rem;
-}
-
-.itinerary-summary h2 {
-  margin: 0 0 0.5rem 0;
-}
-
-.highlights-card {
+.card {
   display: flex;
   width: 100%;
   flex-direction: column;
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1.25rem;
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
-  background: var(--background-accent);
+  font-size: var(--font-size-small);
 }
 
-.highlights-card ul {
+.card.checklist {
+  background: var(--background-accent-tertiary);
+}
+
+.card.highlights {
+  background: var(--background-accent);
+  margin-bottom: 1rem;
+}
+
+.card.summary {
+  background: var(--background-accent-secondary);
+}
+
+.card ul {
   margin-left: 1rem;
   list-style-type: circle;
 }
 
-.summary-card {
-  display: flex;
-  width: 100%;
-  flex-direction: column;
-  padding: 1rem 1.25rem;
-  border-radius: var(--border-radius);
-  box-shadow: var(--box-shadow);
-  background: var(--background-accent-tertiary);
+.card h2 {
+  margin: 0 0 0.5rem 0;
 }
 
 @media only screen and (min-width: 630px) {
@@ -315,12 +313,12 @@ figure {
     flex-direction: row;
   }
 
-  .itinerary-summary > *:not(:last-child) {
+  .card.highlights {
     margin-bottom: 0;
   }
 
-  .summary-card,
-  .highlights-card {
+  .card.summary,
+  .card.highlights {
     width: 49%;
   }
 }
