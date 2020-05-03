@@ -49,14 +49,14 @@ itinerary:
 
 ## Days 1-2: Buenos Aires
 
-Buenos Aires is a city of contrasts: old palaces, new style skyscrapers and colorful colonial architecture. In total, we spent a bit more than 2 days there, enough to get accustomed to the language and the South American culture, to eat delicious steaks and drink enough glasses of Malbec wine!
+Buenos Aires is a city of contrasts: old palaces, new style skyscrapers and colorful colonial architecture. In total, we spent a bit more than 2 days there, enough to get accustomed to the language and the South American culture, to eat delicious steaks and drink enough glasses of Malbec wine.
 
 <figure>
   <img src="/img/argentina/buenos-aires-obelisco.jpg" alt="">
   <figcaption>The obelisk in Buenos Aires on Av. 9 de Julio.</figcaption>
 </figure>
 
-First time in a new city on a new continent after a long flight? (ours was 14 hours from Frankfurt) Hop on a 4 hour free walking tour through the central part of Buenos Aires! Our guide was really nice, but our group was pretty big, so we moved slowly through the streets of Recoleta, plaza San Martin and the rest of the central neighbourhoods of Buenos Aires. As the tour ended, we continued our walk towards Plaza de Mayo and Puerto Madero.
+First time in a new city on a new continent after a long flight (ours was 14 hours from Frankfurt)? Hop on a 4 hour free walking tour through the central part of Buenos Aires! Our guide was really nice, but our group was pretty big, so we moved slowly through the streets of Recoleta, plaza San Martin and the rest of the central neighbourhoods of Buenos Aires. As the tour ended, we continued our walk towards Plaza de Mayo and Puerto Madero.
 
 **Recommended activities**
 
@@ -95,7 +95,7 @@ From Buenos Aires, we took a plane to El Calafate and then a bus to El Chalten. 
 
 ### El Chalten
 
-In El Chalten, we were very lucky and had good weather for hiking, so we were able to two amazing full day hikes to Laguna de los Tres and to Loma del Pliegue Tumbado. We also had a half-day trip to the nearby Lago del Desierto. For more details on these, see our [Hiking in El Chalten](/travel/hiking-in-el-chalten/) spotlight article.
+In El Chalten, we were very lucky and had good weather for hiking, so we had two amazing full day hikes to Laguna de los Tres and to Loma del Pliegue Tumbado. We also had a half-day trip to the nearby Lago del Desierto. For more details on these, see our [Hiking in El Chalten](/travel/hiking-in-el-chalten/) spotlight article.
 
 <figure>
   <img src="/img/argentina/laguna-de-los-tres.jpg" alt="">
@@ -176,7 +176,7 @@ While the entrance to the Argentinian side was quite fast, it took us a bit more
 
 The first step is to take a bus from Puerto Iguazu. There are a lot of them, every 10-15 minutes, but you can't buy tickets one day in advance. Make sure to get there as early as possible, as it gets crowded later in the day. The bus takes you to Brasil, so make sure you have your passport with you. Also, check in advance if you need a visa. The process of crossing the border, although a bit confusing, goes quite smooth, and in about an hour you are at the entrance of the "Cataratas do Iguaçu" Park.
 
-There, you need to buy a ticket, then wait in a line (quite long when we were there) for another bus that takes you closer to the waterfalls. We had to wait for about an hour for the bus, but it was worth it in the end, as the weather was hot and the entire trip (one way) is of about 15km. When you get off the bus, you can are right at the start of the single circuit on the Brazilian side.
+There, you need to buy a ticket, then wait in a line (quite long when we were there) for another bus that takes you closer to the waterfalls. We had to wait for about an hour for the bus, but it was worth it in the end, as the weather was hot and the entire trip (one way) is of about 15km. When you get off the bus, you are right at the start of the single circuit on the Brazilian side.
 
 <figure>
   <img src="/img/brasil/iguazu-brasil.jpg" alt="">
@@ -193,7 +193,7 @@ Walking around takes about 2 hours, and the highpoint of this side is getting to
   <figcaption>Experience the raw power of the waterfall.</figcaption>
 </figure>
 
-While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [bird park](https://www.parquedasaves.com.br/en/), which is right next to the entrance to the national park. We were pleasantly surprised by the beauty of the species inside and by the visiting experience, as you enter the huge aviaries together with the birds and other animal species!
+While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [bird park](https://www.parquedasaves.com.br/en/), which is right next to the entrance to the national park. We were pleasantly surprised by the beauty of the species inside and by the visiting experience, as you enter the huge aviaries together with the birds and other animal species.
 
 <figure>
   <img src="/img/brasil/parc-de-aves.jpg" alt="">
@@ -204,11 +204,11 @@ While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [
 
 **Las Tres Fronteras**
 
-Before heading out to the airport, we took a short detour in Puerto Iguazu to see the confluence of the Iguazu and Parana rivers, while looking simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
+Before heading out to the airport, we took a short detour in Puerto Iguazu to see the confluence of the Iguazu and Parana rivers, and look simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
 
 ## Days 12-16: Central Chile
 
-From the tropical jungle, our next stop was in central Chile, where we stayed for 5 days. On a clear day, flying towards Santiago, you get a glimpse of the size of the Andes around the central part of Chile and Argentina, with peaks going over 6000m as you are at the regular 10000m altitude. Right under the wing of the plane, you can catch a glimpse at Cerro Aconcagua - 6960m, the highest mountain in the world outside the Himalayan range and the highest peak in the southern and eastern hemispheres.
+From the tropical jungle, our next stop was in central Chile, where we stayed for 5 days. On a clear day, flying towards Santiago, you get a glimpse of the size of the Andes around the central part of Chile and Argentina, with peaks going over 6000m as you are at the regular 10000m altitude. Right under the wing of the plane, you can catch a glimpse of Cerro Aconcagua - 6960m, the highest mountain in the world outside the Himalayan range and the highest peak in the southern and eastern hemispheres.
 
 <figure>
   <img src="/img/chile/los-andes-plane.jpg" alt="">
@@ -303,9 +303,9 @@ New city? Free walking tour :) We did the same in Montevideo. The group was quit
   <figcaption>Palacio Salvo in the old town of Montevideo.</figcaption>
 </figure>
 
-Something to note is that in Uruguay the beef steak is as good as in Argentina, so make sure you try it out with a glass of local red wine.
-
 Two days in Montevideo are enough to see the old city, the port, the beach and overall just to enjoy the city. The plan for the final days was to relax more, so we took it easy.
+
+Something to note is that in Uruguay the beef steak is as good as in Argentina, so make sure you try it out with a glass of local red wine.
 
 <figure>
   <img src="/img/uruguay/montevideo-beach-view.jpg" alt="">
@@ -332,11 +332,11 @@ Walking around gives you a feeling that time has stopped. Definitely a great way
 
 ## What to expect
 
-We had a great time in all the countries we visited during this trip. It was a self-organized trip and we spent quite some time putting together this schedule.
+We had a great time in all the countries we visited during this trip. It was a self-organized trip and we spent quite some time putting this schedule together.
 
-We booked most our flights with [Latam Airlines](https://www.latam.com/en_un/), since the reviews that we read on Aerolineas Argentinas spoke about big prices and a lot of delays. We also saw huge crowds waiting in line to board their planes in most of the airports in Argentina. We had no issues with Latam. Another company that we used was [Sky Airline](https://www.skyairline.com/english), a low cost airline which has a lot of flights in an out of Chile.
+We booked most our flights with [Latam Airlines](https://www.latam.com/en_un/), since the reviews that we read on Aerolineas Argentinas spoke about big prices and a lot of delays. We also saw huge crowds waiting in line to board their planes in most of the airports in Argentina. We had no issues with Latam. Another company that we used was [Sky Airline](https://www.skyairline.com/english), a low cost airline which has a lot of flights in and out of Chile.
 
-Flying in South America is expensive by today's standards, as fares do not come close to the low cost fares people are used with from Asia or Europe. If you plan your flights in advance, this won't be such a big issue. Keep in mind that Buenos Aires has two big airports when you schedule your trip.
+Flying in South America is expensive by today's standards, as fares do not come close to the low cost fares from Asia or Europe. If you plan your flights in advance, this won't be such a big issue. Keep in mind that Buenos Aires has two big airports when you schedule your trip.
 
 You should check online if you have to pay any visa fees when you enter Argentina, Chile or Uruguay. Most of the European countries have a visa-free policy. You will get stamps in your passport every time you enter/exit a country so we collected quite a few in the 3 weeks spent there.
 
@@ -352,7 +352,7 @@ To get from the airport to the city centers, we took taxis and sometimes we used
 
 As a rule of thumb, we tried to find central hotels in each city, so that we were in walking distance of the main attractions. We tried to stay out of the main boulevards, to avoid the high traffic and noise.
 
-Buenos Aires and Santiago are big cities, so naturally, some areas are more shady. Get accustomed with exchanging money on the street in Buenos Aires or with seeing homeless people in Santiago. We asked at the hotel and the tour guides if it's safe to walk in a certain area during the night, evening, and we were always told what to avoid.
+Buenos Aires and Santiago are big cities, so naturally, some areas are more shady. Get accustomed with exchanging money on the street in Buenos Aires or with seeing homeless people in Santiago. We asked at the hotel and the tour guides if it's safe to walk in a certain area during the evening or night, and we were always told what to avoid.
 
 Generally, expect a very nice and laid back atmosphere. Latino music is everywhere, and there's always someone that's humming the lyrics :).
 
