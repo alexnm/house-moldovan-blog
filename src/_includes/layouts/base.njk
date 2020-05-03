@@ -19,7 +19,7 @@
     <meta name="twitter:card" content="summary_large_image">
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <style>
       {% postcss %}
@@ -28,6 +28,7 @@
     </style>
   </head>
   <body>
+    <a class="skip-link" href="#maincontent">Skip to main content</a>
     <header class="header">
       <a class="left-side" href="{{ '/' | url }}">
         <img class="logo" src="/img/logo.jpg" alt="House Moldovan" />
@@ -45,8 +46,8 @@
       </nav>
     </header>
 
-    <main class="main">
-      {{ content | safe }}
+    <main class="main" id="maincontent">
+      {{ content | safe }}  
     </main>
 
     <footer class="footer">

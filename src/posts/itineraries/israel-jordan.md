@@ -23,18 +23,18 @@ itinerary:
     budget: 1500$ pp
 ---
 
-|        | Activity                               | Overnight Stay |
-| ------ | -------------------------------------- | -------------- |
-| Day 1  | Arrive in Tel Aviv, city tour          | Tel Aviv       |
-| Day 2  | Day trip along the Israeli North Coast | Tel Aviv       |
-| Day 3  | Tel Aviv - Jaffa                       | Tel Aviv       |
-| Day 4  | Bus to Jerusalem, city tour            | Jerusalem      |
-| Day 5  | Jerusalem                              | Jerusalem      |
-| Day 6  | Holocaust Museum - Bus to Eilat        | Eilat          |
-| Day 7  | Relax at the Red Sea                   | Eilat          |
-| Day 8  | Cross to Jordan - Wadi Rum Desert      | Wadi Rum       |
-| Day 9  | Petra - Return to Israel               | Eilat          |
-| Day 10 | Red Canyon - Bus to Tel Aviv           | Tel Aviv       |
+| Day | Activity                               | Overnight Stay |
+| --- | -------------------------------------- | -------------- |
+| 1   | Arrive in Tel Aviv, city tour          | Tel Aviv       |
+| 2   | Day trip along the Israeli North Coast | Tel Aviv       |
+| 3   | Tel Aviv - Jaffa                       | Tel Aviv       |
+| 4   | Bus to Jerusalem, city tour            | Jerusalem      |
+| 5   | Jerusalem                              | Jerusalem      |
+| 6   | Holocaust Museum - Bus to Eilat        | Eilat          |
+| 7   | Relax at the Red Sea                   | Eilat          |
+| 8   | Cross to Jordan - Wadi Rum Desert      | Wadi Rum       |
+| 9   | Petra - Return to Israel               | Eilat          |
+| 10  | Red Canyon - Bus to Tel Aviv           | Tel Aviv       |
 
 ## Day 1-3: Tel Aviv and the Mediterranean Coast
 

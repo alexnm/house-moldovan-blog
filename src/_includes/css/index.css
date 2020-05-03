@@ -12,9 +12,11 @@
   --font-family: 'Nunito', sans-serif;
   --font-size-regular: 16px;
   --font-size-small: 15px;
-  --font-size-large: 22px;
+  --font-size-large: 19px;
+  --font-size-xlarge: 22px;
   --font-size-title: 32px;
-  --font-weight-normal: 400;
+  --font-weight-thin: 300;
+  --font-weight-regular: 400;
   --font-weight-bold: 600;
 
   --underline-width: 2px;
@@ -22,7 +24,7 @@
   --box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.3);
   --box-shadow-top: 0px -1px 3px 0px rgba(0, 0, 0, 0.3);
 
-  --motion-movement-speed: 0.25s;
+  --motion-movement-speed: 0.2s;
   --motion-movement-function: ease-in-out;
   --motion-fade-speed: 0.35s;
   --motion-fade-function: ease-out;
@@ -32,8 +34,9 @@
   :root {
     --font-size-small: 16px;
     --font-size-regular: 18px;
+    --font-size-large: 22px;
+    --font-size-xlarge: 26px;
     --font-size-title: 42px;
-    --font-size-large: 26px;
   }
 }
 
@@ -61,7 +64,13 @@ body {
   background-color: var(--background);
   font-size: var(--font-size-regular);
   font-weight: var(--font-weight-regular);
-  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (min-resolution: 2dppx) {
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 }
 
 h1 {
@@ -69,7 +78,11 @@ h1 {
   margin: 0;
 }
 
-h2,
+h2 {
+  font-size: var(--font-size-xlarge);
+  margin: 0;
+}
+
 h3 {
   font-size: var(--font-size-large);
   margin: 0;
@@ -107,6 +120,27 @@ hr {
 
 figure {
   margin: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  z-index: -999;
+  overflow: hidden;
+}
+
+.skip-link:focus {
+  background-color: var(--background);
+  left: auto;
+  top: auto;
+  width: auto;
+  height: auto;
+  padding: 0.75rem 1.25rem;
+  z-index: 999;
+  overflow: auto;
 }
 
 /* Header */
@@ -292,16 +326,16 @@ figure {
 }
 
 .card.checklist {
-  background: var(--background-accent-tertiary);
+  background-color: var(--background-accent-tertiary);
 }
 
 .card.highlights {
-  background: var(--background-accent);
+  background-color: var(--background-accent);
   margin-bottom: 1rem;
 }
 
 .card.summary {
-  background: var(--background-accent-secondary);
+  background-color: var(--background-accent-secondary);
 }
 
 .card ul {
@@ -310,6 +344,7 @@ figure {
 }
 
 .card h2 {
+  font-size: var(--font-size-large);
   margin: 0 0 0.5rem 0;
 }
 
@@ -465,6 +500,7 @@ figure {
 .markdown-content h3,
 .markdown-content h4 {
   margin: 2rem 0 1rem 0;
+  scroll-margin-top: 4rem; /* scroll offset for sticky header */
 }
 
 .markdown-content p {
@@ -485,8 +521,6 @@ figure {
   transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
   outline: none;
   border-bottom: var(--underline-width) solid var(--accent);
-  display: inline-block;
-  line-height: 1.1;
 }
 
 .markdown-content a:hover,
@@ -496,7 +530,7 @@ figure {
 
 .markdown-content table {
   width: 100%;
-  border: 1px solid var(--accent);
+  border: var(--underline-width) solid var(--accent);
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
   font-size: var(--font-size-small);
@@ -507,15 +541,15 @@ figure {
 }
 
 .markdown-content th {
-  padding: 0.25rem 1rem;
+  padding: 0.25rem 0 0.25rem 1rem;
 }
 
 .markdown-content td {
-  padding: 0.2rem 1rem;
+  padding: 0.2rem 0 0.2rem 1rem;
 }
 
 .markdown-content tr:first-child td {
-  padding-top: 0.25rem;
+  padding-top: 0.35rem;
   border-top: var(--underline-width) dashed var(--accent);
 }
 
@@ -605,10 +639,6 @@ figure {
   font-size: var(--font-size-title);
 }
 
-.text-large {
-  font-size: var(--font-size-large);
-}
-
 .link,
 .toc a {
   border-bottom: var(--underline-width) solid transparent;
@@ -647,7 +677,7 @@ figure {
 .link-button:hover,
 .link-button:focus {
   background-color: var(--accent-secondary);
-  border-radius: 0;
+  border-radius: var(--border-radius) 0;
 }
 
 .tag-cloud {

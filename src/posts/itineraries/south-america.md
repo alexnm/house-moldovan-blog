@@ -4,7 +4,7 @@ pageTitle: Argentina, Chile & Uruguay in 3 weeks
 subTitle: The perfect mix of culture and nature in the Southern Cone
 headline: Check out our 3 week itinerary covering the southern part of South America. Starting and ending in Buenos Aires, this trip covers the 3 capital cities and amazing natural landscapes, from wild Patagonia all the way to the tropical forests of Iguazu Falls.
 coverThumb: /img/argentina/perito-moreno-balcony.jpg
-coverImage: /img/south-america-cover-2.jpg
+coverImage: /img/south-america-cover.jpg
 region: 🌎 Southern Cone
 mapsLink: https://www.google.com/maps/@-39.4462487,-69.3856776,4.62z
 tags:
@@ -24,28 +24,28 @@ itinerary:
     budget: 3500$ pp
 ---
 
-|        | Activity                                              | Overnight Stay  |
-| ------ | ----------------------------------------------------- | --------------- |
-| Day 1  | Arrive in Buenos Aires, city tour                     | Buenos Aires    |
-| Day 2  | Buenos Aires - La Boca                                | Buenos Aires    |
-| Day 3  | Flight to El Calafate                                 | El Chalten      |
-| Day 4  | Hiking: Laguna de Los Tres                            | El Chalten      |
-| Day 5  | Hiking: Loma del Pliegue Tumbado                      | El Chalten      |
-| Day 6  | Day trip to Lago Del Desierto - Bus to El Calafate    | El Calafate     |
-| Day 7  | Perito Moreno                                         | El Calafate     |
-| Day 8  | Day trip to Torres del Paine                          | El Calafate     |
-| Day 9  | Flight to Puerto Iguazu                               | Puerto Iguazu   |
-| Day 10 | Iguazu Falls: Argentinian side                        | Puerto Iguazu   |
-| Day 11 | Iguazu Falls: Brazilian side - Flight to Buenos Aires | Buenos Aires    |
-| Day 12 | Flight to Santiago de Chile                           | Santiago        |
-| Day 13 | City tour Santiago                                    | Santiago        |
-| Day 14 | Cajon del Maipo                                       | Santiago        |
-| Day 15 | Valparaiso                                            | Santiago        |
-| Day 16 | Day trip to Aconcagua National Park                   | Santiago        |
-| Day 17 | Flight to Montevideo                                  | Montevideo      |
-| Day 18 | City tour Montevideo                                  | Montevideo      |
-| Day 19 | Colonia de Sacramento - Ferry to Buenos Aires         | Buenos Aires    |
-| Day 20 | Flight back home                                      | Home sweet home |
+| Day | Activity                                              | Overnight Stay  |
+| --- | ----------------------------------------------------- | --------------- |
+| 1   | Arrive in Buenos Aires, city tour                     | Buenos Aires    |
+| 2   | Buenos Aires - La Boca                                | Buenos Aires    |
+| 3   | Flight to El Calafate                                 | El Chalten      |
+| 4   | Hiking: Laguna de Los Tres                            | El Chalten      |
+| 5   | Hiking: Loma del Pliegue Tumbado                      | El Chalten      |
+| 6   | Day trip to Lago Del Desierto - Bus to El Calafate    | El Calafate     |
+| 7   | Perito Moreno                                         | El Calafate     |
+| 8   | Day trip to Torres del Paine                          | El Calafate     |
+| 9   | Flight to Puerto Iguazu                               | Puerto Iguazu   |
+| 10  | Iguazu Falls: Argentinian side                        | Puerto Iguazu   |
+| 11  | Iguazu Falls: Brazilian side - Flight to Buenos Aires | Buenos Aires    |
+| 12  | Flight to Santiago de Chile                           | Santiago        |
+| 13  | City tour Santiago                                    | Santiago        |
+| 14  | Cajon del Maipo                                       | Santiago        |
+| 15  | Valparaiso                                            | Santiago        |
+| 16  | Day trip to Aconcagua National Park                   | Santiago        |
+| 17  | Flight to Montevideo                                  | Montevideo      |
+| 18  | City tour Montevideo                                  | Montevideo      |
+| 19  | Colonia de Sacramento - Ferry to Buenos Aires         | Buenos Aires    |
+| 20  | Flight back home                                      | Home sweet home |
 
 ## Days 1-2: Buenos Aires
 
