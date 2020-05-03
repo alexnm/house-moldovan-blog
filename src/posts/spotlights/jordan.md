@@ -19,7 +19,7 @@ packing:
 
 ## Understand
 
-Jordan is a small country in the Middle East, often considered one of the most stable from the economic and political perspective. The country attracts more than 1 million visitors every year, most of whom are coming especially for the rock city of Petra, one of the [seven new wonders of the world](https://en.wikipedia.org/wiki/New7Wonders_of_the_World).
+Jordan is a small country in the Middle East, often considered one of the most stable from the economic and political perspective. The country attracts more than 1 million visitors every year, most of whom are coming especially for Petra, one of the [seven new wonders of the world](https://en.wikipedia.org/wiki/New7Wonders_of_the_World).
 
 Further south from Petra, Jordan shares a long stretch of desert with Saudi Arabia, the land of the bedouins. Part of that area is the red desert of Wadi Rum, famous for being the filming location for a lot of Hollywood movies.
 
@@ -34,22 +34,22 @@ Petra and Wadi Rum are usually visited together due to their proximity, but of c
 
 We visited Jordan during [a longer trip that also covered Israel](/travel/a-taste-of-the-middle-east/). But of course you can visit Jordan separately since you can easily spend around a week touring the entire country.
 
-Since we only had a few days and getting in and out of Jordan from Israel is not that straight-forward (it's not as hard as you think though), we decided to book a trip with an Israeli company. It turned out to be the best decision as we had an amazing experience with [Abraham Tours](https://www.abrahamtours.com/) and we definitely recommend them to everyone.
+Since we only had a few days and getting in and out of Jordan from Israel is not that straight-forward (though it's not as hard as you think), we decided to book a trip with an Israeli company. It turned out to be the best decision as we had an amazing experience with [Abraham Tours](https://www.abrahamtours.com/) and we definitely recommend them to everyone.
 
-A lot of travel agencies in Israel offer trips to Petra and Jordan in general and if you're short on time, it is definitely your best option as they take care of everything for you.
+A lot of travel agencies in Israel offer trips to Petra and if you're short on time, it is definitely your best option as they take care of everything for you.
 
 Petra and Wadi Rum are located in the southern part of Jordan, so the best starting point is Eilat, the small town on the Red Sea. You can also book trips directly from Jerusalem or Tel Aviv, but you spend a lot of time on the road and it's not worth it. Plus, Eilat is a great destination by itself and there are plenty of things to do there, if you choose to stay for a few days.
 
 So in the middle of our stay in Eilat, we booked [this 2 day trip](https://www.abrahamtours.com/tours/petra-and-wadi-rum-2-day-from-eilat/) to Jordan. Keep in mind that while the trip itself seems expensive when you consider the period, Jordan in general is a very expensive country.
 
-We were 12 people in the group, and it was a great experience overall. Someone from the travel agency organized our departure from Eilat and we were driven to the border, which is just outside the city. We crossed the actual border on foot, and there was another person waiting for us on the Jordanian side. He helped us with the legal formalities and guided us to our small bus. There we met our guide, Mahmoud, who was with us for the entire duration of the trip.
+We were 12 people in the group, and it was a great experience. Someone from the travel agency organized our departure from Eilat and we were driven to the border, which is just outside the city. We crossed the actual border on foot, and there was another person waiting for us on the Jordanian side. He helped us with the legal formalities and guided us to our small bus. There we met our guide, Mahmoud, who was with us for the entire duration of the trip.
 
 <figure>
   <img src="/img/jordan/group-at-petra.jpeg" alt="Group of people leaving Petra">
   <figcaption>Our international group.</figcaption>
 </figure>
 
-We've been to a lot of countries and we had a lot of guides in the past few years but we have to say Mahmoud ranks somewhere at the very top of the list. He was extremly funny, highly knowledgable and overall created a wonderful experience for everyone in the group.
+We've been to a lot of countries and we had a lot of guides in the past few years but we have to say Mahmoud ranks somewhere at the very top of the list. He was extremely funny, highly knowledgable and created a wonderful experience for everyone in the group.
 
 ## Activities
 
@@ -59,7 +59,7 @@ The fun part began as soon as we entered the Wadi Rum National Park and exchange
 
 ### Jeep tour in Wadi Rum
 
-Touring the Wadi Rum desert is an surreal experience. You feel small as you climb on top of a sand dune to get a 360 degree view of the surrounding area. There's something about the emptiness of the desert that cannot be described, it has to be felt in person.
+Touring the Wadi Rum desert is a surreal experience. You feel small as you climb on top of a sand dune to get a 360 degree view of the surrounding area. There's something about the emptiness of the desert that cannot be described, it has to be felt in person.
 
 <figure>
   <img src="/img/jordan/wadi-rum-camels.jpg" alt="">
@@ -82,7 +82,7 @@ There are dozens of camps around the desert that welcome guests from all over th
   <figcaption>Overlooking the camp.</figcaption>
 </figure>
 
-A room in a camp here is actually a wool tent with a hard floor, built and decorated in a traditional bedouin style. There's a big bed in the middle of the room with plenty of blankets for the cold night. There is also a power outlet and a single light source, but don't worry, you won't be staying in your room unless you're sleeping. The camp has a separate bigger building where you have shared toilets, running water and showers with hot water. The shared bathrooms are really clean and well maintained.
+A room in a camp here is actually a wool tent with a hard floor, built and decorated in a traditional bedouin style. There's a big bed in the middle of the room with plenty of blankets for the cold night. There is also a power outlet and a single light source, but don't worry, you won't be staying in your room unless you're sleeping. The camp has a separate bigger building where you have shared toilets, running water and showers with hot water. The shared bathrooms are clean and well maintained.
 
 Other than that, the camp area has an open fire where they serve tea non-stop and two bigger tents for eating and hanging around with the other guests. One of the tents is enclosed and warmed. Dinner and breakfast are served by the staff of the camp and the food is delicious.
 
@@ -97,7 +97,7 @@ Later during the night, you should definitely go outside and enjoy the starry ni
 
 ### Petra
 
-The second day of the trip was dedicated entirely to Petra. All in all, we were at the site for about 6 hours. That's enough time to wander around and catch the best shots for your photo album. However, there are numerous hikes that you can take at Petra, some of which require multiple hours to complete, so you can easily spend 1-2 full days there if you have the time.
+The second day of the trip was dedicated entirely to Petra. All in all, we were at the site for about 6 hours. That's enough time to wander around and catch the best shots for your photo album. However, there are many hikes that you can take at Petra, some of which require multiple hours to complete, so you can spend 1-2 full days there if you have the time.
 
 <figure>
   <img src="/img/jordan/petra-royal-tombs-2.jpg" alt="">
@@ -133,6 +133,6 @@ The local currency is the Jordanian Dinar (JOD), one of the strongest currencies
 
 You can visit Petra and Wadi Rum all year round, but you should avoid summers, as it is extremely hot. Also, the winter months can be rainy, cold and windy. The recommended months for visiting are March-May and September-November.
 
-Jordan is an arab country and the vast majority of the population are muslims. There are no strict dress codes, but you should nevertheless dress modestly. Long pants and covered shoulders are the best way to avoid problems and also sunburns. The desert can be deceiving because of the strong winds, but you get a nice tan after a few hours in the open, so bring your sunscreen.
+Jordan is an Arab country and the vast majority of the population are muslims. There are no strict dress codes, but you should still dress modestly. Long pants and covered shoulders are the best way to avoid problems and also sunburns. The desert can be deceiving because of the strong winds, but you get a nice tan after a few hours in the open, so bring your sunscreen.
 
 Also check the weather forecast before going to Petra. Everyone expects a desert location to be hot, but city is high in the mountains and we actually had 4°C when we arrived, while the temperature in Aqaba was 25°C+. So bring warm clothes if you are visiting in late February as we did.
