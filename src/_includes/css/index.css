@@ -61,6 +61,7 @@ body {
   background-color: var(--background);
   font-size: var(--font-size-regular);
   font-weight: var(--font-weight-regular);
+  -webkit-font-smoothing: antialiased;
 }
 
 h1 {
@@ -71,6 +72,10 @@ h1 {
 h2,
 h3 {
   font-size: var(--font-size-large);
+  margin: 0;
+}
+
+h4 {
   margin: 0;
 }
 
@@ -441,7 +446,8 @@ figure {
   margin: auto 1rem;
 }
 
-.markdown-content img {
+.markdown-content img,
+.markdown-content video {
   max-width: 100%;
   display: block;
   margin: 1rem auto 0.5rem auto;
@@ -456,7 +462,8 @@ figure {
 
 .markdown-content h1,
 .markdown-content h2,
-.markdown-content h3 {
+.markdown-content h3,
+.markdown-content h4 {
   margin: 2rem 0 1rem 0;
 }
 
@@ -478,6 +485,8 @@ figure {
   transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
   outline: none;
   border-bottom: var(--underline-width) solid var(--accent);
+  display: inline-block;
+  line-height: 1.1;
 }
 
 .markdown-content a:hover,
@@ -487,20 +496,18 @@ figure {
 
 .markdown-content table {
   width: 100%;
-  border-collapse: collapse;
-  border: 1px solid var(--background-accent);
+  border: 1px solid var(--accent);
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
   font-size: var(--font-size-small);
 }
 
 .markdown-content thead {
-  border-bottom: var(--underline-width) solid var(--background-accent);
   text-align: left;
 }
 
 .markdown-content th {
-  padding: 0.5rem 1rem;
+  padding: 0.25rem 1rem;
 }
 
 .markdown-content td {
@@ -508,11 +515,16 @@ figure {
 }
 
 .markdown-content tr:first-child td {
-  padding-top: 0.5rem;
+  padding-top: 0.25rem;
+  border-top: var(--underline-width) dashed var(--accent);
+}
+
+.markdown-content tr:not(:last-child) td {
+  border-bottom: var(--underline-width) dashed var(--background-accent);
 }
 
 .markdown-content tr:last-child td {
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
 }
 
 .spacer-vertical-5 {
@@ -525,6 +537,11 @@ figure {
   margin-top: 2rem;
 }
 
+.spacer-vertical-2 {
+  width: 100%;
+  margin-top: 1.5rem;
+}
+
 .spacer-vertical-1 {
   width: 100%;
   margin-top: 1rem;
@@ -535,13 +552,15 @@ figure {
     margin: auto 2rem;
   }
 
-  .markdown-content img {
+  .markdown-content img,
+  .markdown-content video {
     max-width: 95%;
   }
 }
 
 @media only screen and (min-width: 790px) {
-  .markdown-content img {
+  .markdown-content img,
+  .markdown-content video {
     max-width: 90%;
   }
 
@@ -555,6 +574,10 @@ figure {
 
   .spacer-vertical-3 {
     margin-top: 3rem;
+  }
+
+  .spacer-vertical-2 {
+    margin-top: 2rem;
   }
 
   .wide-content {
