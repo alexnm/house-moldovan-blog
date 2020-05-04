@@ -186,7 +186,7 @@ There, you need to buy a ticket, then wait in a line (quite long when we were th
 Walking around takes about 2 hours, and the highpoint of this side is getting to see the Devil's Throat from below. You also get really close to the water, so you'll most probably get wet (again).
 
 <figure>
-  <video width="750" controls>
+  <video width="750" controls preload="none">
     <source src="/img/brasil/iguazu-falls.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
   </video>
