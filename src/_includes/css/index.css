@@ -122,6 +122,13 @@ figure {
   margin: 0;
 }
 
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
 .skip-link {
   position: absolute;
   left: -999px;

@@ -9,6 +9,7 @@ const markdownItLinkAttributes = require('markdown-it-link-attributes')
 const pluginReadingTime = require('eleventy-plugin-reading-time')
 const pluginSVG = require('eleventy-plugin-svg-contents')
 const pluginTOC = require('eleventy-plugin-toc')
+const pluginLazyImages = require('eleventy-plugin-lazyimages')
 const postcss = require('postcss')
 const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
@@ -19,6 +20,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginReadingTime)
   eleventyConfig.addPlugin(pluginSVG)
   eleventyConfig.addPlugin(pluginTOC)
+  eleventyConfig.addPlugin(pluginLazyImages)
 
   eleventyConfig.addFilter('readableDate', dateObj => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('dd LLL yyyy')
