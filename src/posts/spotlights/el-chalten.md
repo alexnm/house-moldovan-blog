@@ -3,7 +3,7 @@ layout: layouts/spotlight.njk
 pageTitle: Hiking in El Chalten
 subTitle: A few day trip ideas in the Argentinian capital of hiking
 headline: If you are an outdoor person and you're visiting Argentina, El Chalten will most likely be your favorite spot, due to the amazing variety of hikes you can do in the area. Read this article to get some hiking ideas for a 3 day stay in this wonderful Patagonian town.
-coverThumb: /img/argentina/laguna-de-los-tres-cover.jpg
+coverThumb: /img/argentina/laguna-de-los-tres-cover_400.jpg
 coverImage: /img/argentina/laguna-de-los-tres-cover.jpg
 region: 🌎 Patagonia
 mapsLink: https://www.google.com/maps/place/Patagonia/@-45.6701249,-78.2254399,5z/data=!3m1!4b1!4m5!3m4!1s0xbdefadac12340ab3:0xf5803d880367e318!8m2!3d-41.8101472!4d-68.9062689

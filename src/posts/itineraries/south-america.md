@@ -3,7 +3,7 @@ layout: layouts/itinerary.njk
 pageTitle: Argentina, Chile & Uruguay in 3 weeks
 subTitle: The perfect mix of culture and nature in the Southern Cone
 headline: Check out our 3 week itinerary covering the southern part of South America. Starting and ending in Buenos Aires, this trip covers the 3 capital cities and amazing natural landscapes, from wild Patagonia all the way to the tropical forests of Iguazu Falls.
-coverThumb: /img/argentina/perito-moreno-balcony.jpg
+coverThumb: /img/argentina/perito-moreno-balcony_400.jpg
 coverImage: /img/south-america-cover.jpg
 region: 🌎 Southern Cone
 mapsLink: https://www.google.com/maps/@-39.4462487,-69.3856776,4.62z

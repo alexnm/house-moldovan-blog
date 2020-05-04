@@ -3,7 +3,7 @@ layout: layouts/itinerary.njk
 pageTitle: A Taste of the Middle East
 subTitle: Spending 10 days in Israel and Jordan
 headline: This itinerary will take you through Israel and Jordan, in 10 days packed with religious monuments of global importance, amazing desert landscapes, ancient cities and cosmopolitan urban centers.
-coverThumb: /img/israel/jerusalem.jpg
+coverThumb: /img/israel/jerusalem-mount-of-olives_400.jpg
 coverImage: /img/israel/jerusalem.jpg
 region: 🌍 Middle East
 mapsLink: https://www.google.com/maps/@31.497481,35.2795334,7.5z

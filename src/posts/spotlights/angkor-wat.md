@@ -3,7 +3,7 @@ layout: layouts/spotlight.njk
 pageTitle: Exploring the Temples of Angkor Wat
 subTitle: Make the most out of your trip to Cambodia's crown jewel
 headline: So you have a single day to visit this magnificent site? There's a lot of ground to cover and way too many spots you don't want to miss, so here are a few tips about how to organize your trip.
-coverThumb: /img/cambodia/angkor-wat.jpg
+coverThumb: /img/cambodia/angkor-wat_400.jpg
 coverImage: /img/cambodia/angkor-wat.jpg
 region: 🌏 Siem Reap, Cambodia
 mapsLink: https://www.google.com/maps/place/Krong+Siem+Reap,+Cambodia/@13.3405053,103.7929145,12z/data=!3m1!4b1!4m5!3m4!1s0x3110169a8c91a879:0xa940aaf93ee5bbfa!8m2!3d13.3632533!4d103.856403
