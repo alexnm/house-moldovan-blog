@@ -257,12 +257,19 @@ figure {
 /* cover image */
 
 .cover-image {
-  background-image: url('/img/home-cover.jpg');
+  background-image: url('/img/home-cover-small.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   height: calc(100vh - 96px);
   position: relative;
+}
+
+@media only screen and (min-width: 790px) {
+  .cover-image {
+    background-image: url('/img/home-cover.jpg');
+    background-position: center;
+  }
 }
 
 .cover-overlay {
