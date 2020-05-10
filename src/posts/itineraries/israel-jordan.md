@@ -18,7 +18,7 @@ itinerary:
     - Petra, one of the 7 wonders of the world
   summary:
     days: 10
-    period: Feb-Jun / Sept-Nov
+    period: Feb-Jun, Sept-Nov
     method: Bus
     budget: 1500$ pp
 ---
@@ -213,7 +213,7 @@ From the bus stop, you walk half an hour to reach the entrance to the canyon and
   <figcaption>The Red Canyon at its narrowest point.</figcaption>
 </figure>
 
-### Travel Tips
+## Travel tips
 
 Israelis celebrate the Shabbat on Saturday and most of the stores and restaurants are closed. Also, there's no public transportation, which is tricky especially if you arrive on Saturday at the airport and taxis are the only option.
 
