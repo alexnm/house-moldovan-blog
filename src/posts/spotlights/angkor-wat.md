@@ -17,7 +17,7 @@ packing:
   - T-shirt and long sleeve pants
 ---
 
-## Understand
+## Introduction
 
 Welcome to the land of the Khmer! Ankgor Wat was the capital of the once mighty Khmer Empire that stretched across South-East Asia. This is a unique destination in terms of architecture, history and pure beauty.
 
