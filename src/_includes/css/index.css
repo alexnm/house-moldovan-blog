@@ -20,6 +20,7 @@
   --font-weight-bold: 600;
   --font-weight-bolder: 700;
 
+  --line-height: 1.6;
   --underline-width: 2px;
   --border-radius: 8px;
   --box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.3);
@@ -62,7 +63,6 @@ body {
   margin: 0;
   font-family: var(--font-family);
   color: var(--text-color);
-  line-height: 1.6;
   background-color: var(--background);
   font-size: var(--font-size-regular);
   font-weight: var(--font-weight-regular);
@@ -93,18 +93,13 @@ h3 {
   margin: 0;
 }
 
-h1,
-h2,
-h3 {
-  line-height: 1.35;
-}
-
 h4 {
   margin: 0;
 }
 
 p {
   margin: 0;
+  line-height: var(--line-height);
 }
 
 p:last-child {
@@ -542,6 +537,11 @@ img {
   list-style-type: circle;
   margin-left: 1.5rem;
   margin-top: -1rem;
+  line-height: var(--line-height);
+}
+
+.markdown-content ol {
+  line-height: var(--line-height);
 }
 
 .markdown-content br {
@@ -684,6 +684,7 @@ img {
 
 .toc > ol {
   margin-top: -0.75rem;
+  line-height: var(--line-height);
 }
 
 .toc li {
