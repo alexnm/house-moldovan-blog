@@ -19,7 +19,7 @@ packing:
   - A light backpack for carrying food and water for the day
 ---
 
-## Understand
+## Introduction
 
 El Chalten is a small mountain village in the south part of the Argentinian Patagonia. The closest airport is about 3 hours away in El Calafate, the major hub of the area. El Chalten is the starting point for a number of trails and circuits that can take from 2-3 hours to 5-6 days.
 

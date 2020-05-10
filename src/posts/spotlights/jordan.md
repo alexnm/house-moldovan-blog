@@ -17,7 +17,7 @@ packing:
   - A light backpack for carrying food and water for the day
 ---
 
-## Understand
+## Introduction
 
 Jordan is a small country in the Middle East, often considered one of the most stable from the economic and political perspective. The country attracts more than 1 million visitors every year, most of whom are coming especially for Petra, one of the [seven new wonders of the world](https://en.wikipedia.org/wiki/New7Wonders_of_the_World).
 
