@@ -43,7 +43,7 @@ Unlike all the other trips we made, this one was organized through a local trave
   <figcaption>One of the many madrasas in Bukhara.</figcaption>
 </figure>
 
-There aren't a lot of people travelling on their own to central Asia on their own and most travel agencies there offer group tours. However, we wanted to have more flexibility so we arranged for a private tour. That meant that we had a guide with us for the entire duration of our stay. This was super useful, as people don't really speak english and we don't speak russian, the foreign language they are most comfortable with.
+There aren't a lot of people travelling on their own to central Asia on their own and most travel agencies there offer group tours. However, we wanted to have more flexibility so we arranged for a private tour. That meant that we had a guide with us for the entire duration of our stay. This was super useful, as people don't really speak English and we don't speak Russian, the foreign language they are most comfortable with.
 
 ## Day 1: Tashkent
 
@@ -52,7 +52,7 @@ There aren't a lot of people travelling on their own to central Asia on their ow
   <figcaption>The statue of Amir Timur and the iconic Hotel Uzbekistan.</figcaption>
 </figure>
 
-We started from the capital of the country, a city of 4 million people and probably the most soviet influenced part of the country. Tashkent is very different, compared to the other cities we visited. On one hand it is a very green city and it doesn't feel like a crowded metropolis. On the other hand, it is a lot cleaner and better organized than Samarkand for example, with wide boulevards and a lot of soviet-style buildings.
+We started from the capital of the country, a city of 4 million people and probably the most soviet influenced part of the country. Tashkent is very different from the other cities we visited in Uzbekistan. On one hand it is a very green city and it doesn't feel like a crowded metropolis. On the other hand, it is a lot cleaner and better organized than Samarkand for example, with wide boulevards and a lot of soviet-style buildings.
 
 **Recommended activities**:
 
@@ -157,8 +157,10 @@ All the food we had was delicious, came in huge quantities and was relatively ch
   <figcaption>Bread stand at the local market in Tashkent.</figcaption>
 </figure>
 
-The vast majority of the people in Uzbekistan are muslims, but islam is not a state religion.
+The vast majority of the people in Uzbekistan are muslims, but islam is not a state religion. While people are usually religious, they do not follow islam in a very strict way (for instance, they drink alcohol). To quote our local guide, they consider that everything is life should be well-balanced, including religion. On top of that, they have a very deep respect for their late president, Islam Karimov (who ruled between 1989 - 2016), because he was a strong oponent of Uzbekistan becoming a radical religious state.
 
-Clothing
+In terms of clothing, it's best if you keep it modest and cover your shoulders and knees. People are in general rather conservative: men never wear shorts, while women usually wear dresses, and the older ones also cover their head. When entering mosques, sometimes women are required to cover their head (with a scarf). For tourists though, there are really no other rules to follow - you can wear whatever you want and makes you feel comfortable.
 
-Lack of shopping malls and "modern" vibe
+Because Uzbekistan only opened its borders in 2018, what we know as the "modern world" did not reach the country yet. There are literally no shopping malls (they sometimes sell clothes in the local markets), and you don't see the famous brands (neither the affordable nor the expensive ones - except for some sport ones, and fake copies of them). You'll see a lot of women selling homemade bracelets and clothing articles, and if you want to buy a beautiful but affordable silk scarf, this is the right place for that.
+
+The breathtaking historical monuments along with the culture and the authenticity of the people make Uzbekistan a very interesting destination, definitely worth visiting.
