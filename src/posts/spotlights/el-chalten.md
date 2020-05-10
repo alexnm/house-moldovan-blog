@@ -155,7 +155,7 @@ Once you are at the lake shore, you get on a boat for an hour cruise until rough
 
 The hike up and down the mountain is mostly through a very dense green forest. You actually climb along a series of milky blue waterfalls.
 
-At the end of the hike, the organizers offered us some biscuits and hot chocolate, which was more then welcome considering the cold wind and the rain we experienced for the past hour.
+At the end of the hike, the organizers offered us some biscuits and hot chocolate, which was more than welcome considering the cold wind and the rain we experienced for the past hour.
 
 Then the trip continued on the boat and back to the shore of the lake, where we started another short hike, albeit a bit steeper, towards the Huemul lake and glacier. The landscape is pretty similar, but the lake at the bottom of the glacier offers a much nicer perspective.
 
