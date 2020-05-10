@@ -301,6 +301,7 @@ img {
   .cover-image,
   .cover-overlay {
     height: 60vh;
+    min-height: 450px;
   }
 }
 
@@ -423,6 +424,7 @@ img {
   height: 200px;
   display: block;
   overflow: hidden;
+  outline: none;
 }
 
 .postcard .post-image {
@@ -430,12 +432,14 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  transition: transform var(--motion-movement-speed) var(--motion-fade-function);
+  transition: all var(--motion-movement-speed) var(--motion-fade-function);
   transform: scale(1);
+  filter: grayscale(0);
 }
 
 .postcard .post-image:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
+  filter: grayscale(1);
 }
 
 .postcard .post-content {
@@ -465,12 +469,6 @@ img {
 
 .postcard .post-cta {
   padding: 0.6rem 1.2rem;
-}
-
-.headline {
-  font-weight: 300;
-  font-style: italic;
-  font-size: var(--font-size-large);
 }
 
 .article-footnote {

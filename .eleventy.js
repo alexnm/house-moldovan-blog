@@ -50,6 +50,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('tagList', require('./src/_11ty/getTagList'))
 
   eleventyConfig.addPassthroughCopy('img')
+  eleventyConfig.addPassthroughCopy('src/robots.txt')
 
   eleventyConfig.addWatchTarget('src/css')
 

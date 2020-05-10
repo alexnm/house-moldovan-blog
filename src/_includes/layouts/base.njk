@@ -6,7 +6,7 @@
     {% if pageTitle or renderData.pageTitle %}
       {% set titleFromPage = (pageTitle or renderData.pageTitle) + " | " + metadata.title %}
     {% endif %}
-    <title>{{ titleFromPage or metadata.title }}</title>
+    <title>{{ titleFromPage or metadata.fullTitle }}</title>
     <meta name="description" content="{{ subTitle or metadata.description }}">
     {% if coverImage %}
       {% set coverImageURL = "https://housemoldovan.com" + coverImage %}
@@ -15,8 +15,11 @@
     <meta property="og:title" content="{{ pageTitle or renderData.pageTitle or metadata.title }}">
     <meta property="og:description" content="{{ subTitle or metadata.description }}">
     <meta property="og:image" content="{{ coverImageURL or metadata.image }}">
-    <meta property="og:url" content="https://housemoldovan.com">
+    <meta property="og:url" content="https://housemoldovan.com{{page.url}}">
+    <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="canonical" href="https://housemoldovan.com{{page.url}}" />
 
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
