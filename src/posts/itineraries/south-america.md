@@ -330,7 +330,7 @@ On the way back to Buenos Aires, before crossing Rio de la Plata by ferry, we ma
 
 Walking around gives you a feeling that time has stopped. Definitely a great way to end 3 weeks of travelling around South America.
 
-## What to expect
+## Travel tips
 
 We had a great time in all the countries we visited during this trip. It was a self-organized trip and we spent quite some time putting this schedule together.
 

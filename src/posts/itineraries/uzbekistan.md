@@ -1,8 +1,8 @@
 ---
 layout: layouts/itinerary.njk
 pageTitle: Follow the Silk Road in Uzbekistan
-subTitle: A cultural trip in beautiful Uzbekistan
-headline: Khiva, Bukhara, Samarkand and much more. Uzbekistan is one of the hidden cultural gems of central Asia and definitely a must visit
+subTitle: A cultural trip in central Asia
+headline: Welcome to one of the hidden gems of central Asia. A former soviet republic inhabited by turkic people with centuries old cities that were once major stops on the famous Silk Road, Uzbekistan offers a unique cultural experience.
 coverThumb: /img/uzbekistan/registan_400.jpg
 coverImage: /img/uzbekistan/registan.jpg
 region: 🌏 Uzbekistan
@@ -13,79 +13,152 @@ tags:
 itinerary:
   highlights:
     - Islamic art and culture
-    - Old cities preserved
-    - Colorful streets and art
+    - Well preserved old cities
+    - Colorful streets and markets
+    - Friendly people
   summary:
     days: 8
-    period: Mar-Jun / Sept - Nov
-    method: Plane / Train
+    period: Mar-Jun, Sept-Nov
+    method: Plane, Train, Car
     budget: 2000$ pp
 ---
 
-## Tashkent
+| Day | Activity                           | Overnight Stay |
+| --- | ---------------------------------- | -------------- |
+| 1   | Arrive in Tashkent, city tour      | Tashkent       |
+| 2   | Flight to Urgench, Khiva city tour | Khiva          |
+| 3   | Train ride to Bukhara              | Bukhara        |
+| 4   | Bukhara city tour                  | Bukhara        |
+| 5   | Bukhara - Shahrisabz - Samarkand   | Samarkand      |
+| 6   | Samarkand                          | Samarkand      |
+| 7   | Samarkand                          | Samarkand      |
+| 8   | Samarkand, train to Tashkent       | Tashkent       |
 
-We started from the capital of the country, a city of 4 million people and probably the most soviet influenced part of the country. A very green city which definitely doesn't feel like a crowded metropolis, Tashkent has a few interesting sights.
+## How we organized the trip
 
-Highlights:
+Unlike all the other trips we made, this one was organized through a local travel agency from Romania. Uzbekistan used to be a closed country before 2018 and it is in slow but steady process of opening its borders to foreign travellers. We didn't know what to expect and we also wanted to have a hastle-free trip, so we relied on a travel agency to plan this for us.
 
-- Hazrati Imam complex, where you can see the 8th century Uthman Quran
+<figure>
+  <img src="/img/uzbekistan/bukhara-2.jpg" alt="">
+  <figcaption>One of the many madrasas in Bukhara.</figcaption>
+</figure>
+
+There aren't a lot of people travelling on their own to central Asia on their own and most travel agencies there offer group tours. However, we wanted to have more flexibility so we arranged for a private tour. That meant that we had a guide with us for the entire duration of our stay. This was super useful, as people don't really speak english and we don't speak russian, the foreign language they are most comfortable with.
+
+## Day 1: Tashkent
+
+<figure>
+  <img src="/img/uzbekistan/tashkent.jpg" alt="">
+  <figcaption>The statue of Amir Timur and the iconic Hotel Uzbekistan.</figcaption>
+</figure>
+
+We started from the capital of the country, a city of 4 million people and probably the most soviet influenced part of the country. Tashkent is very different, compared to the other cities we visited. On one hand it is a very green city and it doesn't feel like a crowded metropolis. On the other hand, it is a lot cleaner and better organized than Samarkand for example, with wide boulevards and a lot of soviet-style buildings.
+
+**Recommended activities**:
+
+- Visit the Hazrati Imam complex, where you can see the 8th century Uthman Quran
 - The Second World War Memorial
 - Chorsu Market, one of the biggest bazaars in Uzbekistan
-- The museum of applied arts
+- Tashkent Metro has some beautifully decorated stations, in a similar fashion with Moskow
 
-## Khiva
+## Day 2: Khiva
 
-With its iconic blue short tower and the old city gates and walls still intact, Khiva is like a snapshot of past centuries. Squeezed between the Kyzylkum and Karakum deserts in one of the driest parts of the world, Khiva is a beautiful reminder of the pre-modern world. One day gives you plenty of time to wonder around the streets of the old town, enter the royal courtyards and climb the walls for a breathtaking sunset over the city.
+From Tashkent, we had an internal flight to Urgench, one of the biggest city in the west part of Uzbekistan. Then we had a short car ride to Khiva which took about 30 minutes.
 
-Highlights:
+<figure>
+  <img src="/img/uzbekistan/khiva-from-above.jpg" alt="">
+  <figcaption>Sunset over the old town of Khiva.</figcaption>
+</figure>
 
-- Climbing the high steps of the Islam Hoja Minaret
-- Itchan Kala, the walled inner-town
-- Walking along the north-western section of the city wall and catching the sunset from above
-- Juma Mosque, with its 212 sculpted wooden columns
-- Kalta Minor, the blue tower which should have been a minaret but was abandoned
+With its iconic blue short tower and the old city gates and walls still intact, Khiva is like a snapshot of past centuries. Squeezed between the Kyzylkum and Karakum deserts in one of the driest areas of the world, Khiva is a beautiful reminder of the pre-modern world. One day gives you plenty of time to wander around the streets of the old town, enter the royal courtyards and climb the walls for a breathtaking sunset over the city.
 
-## Bukhara
+If you want to see the city from above, you can climb the high steps of the Islam Hoja Minaret or you can walk the north-western section of the wall. Another really beautiful building inside the old city is the Juma Mosque, with its over 200 sculpted wooden columns.
 
-Perhaps lesser known nowadays compared to Samarkand, but equally beautiful. Bukhara was one of the most important stops on the silk road. From centuries old mosques, to imposing madrasas and busy bazaars, Bukhara certainly delivers.
+<figure>
+  <img src="/img/uzbekistan/khiva.jpg" alt="">
+  <figcaption>Islam Hoja Minaret.</figcaption>
+</figure>
 
-Highlights:
+## Days 3-4: Bukhara
 
-- The Ark Citadel
-- The Kalan Mosque with its landmark minaret
+The next day we hoped on local train that took us through the desert, along the Amu Darya valley, all the way to Bukhara, a major crossroad city on the former Silk Road.
+
+<figure>
+  <img src="/img/uzbekistan/bukhara.jpg" alt="">
+  <figcaption>The open plaza outside the Kalan Mosque.</figcaption>
+</figure>
+
+Perhaps lesser known nowadays compared to Samarkand, but equally beautiful, Bukhara was actually one of the most important stops on the Silk Road. It used to be the center of power for the [Khanate of Bukhara](https://en.wikipedia.org/wiki/Khanate_of_Bukhara), which you can tell by the number of impressive buildings built during that period. From centuries old mosques, to imposing madrasas and busy bazaars, Bukhara certainly has a lot to offer to its travellers.
+
+**Recommended activities**:
+
+- Shop at the bazaars in the central area of Bukhara
+- Visit the Ark Citadel
+- The Kalan Mosque with its landmark minaret and huge courtyard
 - Mir-i-Arab Madrasa, still functioning today
-- Ismail Samani Mausoleum, one of the oldest examples of islamic architecture
+- Ismail Samani Mausoleum, one of the oldest examples of islamic architecture from the 11th century
 
-## Shahrisabz
+<figure>
+  <img src="/img/uzbekistan/bukhara-market.jpg" alt="">
+  <figcaption>Typical offerings at a market in Uzbekistan.</figcaption>
+</figure>
 
-On the road from Bukhara to Samarkand, we make a quick stop in the city where Amir Timur was born, at the foothills of the Pamir Mountains which span across the border with Tajikistan.
+## Day 5: Shahrisabz
 
-Highlights:
+The following day we had a driver that took us through the rest of the desert outside Bukhara and through the mountainous regions leading to Samarkand. On the road to Samarkand, we make a quick stop in Shahrisabz. This city, at the foothills of the Pamir Mountains, is where Amir Timur, the ruler of the [Timurid Empire](https://en.wikipedia.org/wiki/Timurid_Empire), was born.
 
-- The ruins of the colossal palace build by Timur himself
-- The entire ensemble of the old city, open as a public park
-- The twisty road crossing the mountains towards Samarkand
+<figure>
+  <img src="/img/uzbekistan/shahrisabz.jpg" alt="">
+  <figcaption>The statue of Amir Timur in Shahrisabz.</figcaption>
+</figure>
 
-## Samarkand
+The central area of the city is restored as a public park and has a huge statue of Timur and the ruins of his colossal palace that he built here during his reign. During the evening, we arrived in Samarkand.
 
-Probably the most famous stop on the silk road, Samarkand should be on everyone's bucket list as it is a unique cultural destination.
+## Days 6-8: Samarkand
 
-Highlights:
+Probably the most famous stop on the Silk Road, Samarkand should be on everyone's bucket list as it is a unique cultural destination. The city houses some of the most beautiful examples of islamic architecture.
 
-- Registan square, with the famous madrasas facing each other
-- The mausoleum of Timur
+Surely the most known spot in Samarkand is the **Registan Square**, with the 3 madrasas facing each other. The sight is equally beautiful during the day and during the night, when the buildings are flooded with warm lights.
+
+<figure>
+  <img src="/img/uzbekistan/registan-evening.jpg" alt="">
+  <figcaption>Registan Square.</figcaption>
+</figure>
+
+As impressive as the outside is, some of these buildings are incredibly decorated inside. The **Amir Timur** mausoleum is such an example with its blue-gold decoration. Some buildings also follow the same tile decoration that is used for the facades, some feature more wall paintings and Arabic calligraphy.
+
+Some of the finest examples of tile decoration can be found at the **Shan-i-Zinda** Necropolis. This was also one of our favorite places to hang around and take pictures.
+
+<figure>
+  <img src="/img/uzbekistan/samarkand-2.jpg" alt="">
+  <figcaption>Blue tiles paradise at Shan-i-Zinda.</figcaption>
+</figure>
+<figure>
+  <img src="/img/uzbekistan/samarkand.jpg" alt="">
+  <figcaption>Bibi-Khanym Mosque.</figcaption>
+</figure>
+
+Some other interesting places to visit in Samarkand:
+
 - Ulugh-Beg's Observatory
 - The Bibi-Khanym Mosque
-- The Shan-i-Zinda Necropolis
+- Afrasiyab, an earlier settlement found in the area
 
-## Tile Architecture
+## Travel tips
 
-If there's one thing that stands out in all these cities, it's the beautiful art of tile decoration. Some of the finest examples can be found in Samarkand at the Shan-i-Zinda Necropolis. Nevertheless, countless examples are found in Khiva and Bukhara as well.
+Uzbekistan was part of the Soviet Union for over 70 years, so the country is heavily influenced by its communist period. After the fall of the Union, the country slowly made its way towards an open market economy, but at a very slow pace under a regime which was close to a dictatorship. Before 2016, the country was almost closed for foreigners, but things changed and nowadays Uzbekistan is opening its borders more and more to visitors from all over the world.
 
-## Interior Decorations
+The local currency is the Uzbekistani So'm (SUM). Be ready to learn the exchange rate and upgrade your bargaining skills because few items have fixed prices in Uzbekistan.
 
-As impressive as the outside is, some of these buildings are incredibly decorated inside. The Amir Timur mausoleum is such an example with its blue-gold decoration. Some buildings also follow the same tile decoration that is used for the facades, some feature more wall paintings and Arabic calligraphy.
+All the food we had was delicious, came in huge quantities and was relatively cheap. Local people like their spices, which you can buy in the local bazaars, they like their tea with halva or baklava and their national dish is the plov, or beef & rice pilaf. Also they eat a lot of bread and salads. If you arrive at a local market, you have to try the freshly baked bread, it is amazing!
 
-## Food
+<figure>
+  <img src="/img/uzbekistan/tashkent-market.jpg" alt="">
+  <figcaption>Bread stand at the local market in Tashkent.</figcaption>
+</figure>
 
-All the food here is delicious, comes in huge quantities and is relatively cheap for tourists. They like their spices, which you can buy in the local bazaars, they like their tea with halva or baklava and their national dish is the plov, or beef & rice pilaf. Also they eat a lot of bread and salads.
+The vast majority of the people in Uzbekistan are muslims, but islam is not a state religion.
+
+Clothing
+
+Lack of shopping malls and "modern" vibe
