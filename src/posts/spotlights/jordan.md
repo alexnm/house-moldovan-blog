@@ -10,6 +10,7 @@ mapsLink: https://www.google.com/maps/place/Jordan/@31.1675526,36.1454843,7.94z/
 tags:
   - middle east
   - culture
+  - nature
 packing:
   - Sunglasses, sunscreen and sun/wind protecting hat
   - Warm clothes for the desert night

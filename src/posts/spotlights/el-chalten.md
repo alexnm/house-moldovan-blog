@@ -11,6 +11,7 @@ tags:
   - south america
   - patagonia
   - hiking
+  - nature
 packing:
   - Sunglasses, sunscreen and sun protecting hat
   - At least 3 layers of clothing, including a fleece jacket and a windstopper
