@@ -522,9 +522,28 @@ img {
 .markdown-content h2,
 .markdown-content h3,
 .markdown-content h4 {
-  margin: 2rem 0 1rem 0;
-  scroll-margin-top: 4rem; /* scroll offset for sticky header */
+  /*
+   * Padding hack for correct scroll padding on headings. In some browsers
+   * scroll-margin is not supported outside scroll-snap containers. Though
+   * the spec has been updated, browsers haven't implented the new spec
+   * update yet.
+   * 
+   * Reference: https://stackoverflow.com/questions/58824570/css-scroll-padding-top-not-working-in-safari
+   */
+  margin: -2rem 0 1rem;
+  padding: 4rem 0 0;
   font-weight: var(--font-weight-bolder);
+}
+
+@supports (scroll-margin: 4rem) {
+  .markdown-content h1,
+  .markdown-content h2,
+  .markdown-content h3,
+  .markdown-content h4 {
+    margin: 2rem 0 1rem;
+    padding: 0;
+    scroll-margin: 4rem
+  }
 }
 
 .markdown-content p {
