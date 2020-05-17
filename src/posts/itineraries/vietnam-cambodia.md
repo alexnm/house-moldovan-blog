@@ -2,7 +2,7 @@
 layout: layouts/itinerary.njk
 pageTitle: South-East Asian Adventure
 subTitle: Vietnam and Cambodia in 16 days
-headline: This is a headline
+headline: South East Asia means much more than its rich history and beautiful nature. Exploring Vietnam and Cambodia was for us an opportunity to understand the values of two countries that went through war in their recent history and found the strength to recover from it. Check out our 16-days experience in 4 four different regions - Hanoi, Ho-Chi-Minh City, Siem Reap and Phu Quoc island.
 coverThumb: /img/cambodia/angkor-wat-thumb.jpg
 coverImage: /img/cambodia/angkor-wat-temple.jpg
 region: 🌎 South-East Asia
@@ -16,7 +16,7 @@ itinerary:
     - Great cities
     - Wonderful nature
   summary:
-    days: 19
+    days: 16
     period: Mar
     method: Plane, Bus, Boat
     budget: 2200$ pp
@@ -43,19 +43,33 @@ itinerary:
 
 ## Day 1: Hanoi
 
-Hanoi is a living city, full of people and full of contrasts.
+Most good travels start with a long flight, and this is no exception. We landed in Hanoi at around 7am, and at around 9am we were on the hotel rooftop terrace eating breakfast and enjoying a coffee and fresh fruits.
+
+In the quick two hours we had our first look in the Vietnamese culture. The driver who was trying hard to speak English with us and to show us a few things on the road, the busy roads and the crazy intersections ("Made in Vietnam" as the driver used to say), the hospitality of the hotel staff - these all gave us a very good reassuring feeling that we would get to find out a lot more about the world in the two weeks that we had planned.
+
+Hanoi is a truly living city. It is home for about 8 million people, and this makes it have it all: from the old quarter with narrow streets to green parks to fancy new shopping malls. Especially in the old quarter (but not only), you get to see narrow houses on multiple levels, with people cooking and eating in the street. In the evening, they gather around for food and drinks around very small tables on the sidewalk.
+
+We always felt safe, and walked around quite a lot. As a European, you need to re-learn how to cross the street (we had our 1-minute training at the hotel reception): keep a steady pace, don't stop and don't run, and try to make eye-contact with the people on the motorcycle coming towards you.
 
 <figure>
-  <img src="/img/argentina/buenos-aires-obelisco.jpg" alt="">
-  <figcaption>Regular view in Hanoi.</figcaption>
+  <video width="750" controls preload="none">
+    <source src="/img/vietnam/hanoi-video.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+  </video>
+  <figcaption>See how locals cross the street in Hanoi.</figcaption>
 </figure>
 
-First time in a new city on a new continent after a long flight (ours was 14 hours from Frankfurt)? ...
+**Recommended activities**:
 
-**Recommended activities**
+- Just walk around the old quarter, observe the people and enjoy the atmosphere
+- Eat pho and spring rolls at a local restaurant
+- Head to Hoan Kiem Lake and Ngoc Son Temple
+- Visit Ho Chi Minh Mausoleum (there you can see Ho Chi Minh's "conserved" body)
 
-- just observing people
-- eating pho!
+<figure>
+  <img src="/img/vietnam/hanoi-ho-chi-minh.jpg" alt="">
+  <figcaption>Ho Chi Minh Mausoleum.</figcaption>
+</figure>
 
 ## Days 2-3: Sapa
 
