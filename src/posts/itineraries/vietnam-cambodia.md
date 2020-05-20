@@ -73,7 +73,7 @@ We always felt safe, and walked around quite a lot. As a European, you need to r
 
 ## Days 2-3: Sapa
 
-After spending our first day in Hanoi, we left the city for a two-day visit of rural Vietnam, up-north, in the beautiful region of Sapa.
+After spending our first day in Hanoi, we left the city for a two-day visit of rural Vietnam, up-north, in the mountainous region of Sapa.
 
 We previously booked this trip with a local company, and they took care of everything: arranged a bus transfer, made sure we had all meals included and planned our trekking activities.
 
