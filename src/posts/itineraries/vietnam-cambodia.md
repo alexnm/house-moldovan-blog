@@ -95,7 +95,7 @@ On our second day in Sapa we went on a longer trek and we got to actually see en
 
 ## Days 4-5: Ha Long Bay
 
-If the first trip was booked online from home, for our next one we decided to wait and do the booking in Hanoi. The staff at the hotel helped with that, they recommended us a local agency and even did the booking for us. Keep in mind that everything is negotiable in Vietnam, so do your homework before talking to a local agency :) For their services especially, we highly recommend [La Selva hotel](https://www.booking.com/hotel/vn/the-jasmine.en-gb.htm). For our night between the two trips we had to stay in another place, but they moved our luggages from one hotel to the other at no extra cost, and also came to greet us in the morning before we left for Ha Long Bay.
+If the first trip was booked online from home, for our next one we decided to wait and do the booking in Hanoi. The staff at the hotel helped with that, they recommended a local agency and helped us decide between the various options. Keep in mind that everything is negotiable in Vietnam, so do your homework before booking a trip :)
 
 Most of the trips in Vietnam take care of the bus transfers and all your meals, and this was no exception. After a few hours of crazy driving, this time on a very busy road, we reached Ha Long Bay and went on board of a nice boat. And then the amazing views started to show themselves :)
 
@@ -107,15 +107,41 @@ Most of the trips in Vietnam take care of the bus transfers and all your meals, 
   <figcaption>Regular view while cruising in Ha Long Bay.</figcaption>
 </figure>
 
-**Recommended activities**:
+Besides enjoying the landscape of limestone karst mountains and islands from various places on the boat, there were some other activities organized by the crew. We really enjoyed kayaking around the lovely Tra Bau area, even if it was the first time we tried that together. Also, we attended a spring rolls cooking lesson and a Vietnamese tea ceremony, both were fun and very informative.
 
-- Sit and enjoy the landscape of limestone karst mountains and islands
-- Kayak around the lovely Tra Bau area
-- Attend a spring rolls cooking lesson and a Vietnamese tea ceremony
+The road back to Hanoi was equally crazy, and it was followed by a quite crowded flight to Ho Chi Minh City.
 
 ## Days 6-8: Ho Chi Minh City
 
-### Vietnam War Museum & Cu Chi Tunnels
+We landed quite late, but from the very beginning we could tell that Ho Chi Minh City is very different from Hanoi. Formerly called Saigon, it is known for its role in Vietnam War, and also for its French colonial buildings.
+
+In total, we spent three days here, and we used the time to get the vibe of the city, to visit some rural areas around it and to understand more about the war.
+
+### War Remnants Museum & Cu Chi Tunnels
+
+After having spent a few days in the nature, our apetite for culture was quite high. So we hopped on a guided full-day trip to the historic center of Ho Chi Minh City and to the famous Cu Chi Tunnels.
+
+<figure>
+  <img src="/img/vietnam/saigon-notre-dame.jpg" alt="">
+  <figcaption>Notre Dame Cathedral in Ho Chi Minh City.</figcaption>
+</figure>
+
+The tour covered the Notre Dame Cathedral and a 19-th century post office built by the French, followed by the Reunification Palace and the War Remnants Museum. These last two were really impressive and they made us understand a lot about the American War in Vietnam, as it's called throughout the museum.
+
+The visit to the museum is very educational. You get to understand the context in which everything started, the main events during the war, and also how each party viewed it and how that influenced its course. We expected the exhibits to be more biased, but were pleaseantly surprised by the fact-based explanations. Also, a lot of famous photos from the Vietnamese and foreign press were being exhibited. Although it's a very sad experience overall, we loved the optimistic vibe at the end: clearly, they managed to get past the war, even if its consequences are still visible.
+
+Our next stop was at the underground network of Cu-Chi tunnels. They were used by Viet Cong during the war, and a lot of the Vietnamese people life was happening inside: they even had some "rooms" they used as schools. We were able to enter in one of the tunnels (one of the larger ones), and were struck by how small they actually were. It's definitely not an experience for claustrophobic people, but if you can physically do it, we highly recommend it.
+
+<figure>
+  <img src="/img/vietnam/cu-chi-tunnels.jpg" alt="">
+  <figcaption>The entrance to the tunnel that was open for tourists.</figcaption>
+</figure>
+
+Another activity that you can't do somewhere else is shoot a few bullets with a weapon of your choice, out of a few that were used in the war. We tried an AK-47, and shot about ten bullets. It was the first time we shot a gun, so starting directly with an AK-47 was probably not the wisest thing (although it was safe from all other aspects). Also, hearing these shots while walking inside the Cu-Chi tunnels area adds to the experience in a scary but good way.
+
+<div class="info warning">
+  <span>Make sure to use insect-repellent when you arrive in the area, as you are basically in the jungle.</span>
+</div>
 
 ### Visiting the city
 
@@ -138,5 +164,8 @@ Most of the trips in Vietnam take care of the bus transfers and all your meals, 
 - visas
 - currencies and changing money
 - hotels
+
+For their services especially, we highly recommend [La Selva hotel](https://www.booking.com/hotel/vn/the-jasmine.en-gb.htm). For our night between the two trips we had to stay in another place, but they moved our luggages from one hotel to the other at no extra cost, and also came to greet us in the morning before we left for Ha Long Bay.
+
 - safety
 - general atmosphere
