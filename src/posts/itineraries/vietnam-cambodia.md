@@ -145,7 +145,43 @@ Another activity that you can't do somewhere else is shoot a few bullets with a 
 
 ### Visiting the city
 
+After getting a glimpse of the city in the first day, it was now time to actually feel its vibe. We started with a very good Vietnamese coffee at Trung Nguyên Legend Café (it's a chain, you find the coffee shops throughout the city), then we walked around the old city just observing how people live. We did not miss the famous Ben Thanh Street Food market, with its variety of colors and smells.
+
+HCMC definitely is crowded, but it's better spaced compared to Hanoi. The wide boulevards (a legacy of the French colonial times), the bigger squares and the larger buildings make it clear that the city is truly the financial capital of Vietnam.
+
+<figure>
+  <video width="750" controls preload="none">
+    <source src="/img/vietnam/saigon-video.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+  </video>
+  <figcaption>Regular intersection in Ho Chi Minh City.</figcaption>
+</figure>
+
+The city is alive, both during the day and the night. The area around People's Committee of Ho Chi Minh City is especially crowded during the evening - it seemed to be "the walking place" for a lot of youngsters and families alike. If there is one place where we did not feel the communist vibe at all, this is it.
+
+**Recommended activities**:
+
+- walk around the city center, both during the day and during the evening
+- have a Vietnamese coffee, with condensed milk, at a local coffee shop
+- grab a snack at Ben Thanh Market
+
 ### Mekong Delta
+
+For our last day in the area, we went rural again. We booked a guided trip to Mekong Delta, but it was actually a lot more than that.
+
+<figure>
+  <img src="/img/vietnam/buddha-mekong.jpg" alt="">
+  <figcaption>Happy Buddha statue at Vinh Trang Temple.</figcaption>
+</figure>
+
+It started with the Vinh Trang Pagoda, a famous Buddhist temple that has three huge statues of Buddha. Then, the trip continued by motorized boat on the Tien River to the Qui (Tortoise Islet), followed by a cruise on the Bao Dinh canal. We also had a stop at the Ben Tre province — "the land of coconuts" where, we bought (and ate) a lot of coconut candies, they are just awesome.
+
+Last but not least, we took a short trip on a rowing boat on one of the small canals of Mekong Delta. It's a beautiful experience, as we got to see some remote places that were inaccessible otherwise. The people "driving" the boat are highly skilled, so it's all safe, but seeing other boats come towards you can give you an unease feeling.
+
+<figure>
+  <img src="/img/vietnam/mekong-delta.jpg" alt="">
+  <figcaption>On a rowing boat in Mekong Delta.</figcaption>
+</figure>
 
 ## Days 9-12: Cambodia
 
