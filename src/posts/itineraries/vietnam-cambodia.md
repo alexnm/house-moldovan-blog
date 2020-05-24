@@ -235,6 +235,15 @@ At about 1km away from the resort there was a beach that offered a very nice sun
 
 ## Day 16: Hanoi
 
+When we had to go back to Hanoi for our flight home, we started to really feel that our trip was coming to an end. With one day left in Hanoi, we decided to visit another area than what we previously saw. We ended up "climbing" (via an elevator) on the [Lotte Observation Deck](https://lottecenter.com.vn/eng/observation/overview.asp) - a sky walk located at the 65th floor of the Lotte Tower.
+
+<figure>
+  <img src="/img/vietnam/lotte-tower-view.jpg" alt="">
+  <figcaption>View of Hanoi from the Lotte Observation Deck.</figcaption>
+</figure>
+
+We spent the rest of the day buying souvenirs (read: a lot of coffee) for home. Also, we couldn't help but eat yet another bowl of pho - and we loved it once again!
+
 ## Travel tips
 
 - flights
