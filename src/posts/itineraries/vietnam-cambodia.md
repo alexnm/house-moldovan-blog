@@ -176,7 +176,7 @@ For our last day in the area, we went rural again. We booked a guided trip to Me
 
 It started with the Vinh Trang Pagoda, a famous Buddhist temple that has three huge statues of Buddha. Then, the trip continued by motorized boat on the Tien River to the Qui (Tortoise Islet), followed by a cruise on the Bao Dinh canal. We also had a stop at the Ben Tre province — "the land of coconuts" where, we bought (and ate) a lot of coconut candies, they are just awesome.
 
-Last but not least, we took a short trip on a rowing boat on one of the small canals of Mekong Delta. It's a beautiful experience, as we got to see some remote places that were inaccessible otherwise. The people "driving" the boat are highly skilled, so it's all safe, but seeing other boats come towards you can give you an unease feeling.
+Last but not least, we took a short trip on a rowing boat on one of the small canals of Mekong Delta. It's a beautiful experience, as we got to see some remote places that were inaccessible otherwise. The people "driving" the boat are highly skilled, so it's all safe, but seeing other boats come towards you can give you an unease feeling and an adrenaline rush.
 
 <figure>
   <img src="/img/vietnam/mekong-delta.jpg" alt="">
@@ -185,11 +185,53 @@ Last but not least, we took a short trip on a rowing boat on one of the small ca
 
 ## Days 9-12: Cambodia
 
+After seeing the two main centers of Vietnam, with both the urban and rural areas around them, we took a flight to Siem Reap. As we previously read in some traveling articles, the most unpleasant experience that you have in Cambodia is in the airport. That's very true, because of the queues, because of all the forms that you need to fill in, and because of the unfriendly people there. But don't worry, that ends quite fast, and gets a lot better as soon as you step outside the airport :)
+
+The climate is very hot and humid in March, and there are a lot of insects and small animals all over the place. However, the hotel was the cleanest we had in our entire trip, and we got used to using insect repellent all day long. Also, we previously booked a car do drive us to the hotel, and the driver was the most cheerful man. He also ended up driving our tuk-tuk to Ankgor Wat, but about that, a bit later.
+
 ### Siem Reap countryside
+
+For our first full day in Siem Reap, we booked a guided tour in the rural areas around Siem Reap, that included the Kompong Khleang Floating Village.
+
+We chose a local agency, and that was the best decision that we could take. Our guide, John, a local Cambodian guy in his early twenties, was very knowledgeable and explained a lot about the local culture and how things changed for them in the recent history. Together with a small group, we biked through a village and visited the local market (and ate some goodies that John recommended). The terrain was flat, so it was not difficult to do that in spite of the heat. Also, we were greeted by a lot of children along the road, they were very nice and curious and (as John explained) saying "hello" was their way of getting in contact with the tourists, even if that was all the English that they spoke.
+
+<figure>
+  <img src="/img/cambodia/children-at-school.jpg" alt="">
+  <figcaption>Children in a school break.</figcaption>
+</figure>
+
+This experience was followed by the visit to Kompong Khleang, one of the floating villages where the community is still authentic. We were there in the dry season, so we started the visit by walking in the village, and then we had a traditional Khmer lunch at a local family in one of the pillar houses. This was followed by a boat trip on the Tonlé Sap lake, that offered revealing views of both the village and the lake.
+
+<figure>
+  <img src="/img/cambodia/floating-village.jpg" alt="">
+  <figcaption>Kompong Khleang floating village.</figcaption>
+</figure>
 
 ### Angkor Wat
 
+Days two and three (more like two and a half) in Cambodia were reserved for Angkor Wat, a huge temple complex close to Siem Reap. Being the former capital of the Khmer Empire, Angkor Wat is a unique destination in terms of architecture, history and pure beauty.
+
+<figure>
+  <img src="/img/cambodia/angkor-wat.jpg" alt="">
+  <figcaption>The main temple of Angkor Wat.</figcaption>
+</figure>
+
+We spent as much time as we could in the area, and we definitely recommend all travelers to visit it. To read more on our itinerary and our visiting options, check out our [spotlight article](https://housemoldovan.com/travel/exploring-the-temples-of-angkor-wat/).
+
 ## Days 13-15: Phu Quoc
+
+When planning the trip, we knew that we would be tired after two weeks of traveling, so we decided to book a few days to relax on the beach. There was some back and forth regarding the maxim number of days we could spend at the beach without dying of boredom :)
+
+We chose to spend those days in Phu Quoc, Vietnam's Pearl Island, in a remote resort in the western part of the island, not even close to the main city. We had our own bungalow, very close to the sea.
+
+Being in the Gulf of Thailand, the island has fine sand and blue warm water. Swimming was great both during the day and the night.
+
+<figure>
+  <img src="/img/vietnam/phu-quoc.jpg" alt="">
+  <figcaption>The beachfront in Phu Quoc.</figcaption>
+</figure>
+
+At about 1km away from the resort there was a beach that offered a very nice sunset view, with the sun disappearing in the sea. That was our only time outside the resort, and it was worth it. The beach was empty, and we were able to enjoy an amazing sunset all by ourselves.
 
 ## Day 16: Hanoi
 
