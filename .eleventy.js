@@ -10,6 +10,8 @@ const pluginReadingTime = require('eleventy-plugin-reading-time')
 const pluginSVG = require('eleventy-plugin-svg-contents')
 const pluginTOC = require('eleventy-plugin-toc')
 const pluginLazyImages = require('eleventy-plugin-lazyimages')
+const pluginSvgContents = require('eleventy-plugin-svg-contents')
+
 const postcss = require('postcss')
 const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
@@ -21,6 +23,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSVG)
   eleventyConfig.addPlugin(pluginTOC)
   eleventyConfig.addPlugin(pluginLazyImages)
+  eleventyConfig.addPlugin(pluginSvgContents)
 
   eleventyConfig.addFilter('readableDate', dateObj => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('dd LLL yyyy')
@@ -40,6 +43,10 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n)
   })
 
+  // Update dynamic function for footer year
+  eleventyConfig.addShortcode('currentYear', () => new Date().getFullYear().toString())
+
+  // Add postcss block declaration
   eleventyConfig.addPairedAsyncShortcode('postcss', async code => {
     const filepath = path.join(__dirname, 'src/_includes/css/index.css')
     return await postcss([autoprefixer, cssnano])
@@ -63,10 +70,11 @@ module.exports = function(eleventyConfig) {
     .use(markdownItAnchor, {
       // permalink: true,
       permalinkClass: 'direct-link',
-      permalinkBefore: true,
-      permalinkSymbol: '🔗'
+      permalinkBefore: false,
+      permalinkSymbol: '#'
     })
     .use(markdownItLinkAttributes, {
+      pattern: /^http/,
       attrs: {
         target: '_blank',
         rel: 'noopener noreferrer'
