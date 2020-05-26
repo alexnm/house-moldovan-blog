@@ -246,13 +246,62 @@ We spent the rest of the day buying souvenirs (read: a lot of coffee) for home. 
 
 ## Travel tips
 
-- flights
-- taxi / Uber / tuk-tuk
-- visas
-- currencies and changing money
-- hotels
+As almost all of our trips, this one was also a self-organized trip. We didn't know too much about the region and about how tourist-friendly it was, but we did our homework. Here are some of the things that we found out, some of them during the planning phase and others while being there.
 
-For their services especially, we highly recommend [La Selva hotel](https://www.booking.com/hotel/vn/the-jasmine.en-gb.htm). For our night between the two trips we had to stay in another place, but they moved our luggages from one hotel to the other at no extra cost, and also came to greet us in the morning before we left for Ha Long Bay.
+**Visas**
 
-- safety
-- general atmosphere
+Both Vietnam and Cambodia require visas for a lot of foreign countries. Make sure to check if you need one in advance.
+
+Vietnam has tourist visas with single and multiple entries, make sure you choose the right one depending on your itinerary. There are a lot of companies that take care of all the documentation and send you directly the visa approval paper, together with exact instructions on the next steps that you need to take. Make sure to follow those instructions and have the required amount of cash upon arrival, along with two passpord-size photos, to make the process smoother. We used https://www.vietnam-visaonline.org/ and paid 26USD for each person (on top of the actual cost of the visas that need to be paid when you enter the country, which is around 25USD per person).
+
+The Cambodian government has a website where you can apply for the visa directly: http://evisa.gov.kh/. This is a straight-forward process, which ends with a pdf that you receive via email where all the next steps are described (what to print, how many copies etc). The visa fee (36USD pp for us) needs to be paid online when applying for the visa.
+
+**Transportation**
+
+To travel internally in Vietnam and also from Vietnam to Cambodia and back, we chose to fly with Vietnam Airlines, and we had no issues, always left and arrived on time. We did not travel with Vietjet, but read reviews speaking of delays and canceled flights, and we didn't want to take that chance, even if Vietnam Airlines is more expensive. A good way of saving some money is if you book multiple flights at the same time - you only pay the processing fees once. Also, be aware that a lot of people in Vietnam travel with their small children, so the flights are not necessarily quiet, but there is a lot of effort to keep the kids entertained, so it's not bad either. The only annoying thing is that the luggage usually takes a lot to arrive, and a lot of people carry cardboard boxes instead of luggages. This is the reason why they are checked at the way out of the airport, and it of course adds some time to your schedule.
+
+To travel from the airport to the hotel we usually booked the trip in advance with the hotel staff. Beware that they don't send a taxi, they send a car with a driver they have a contract with. The quality of the drive is usually better than with a regular cab, and it's also a bit more expensive. The average cost for such a ride is 15USD.
+
+Inside the city feel free to take an Uber, they're a lot cheaper than what the hotels offer, and quite good. Make sure to check if you want a car or a motorcycle.
+
+In Cambodia, a tuk-tuk is also a very good option. Tuk-tuks are small motorcycles that are carying a 4 seat carriage and are pretty comfortable.
+
+**Currencies**
+
+In both Vietnam and Cambodia, you will need to change some money into the local currency, although there are some places where you can pay in USD, which is the preferred foreign currency for both countries.
+
+In vietnam, they have the Vietnamese Dong, but because of the past inflation, the numbers that they operated with are huge. 1 USD equals around 23000 VND. Check the exchange rate before going to an exchange office, because everything is negotiable in Vietnam, including this.
+
+In Cambodia, the currency is called Riel. 1 USD equals around 4100 KHR. In Siem Reap, the 1 dollar bill will get you a lot of basic goods, and you can pay a lot more with USD compared to Vietnam. Expect to get the change in KHR though.
+
+**Hotels**
+
+The rule of thumb that we followed when it comes to hotels was: make sure it's well located and clean. The prices are quite low compared to the European ones, with around 35USD / double room / night we were able to find very good places. Don't go for lower than that, as some hotels can be quite sketchy. Of course, there are a lot of luxury hotels as well, but we preferred to spend the money differently.
+
+For their services especially, we highly recommend [La Selva hotel](https://www.booking.com/hotel/vn/the-jasmine.en-gb.htm) in Hanoi. We stayed there for just one night, because they had no room available for the night between our two trips. They moved our luggages from one hotel to the other at no extra cost, and also came to greet us in the morning before we left for Ha Long Bay.
+
+[Shadow Angkor Residence](https://www.booking.com/hotel/kh/shadow-angkor-residence.en-gb.html?aid=304142) in Siem Reap was the best we had during our entire trip. Very clean, great smelling room and very good services offered by the staff.
+
+All hotels have safe boxes. Make sure to use them, it's a lot easier to walk around in the crowds without worriying about your passports or money. We had a few copies of our passports with us, and carried "a pair" of those in our wallets. Some hotels also need to keep a copy of your passport for the duration of your stay.
+
+**Food**
+Food in Vietnam is a-ma-zing. You need to try at least the traditional [pho soup](https://en.wikipedia.org/wiki/Pho) and [spring rolls](https://en.wikipedia.org/wiki/Spring_roll#Vietnam) - they come in different options: fresh or deeply fried, vegetarian or with meat. Also, coconut water drank direcly from a coconut nut is very good (especially if it's cold).
+
+<figure>
+  <img src="/img/vietnam/food.jpg" alt="">
+  <figcaption>Traditional lunch in Vietnam.</figcaption>
+</figure>
+
+In Cambodia, you will be able to try a lot of strange things, like bugs, snakes and other creatures. We are not that brave when it comes to food, so we just took a look at them :)
+
+Especially in the tropical areas, make sure you stay hydrated. That means drinking water and also eating salty foods, which will make you drink even more water. Soy sauce is your friend.
+
+Tap water is usually not safe to drink. Make sure you have bottled water with you at all times (the hotels usually offer a few bottles a day, and also all the day trips have that covered).
+
+**Other recommendations**
+The local tourism agency that we chose in Cambodia and that exceeded our expectations is [Triple A Cambodia](https://tripleacambodia.com/).
+
+**General atmosphere**
+It probably is obvious by now that we really enjoyed the time we spent in both Vietnam and Cambodia. We wish to go back there some day :)
+
+We went there for the history, architecture and the beautiful nature, and came back home with a nice feeling of having met wonderful people along the way. We always felt safe and welcome. We were curious about the local culture, and people were quite open about it. The fact that we learned a few words in the local language (how to say hello and thank you) also helped a lot, especially with the people that did not really speak English and were trying to.
