@@ -250,7 +250,7 @@ As almost all of our trips, this one was also a self-organized trip. We didn't k
 
 **Visas**
 
-Both Vietnam and Cambodia require visas for a lot of foreign countries. Make sure to check if you need one in advance.
+Both Vietnam and Cambodia require visas for a lot of foreign countries. Check if you need one in advance.
 
 Vietnam has tourist visas with single and multiple entries, make sure you choose the right one depending on your itinerary. There are a lot of companies that take care of all the documentation and send you directly the visa approval paper, together with exact instructions on the next steps that you need to take. Make sure to follow those instructions and have the required amount of cash upon arrival, along with two passpord-size photos, to make the process smoother. We used https://www.vietnam-visaonline.org/ and paid 26USD for each person (on top of the actual cost of the visas that need to be paid when you enter the country, which is around 25USD per person).
 
@@ -285,6 +285,7 @@ For their services especially, we highly recommend [La Selva hotel](https://www.
 All hotels have safe boxes. Make sure to use them, it's a lot easier to walk around in the crowds without worriying about your passports or money. We had a few copies of our passports with us, and carried "a pair" of those in our wallets. Some hotels also need to keep a copy of your passport for the duration of your stay.
 
 **Food**
+
 Food in Vietnam is a-ma-zing. You need to try at least the traditional [pho soup](https://en.wikipedia.org/wiki/Pho) and [spring rolls](https://en.wikipedia.org/wiki/Spring_roll#Vietnam) - they come in different options: fresh or deeply fried, vegetarian or with meat. Also, coconut water drank direcly from a coconut nut is very good (especially if it's cold).
 
 <figure>
@@ -299,9 +300,11 @@ Especially in the tropical areas, make sure you stay hydrated. That means drinki
 Tap water is usually not safe to drink. Make sure you have bottled water with you at all times (the hotels usually offer a few bottles a day, and also all the day trips have that covered).
 
 **Other recommendations**
+
 The local tourism agency that we chose in Cambodia and that exceeded our expectations is [Triple A Cambodia](https://tripleacambodia.com/).
 
 **General atmosphere**
+
 It probably is obvious by now that we really enjoyed the time we spent in both Vietnam and Cambodia. We wish to go back there some day :)
 
 We went there for the history, architecture and the beautiful nature, and came back home with a nice feeling of having met wonderful people along the way. We always felt safe and welcome. We were curious about the local culture, and people were quite open about it. The fact that we learned a few words in the local language (how to say hello and thank you) also helped a lot, especially with the people that did not really speak English and were trying to.
