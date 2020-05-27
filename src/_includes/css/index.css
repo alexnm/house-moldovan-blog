@@ -9,7 +9,7 @@
   --text-color-on-accent: #333;
   --text-color-cover: #fff;
 
-  --font-family: 'Nunito', sans-serif;
+  --font-family: "Nunito", sans-serif;
   --font-size-small: 15px;
   --font-size-regular: 16px;
   --font-size-large: 19px;
@@ -199,7 +199,8 @@ img {
 }
 
 .nav-item a {
-  transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
+  transition: border-bottom-color var(--motion-fade-speed)
+    var(--motion-fade-function);
   border-top: var(--underline-width) solid transparent;
   border-bottom: var(--underline-width) solid transparent;
   outline: none;
@@ -270,7 +271,7 @@ img {
 /* cover image */
 
 .cover-image {
-  background-image: url('/img/home-cover-small.jpg');
+  background-image: url("/img/home-cover-small.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -280,7 +281,7 @@ img {
 
 @media only screen and (min-width: 790px) {
   .cover-image {
-    background-image: url('/img/home-cover.jpg');
+    background-image: url("/img/home-cover.jpg");
   }
 }
 
@@ -301,7 +302,7 @@ img {
   .cover-image,
   .cover-overlay {
     height: 60vh;
-    min-height: 450px;
+    min-height: 500px;
   }
 }
 
@@ -542,7 +543,7 @@ img {
   .markdown-content h4 {
     margin: 2rem 0 1rem;
     padding: 0;
-    scroll-margin: 4rem
+    scroll-margin: 4rem;
   }
 }
 
@@ -566,7 +567,8 @@ img {
 }
 
 .markdown-content a {
-  transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
+  transition: border-bottom-color var(--motion-fade-speed)
+    var(--motion-fade-function);
   outline: none;
   border-bottom: var(--underline-width) solid var(--accent);
 }
@@ -691,7 +693,8 @@ img {
 .toc a {
   border-top: var(--underline-width) solid transparent;
   border-bottom: var(--underline-width) solid transparent;
-  transition: border-bottom-color var(--motion-fade-speed) var(--motion-fade-function);
+  transition: border-bottom-color var(--motion-fade-speed)
+    var(--motion-fade-function);
   outline: none;
 }
 
@@ -768,7 +771,7 @@ img {
 }
 
 .info:before {
-  content: ' ';
+  content: " ";
   display: inline-block;
   margin-right: 0.5rem;
   width: 1rem;
@@ -780,12 +783,12 @@ img {
 }
 
 .info.tip:before {
-  background: url('/img/icons/pin.svg') center no-repeat;
+  background: url("/img/icons/pin.svg") center no-repeat;
 }
 
 @media (prefers-color-scheme: dark) {
   .info.tip:before {
-    background: url('/img/icons/pin-dark.svg') center no-repeat;
+    background: url("/img/icons/pin-dark.svg") center no-repeat;
   }
 }
 
@@ -794,12 +797,12 @@ img {
 }
 
 .info.warning:before {
-  background: url('/img/icons/warning.svg') center no-repeat;
+  background: url("/img/icons/warning.svg") center no-repeat;
 }
 
 @media (prefers-color-scheme: dark) {
   .info.warning:before {
-    background: url('/img/icons/warning-dark.svg') center no-repeat;
+    background: url("/img/icons/warning-dark.svg") center no-repeat;
   }
 }
 

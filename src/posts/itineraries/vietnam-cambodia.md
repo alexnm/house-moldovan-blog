@@ -3,8 +3,8 @@ layout: layouts/itinerary.njk
 pageTitle: South-East Asian Adventure
 subTitle: Vietnam and Cambodia in 16 days
 headline: South East Asia means much more than its rich history and beautiful nature. Exploring Vietnam and Cambodia was for us an opportunity to understand the values of two countries that went through war in their recent history and found the strength to recover from it. Check out our 16-days experience in 4 four different regions - Hanoi, Ho-Chi-Minh City, Siem Reap and Phu Quoc island.
-coverThumb: /img/cambodia/angkor-wat-thumb.jpg
-coverImage: /img/cambodia/angkor-wat-temple.jpg
+coverThumb: /img/vietnam/buddha-mekong.jpg
+coverImage: /img/south-east-asia-cover.jpg
 region: 🌎 South-East Asia
 mapsLink: https://www.google.com/maps/@15.4101724,106.4498924,5.75z
 tags:
