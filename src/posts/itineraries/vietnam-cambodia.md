@@ -17,7 +17,7 @@ itinerary:
     - Wonderful nature
   summary:
     days: 16
-    period: Mar
+    period: Dec-Mar
     method: Plane, Bus, Boat
     budget: 2200$ pp
 ---
@@ -38,14 +38,14 @@ itinerary:
 | 12  | Angkor Wat at sunrise - Flight to Phu Quoc                     | Phu Quoc         |
 | 13  | Beach day at Phu Quoc                                          | Phu Quoc         |
 | 14  | Beach day at Phu Quoc                                          | Phu Quoc         |
-| 15  | Flight to Hanoi                                                | Hanoi            |
+| 15  | Flight to Hanoi - Lotte Observation Deck                       | Hanoi            |
 | 16  | Flight back home                                               | Home sweet home  |
 
 ## Day 1: Hanoi
 
 Most good travels start with a long flight, and this is no exception. We landed in Hanoi at around 7am, and at around 9am we were on the hotel rooftop terrace eating breakfast and enjoying a coffee and fresh fruits.
 
-In the quick two hours we had our first look in the Vietnamese culture. The driver who was trying hard to speak English with us and to show us a few things on the road, the busy roads and the crazy intersections ("Made in Vietnam" as the driver used to say), the hospitality of the hotel staff - these all gave us a very good reassuring feeling that we would get to find out a lot more about the world in the two weeks that we had planned.
+In the quick two hours we had our first look in the Vietnamese culture. The driver who was trying hard to speak English with us and to show us a few things on the road, the busy roads and the crazy intersections ("Made in Vietnam" as the driver used to say), the hospitality of the hotel staff - these all gave us a very good reassuring feeling that we would get to find out a lot more about the world in the two weeks that we had initially planned.
 
 Hanoi is a truly living city. It is home for about 8 million people, and this makes it have it all: from the old quarter with narrow streets to green parks to fancy new shopping malls. Especially in the old quarter (but not only), you get to see narrow houses on multiple levels, with people cooking and eating in the street. In the evening, they gather around for food and drinks around very small tables on the sidewalk.
 
@@ -73,20 +73,20 @@ We always felt safe, and walked around quite a lot. As a European, you need to r
 
 ## Days 2-3: Sapa
 
-After spending our first day in Hanoi, we left the city for a two-day visit of rural Vietnam, up-north, in the mountainous region of Sapa.
+After spending our first day in Hanoi, we left the city for a two-day visit in rural Vietnam, up-north, in the mountainous region of Sapa.
 
 We previously booked this trip with a local company, and they took care of everything: arranged a bus transfer, made sure we had all meals included and planned our trekking activities.
 
 The bus from Hanoi to Sapa takes about 6 hours, and it definitely is an experience on its own, mostly because of the crazy driving. With that out of the way, we arrived in Sapa, and were dropped of at a really nice hotel. After having lunch there, we met our local guide and started the first trekking session: we first visited the Cat Cat village, home of the Black H’mong ethnic people and located near the bottom of a deep valley at the foot of Fansipan Peak. From there, we went to the bottom of the valley, to see a beautiful waterfall and a hydraulic power station built by the French.
 
-The landscape is beautiful, but what impressed us most is how the locals lived. Our guide was a young woman named Như (pronounced just like the English word 'new'), born and raised in one of the villages in the area. She was able to explain a lot of how people actually lived there, and she also took us inside some locals homes. We have to say that for us that was a life-changing experience - our perception of poor and simple living was never the same again. Also, people there have a sense of hard work and perseverence that is not easy to find in the wealthier countries nowadays. Such an example is the fact that Như is a self-taught English speaker, with a lot of knowdlege on the area, even if until we met her, she had never been to Hanoi.
+The landscape is beautiful, but what impressed us most is how the locals lived. Our guide was a young woman named Như (pronounced just like the English word 'new'), born and raised in one of the villages in the area. She was able to explain a lot on how people actually lived there, and she also took us inside some locals homes. We have to say that for us that was a life-changing experience - our perception of poor and simple living was never the same again. Also, people there have a sense of hard work and perseverence that is not easy to find in the wealthier countries nowadays. Such an example is the fact that Như is a self-taught English speaker, with a lot of knowledge of the area, even if, until we met her, she had never been to Hanoi.
 
 <figure>
   <img src="/img/vietnam/sapa3.jpg" alt="">
   <figcaption>Local woman in Sapa.</figcaption>
 </figure>
 
-On our second day in Sapa we went on a longer trek and we got to actually see entire mountains covered with rice terraces. We visited Lao Chai and Ta Van village, homes of Black Hmong and Dzay people. The trek itself was not difficult, but it was long enough so that we really enjoyed our lunch at a local restaurant in Ta Van. Our way back to Sapa was by bus, followed by another long bus trip to Hanoi.
+On our second day in Sapa we went on a longer trek and we got to see entire mountains covered with rice terraces. We visited Lao Chai and Ta Van village, homes of Black Hmong and Dzay people. The trek itself was not difficult, but it was long enough that we really enjoyed our lunch at a local restaurant in Ta Van. Our way back to Sapa was by bus, followed by another long bus trip to Hanoi.
 
 <figure>
   <img src="/img/vietnam/sapa2.jpg" alt="">
@@ -97,7 +97,7 @@ On our second day in Sapa we went on a longer trek and we got to actually see en
 
 If the first trip was booked online from home, for our next one we decided to wait and do the booking in Hanoi. The staff at the hotel helped with that, they recommended a local agency and helped us decide between the various options. Keep in mind that everything is negotiable in Vietnam, so do your homework before booking a trip :)
 
-Most of the trips in Vietnam take care of the bus transfers and all your meals, and this was no exception. After a few hours of crazy driving, this time on a very busy road, we reached Ha Long Bay and went on board of a nice boat. And then the amazing views started to show themselves :)
+Most of the trips in Vietnam take care of the bus transfers and all your meals, and this was no exception. After a few hours of crazy driving, this time on a very busy road, we reached Ha Long Bay and went on board of a nice boat. And then the amazing views started to show themselves.
 
 <figure>
   <video width="750" controls preload="none">
@@ -126,9 +126,9 @@ After having spent a few days in the nature, our apetite for culture was quite h
   <figcaption>Notre Dame Cathedral in Ho Chi Minh City.</figcaption>
 </figure>
 
-The tour covered the Notre Dame Cathedral and a 19-th century post office built by the French, followed by the Reunification Palace and the War Remnants Museum. These last two were really impressive and they made us understand a lot about the American War in Vietnam, as it's called throughout the museum.
+The tour covered the Notre Dame Cathedral and a 19-th century post office built by the French, followed by the Reunification Palace and the War Remnants Museum. These last two were really impressive and they made us understand a lot about the American War in Vietnam - as it's called throughout the museum.
 
-The visit to the museum is very educational. You get to understand the context in which everything started, the main events during the war, and also how each party viewed it and how that influenced its course. We expected the exhibits to be more biased, but were pleaseantly surprised by the fact-based explanations. Also, a lot of famous photos from the Vietnamese and foreign press were being exhibited. Although it's a very sad experience overall, we loved the optimistic vibe at the end: clearly, they managed to get past the war, even if its consequences are still visible.
+The visit to the museum is very educational. You learn about the context in which everything started, the main events during the war, and also how each party viewed it and how that influenced its course. We expected the exhibits to be more biased, but were pleaseantly surprised by the fact-based explanations. Also, a lot of famous photos from the Vietnamese and foreign press were being exhibited. Although it's a very sad experience overall, we loved the optimistic vibe at the end: clearly, they managed to get past the war, even if its consequences are still visible.
 
 Our next stop was at the underground network of Cu-Chi tunnels. They were used by Viet Cong during the war, and a lot of the Vietnamese people life was happening inside: they even had some "rooms" they used as schools. We were able to enter in one of the tunnels (one of the larger ones), and were struck by how small they actually were. It's definitely not an experience for claustrophobic people, but if you can physically do it, we highly recommend it.
 
@@ -137,7 +137,7 @@ Our next stop was at the underground network of Cu-Chi tunnels. They were used b
   <figcaption>The entrance to the tunnel that was open for tourists.</figcaption>
 </figure>
 
-Another activity that you can't do somewhere else is shoot a few bullets with a weapon of your choice, out of a few that were used in the war. We tried an AK-47, and shot about ten bullets. It was the first time we shot a gun, so starting directly with an AK-47 was probably not the wisest thing (although it was safe from all other aspects). Also, hearing these shots while walking inside the Cu-Chi tunnels area adds to the experience in a scary but good way.
+Another activity that you can't do somewhere else is shoot a few bullets with a weapon of your choice, out of a few that were used in the war. We tried an AK-47, and shot about ten bullets. It was the first time we shot a gun, so starting directly with an AK-47 was probably not the wisest thing (although it was safe). Also, hearing these shots while walking inside the Cu-Chi tunnels area adds to the experience in a scary but good way.
 
 <div class="info warning">
   <span>Make sure to use insect-repellent when you arrive in the area, as you are basically in the jungle.</span>
@@ -147,7 +147,7 @@ Another activity that you can't do somewhere else is shoot a few bullets with a 
 
 After getting a glimpse of the city in the first day, it was now time to actually feel its vibe. We started with a very good Vietnamese coffee at Trung Nguyên Legend Café (it's a chain, you find the coffee shops throughout the city), then we walked around the old city just observing how people live. We did not miss the famous Ben Thanh Street Food market, with its variety of colors and smells.
 
-HCMC definitely is crowded, but it's better spaced compared to Hanoi. The wide boulevards (a legacy of the French colonial times), the bigger squares and the larger buildings make it clear that the city is truly the financial capital of Vietnam.
+HCMC definitely is crowded, but it's better spaced compared to Hanoi. The wide boulevards (a legacy of the French colonial times), the bigger squares and the larger buildings make it clear that the city truly is the financial capital of Vietnam.
 
 <figure>
   <video width="750" controls preload="none">
@@ -157,7 +157,7 @@ HCMC definitely is crowded, but it's better spaced compared to Hanoi. The wide b
   <figcaption>Regular intersection in Ho Chi Minh City.</figcaption>
 </figure>
 
-The city is alive, both during the day and the night. The area around People's Committee of Ho Chi Minh City is especially crowded during the evening - it seemed to be "the walking place" for a lot of youngsters and families alike. If there is one place where we did not feel the communist vibe at all, this is it.
+The city is alive, both during the day and the night. The area around People's Committee of Ho Chi Minh City is especially crowded during the evening - it seemed to be "the walking place" for a lot of youngsters and families alike. If there is one place in Vietnam where we did not feel the communist vibe at all, this is definitely it.
 
 **Recommended activities**:
 
@@ -174,7 +174,7 @@ For our last day in the area, we went rural again. We booked a guided trip to Me
   <figcaption>Happy Buddha statue at Vinh Trang Temple.</figcaption>
 </figure>
 
-It started with the Vinh Trang Pagoda, a famous Buddhist temple that has three huge statues of Buddha. Then, the trip continued by motorized boat on the Tien River to the Qui (Tortoise Islet), followed by a cruise on the Bao Dinh canal. We also had a stop at the Ben Tre province — "the land of coconuts" where, we bought (and ate) a lot of coconut candies, they are just awesome.
+It started with the Vinh Trang Pagoda, a famous Buddhist temple that has three huge statues of Buddha. Then, the trip continued by motorized boat on the Tien River to the Qui (Tortoise Islet), followed by a cruise on the Bao Dinh canal. We also had a stop at the Ben Tre province — "the land of coconuts", where we bought (and ate) a lot of coconut candies, they are just awesome.
 
 Last but not least, we took a short trip on a rowing boat on one of the small canals of Mekong Delta. It's a beautiful experience, as we got to see some remote places that were inaccessible otherwise. The people "driving" the boat are highly skilled, so it's all safe, but seeing other boats come towards you can give you an unease feeling and an adrenaline rush.
 
@@ -246,7 +246,7 @@ We spent the rest of the day buying souvenirs (read: a lot of coffee) for home. 
 
 ## Travel tips
 
-As almost all of our trips, this one was also a self-organized trip. We didn't know too much about the region and about how tourist-friendly it was, but we did our homework. Here are some of the things that we found out, some of them during the planning phase and others while being there.
+As almost all of our trips, this one was a self-organized trip. We didn't know too much about the region and about how tourist-friendly it was, but we did our homework. Here are some of the things that we found out, some of them during the planning phase and others while being there.
 
 **Visas**
 
@@ -254,11 +254,11 @@ Both Vietnam and Cambodia require visas for a lot of foreign countries. Check if
 
 Vietnam has tourist visas with single and multiple entries, make sure you choose the right one depending on your itinerary. There are a lot of companies that take care of all the documentation and send you directly the visa approval paper, together with exact instructions on the next steps that you need to take. Make sure to follow those instructions and have the required amount of cash upon arrival, along with two passpord-size photos, to make the process smoother. We used https://www.vietnam-visaonline.org/ and paid 26USD for each person (on top of the actual cost of the visas that need to be paid when you enter the country, which is around 25USD per person).
 
-The Cambodian government has a website where you can apply for the visa directly: http://evisa.gov.kh/. This is a straight-forward process, which ends with a pdf that you receive via email where all the next steps are described (what to print, how many copies etc). The visa fee (36USD pp for us) needs to be paid online when applying for the visa.
+The Cambodian government has a website where you can apply for the visa directly: http://evisa.gov.kh/. This is a straight-forward process, which ends with a pdf that you receive via email where all the next steps are described (what to print, how many copies etc). The visa fee (36USD pp in our case) needs to be paid online when applying for the visa.
 
 **Transportation**
 
-To travel internally in Vietnam and also from Vietnam to Cambodia and back, we chose to fly with Vietnam Airlines, and we had no issues, always left and arrived on time. We did not travel with Vietjet, but read reviews speaking of delays and canceled flights, and we didn't want to take that chance, even if Vietnam Airlines is more expensive. A good way of saving some money is if you book multiple flights at the same time - you only pay the processing fees once. Also, be aware that a lot of people in Vietnam travel with their small children, so the flights are not necessarily quiet, but there is a lot of effort to keep the kids entertained, so it's not bad either. The only annoying thing is that the luggage usually takes a lot to arrive, and a lot of people carry cardboard boxes instead of luggages. This is the reason why they are checked at the way out of the airport, and it of course adds some time to your schedule.
+To travel internally in Vietnam and also from Vietnam to Cambodia and back, we chose to fly with Vietnam Airlines, and we had no issues, always left and arrived on time. We did not travel with Vietjet, but read reviews speaking of delays and canceled flights, and we didn't want to take that chance, even if Vietnam Airlines is more expensive. A good way of saving some money is if you book multiple flights at the same time - you only pay the quite expensive processing fees once. Also, be aware that a lot of people in Vietnam travel with their small children, so the flights are not necessarily quiet, but there is a lot of effort to keep the kids entertained, so it's not bad either. The only annoying thing is that the luggage usually takes a lot to arrive, and a lot of people carry cardboard boxes instead of luggages. This is the reason why they are checked at the way out of the airport, and it of course adds some time to your schedule.
 
 To travel from the airport to the hotel we usually booked the trip in advance with the hotel staff. Beware that they don't send a taxi, they send a car with a driver they have a contract with. The quality of the drive is usually better than with a regular cab, and it's also a bit more expensive. The average cost for such a ride is 15USD.
 
@@ -270,7 +270,7 @@ In Cambodia, a tuk-tuk is also a very good option. Tuk-tuks are small motorcycle
 
 In both Vietnam and Cambodia, you will need to change some money into the local currency, although there are some places where you can pay in USD, which is the preferred foreign currency for both countries.
 
-In vietnam, they have the Vietnamese Dong, but because of the past inflation, the numbers that they operated with are huge. 1 USD equals around 23000 VND. Check the exchange rate before going to an exchange office, because everything is negotiable in Vietnam, including this.
+In Vietnam, they have the Vietnamese Dong, but because of the past inflation, the numbers that they operate with are huge. 1 USD equals around 23000 VND. Check the exchange rate before going to an exchange office, because, as mentioned earlier, everything is negotiable in Vietnam, including this.
 
 In Cambodia, the currency is called Riel. 1 USD equals around 4100 KHR. In Siem Reap, the 1 dollar bill will get you a lot of basic goods, and you can pay a lot more with USD compared to Vietnam. Expect to get the change in KHR though.
 
@@ -278,11 +278,11 @@ In Cambodia, the currency is called Riel. 1 USD equals around 4100 KHR. In Siem 
 
 The rule of thumb that we followed when it comes to hotels was: make sure it's well located and clean. The prices are quite low compared to the European ones, with around 35USD / double room / night we were able to find very good places. Don't go for lower than that, as some hotels can be quite sketchy. Of course, there are a lot of luxury hotels as well, but we preferred to spend the money differently.
 
-For their services especially, we highly recommend [La Selva hotel](https://www.booking.com/hotel/vn/the-jasmine.en-gb.htm) in Hanoi. We stayed there for just one night, because they had no room available for the night between our two trips. They moved our luggages from one hotel to the other at no extra cost, and also came to greet us in the morning before we left for Ha Long Bay.
+For their services especially, we highly recommend [La Selva hotel](https://www.booking.com/hotel/vn/the-jasmine.en-gb.htm) in Hanoi. We stayed there for just one night, because they had no room available for the night between our two trips to Sapa and Ha Long Bay. They moved our luggages from one hotel to the other at no extra cost, and also came to greet us in the morning before we left for Ha Long Bay.
 
 [Shadow Angkor Residence](https://www.booking.com/hotel/kh/shadow-angkor-residence.en-gb.html?aid=304142) in Siem Reap was the best we had during our entire trip. Very clean, great smelling room and very good services offered by the staff.
 
-All hotels have safe boxes. Make sure to use them, it's a lot easier to walk around in the crowds without worriying about your passports or money. We had a few copies of our passports with us, and carried "a pair" of those in our wallets. Some hotels also need to keep a copy of your passport for the duration of your stay.
+All hotels have safe boxes. Make sure to use them, it's a lot easier to walk around in the crowds without worriying about your passports or money. We had a few copies of our passports with us, and carried "a pair" of those in our wallets. They also come in handy as some hotels also need to keep either the passport or a copy of it for the duration of your stay.
 
 **Food**
 
@@ -302,6 +302,13 @@ Tap water is usually not safe to drink. Make sure you have bottled water with yo
 **Other recommendations**
 
 The local tourism agency that we chose in Cambodia and that exceeded our expectations is [Triple A Cambodia](https://tripleacambodia.com/).
+
+Make sure to pack a sun protection screen with a high SPF (at least 30) because the sun really is burning. Also, an insect repellent is very useful, but you can find very good ones there (a lot better than the one we packed from home).
+
+To know more about the region, there were two books that we read:
+
+- [Catfish and Mandala: A Two-Wheeled Voyage Through the Landscape and Memory of Vietnam](https://www.goodreads.com/book/show/4370.Catfish_and_Mandala) by Andrew X. Pham
+- [Pierdut în Vietnam & Cambodgia](https://www.goodreads.com/book/show/30255894-pierdut-in-vietnam-cambodgia) by Cătălin Vrabie (this in only in Romanian)
 
 **General atmosphere**
 
