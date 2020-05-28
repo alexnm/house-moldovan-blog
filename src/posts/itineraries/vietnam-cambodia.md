@@ -74,20 +74,7 @@ We always felt safe, and walked around quite a lot. As a European, you need to r
 
 ## Days 2-3: Sapa
 
-After spending our first day in Hanoi, we left the city for a two-day visit in rural Vietnam, up-north, in the mountainous region of Sapa.
-
-We had this trip booked with a local company from before our holiday started. They took care of everything: arranged a bus transfer, made sure we had all meals included and planned our trekking activities.
-
-The bus from Hanoi to Sapa takes about 6 hours, and it definitely is an experience on its own, especially because of the crazy driving. With that out of the way, we arrived in Sapa, and were dropped of at a nice hotel. After having lunch there, we met our local guide and started the first trekking session. We first visited the Cat Cat village, home of the Black H’mong ethnic people and located near the bottom of a deep valley at the foot of Fansipan Peak. From there, we went to the bottom of the valley, to see a beautiful waterfall and a hydraulic power station built by the French.
-
-The landscape is beautiful, but what impressed us most is how the locals lived. Our guide was a young woman named Như (pronounced like the English word 'new'), born and raised in one of the villages in the area. She was able to explain a lot on how people actually lived there, and she also took us inside some locals homes. We have to say that for us that was a life-changing experience - our perception of poor and simple living was never the same again. Also, people there have a sense of hard work and perseverance that is not easy to find in the wealthier countries nowadays. Such an example is the fact that Như is a self-taught English speaker, with a lot of knowledge of the area, even if, until we met her, she had never been to Hanoi.
-
-<figure>
-  <img src="/img/vietnam/sapa3.jpg" alt="">
-  <figcaption>Local woman in Sapa.</figcaption>
-</figure>
-
-On our second day in Sapa we went on a longer trek and we got to see entire mountains covered with rice terraces. We visited Lao Chai and Ta Van village, homes of Black Hmong and Dzay people. The trek itself was not difficult, but it was long enough that we really enjoyed our lunch at a local restaurant in Ta Van. Our way back to Sapa was by bus, followed by another long bus trip to Hanoi.
+After spending our first day in Hanoi, we left the city for a two-day visit in rural Vietnam, up-north, in the mountainous region of Sapa. There, we got to see entire mountains covered with rice terraces. The landscape is beautiful, but what impressed us most is how the locals lived. You can read more about the ethnic diversity in Sa Pa in our [spotlight](https://housemoldovan.com/travel/ethnic-diversity-in-sa-pa/) article.
 
 <figure>
   <img src="/img/vietnam/sapa2.jpg" alt="">
