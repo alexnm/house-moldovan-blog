@@ -74,7 +74,7 @@ We always felt safe, and walked around quite a lot. As a European, you need to r
 
 ## Days 2-3: Sapa
 
-After spending our first day in Hanoi, we left the city for a two-day visit in rural Vietnam, up-north, in the mountainous region of Sapa. There, we got to see entire mountains covered with rice terraces. The landscape is beautiful, but what impressed us most is how the locals lived. You can read more about the ethnic diversity in Sa Pa in our [spotlight](https://housemoldovan.com/travel/ethnic-diversity-in-sa-pa/) article.
+After spending our first day in Hanoi, we left the city for a two-day visit in rural Vietnam, up-north, in the mountainous region of Sapa. There, we got to see never-ending rice terraces. The landscape is beautiful, but what impressed us most is how the locals lived. You can read more about the ethnic diversity and about our experience in Sa Pa in our [spotlight](https://housemoldovan.com/travel/ethnic-diversity-in-sa-pa/) article.
 
 <figure>
   <img src="/img/vietnam/sapa2.jpg" alt="">
