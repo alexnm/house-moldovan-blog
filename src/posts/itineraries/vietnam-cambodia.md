@@ -49,7 +49,7 @@ Most good travels start with a long flight, and this is no exception. We landed 
 
 In the quick two hours we had our first contact with the Vietnamese culture. The driver was trying hard to speak English and showed us a few things on the way. The roads were busy and the crossroads chaotic - "Made in Vietnam" as the driver told us smiling. All these, along with the hospitality of the hotel staff, gave us the feeling that we would find out more about the world than what we planned for.
 
-Hanoi feels like a city that is constantly on the move. It is home for about 8 million people and it has everything from the old quarter with narrow streets, to green parks and to fancy shopping malls. Especially in the old quarter, you see narrow houses on many levels.
+Hanoi feels like a city that is constantly on the move. It is home for about 8 million people and it has everything from the old quarter with narrow streets, to green parks and to fancy shopping malls.
 
 A lot of people are cooking and eating in the street. In the evening, they gather for food and drinks around very small tables on the sidewalk. This is probably the most typical Vietnamese imagery. On the sidewalks, in the middle of the streets, in parks, everybody is selling something: snacks, fruits, clothes, bike rides, etc.
 
@@ -98,7 +98,7 @@ Most of the tours in Vietnam offer all the bus transfers and meals, and this was
   <figcaption>Regular view while cruising in Ha Long Bay.</figcaption>
 </figure>
 
-Besides enjoying landscape, we did a few hikes on some of the bigger islands and we had several activities organized by the crew. We did some kayaking around the lovely Tra Bau area, even if it was the first time we tried that together and we had a hard time synchronizing our strokes. Also, we attended a spring rolls cooking lesson and a Vietnamese tea ceremony. They were both fun and informative.
+Besides enjoying the landscape, we did a few hikes on some of the bigger islands and we had several activities organized by the crew. We did some kayaking around the lovely Tra Bau area, even if it was the first time we tried that together and we had a hard time synchronizing our strokes. Also, we attended a spring rolls cooking lesson and a Vietnamese tea ceremony. They were both fun and informative.
 
 The road back to Hanoi was again pretty busy, and it was followed by a crowded flight to Ho Chi Minh City.
 
@@ -207,7 +207,7 @@ Days two and three (more like two and a half) in Cambodia were reserved for Angk
   <figcaption>The main temple of Angkor Wat.</figcaption>
 </figure>
 
-We spent as much time as we could in the area, and we definitely recommend it to everyone as one of the most impressive travel destinations in the world. We wrote [this extensive spotlight](/travel/exploring-the-temples-of-angkor-wat/) on Angkor Wat, with details on the various temples and spots that you should visit during your trip. [spotlight article].
+We spent as much time as we could in the area, and we definitely recommend it to everyone as one of the most impressive travel destinations in the world. We wrote [this extensive spotlight](/travel/exploring-the-temples-of-angkor-wat/) on Angkor Wat, with details on the various temples and spots that you should visit during your trip.
 
 ## Days 13-14: Phu Quoc
 
