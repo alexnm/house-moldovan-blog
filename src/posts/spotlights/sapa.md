@@ -10,12 +10,13 @@ mapsLink: https://www.google.com/maps/place/Sa+Pa,+Lao+Cai,+Vietnam/@22.3476073,
 tags:
   - south-east asia
   - nature
-  - people
+  - culture
+  - hiking
 packing:
-  - Sunscreen and mosquito repellent
-  - Sunglasses and sun hat
+  - Good walking/hiking shoes
   - A light rain coat
   - A light backpack for carrying some snacks and water
+  - Sunscreen and mosquito repellent for the summer season
 ---
 
 ## Introduction
