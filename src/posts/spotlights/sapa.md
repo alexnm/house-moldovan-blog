@@ -2,7 +2,7 @@
 layout: layouts/spotlight.njk
 pageTitle: Life in the mountains of Sapa
 subTitle: Understading the local culture while hiking in rural northern Vietnam
-headline: In Sapa, you get to see entire mountains covered with rice terraces. But even more fascinating than the landscape are the people that live in this area. Find out more about them in this article.
+headline: Sapa is famous for the rice terraces covering the mountains around it. But even more fascinating than the landscapes are the people inhabiting them. Find out more about them in this article.
 coverThumb: /img/vietnam/sapa3.jpg
 coverImage: /img/vietnam/sapa2.jpg
 region: 🌏 Sapa, Vietnam
@@ -20,56 +20,52 @@ packing:
 
 ## Introduction
 
-Sapa or Sa Pa, is a small town in Lao Cai Province. It is close to the Chinese border, at about 350 km from Hanoi. The town is located in the Hoang Lien Son mountain range, which includes Fan Si Pan peak, the highest in the entire country.
+Sapa or Sa Pa, is a small town in Lao Cai Province. It is close to the Chinese border, about 350km north of Hanoi. The town is located in the Hoang Lien Son mountain range, which includes Fan Si Pan peak, the highest in the entire country.
 
-There are usually a lot of tourists going to Sapa, mostly for the beautiful treks and the iconic rice fields. On top of this, the region is very interesting as it's home to different ethnic groups. Meeting the people is what impressed us the most.
+The area can be crowded with tourists, but we were fortunate to visit before the start of the high season. We weren't that fortunate when it came to the weather, as we had two foggy days. People go to Sapa for the beautiful treks and the iconic rice fields. But the region is also a cultural destination as it is home to different ethnic groups. These groups are not of Vietnamese ancestry and they have their distinct languages and customs.
 
 ## How to get there
 
-If you're traveling on your own, there are a few options to get to Sapa from Hanoi. The one that's recommended a lot is by night train. The trip from Hanoi to Lao Cai takes about 9 hours, and then from there you can go to Sapa by minibus or by taxi. Another option is to book a transfer with a tourism agency. A minibus will take you from your hotel in Hanoi (if you're staying in the Old Town) and will leave you at your hotel in Sapa. If you're used to riding a motorcycle, that's definitely an option too, as the road goes through beautiful regions. The ride should take around 9-10 hours in total.
+There are a few options to get from Hanoi to Sapa. One of the most popular is by night train. The trip from Hanoi to Lao Cai takes about 9 hours, and then from there you can go to Sapa by minibus or by taxi. Another option is to book a transfer with a travel agency. A minibus will take you from your hotel in Hanoi and to your hotel in Sapa. If you're used to riding a motorcycle, that's definitely a nice option too, as the road goes up through the mountainous region of North Vietnam.
 
-We visited Sapa as part of our [longer trip in Vietnam and Cambodia](/travel/south-east-asian-adventure/). We had a 2-day trip to Sapa booked with a [local company](https://www.getyourguide.com/activity/hanoi-l205/2-day-sapa-bus-tour-from-hanoi-and-sapa-hotel-stay-t49881) from before our holiday started. They took care of everything: arranged a bus transfer, made sure we had all meals included and planned our hiking activities.
+We visited Sapa as part of our [longer trip in Vietnam and Cambodia](/travel/south-east-asian-adventure/). We had a 2-day trip booked with a [local company](https://www.getyourguide.com/activity/hanoi-l205/2-day-sapa-bus-tour-from-hanoi-and-sapa-hotel-stay-t49881). The package included the bus transfer from our hotel in Hanoi and back, all the meals and a local guide for the two days in Sapa.
 
-The bus from Hanoi to Sapa takes about 6 hours, and it definitely is an experience on its own, especially because of the chaotic driving. There was no guide with us on the road, and the driver didn't speak English, but that was not an issue. In our opinion, being taken from our hotel in Hanoi and being dropped of at the hotel in Sapa was really comfortable and helpful.
+The bus from Hanoi to Sapa takes about 6 hours, and is an experience on its own, especially because of the chaotic driving on the highway and through the mountain road.
 
 ## Ethnic diversity
 
-Depending on how much time you have and on your physical condition, there are several activities that you can do in Sapa. They range from half-day hikes, quite easy to do for anyone, to multiple day treks. They usually include visiting at least a village in the area, besides the actual hiking part, and there is a very good reason for that.
+Depending on how much time you have and on your physical condition, there are multiple activities you can do in Sapa. They range from half-day hikes, to multi-day treks. Most of the them are going up and down the mountains around Sapa but also include cultural stops in the neighbouring villages.
 
-Sapa is home to five ethnic minorities of Vietnam: H’mong (Mong Den, or Black Mong), Dao Do (Red Dao), Tay or Choang (Zhuang), Giay (Dzay), and Xa Pho. They can be recognized by the beautiful distinctive clothes they wear. Check out [this article](https://guide.cmego.com/traditional-clothes-of-ethnic-groups-in-sapa/) if you want to find out more about the clothing.
+Sapa is home to five ethnic minorities: H’mong (Mong Den, or Black Mong), Dao Do (Red Dao), Tay or Choang (Zhuang), Giay (Dzay), and Xa Pho. Each minority group has its own story and traditions. They can be recognized by the beautiful distinctive clothes they wear. Check out [this article](https://guide.cmego.com/traditional-clothes-of-ethnic-groups-in-sapa/) if you want to find out more about the clothing.
 
 <figure>
   <img src="/img/vietnam/sapa3.jpg" alt="">
   <figcaption>Local woman wearing traditional clothes in Sapa.</figcaption>
 </figure>
 
-Each minority has its own story and its own traditions, and being able to see them in their authentic environment is just wonderful.
+## Our experience
 
-## Activities
+As soon as we arrived, we met our guide, Như (pronounced like the English word 'new'). Born and raised in one of the villages in the area, she is one of the Black H’mong ethnic people. That's the biggest minority group in Sapa representing 53% of the population.
 
-Having only two days in Sapa, we tried to make the most of them. Our local guide, whom we met shortly after arriving at our hotel in Sapa, helped us a lot with that. Her name is Như (pronounced like the English word 'new'). Born and raised in one of the villages in the area, she is one of the Black H’mong ethnic people. That's the biggest minority in Sapa with about 53% of the population in the area.
-
-In the first day, we visited the Cat Cat village, home of the Black H’mong. The village is located near the bottom of a deep valley at the foot of Fansipan Peak. From there, we went to the bottom of the valley, to see a beautiful waterfall and a hydraulic power station built by the French.
+In the first day, we visited the Cat Cat village, home of the Black H’mong. The village is close to the city, in the deep valley at the foot of Fansipan Peak. After touring the village, we continued towards the bottom of the valley to see a beautiful waterfall and a hydraulic power station built during the French colonial period.
 
 <figure>
   <img src="/img/vietnam/sapa5.jpg" alt="">
-  <figcaption>Traditional colors blending in with the fields.</figcaption>
+  <figcaption>Traditional colors blending with the fields.</figcaption>
 </figure>
 
-We preferred to walk back to the hotel, a 2.5km distance, mostly uphill, but not difficult at all. In total, the entire visit took around 3 hours. This helped us stay in shape for the longer trek in our second day in Sapa.
+From here we walked back to the hotel, about 2.5km, mostly uphill, but not too steep. The entire visit took around 3-4 hours, which was a good warm-up for the longer hike from day 2.
 
-Although the early morning was foggy, we were quite lucky in the end and got to see entire mountains covered with rice terraces. We visited Lao Chai and Ta Van village, homes of Black H’mong and Dzay people. The trek itself was not difficult, but it was long enough that we really enjoyed our lunch at a local restaurant in Ta Van. Our way back to Sapa was by bus, followed by another long bus trip to Hanoi.
+Although we started the second day through a thick layer of fog, by the time we arrived in the valley below Sapa we were able to admire the beautiful rice fields. We visited Lao Chai and Ta Van village, home of Black H’mong and Dzay people. The hike itself was not difficult, but it was long enough to increase our appetite for the late lunch at a local restaurant in Ta Van. From here, a bus picked us up and took us to the hotel and shortly after we were on the bus to Hanoi.
 
 <figure>
   <img src="/img/vietnam/sapa4.jpg" alt="">
   <figcaption>Rice terraces near Ta Van village.</figcaption>
 </figure>
 
-## Our experience
+The landscape around Sapa is beautiful, but the most impressive part of the trip is seeing how the locals live. Như told us about the struggles families have in this region and took us inside some of the local homes. This was really an eye-opening experience - our perception of poor and simple living was never the same again.
 
-The landscape is beautiful, but what impressed us most is how the locals lived. Như explained a lot about that, and even took us inside some locals homes. We have to say that for us that was a life-changing experience - our perception of poor and simple living was never the same again.
-
-Also, people there have a sense of hard work and perseverance that is not easy to find in the wealthier countries nowadays. Such an example is the fact that Như is a self-taught English speaker, with a lot of knowledge of the area. A surprising thing for us was that until we met her, she had never been to Hanoi.
+The people in Sapa have a strong background of hard work and perseverance that is not easy to find in the wealthier countries. Such an example is the fact that Như is a self-taught English speaker, which came as a surprise.
 
 <figure>
   <img src="/img/vietnam/sapa1.jpg" alt="">
@@ -78,12 +74,14 @@ Also, people there have a sense of hard work and perseverance that is not easy t
 
 ## Travel tips
 
-We hope this paints a good picture of what Sa Pa is about. At the end, here are a couple of useful tips that we can share about our experience.
+At the end, here are a couple of useful tips that we can share about our experience.
 
-A lot of locals that live in the area are quite poor. That's why some of them, especially women, will follow you around in your trips. Be ferm when telling them you don't need their services, but also be polite.
+A lot of locals that live in the area live in extreme poverty. Most of them have never set food outside Sapa and for some (including Như) a trip to Hanoi is high on their wishlist.
 
-If you want to help the local community (it's highly recommended!), the best way to do that is by buying handmade things from them. Do not buy from and do not give money to children - you might indirectly be encouraging them to drop out of school.
+You will see a lot of women selling handmade souvenirs. Some of them, will follow you around in your trips, hoping to sell some of their work. If you want to help the local community, you can buy from them. Do not buy from and do not give money to children - you might indirectly be encouraging them to drop out of school.
 
-Local guides are underpaid. Tip them if you can, they need it to make a living. Như definitely deserved it.
+Local guides are heavily underpaid. Tip them well if you can, they will surely use the money to provide a better life for their families. An average family in Sapa can live for a month with 100\$, so a small amount for you, as a traveler, can mean a lot for them.
 
-Listen to their stories, and don't be shy. People are curious to learn about where you come from, they'll ask questions, so it's perfectly fine if you do that too.
+Listen to their stories and don't be shy. People are curious to learn about you and where you come from, they'll ask questions, so it's perfectly fine if you do that too.
+
+We hope this paints a good picture of what Sapa is about and we hope this article inspires everyone to include it in their travels through Vietnam and South-East Asia.
