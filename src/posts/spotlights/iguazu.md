@@ -23,7 +23,15 @@ packing:
 
 The Argentinians will say their side is more spectacular because you are inches from the water. The Brazilians will argue that their side is more spectacular as you get the panoramic view of the entire area. We can only recommend that you visit both sides and decide for yourselves!
 
+- where it's located
+- how to get there
+- argentinian vs brazilian
+
 ## Argentinian side
+
+- description
+- open hours
+- circuits
 
 There are two main circuits that you can walk on: the lower and upper circuits. As their name suggests, they are in both the lower and upper parts of the waterfalls. You need a full day to cover them, but it's worth it: both are spectacular. From the lower ones, you get to see a panoramic view of the falls complex, while from the upper circuit you get to really experience the waterfalls in the most attractive point: hear the roar and get wet on top of the Devil's Throat.
 
@@ -40,6 +48,11 @@ The panoramic viewpoint next to the Devil's Throat is a bit further in the park,
 </figure>
 
 ## Brazilian side
+
+- open hours
+- how to get there
+- what to do
+- parc de aves
 
 While the entrance to the Argentinian side was quite fast, it took us a bit more to get inside the Brazilian side of the park.
 
@@ -71,7 +84,16 @@ While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [
 
 ## Travel tips
 
-**Las Tres Fronteras**
+- visas
+- currencies
+- when to visit?
+- animals (monkeys, coatis)
+- where / what to eat???
+- hotel
+- traveling to and from the airport
+- costs?
+
+**Bonus: Las Tres Fronteras**
 
 Before heading out to the airport, we took a short detour in Puerto Iguazu to see the confluence of the Iguazu and Parana rivers, and look simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
 
