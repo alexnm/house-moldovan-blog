@@ -3,7 +3,7 @@ layout: layouts/spotlight.njk
 pageTitle: Ancient Petra and Wadi Rum Desert
 subTitle: Enjoy the Jordanian desert and wander at the rock city of Petra
 headline: If you are hunting world famous sights, then Petra should definitely be on your bucket list. And since you are deep inside the Jordanian desert, you might as well stop for a night at a bedouin camp in the Wadi Rum desert. In this article you can read about our short visit to Jordan, part of our longer trip in the Middle East.
-coverImage: /img/jordan/petra.jpg
+coverImage: https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/petra_m88tn5.webp
 coverThumb: /img/jordan/petra-camel-thumb.jpg
 region: 🌍 South Jordan
 mapsLink: https://www.google.com/maps/place/Jordan/@31.1675526,36.1454843,7.94z/data=!4m5!3m4!1s0x15006f476664de99:0x8d285b0751264e99!8m2!3d30.585164!4d36.238414
@@ -25,7 +25,7 @@ Jordan is a small country in the Middle East, often considered one of the most s
 Further south from Petra, Jordan shares a long stretch of desert with Saudi Arabia, the land of the bedouins. Part of that area is the red desert of Wadi Rum, famous for being the filming location for a lot of Hollywood movies.
 
 <figure>
-  <img src="/img/jordan/wadi-rum.jpg" alt="Wadi Rum desert">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633243/jordan/wadi-rum_iymtgl.webp" alt="Wadi Rum desert">
   <figcaption>Welcome to the red desert.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ So in the middle of our stay in Eilat, we booked [this 2 day trip](https://www.a
 We were 12 people in the group, and it was a great experience. Someone from the travel agency organized our departure from Eilat and we were driven to the border, which is just outside the city. We crossed the actual border on foot, and there was another person waiting for us on the Jordanian side. He helped us with the legal formalities and guided us to our small bus. There we met our guide, Mahmoud, who was with us for the entire duration of the trip.
 
 <figure>
-  <img src="/img/jordan/group-at-petra.jpeg" alt="Group of people leaving Petra">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/group-at-petra_xtozfu.webp" alt="Group of people leaving Petra">
   <figcaption>Our international group.</figcaption>
 </figure>
 
@@ -63,14 +63,14 @@ The fun part began as soon as we entered the Wadi Rum National Park and exchange
 Touring the Wadi Rum desert is a surreal experience. You feel small as you climb on top of a sand dune to get a 360 degree view of the surrounding area. There's something about the emptiness of the desert that cannot be described, it has to be felt in person.
 
 <figure>
-  <img src="/img/jordan/wadi-rum-camels.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/wadi-rum-camels_brwmsb.webp" alt="">
   <figcaption>Touring the Wadi Rum desert.</figcaption>
 </figure>
 
 We spent around 2-3 hours touring the desert, with 4 stops for short hikes to viewpoints. Around 4pm we arrived at the bedouin camp, which would be our home for the next hours and for the night to come.
 
 <figure>
-  <img src="/img/jordan/wadi-rum-3.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/wadi-rum-3_nma5wx.webp" alt="">
   <figcaption>The vast emptiness.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ We spent around 2-3 hours touring the desert, with 4 stops for short hikes to vi
 There are dozens of camps around the desert that welcome guests from all over the world. We had a room ready at [Mohammed Mutlak Camp](http://www.booking.com/Share-5V1h7N) part of our trip, but you can also book on your own as most of the properties are on booking.com.
 
 <figure>
-  <img src="/img/jordan/wadi-rum-campsite.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633243/jordan/wadi-rum-campsite_tl5apb.webp" alt="">
   <figcaption>Overlooking the camp.</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ A room in a camp here is actually a wool tent with a hard floor, built and decor
 Other than that, the camp area has an open fire where they serve tea non-stop and two bigger tents for eating and hanging around with the other guests. One of the tents is enclosed and warmed. Dinner and breakfast are served by the staff of the camp and the food is delicious.
 
 <figure>
-  <img src="/img/jordan/wadi-rum-sunset.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/wadi-rum-sunset_onxf9c.webp" alt="">
   <figcaption>Sunset view.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Later during the night, you should definitely go outside and enjoy the starry ni
 The second day of the trip was dedicated entirely to Petra. All in all, we were at the site for about 6 hours. That's enough time to wander around and catch the best shots for your photo album. However, there are many hikes that you can take at Petra, some of which require multiple hours to complete, so you can spend 1-2 full days there if you have the time.
 
 <figure>
-  <img src="/img/jordan/petra-royal-tombs-2.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633243/jordan/petra-royal-tombs-2_w6fmtb.webp" alt="">
   <figcaption>The most impressive buildings in Petra are carved into the mountain.</figcaption>
 </figure>
 
@@ -110,19 +110,19 @@ The city dates back to 2000 years ago and was built by the [Nabataean civilizati
 The city was well preserved due to its location in a remote valley with a very narrow entrance through a canyon. As you exit the canyon you arrive in front of the most impressive building in Petra, the Treasury.
 
 <figure>
-  <img src="/img/jordan/petra-treasury.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/petra-treasury_crhaqa.webp" alt="">
   <figcaption>The Treasury at Petra.</figcaption>
 </figure>
 
 <figure>
-  <img src="/img/jordan/petra.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/petra_m88tn5.webp" alt="">
   <figcaption>The Treasury from above.</figcaption>
 </figure>
 
 After a quick guided tour through the city, we had lunch and continued on our own, along the alley of the Royal tombs. There are a lot of spots from which you have great panoramic views of the city. But keep in mind that most of the view points require climbing some stairs or plain rocks.
 
 <figure>
-  <img src="/img/jordan/petra-royal-tombs.jpg" alt="">
+  <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/jordan/petra-royal-tombs_sozxxk.webp" alt="">
   <figcaption>The Royal tombs alley in Petra.</figcaption>
 </figure>
 
