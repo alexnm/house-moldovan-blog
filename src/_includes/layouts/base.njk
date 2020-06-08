@@ -12,26 +12,46 @@
       {% set coverImageURL = "https://housemoldovan.com" + coverImage %}
     {% endif %}
     
+    {% set fontURL = "https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap&subset=latin" %}
+
     <meta property="og:title" content="{{ pageTitle or renderData.pageTitle or metadata.title }}">
     <meta property="og:description" content="{{ subTitle or metadata.description }}">
     <meta property="og:image" content="{{ coverImageURL or metadata.image }}">
     <meta property="og:url" content="https://housemoldovan.com{{page.url}}">
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="p:domain_verify" content="e87082da99643f9d46da172105471ccc"/>
+    <meta name="google-site-verification" content="XebyXyTCiuIiYbJPODLmulZ6myigFAfQfUPnOzodJOY" />
+    <meta name="theme-color" content="#ffcf56">
 
     <link rel="canonical" href="https://housemoldovan.com{{page.url}}" />
 
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="style" href="{{ fontURL }}" />
+    <link rel="stylesheet" href="{{fontURL}}" media="print" onload="this.media='all'" />
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap&subset=latin" rel="stylesheet">
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <style>
       {% postcss %}
         {% include "css/index.css" %}
       {% endpostcss %}
     </style>
+
+    <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "name" : "House Moldovan",
+      "url" : "https://housemoldovan.com",
+      "sameAs" : [
+        "https://www.facebook.com/housemoldovan/",
+        "https://www.instagram.com/housemoldovan/",
+        "https://pinterest.com/housemoldovan/"
+        ]
+      }
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#maincontent">Skip to main content</a>
@@ -57,9 +77,19 @@
     </main>
 
     <footer class="footer">
-      <span>© 2020 House Moldovan</span>
+      <span>© {% currentYear %} House Moldovan</span>
       <a href="/about" class="link accent about-us">About us</a>
-      <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/housemoldovan/" class="link accent">Follow us on Instagram</a>
+      <div class="social">
+        <a target="_blank" rel="noopener noreferrer" aria-label="Follow us on Instagram" title="Follow us on Instagram" href="https://www.instagram.com/housemoldovan/">
+          {{ "/img/icons/instagram.svg" | svgContents | safe }}
+        </a>
+        <a target="_blank" rel="noopener noreferrer" aria-label="Follow us on Facebook"  title="Follow us on Facebook" href="https://www.facebook.com/housemoldovan/">
+          {{ "/img/icons/facebook.svg" | svgContents | safe }}
+        </a>
+        <a target="_blank" rel="noopener noreferrer" aria-label="Follow us on Pinterest" title="Follow us on Pinterest" href="https://pinterest.com/housemoldovan/">
+          {{ "/img/icons/pinterest.svg" | svgContents | safe }}
+        </a>
+      </div>
     </footer>
   </body>
 </html>
