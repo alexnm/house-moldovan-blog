@@ -87,4 +87,4 @@ Local guides are heavily underpaid. Tip them well if you can, they will surely u
 
 Listen to their stories and don't be shy. People are curious to learn about you and where you come from, they'll ask questions, so it's perfectly fine if you do that too.
 
-We hope this paints a good picture of what Sapa is about and we hope this article inspires everyone to include it in their travels through Vietnam and South-East Asia.
+Ultimately, Sapa is a community of warm people with interesting stories, living in harsh conditions around the beautiful mountains of North Vietnam. We hope this inspires everyone to include it in their travels through Vietnam and South-East Asia.
