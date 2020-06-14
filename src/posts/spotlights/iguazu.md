@@ -21,31 +21,56 @@ packing:
 
 ## Introduction
 
+At the border between Argentina and Brazil, Iguazu river creates some of the most spectacular sights in the world. In total, the Iguazu Falls complex has 275 waterfalls spread over 2700 meters. The height of the drops varies between 60 and 82 meters.
+
+The area surrounding the falls, a subtropical rainforest, is equally important, as it's home to many species of animals and flora. To conserve it, each of the two countries has a national park. Iguazú National Park is located in the Misiones Province in Argentina, and the closest city is Puerto Iguazú. On the other side of the border is the Iguaçu National Park, located in the State of Paraná, with Foz do Iguaçu as the closest city.
+
 The Argentinians will say their side is more spectacular because you are inches from the water. The Brazilians will argue that their side is more spectacular as you get the panoramic view of the entire area. We can only recommend that you visit both sides and decide for yourselves!
 
-- where it's located
-- how to get there
-- argentinian vs brazilian
+We visited Iguazu Falls as part of our [3 weeks trip to Argentina, Chile and Uruguay](/travel/argentina-chile-and-uruguay-in-3-weeks/), and decided to set camp (i.e., book a hotel room) in Puerto Iguazú and visit both sides of the falls from there.
 
 ## Argentinian side
 
-- description
-- open hours
-- circuits
+There are quite a few things to do and see on this side, and you need about 6 hours to cover most of them. The park opens at 8am and closes at 6pm, with the last entrance at 4:30pm. It's better to get there as early as possible, to avoid the crowds.
 
-There are two main circuits that you can walk on: the lower and upper circuits. As their name suggests, they are in both the lower and upper parts of the waterfalls. You need a full day to cover them, but it's worth it: both are spectacular. From the lower ones, you get to see a panoramic view of the falls complex, while from the upper circuit you get to really experience the waterfalls in the most attractive point: hear the roar and get wet on top of the Devil's Throat.
+You can go to the falls by taxi (it's roughly the same distance as to the airport), but there are also a lot of buses that go there every 20 minutes from [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A). Once you get to the entrance and buy your ticket, you have the full day ahead of you to enjoy the beauty of the falls.
+
+There are two main circuits that you can walk on: the lower and upper circuits. As their name suggests, they are in both the lower and upper parts of the waterfalls. It's worth spending your entire day visiting them, as both are spectacular. From the lower ones, you get to see a panoramic view of the falls complex, while from the upper circuit you get to really experience the waterfalls in the most attractive point: hear the roar and get wet on top of the Devil's Throat.
+
+With the thought of avoiding the crowds, we decided to quickly visit the main points of the lower circuit first. Then, we continued with the higher circuit, taking our time there. At the end of the day, we went back to some of the places that we most enjoyed in the morning. Yes, we walked a lot, but our experience was very good this way.
 
 <figure>
   <img src="/img/argentina/iguazu-argentina.jpg" alt="">
   <figcaption>Iguazu Falls on the Argentinian Side - the lower circuit.</figcaption>
 </figure>
 
-The panoramic viewpoint next to the Devil's Throat is a bit further in the park, but there's a train running every 15 minutes that you can take both ways to make the hike shorter. Keep in mind that temperatures of 40°C are not uncommon during the summer days and humidity is always above 75%.
+The beauty of the waterfalls is revealed right from the beginning of the lower circuit. Then, you get closer to the water and get to enjoy waterfalls that, in a lot of places, would be the main touristic attractions on their own. Dos Hermanas (eng. Two Sisters) is such an example, along with Bossetti waterfall. The latter can be admired from both circuits.
+
+<figure>
+  <img src="/img/argentina/iguazu-dos-hermanas.jpg" alt="">
+  <figcaption>Dos Hermanas viewed from the lower circuit.</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/argentina/iguazu-bossetti.jpg" alt="">
+  <figcaption>Bossetti waterfall.</figcaption>
+</figure>
+
+On the upper circuit, you get really close to the water. You hear its roar and can almost feel its power. This prepares you for the highlight of the Argentinian side visit: La Garganta del Diablo (eng. Devil's Throat).
+
+<figure>
+  <img src="/img/argentina/iguazu-upper-circuit.jpg" alt="">
+  <figcaption>View from the upper circuit.</figcaption>
+</figure>
+
+The panoramic viewpoint next to the Devil's Throat is a bit further in the park, but there's a train running every 15 minutes that you can take both ways for free to make the hike shorter. Keep in mind that temperatures of 40°C are not uncommon during the summer days and humidity is always above 75%.
 
 <figure>
   <img src="/img/argentina/iguazu-gargantua.jpg" alt="">
   <figcaption>Devil's Throat, the closest you can get to the heart of the falls.</figcaption>
 </figure>
+
+This area is always crowded, and it's easy to understand why. You are on top of an 80 meters fall, very close to the water. You get wet while standing there, and can easily spend half an hour just looking at the water falling and admiring the multiple rainbows that you can see from there.
 
 ## Brazilian side
 
