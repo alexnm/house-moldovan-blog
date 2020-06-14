@@ -74,11 +74,6 @@ This area is always crowded, and it's easy to understand why. You are on top of 
 
 ## Brazilian side
 
-- open hours
-- how to get there
-- what to do
-- parc de aves
-
 While the entrance to the Argentinian side was quite fast, it took us a bit more to get inside the Brazilian side of the park.
 
 The first step is to take a bus from Puerto Iguazu. There are a lot of them, every 10-15 minutes, but you can't buy tickets one day in advance. Make sure to get there as early as possible, as it gets crowded later in the day. The bus takes you to Brasil, so make sure you have your passport with you. Also, check in advance if you need a visa. The process of crossing the border, although a bit confusing, goes quite smooth, and in about an hour you are at the entrance of the "Cataratas do Iguaçu" Park.
@@ -99,6 +94,15 @@ Walking around takes about 2 hours, and the highpoint of this side is getting to
   </video>
   <figcaption>Experience the raw power of the waterfall.</figcaption>
 </figure>
+
+Without too many things to do on this side, and only one main attraction, you can't avoid the crowds. Get your mind ready for this, you need some patience to be able to enjoy the experience.
+
+<figure>
+  <img src="/img/brasil/iguazu-brasil-crowds.jpg" alt="">
+  <figcaption>The crowds waiting in line to see Devil's Throat on the Brazilian side.</figcaption>
+</figure>
+
+**Parque Das Aves**
 
 While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [bird park](https://www.parquedasaves.com.br/en/), which is right next to the entrance to the national park. We were pleasantly surprised by the beauty of the species inside and by the visiting experience, as you enter the huge aviaries together with the birds and other animal species.
 
