@@ -2,7 +2,7 @@
 layout: layouts/spotlight.njk
 pageTitle: 5 Underrated European Cities
 subTitle:
-headline: If you want to visit Europe, you certainly have a lot of beautiful cities to discover. Paris, London, Barcelona, Prague, Amsterdam, just to name a few, are great destinations for planned city breaks and for a few days stop when touring a region. But during our travels we found that lesser known cities can offer a better visiting experience overall. We hope this article helps you discover potential destinations for the upcoming travel season, as the COVID-19 restrictions in Europe are slowly lifted.
+headline: If you want to visit Europe, you certainly have a lot of beautiful cities to discover. Paris, London, Barcelona, Prague, Amsterdam, just to name a few, are great destinations for city breaks or for a few days stop while touring a region. But during our travels we found that lesser known cities can offer a better visiting experience. We hope this article helps you discover potential destinations for the upcoming travel season, as the COVID-19 restrictions in Europe are slowly lifted.
 coverImage: /img/belgium/ghent-2.jpg
 coverThumb: /img/belgium/ghent-2.jpg
 region: 🌍 Europe
@@ -11,11 +11,6 @@ tags:
   - europe
   - citybreak
   - culture
-packing:
-  - Sunglasses, sunscreen and sun/wind protecting hat
-  - Warm clothes for the desert night
-  - Comfortable shoes for walking on sand dunes
-  - A light backpack for carrying food and water for the day
 ---
 
 ## Strasbourg
@@ -33,7 +28,7 @@ When people plan to visit a city in France, they might think of: Paris, Marseile
 
 The old town, situated on the Grande Île should be your starting point. It is almost entirely pedestrian and is incredibly unique for a French city, due to its history of strong German influence. Architecturally speaking, the old town can easily be mistaken with a city from Southern Germany.
 
-Strasbourg is famous for Cathedral of Our Lady, easily recognizable for its unfinished second spire. It is one of the fines examples of gothic catherdrals in the world. The first sight of the cathedral as you take a sudden turn on one of the narrow cobbled steets in the old town is breath-taking. If you are like us, you will spend hours trying to get that perfect shot of its impressive facade.
+Strasbourg is famous for Cathedral of Our Lady, easily recognizable for its unfinished second spire. It is one of the finest examples of gothic catherdrals in the world. The first sight of the cathedral as you take a sudden turn on one of the narrow cobbled steets in the old town is breath-taking. If you are like us, you will spend hours trying to get that perfect shot of its impressive facade.
 
 <figure>
   <img src="/img/france/strasbourg-cathedral-detail.jpg" alt="">
@@ -106,31 +101,47 @@ We spent an evening and a full day here back in 2016 during a very hot June, as 
 
 **Why bother**
 
-Almost every city in Italy is like a museum with a mix of ancient, medieval and modern buildings, but few people recognice Verona as a city break destination. It usually goes under the radar as people go to Venice, Florence, Milano or Rome. But trust us, Verona has a lot of great spots not to be missed.
+Almost every city in Italy is like a museum with a mix of ancient, medieval and modern buildings, but here's why you should put Verona on your list. It usually goes under the radar as people go to Venice, Florence, Milano or Rome. But trust us, the "city of love" has a lot to offer.
 
 **What to do**
+
+You can start your visit from Verona Arena, one of the best preserved roman amphitheaters. The 2000 years old building is impressive and regularly hosts concerts and opera performances in front of 15,000 people.
 
 <figure>
   <img src="/img/italy/verona-arena.jpg" alt="">
   <figcaption>The 2000 years old Verona Arena.</figcaption>
 </figure>
 
+The rest of Verona has its roots in medieval times. Walking around the old town, you will find a lot of churches, palaces as well as small houses built in the specific italian architectural style.
+
+Verona was the imaginary setting for Shakespeare's "Romeo and Juliete" and "The Two Gentleman of Verona". And even though it seems Shakespeare never visited their city, the people here take advantage of the added publicity. There's a Juliete house in the city center, which has hordes of visitors throughout the year.
+
+However, if you are more interested in authentic sites, the church of [Sant'Anastasia](https://en.wikipedia.org/wiki/Sant%27Anastasia,_Verona) has one of the most impressive interior designs we've ever seen. Finally, if you want to do some cardio, the 84m tall Torre dei Lamberti awaits you in the central square with unparalleled views of the city.
+
 ## Utrecht
 
 <figure>
   <img src="/img/the-netherlands/utrecht.jpg" alt="">
-  <figcaption>Utrecht central area.</figcaption>
+  <figcaption>Utrecht central area with the Domtoren in sight.</figcaption>
 </figure>
 
 **Why bother**
 
-We've been to the Netherlands twice and visited a lot of cities, big and small. But Utrecht comes high of our list of a number of reasons. It is located in the central part of the country, making it the best place to stay while visiting the whole country. It also has a sizeable students population as a big university center. Finally, its city center is almost entirely car free, something you don't see in Amsterdam or other cities in the area.
+For the last entry we are coming back to Western Europe. We've been to the Netherlands twice and visited a lot of cities, big and small. But Utrecht comes high of our list of a number of reasons.
+
+It is located in the central part of the country, making it the best place to stay while visiting the whole country. It also has a sizeable students population as a big university center. Finally, its city center is almost entirely car free, something you don't see in Amsterdam or in other cities in the area.
 
 **What to do**
 
-Tour the old town with the iconic Dom, the steets lined with old houses and shops.
+You can start your morning with a stroll along the Oudegracht canal, lined with old houses and shops. All roads in Utrecht lead to Domtoren, or Dom Tower, the symbol of the city. This is the tallest belfry in the Netherlands and used to be part of [St. Martin's Cathedral](https://en.wikipedia.org/wiki/St._Martin%27s_Cathedral,_Utrecht) until its nave collapsed in the 17th century. Since then, the church and the tower are separated by the Domplein square.
 
 <figure>
   <img src="/img/the-netherlands/utrecht-canal.jpg" alt="">
-  <figcaption>The canal areas are packed with bars, restaurants and places to relax.</figcaption>
+  <figcaption>The Oudegracht canal packed with bars, restaurants and places to relax.</figcaption>
 </figure>
+
+Utrecht hosts the biggest university in the Netherlands, so you can expect the city to be pretty packed throughout the year and very active during the evenings. It is also strategically positioned in the heart of the country, so a lot of the other major cities of the country are 20-30 minutes away by train.
+
+---
+
+We hope this list helped you find some new places to put on your map for 2020 and beyond. What are some of your favorite cities in Europe? Drop us a message on social media and let us know.
