@@ -113,13 +113,19 @@ While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [
 
 ## Travel tips
 
-- visas
+To visit Iguazu Falls you can either stay in Argentina, in Puerto Iguazú, or in Brasil, in Foz do Iguaçu. You need about one hour to get from one city to the other, and there are a lot of buses that travel between them throughout the day.
+
+Because we visited Iguazu Falls as part of a longer trip in Argentina, Chile and Uruguay, to keep things as simple as possible, we chose to stay in Puerto Iguazú. We flew there from Buenos Aires, with [Latam Airlines](https://www.latam.com/en_un/). The city itself is rather small and safe, with most of the people working in tourism or related services.
+
+The easiest way to get from the airport to the hotel is by taxi. You pay a fixed price of about 10 euros in cash, in ARS, the Argentinian currency. The drivers are very friendly, and if you speak a bit of Spanish, you'll find out a lot about Argentina and about its people.
+
+We stayed at one of the new(er) hotels in the city, [Mérit Iguazú](https://www.booking.com/hotel/ar/merit-iguazu.en-gb.html). The services were good, and we also had access to a rooftop swimming pool. It was the perfect ending of a day, especially after having walked a lot in the heat. The hotel is also 10 minutes away from the main bus station, [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A), from where the buses to the National Parks in both Argentina and Brasil are leaving.
+
+There are a lot of restaurants in the city. What we enjoyed the most was [Bambu Restobar](https://g.page/bamburestobar?share). There are definitely others that are fancier, but here we enjoyed the authenticity of the people. And the food (Argentinian-style pizza) was very good.
+
 - currencies
 - when to visit?
 - animals (monkeys, coatis)
-- where / what to eat???
-- hotel
-- traveling to and from the airport
 - costs?
 
 **Bonus: Las Tres Fronteras**
