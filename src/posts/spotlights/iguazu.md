@@ -27,15 +27,15 @@ The area surrounding the falls, a subtropical rainforest, is equally important, 
 
 The Argentinians will say their side is more spectacular because you are inches from the water. The Brazilians will argue that their side is more spectacular as you get the panoramic view of the entire area. We can only recommend that you visit both sides and decide for yourselves!
 
-We visited Iguazu Falls as part of our [3 weeks trip to Argentina, Chile and Uruguay](/travel/argentina-chile-and-uruguay-in-3-weeks/), and decided to set camp (i.e., book a hotel room) in Puerto Iguazú and visit both sides of the falls from there.
+We visited Iguazu Falls as part of our [3 weeks trip to Argentina, Chile and Uruguay](/travel/argentina-chile-and-uruguay-in-3-weeks/). We decided to set camp (i.e., book a hotel room) in Puerto Iguazú and visit both sides of the falls from there.
 
 ## Argentinian side
 
 There are quite a few things to do and see on this side, and you need about 6 hours to cover most of them. The park opens at 8am and closes at 6pm, with the last entrance at 4:30pm. It's better to get there as early as possible, to avoid the crowds.
 
-You can go to the falls by taxi (it's roughly the same distance as to the airport), but there are also a lot of buses that go there every 20 minutes from [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A). Once you get to the entrance and buy your ticket, you have the full day ahead of you to enjoy the beauty of the falls.
+You can go to the falls by taxi, as it's roughly the same distance as to the airport. There are also a lot of buses that go there every 20 minutes from [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A). Once you get to the entrance and buy your ticket, you have the full day ahead of you to enjoy the beauty of the falls.
 
-There are two main circuits that you can walk on: the lower and upper circuits. As their name suggests, they are in both the lower and upper parts of the waterfalls. It's worth spending your entire day visiting them, as both are spectacular. From the lower ones, you get to see a panoramic view of the falls complex, while from the upper circuit you get to really experience the waterfalls in the most attractive point: hear the roar and get wet on top of the Devil's Throat.
+There are two main circuits that you can walk on: the lower and upper circuits. As their name suggests, they are in both the lower and upper parts of the waterfalls. It's worth spending your entire day visiting them, as both are spectacular. From the lower ones, you get to see a panoramic view of the falls complex. From the upper circuit you get to experience the waterfalls in the most attractive point: hear the roar and get wet on top of the Devil's Throat.
 
 With the thought of avoiding the crowds, we decided to quickly visit the main points of the lower circuit first. Then, we continued with the higher circuit, taking our time there. At the end of the day, we went back to some of the places that we most enjoyed in the morning. Yes, we walked a lot, but our experience was very good this way.
 
@@ -63,14 +63,14 @@ On the upper circuit, you get really close to the water. You hear its roar and c
   <figcaption>View from the upper circuit.</figcaption>
 </figure>
 
-The panoramic viewpoint next to the Devil's Throat is a bit further in the park, but there's a train running every 15 minutes that you can take both ways for free to make the hike shorter. Keep in mind that temperatures of 40°C are not uncommon during the summer days and humidity is always above 75%.
+The panoramic viewpoint next to the Devil's Throat is a bit further in the park. Yet, there is a train running every 15 minutes that you can take both ways for free to make the hike shorter. Keep in mind that temperatures of 40°C are not uncommon during the summer days and humidity is always above 75%.
 
 <figure>
   <img src="/img/argentina/iguazu-gargantua.jpg" alt="">
   <figcaption>Devil's Throat, the closest you can get to the heart of the falls.</figcaption>
 </figure>
 
-This area is always crowded, and it's easy to understand why. You are on top of an 80 meters fall, very close to the water. You get wet while standing there, and can easily spend half an hour just looking at the water falling and admiring the multiple rainbows that you can see from there.
+This area is always crowded, and it's easy to understand why. You are on top of an 80 meters fall, so close to the water that you actually get wet. You can easily spend half an hour just looking at the water falling and admiring the multiple rainbows that are formed in the water.
 
 ## Brazilian side
 
@@ -104,7 +104,7 @@ Without too many things to do on this side, and only one main attraction, you ca
 
 **Parque Das Aves**
 
-While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [bird park](https://www.parquedasaves.com.br/en/), which is right next to the entrance to the national park. We were pleasantly surprised by the beauty of the species inside and by the visiting experience, as you enter the huge aviaries together with the birds and other animal species.
+While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [bird park](https://www.parquedasaves.com.br/en/), which is right next to the entrance of the national park. We were pleasantly surprised by the beauty of the species inside and by the visiting experience. You enter the huge aviaries together with the birds and other animal species.
 
 <figure>
   <img src="/img/brasil/parc-de-aves.jpg" alt="">
@@ -115,15 +115,15 @@ While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [
 
 To visit Iguazu Falls you can either stay in Argentina, in Puerto Iguazú, or in Brazil, in Foz do Iguaçu. You need about one hour to get from one city to the other, and there are a lot of buses that travel between them throughout the day.
 
-Because we visited Iguazu Falls as part of a longer trip in Argentina, Chile and Uruguay, to keep things as simple as possible, we chose to stay in Puerto Iguazú. We flew there from Buenos Aires, with [Latam Airlines](https://www.latam.com/en_un/). The city itself is rather small and safe, with most of the people working in tourism or related services.
+We visited Iguazu Falls as part of a longer trip in Argentina, Chile and Uruguay, and, to keep things as simple as possible, we chose to stay in Puerto Iguazú. We flew there from Buenos Aires, with [Latam Airlines](https://www.latam.com/en_un/). The city itself is rather small and safe, with most of the people working in tourism or related services.
 
 The easiest way to get from the airport to the hotel is by taxi. You pay a fixed price of about 10 euros in cash, in ARS, the Argentinian currency. The drivers are very friendly, and if you speak a bit of Spanish, you'll find out a lot about Argentina and about its people.
 
-We stayed at one of the new(er) hotels in the city, [Mérit Iguazú](https://www.booking.com/hotel/ar/merit-iguazu.en-gb.html). The services were good, and we also had access to a rooftop swimming pool. It was the perfect ending of a day, especially after having walked a lot in the heat. The hotel is also 10 minutes away from the main bus station, [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A), from where the buses to the National Parks in both Argentina and Brazil are leaving.
+We stayed at one of the new(er) hotels in the city, [Mérit Iguazú](https://www.booking.com/hotel/ar/merit-iguazu.en-gb.html). The services were good, and we also had access to a rooftop swimming pool. It was the perfect ending of a day, especially after having walked a lot in the heat. The hotel is also 10 minutes away from the main bus station, [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A). That's the point from where the buses to the National Parks in both Argentina and Brazil are leaving.
 
 There are a lot of restaurants in the city. What we enjoyed the most was [Bambu Restobar](https://g.page/bamburestobar?share). There are definitely others that are fancier, but here we enjoyed the authenticity of the people. And the food (Argentinian-style pizza) was very good.
 
-You can only pay in cash in a lot of places in Puerto Iguazú, so you need to change money in the Argentinian currency. The Argentinian Pesos (ARS) has devalued fast in the past few years, so keep that in mind when you read about certain prices in ARS, as they change frequently. That includes the price for the Iguazu National Park visit - it is kept up-to-date on [iguazu-argentina website](https://iguazuargentina.com/en/parque-nacional-iguazu).
+You can only pay in cash in a lot of places in Puerto Iguazú, so you need to buy some Argentinian Pesos (ARS). The currency has devalued fast in the past few years. Keep that in mind when you read about certain prices in ARS, as they change frequently. That includes the price for the Iguazu National Park visit - it is kept up-to-date on [iguazu-argentina website](https://iguazuargentina.com/en/parque-nacional-iguazu).
 
 You cannot buy the tickets in advance, but the lines at the entrance are not that long and move quite fast. Beware of the fact that only the cards that support swipe transactions work there (our European cards didn't). Also, there is an exchange office at the entrance, but it's not always open. The cashiers are very helpful, but it's a lot easier if you can pay in cash, in ARS.
 
@@ -140,4 +140,4 @@ Being in the middle of a subtropical rainforest, there are also mosquitos. Use i
 
 **Bonus: Las Tres Fronteras**
 
-Before heading out to the airport, we took a short detour in Puerto Iguazú to see the confluence of the Iguazu and Parana rivers, and look simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
+Before heading out to the airport, we took a short detour in Puerto Iguazú to see the confluence of the Iguazu and Parana rivers. We took a look simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
