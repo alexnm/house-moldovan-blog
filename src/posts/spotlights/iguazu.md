@@ -136,7 +136,9 @@ On the other hand, in Brazil we were able to pay by card. Also, it's possible to
 
 Besides the amazing views of the waterfalls, inside both parks you also get to see a lot of animals. The most common ones are the coatis. They are very used to seeing people, and if you stop to eat, you'll most probably be "surrounded" by a few. It's not recommended to feed them. Even if they might seem friendly, it's also not recommended to pet them, because they might bite and carry all sorts of diseases.
 
-Being in the middle of a subtropical rainforest, there are also mosquitos. Use insect repellent to save yourself from some bites. While walking around the trails, sometimes you are in the shades, but there are a lot of places where you are in direct sunlight. Use sunscreen and a hat to protect against sunburns.
+Being in the middle of a subtropical rainforest, there are also mosquitos. Use insect repellent to save yourself from some bites. While walking around the trails, sometimes you are in the shades, but there are a lot of places where you are in direct sunlight. Use sunscreen and a hat to protect against sunburns. Also, make sure to stay hydrated.
+
+Because you're able to get so close to the water, you'll need something to keep your valuables and your phone in. We used some sealing plastic bags that we had with us from home, and they did their job perfectly. There are also a lot of waterproof bags that you can buy from there.
 
 **Bonus: Las Tres Fronteras**
 
