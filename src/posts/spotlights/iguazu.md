@@ -2,7 +2,7 @@
 layout: layouts/spotlight.njk
 pageTitle: Two sides of Iguazu Falls
 subTitle: Feel the power of the water above and below the falls
-headline: Split between Argentina and Brasil, Iguazu is one of the most spectacular falls in the world. Read this article to see what you can do on each side.
+headline: Split between Argentina and Brazil, Iguazu is one of the most spectacular falls in the world. Read this article to see what you can do on each side.
 coverThumb: /img/brasil/iguazu-brasil.jpg
 coverImage: /img/brasil/iguazu-brasil.jpg
 region: 🌎 Iguazu Falls
@@ -76,7 +76,7 @@ This area is always crowded, and it's easy to understand why. You are on top of 
 
 While the entrance to the Argentinian side was quite fast, it took us a bit more to get inside the Brazilian side of the park.
 
-The first step is to take a bus from Puerto Iguazu. There are a lot of them, every 10-15 minutes, but you can't buy tickets one day in advance. Make sure to get there as early as possible, as it gets crowded later in the day. The bus takes you to Brasil, so make sure you have your passport with you. Also, check in advance if you need a visa. The process of crossing the border, although a bit confusing, goes quite smooth, and in about an hour you are at the entrance of the "Cataratas do Iguaçu" Park.
+The first step is to take a bus from Puerto Iguazu. There are a lot of them, every 10-15 minutes, but you can't buy tickets one day in advance. Make sure to get there as early as possible, as it gets crowded later in the day. The bus takes you to Brazil, so make sure you have your passport with you. Also, check in advance if you need a visa. The process of crossing the border, although a bit confusing, goes quite smooth, and in about an hour you are at the entrance of the "Cataratas do Iguaçu" Park.
 
 There, you need to buy a ticket, then wait in a line (quite long when we were there) for another bus that takes you closer to the waterfalls. We had to wait for about an hour for the bus, but it was worth it in the end, as the weather was hot and the entire trip (one way) is of about 15km. When you get off the bus, you are right at the start of the single circuit on the Brazilian side.
 
@@ -113,25 +113,31 @@ While you are on the Brazilian side, it is worth taking 1-2 hours to visit the [
 
 ## Travel tips
 
-To visit Iguazu Falls you can either stay in Argentina, in Puerto Iguazú, or in Brasil, in Foz do Iguaçu. You need about one hour to get from one city to the other, and there are a lot of buses that travel between them throughout the day.
+To visit Iguazu Falls you can either stay in Argentina, in Puerto Iguazú, or in Brazil, in Foz do Iguaçu. You need about one hour to get from one city to the other, and there are a lot of buses that travel between them throughout the day.
 
 Because we visited Iguazu Falls as part of a longer trip in Argentina, Chile and Uruguay, to keep things as simple as possible, we chose to stay in Puerto Iguazú. We flew there from Buenos Aires, with [Latam Airlines](https://www.latam.com/en_un/). The city itself is rather small and safe, with most of the people working in tourism or related services.
 
 The easiest way to get from the airport to the hotel is by taxi. You pay a fixed price of about 10 euros in cash, in ARS, the Argentinian currency. The drivers are very friendly, and if you speak a bit of Spanish, you'll find out a lot about Argentina and about its people.
 
-We stayed at one of the new(er) hotels in the city, [Mérit Iguazú](https://www.booking.com/hotel/ar/merit-iguazu.en-gb.html). The services were good, and we also had access to a rooftop swimming pool. It was the perfect ending of a day, especially after having walked a lot in the heat. The hotel is also 10 minutes away from the main bus station, [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A), from where the buses to the National Parks in both Argentina and Brasil are leaving.
+We stayed at one of the new(er) hotels in the city, [Mérit Iguazú](https://www.booking.com/hotel/ar/merit-iguazu.en-gb.html). The services were good, and we also had access to a rooftop swimming pool. It was the perfect ending of a day, especially after having walked a lot in the heat. The hotel is also 10 minutes away from the main bus station, [Terminal de Omnibus De Ciudad de Puerto Iguazú](https://goo.gl/maps/Y5Ju35Go9UKgokV3A), from where the buses to the National Parks in both Argentina and Brazil are leaving.
 
 There are a lot of restaurants in the city. What we enjoyed the most was [Bambu Restobar](https://g.page/bamburestobar?share). There are definitely others that are fancier, but here we enjoyed the authenticity of the people. And the food (Argentinian-style pizza) was very good.
 
-- currencies
-- when to visit?
-- animals (monkeys, coatis)
-- costs?
+You can only pay in cash in a lot of places in Puerto Iguazú, so you need to change money in the Argentinian currency. The Argentinian Pesos (ARS) has devalued fast in the past few years, so keep that in mind when you read about certain prices in ARS, as they change frequently. That includes the price for the Iguazu National Park visit - it is kept up-to-date on [iguazu-argentina website](https://iguazuargentina.com/en/parque-nacional-iguazu).
+
+You cannot buy the tickets in advance, but the lines at the entrance are not that long and move quite fast. Beware of the fact that only the cards that support swipe transactions work there (our European cards didn't). Also, there is an exchange office at the entrance, but it's not always open. The cashiers are very helpful, but it's a lot easier if you can pay in cash, in ARS.
+
+On the other hand, in Brazil we were able to pay by card. Also, it's possible to buy the tickets [online](https://tickets.cataratasdoiguacu.com.br/), in advance. The queues there are a lot longer, so being able to skip some lines is very helpful.
+
+<figure>
+  <img src="/img/argentina/iguazu-coatis.jpg" alt="">
+  <figcaption>Coatis, the most common animal seen inside the National Parks.</figcaption>
+</figure>
+
+Besides the amazing views of the waterfalls, inside both parks you also get to see a lot of animals. The most common ones are the coatis. They are very used to seeing people, and if you stop to eat, you'll most probably be "surrounded" by a few. It's not recommended to feed them. Even if they might seem friendly, it's also not recommended to pet them, because they might bite and carry all sorts of diseases.
+
+Being in the middle of a subtropical rainforest, there are also mosquitos. Use insect repellent to save yourself from some bites. While walking around the trails, sometimes you are in the shades, but there are a lot of places where you are in direct sunlight. Use sunscreen and a hat to protect against sunburns.
 
 **Bonus: Las Tres Fronteras**
 
-Before heading out to the airport, we took a short detour in Puerto Iguazu to see the confluence of the Iguazu and Parana rivers, and look simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
-
-<div class="info warning">
-  <span>Always carry a light rain coat/poncho, you never know what the day holds.</span>
-</div>
+Before heading out to the airport, we took a short detour in Puerto Iguazú to see the confluence of the Iguazu and Parana rivers, and look simultaneously at three different cities in three different countries. You are standing in Argentina and looking at Brazil and Paraguay at the same time. This is quite easy to arrange with your taxi driver.
