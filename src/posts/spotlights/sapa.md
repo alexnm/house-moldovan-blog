@@ -31,7 +31,7 @@ People go to Sapa for the beautiful treks and the iconic rice fields. But the re
 
 There are a few options to get from Hanoi to Sapa. One of the most popular is by night train. The trip from Hanoi to Lao Cai takes about 9 hours, and then from there you can go to Sapa by minibus or by taxi. Another option is to book a transfer with a travel agency. A minibus will take you from your hotel in Hanoi and will drop you at your hotel in Sapa. If you're used to riding a motorcycle, that's definitely a nice option too, as the road goes up through the mountainous region of North Vietnam.
 
-We visited Sapa as part of our [longer trip in Vietnam and Cambodia](/travel/south-east-asian-adventure/). We had a 2-day trip booked with a [local company](https://www.getyourguide.com/activity/hanoi-l205/2-day-sapa-bus-tour-from-hanoi-and-sapa-hotel-stay-t49881). The package included the bus transfer from our hotel in Hanoi and back, all the meals and a local guide for the two days in Sapa.
+We visited Sapa as part of our [longer trip in Vietnam and Cambodia](/travel/discover-vietnam-and-cambodia/). We had a 2-day trip booked with a [local company](https://www.getyourguide.com/activity/hanoi-l205/2-day-sapa-bus-tour-from-hanoi-and-sapa-hotel-stay-t49881). The package included the bus transfer from our hotel in Hanoi and back, all the meals and a local guide for the two days in Sapa.
 
 The bus from Hanoi to Sapa takes about 6 hours, and is an experience on its own, especially because of the chaotic driving on the highway and through the mountain road.
 
