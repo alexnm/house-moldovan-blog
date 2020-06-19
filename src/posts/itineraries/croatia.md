@@ -7,6 +7,7 @@ coverThumb: /img/israel/jerusalem-mount-of-olives-thumb.jpg
 coverImage: /img/middle-east-cover.jpg
 region: 🌍 Dalmatia
 mapsLink: https://www.google.com/maps/@43.723614,16.2869753,7.43z
+tags:
   - summer
   - seaside
   - culture
