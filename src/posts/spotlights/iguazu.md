@@ -21,7 +21,7 @@ packing:
 
 ## Introduction
 
-At the border between Argentina and Brazil, Iguazu river widens and then drops to create on of the biggest watterfall systems in the world. In total, the Iguazu Falls complex has 275 waterfalls spread over 2700 meters. The height of the water drop varies between 60 and 82 meters.
+At the border between Argentina and Brazil, Iguazu river widens and then drops to create one of the biggest watterfall systems in the world. In total, the Iguazu Falls complex has 275 waterfalls spread over 2700 meters. The height of the water drop varies between 60 and 82 meters.
 
 The area surrounding the falls, a subtropical rainforest, is equally important, as is home to many species of animals and plants. To conserve it, each of the two countries created a national park. Iguazú National Park is located in the Misiones Province in Argentina, and the closest city is Puerto Iguazú. On the other side of the border is the Iguaçu National Park, located in the State of Paraná, with Foz do Iguaçu as the closest city.
 
