@@ -144,7 +144,7 @@ In our limited time at the site, we enjoyed the majestic jump of Salto Grande, t
 
 ## Days 9-11: Iguazu Falls
 
-After so much hiking and the cold Patagonian weather (while being in the middle of the Argentinian summer), we moved to the north of Argentina in the tropical lands. We flew from El Calafate to Puerto Iguazu (via Buenos Aires), and were welcomed with a heavy tropical rain and 35°C.
+After hiking in the cold Patagonian weather, we moved to the north of Argentina in the tropical lands. We flew from El Calafate to Puerto Iguazu (via Buenos Aires), and were welcomed with a heavy tropical rain and 35°C.
 
 In total, we spent two days to admire one of the most spectacular waterfalls in the world: Iguazu Falls. We made sure to have enough time to visit both the Argentinian and the Brazilian side of the falls.
 
