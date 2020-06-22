@@ -70,4 +70,28 @@ By far, the most impressive monument is the Roman Amphitheatre. It is the sixth 
   <figcaption>Pula Arena.</figcaption>
 </figure>
 
+# Day 3: Rovinj
+
+We continued our discovery of Croatia by going back north, to visit the picturesque city of Rovinj. Located on the western coast of the Istrian peninsula, it is one of the most popular tourist destinations in Croatia. It has beautiful beaches and a rich history.
+
+We started the day again relaxing at the seaside. We chose to go to the [Lone Bay](http://www.rovinj.co/en/meet-rovinj/beaches/lone/) beach. It's not a sandy beach, but the water is crystal clear, perfect for swimming and snorkeling. There are no cliffs to jump from, sadly for some of us, but the view makes up for that.
+
+Rovinj is part of an archipelago consisting of 19 islands. A lot of them are covered with forests consisting of holm oak and Alpine pine trees. They are best admired from the highest point in the city: the tower of St. Euphemia's Basilica. It's located in the middle of the old city, on the highest hill.
+
+<figure>
+  <img src="/img/croatia/rovinj-from-above.png" alt="">
+  <figcaption>Rovinj view from St. Euphemia's Basilica tower.</figcaption>
+</figure>
+
+Being highly influenced by Italy, the city has a lot of narrow streets with tightly and tidely aligned houses. The vibe is very laid-back, quite similar with the Italian dolce far niente.
+
+<figure>
+  <img src="/img/croatia/rovinj.jpg" alt="">
+  <figcaption>Rovinj view from the port.</figcaption>
+</figure>
+
+In terms of food, it's worth mentioning that Rovinj is an active fishing port. Therefore, you'll find a variety of fish and seafood, along with very good olive oil and wine.
+
 ## Travel tips
+
+- water sandals
