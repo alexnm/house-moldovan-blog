@@ -92,6 +92,9 @@ Being highly influenced by Italy, the city has a lot of narrow streets with tigh
 
 In terms of food, it's worth mentioning that Rovinj is an active fishing port. Therefore, you'll find a variety of fish and seafood, along with very good olive oil and wine.
 
+## Day 4: Plitvice
+
 ## Travel tips
 
 - water sandals
+- going back: reserve more time in certain places
