@@ -7,6 +7,7 @@ coverThumb: /img/argentina/perito-moreno-balcony-thumb.jpg
 coverImage: /img/south-america-cover.jpg
 region: 🌎 Southern Cone
 mapsLink: https://www.google.com/maps/@-39.4462487,-69.3856776,4.62z
+date: 2020-05-03
 tags:
   - south america
   - hiking

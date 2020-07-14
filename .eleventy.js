@@ -35,12 +35,17 @@ module.exports = function(eleventyConfig) {
   })
 
   // Get the first `n` elements of a collection.
-  eleventyConfig.addFilter('head', (array, n) => {
-    if (n < 0) {
-      return array.slice(n)
+  eleventyConfig.addFilter('head', (array, n, currentUrl) => {
+    let allPosts = array
+    if (currentUrl) {
+      allPosts = allPosts.filter(post => post.url !== currentUrl)
     }
 
-    return array.slice(0, n)
+    if (n < 0) {
+      return allPosts.slice(n)
+    }
+
+    return allPosts.slice(0, n)
   })
 
   // Update dynamic function for footer year

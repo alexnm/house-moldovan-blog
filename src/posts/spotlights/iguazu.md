@@ -7,10 +7,10 @@ coverThumb: /img/brasil/iguazu-brasil.jpg
 coverImage: /img/brasil/iguazu-brasil.jpg
 region: 🌎 Iguazu Falls
 mapsLink: https://www.google.com/maps/place/Iguazu+Falls/@-25.65698,-54.4843248,12.95z/data=!4m8!1m2!2m1!1sIguazu+Falls!3m4!1s0x94f6ea7339e748e7:0x1c851fea816c962f!8m2!3d-25.690864!4d-54.4408178
+date: 2020-06-16
 tags:
   - south america
-  - iguazu
-  - falls
+  - landmarks
   - nature
 packing:
   - Sunglasses, sunscreen and sun protecting hat

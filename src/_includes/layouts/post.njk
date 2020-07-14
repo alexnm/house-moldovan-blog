@@ -22,10 +22,13 @@ layout: layouts/base.njk
 </div>
 
 {{ content | safe }}
+
+<div class="text-content markdown-content">
+  <p class="text-small">Published on {{ page.date.toLocaleDateString('ro-RO') }}</p>
+</div>
+
 <hr/>
 <div class="text-content">
-  
-
   <p class="article-footnote">
     <a class="link accent" href="{{ '/' | url }}">← Home</a>
     <span>
@@ -43,7 +46,7 @@ layout: layouts/base.njk
   <h2>You might also enjoy</h2>
   <div class="spacer-vertical-3"></div>
 
-  {% set postslist = collections.spotlights | head(-3) %}
+  {% set postslist = collections.spotlights | head(-3, page.url) %}
   {% include "components/postslist.njk" %}
 </div>
 

@@ -7,6 +7,7 @@ coverThumb: /img/vietnam/sapa3.jpg
 coverImage: /img/vietnam/sapa2.jpg
 region: 🌏 Sapa, Vietnam
 mapsLink: https://www.google.com/maps/place/Sa+Pa,+Lao+Cai,+Vietnam/@22.3476073,103.7819188,13z/data=!3m1!4b1!4m5!3m4!1s0x36cd416833ee9ad5:0xe1f42da2bbc76727!8m2!3d22.3363608!4d103.8437852
+date: 2020-06-08
 tags:
   - south-east asia
   - nature
