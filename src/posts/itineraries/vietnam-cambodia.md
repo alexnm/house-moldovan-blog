@@ -7,6 +7,7 @@ coverThumb: /img/vietnam/buddha-mekong.jpg
 coverImage: /img/south-east-asia-cover.jpg
 region: 🌎 South-East Asia
 mapsLink: https://www.google.com/maps/@15.4101724,106.4498924,5.75z
+date: 2020-06-08
 tags:
   - south-east asia
   - culture

@@ -7,9 +7,11 @@ coverThumb: /img/cambodia/angkor-wat-thumb.jpg
 coverImage: /img/cambodia/angkor-wat.jpg
 region: 🌏 Siem Reap, Cambodia
 mapsLink: https://www.google.com/maps/place/Krong+Siem+Reap,+Cambodia/@13.3405053,103.7929145,12z/data=!3m1!4b1!4m5!3m4!1s0x3110169a8c91a879:0xa940aaf93ee5bbfa!8m2!3d13.3632533!4d103.856403
+date: 2020-04-26
 tags:
   - south-east asia
   - culture
+  - landmarks
 packing:
   - Sunscreen and mosquito repellent
   - Sunglasses and sun hat

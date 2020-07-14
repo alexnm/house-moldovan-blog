@@ -7,9 +7,10 @@ coverImage: /img/poland/wroclaw-panorama.jpg
 coverThumb: /img/belgium/ghent-thumb.jpg
 region: 🌍 Europe
 mapsLink: https://goo.gl/maps/FE1kHvXvELNaVcWf7
+date: 2020-06-14
 tags:
   - europe
-  - citybreak
+  - citybreaks
   - culture
 ---
 
