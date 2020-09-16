@@ -30,7 +30,7 @@ We arrived at the lake on a Thursday afternoon, to make sure we had a good tent 
 
 There are multiple ways to get to the lake. If you have a car that you're not afraid to use on a bad road, the easiest way is to drive to Poiana Pelegii and then hike uphill for about 2 hours. Other options require longer hikes and start from the other side of the ridge.
 
-To get to Poiana Pelegii, you need to drive on a really bad road (even by Romanian standards). We recommend a high guard car, like a mid-range SUV, although we saw small cars getting there as well. It also depends on your driving skills on rocky roads.
+To get to Poiana Pelegii, you need to drive on a really bad road (even by Romanian standards). We recommend a high clearance car, like a mid-range SUV, although we saw small cars getting there as well. It also depends on your driving skills on rocky roads.
 
 First you need to get to the Gura Apelor dam. The road until the dam is decent, except for the last 5-10km where you have to make your way around huge potholes. After you pass the dam, the asphalt disappears and you arrive at the entrance to the National Park. Here, you have to pay a small fee per person and per car.
 
