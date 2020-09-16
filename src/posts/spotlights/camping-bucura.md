@@ -43,7 +43,7 @@ There's one tricky section, 3km from the finish line, where you will see a lot o
   <figcaption>The road to Poiana Pelegii on Google Maps.</figcaption>
 </figure>
 
-All in all, you should plan for at least 2 hours of driving starting from Hateg, most of which will be spent in tricky conditions. Even Google Maps is optimistic about the 1h44min duration.
+All in all, you should plan for at least 2 hours of driving starting from Hațeg, most of which will be spent in tricky conditions. Even Google Maps is optimistic about the 1h44min duration.
 
 From Poiana Pelegii, at 1600m, you follow the blue line trail towards Bucura Lake, at over 2000m. The hike is mostly uphill, but not too difficult. If you carry camping equipment, plan for two hours. The first half is pretty lean, going through the forest and exiting into an area with a lot of low trees. Here, the terrain becomes rockier and you have to negotiate your way through small streams, slippery rocks and wet grass. The last part is dry and steeper, passing through several glacier plateaus until you arrive at the biggest one where Bucura formed.
 
@@ -74,11 +74,11 @@ We stayed for 3 nights so we had 2 full days of hiking in between. We decided to
 
 After enjoying the morning sun and having breakfast by the tent, we decided to hike on the yellow line trail. The trail starts from Bucura and ends on the Retezat peak at 2482m. The hike takes 2 to 3 hours one way and has about 600 meters of vertical gain.
 
-The first part is pretty relaxing, as you pass by Lake Bucurel towards Taul Portii. This is one of the most beautiful lakes in the entire Bucura glacier valley.
+The first part is pretty relaxing, as you pass by Lake Bucurel towards Tăul Porții. This is one of the most beautiful lakes in the entire Bucura glacier valley.
 
 <figure>
   <img src="/img/romania/retezat/taul-portii.jpg" alt="">
-  <figcaption>Taul Portii with Peleaga Peak in the background.</figcaption>
+  <figcaption>Tăul Porții with Peleaga Peak in the background.</figcaption>
 </figure>
 
 From here, we started climbing towards Poarta Bucurei at 2280m. Then we continued towards the main ridge, intersecting the red line trail close to Bucura peak, just under the 2400m contour line.
@@ -92,11 +92,11 @@ Once you are above Poarta Bucurei, you start understanding why Retezat is the fa
 
 The most technical part begins after the intersection with the red line. There is a steep descent from the Bucura peak and a small section with cables, but nothing too scary or dangerous.
 
-Once we passed the cable section, we started seeing on our right side the entire ridge of Retezat, all the way to Papusa and Varful Mare. In front of us lied the famous Retezat peak.
+Once we passed the cable section, we started seeing on our right side the entire ridge of Retezat, all the way to Păpușa and Vârful Mare. In front of us lied the famous Retezat peak.
 
 <figure>
   <img src="/img/romania/retezat/retezat-panorama.jpg" alt="">
-  <figcaption>Retezat peak on the left, with Stanisoara valley in the middle.</figcaption>
+  <figcaption>Retezat peak on the left, with Stânișoara valley in the middle.</figcaption>
 </figure>
 
 The trail goes up again after intersecting the blue triangle coming from Pietrele. There are 200m of altitude difference between the saddle and the peak, but the hardest part is the terrain made up of huge rocks, some of them a bit unstable.
@@ -110,7 +110,7 @@ As we were approaching the peak, even before climbing down from Bucura, we saw t
   <figcaption>We made it to the top!</figcaption>
 </figure>
 
-On the way back, the clouds became even thicker, to the point where they surrounded Bucura peak as well. However, we were determined to hike on a different path back to the lake. So as we arrived at Bucura, we continued on the red line trail, straight to the top of the mountain (2433m). Then we went down towards Curmatura Bucurei, where we took the blue line trail back to the campsite.
+On the way back, the clouds became even thicker, to the point where they surrounded Bucura peak as well. However, we were determined to hike on a different path back to the lake. So as we arrived at Bucura, we continued on the red line trail, straight to the top of the mountain (2433m). Then we went down towards Curmătura Bucurei, where we took the blue line trail back to the campsite.
 
 Bucura peak is similar with Retezat, but does not have a plateau at the top. Rather, the sign is placed right between the big boulders that are the highest points of the mountain. From here you get an amazing view towards Bucura lake, unless it's cloudy of course... We had to go down 50 meters or so to catch a glimpse of the lake below us.
 
@@ -121,7 +121,7 @@ All in all, we spent about 5-6 hours hiking and 2 hours resting. We were back at
   <figcaption>Spectacular sunset over the mountains.</figcaption>
 </figure>
 
-### Day 2 - Peleaga and Papusa
+### Day 2 - Peleaga and Păpușa
 
 We decided to leave for the second hike early in the morning, around 8:00am. Our goal was to arrive at Peleaga peak (2509m) and have breakfast there before too many people get to the top. On Friday a lot of people arrived at Bucura, so by Saturday morning there were close to 100 tents in the area.
 
@@ -136,23 +136,23 @@ As expected, there were very few people at the summit. We stayed for almost an h
   <figcaption>Bucura lake in the middle and Retezat peak on the right.</figcaption>
 </figure>
 
-We continued on the red line trail towards the saddle between Peleaga and Papusa. The descent is pretty steep and you have to be careful as you can easily slip on small rocks and dirt. Papusa peak (2508m) is the smaller sister of Peleaga and features a more gentle incline, albeit with more rocky sections to climb.
+We continued on the red line trail towards the saddle between Peleaga and Păpușa. The descent is pretty steep and you have to be careful as you can easily slip on small rocks and dirt. Păpușa peak (2508m) is the smaller sister of Peleaga and features a more gentle incline, albeit with more rocky sections to climb.
 
 <figure>
   <img src="/img/romania/retezat/papusa-trail.jpg" alt="">
-  <figcaption>Peleaga seen from Papusa and the red line trail below us.</figcaption>
+  <figcaption>Peleaga seen from Păpușa and the red line trail below us.</figcaption>
 </figure>
 
-As you get closer to the summit of Papusa you get another amazing panoramic view of the entire mountain range. On a clear day, you see from Retezat to Peleaga and all the way to Varful Mare and Gales towards the northeast. In front of you lies the stunningly beautiful Valea Rea, with its seven lakes and rocky terrain.
+As you get closer to the summit of Păpușa you get another amazing panoramic view of the entire mountain range. On a clear day, you see from Retezat to Peleaga and all the way to Vârful Mare and Galeș towards the northeast. In front of you lies the stunningly beautiful Valea Rea, with its seven lakes and rocky terrain.
 
 <figure>
   <img src="/img/romania/retezat/valea-rea.jpg" alt="">
   <figcaption>Another great panorama towards Valea Rea.</figcaption>
 </figure>
 
-We took another short break on the mountain top, but it was still early in the day so we decided to extend our hike. We had two options. Either to continue on the red line towards Portile Inchise, a very technical trail, or to take a short trip around the lakes in Valea Rea. We went for the second one, since the first option involved climbing back on Papusa for a second time.
+We took another short break on the mountain top, but it was still early in the day so we decided to extend our hike. We had two options. Either to continue on the red line towards Porțile Închise, a very technical trail, or to take a short trip around the lakes in Valea Rea. We went for the second one, since the first option involved climbing back on Păpușa for a second time.
 
-From the saddle between Papusa and Peleaga, you can take the red cross trail to goes towards Gales lake. The trail starts with a very rocky descent and then zig-zags the valley floor around the lakes. It was really beautiful and peaceful compared to the trail towards Peleaga which was getting crowded by mid-day.
+From the saddle between Păpușa and Peleaga, you can take the red cross trail to goes towards Galeș lake. The trail starts with a very rocky descent and then zig-zags the valley floor around the lakes. It was really beautiful and peaceful compared to the trail towards Peleaga which was getting crowded by mid-day.
 
 <figure>
   <img src="/img/romania/retezat/valea-rea-lake.jpg" alt="">
@@ -161,9 +161,9 @@ From the saddle between Papusa and Peleaga, you can take the red cross trail to 
 
 To get back to Bucura, we had to climb on Peleaga again, since all the trails go straight across the peak. Again, we decided to take another trail back to Bucura.
 
-So, from Peleaga we continued on the red line and we went up and down the final peak of the day, Custura Bucurei (2370m). On the way to Custura Bucurei, we also passed by the jagged rocks known as Coltii Pelegii, a popular mountain climbing spot.
+So, from Peleaga we continued on the red line and we went up and down the final peak of the day, Custura Bucurei (2370m). On the way to Custura Bucurei, we also passed by the jagged rocks known as Colții Pelegii, a popular mountain climbing spot.
 
-From Custura Bucurei, we went down towards Curmatura Bucurei, where we followed the familiar blue line back to the campsite.
+From Custura Bucurei, we went down towards Curmătura Bucurei, where we followed the familiar blue line back to the campsite.
 
 Our second day in Retezat was a bit more difficult, with more than 6 hours of walking, but also with longer breaks, since we had the breakfast on Peleaga. However, the weather was better and we were able to admire the mountain range in all its beauty for most of the time. You can follow the hike we did on [Relive](https://www.relive.cc/view/vmqXoNE44L6). Make sure you grab enough water from Bucura, as the hike follows the main ridge which is dry.
 
