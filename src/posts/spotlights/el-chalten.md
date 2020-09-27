@@ -7,6 +7,7 @@ coverThumb: /img/argentina/loma-del-pliegue-tumbado-viewpoint-thumb.jpg
 coverImage: /img/argentina/laguna-de-los-tres-cover.jpg
 region: 🌎 Patagonia
 mapsLink: https://www.google.com/maps/place/Patagonia/@-45.6701249,-78.2254399,5z/data=!3m1!4b1!4m5!3m4!1s0xbdefadac12340ab3:0xf5803d880367e318!8m2!3d-41.8101472!4d-68.9062689
+date: 2020-04-26
 tags:
   - south america
   - patagonia

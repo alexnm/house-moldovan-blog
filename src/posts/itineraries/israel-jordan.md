@@ -7,6 +7,7 @@ coverThumb: /img/israel/jerusalem-mount-of-olives-thumb.jpg
 coverImage: /img/middle-east-cover.jpg
 region: 🌍 Middle East
 mapsLink: https://www.google.com/maps/@31.497481,35.2795334,7.5z
+date: 2020-05-03
 tags:
   - middle east
   - culture

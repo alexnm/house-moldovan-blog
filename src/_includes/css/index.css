@@ -322,7 +322,7 @@ img {
   .cover-image,
   .cover-overlay {
     height: 60vh;
-    min-height: 450px;
+    min-height: 500px;
   }
 }
 
@@ -702,6 +702,10 @@ img {
 
 .text-capitalize {
   text-transform: capitalize;
+}
+
+.text-small {
+  font-size: var(--font-size-small);
 }
 
 .text-title {
