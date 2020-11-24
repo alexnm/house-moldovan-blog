@@ -1,7 +1,8 @@
 ---
 layout: layouts/base.njk
 ---
-<div class="cover-image" style="background-image: url('{{coverImage}}')">
+<div class="cover-wrapper">
+  <div class="cover-image" style="background-image: url('{{coverImage}}')"></div>
   <div class="cover-overlay">
     <div>
       <h1>{{pageTitle}}</h1>
@@ -25,9 +26,9 @@ layout: layouts/base.njk
 
 <div class="text-content markdown-content">
   <p class="text-small">Published on {{ page.date.toLocaleDateString('ro-RO') }}</p>
+  <hr/>
 </div>
 
-<hr/>
 <div class="text-content">
   <p class="article-footnote">
     <a class="link accent" href="{{ '/' | url }}">← Home</a>
