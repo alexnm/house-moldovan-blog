@@ -172,12 +172,40 @@ The island also houses a few big shopping malls so we spent some time in there. 
 
 ## Days 4-9: Kansai Area
 
-Shinkansen
-Kansai Pass
+The second leg of our journey began with a 2 hour 40 minutes train ride with the Shinkansen, or bullet-train. We took the train from Tokyo to Kyoto, the old capital of Japan.
+...
+
+The area around Kyoto and Osaka is called Kansai and is one of the most visited regions of Japan. In order to travel inside the region, we recommend the [Kansai Pass](https://www.surutto.com/tickets/kansai_thru_english.html), a super cheap multi-day ticket that gives you access to trains, subways and buses.
+
+Local trains within the region are incredibly convenient. We stayed for six nights at a guesthouse, about half-way between Osaka and Kyoto and we were always 25 to 35 minutes away from the two city centers.
+
+... guest house
 
 ### Day 5: Himeji & Kobe
 
+For the first day, we decided to visit Himeji, the western-most destination in Kansai. The city is famous for the Himeji Castle, one of the most visited sights in the entire country.
+
+<figure>
+  <img src="/img/japan/himeji.jpg" alt="">
+  <figcaption>One of the best examples of medieval architecture in Japan.</figcaption>
+</figure>
+
+You can visit the courtyard and the castle itself, all the way to the top floor. Quite an interesting experience. But keep in mind that it is a very popular destination, so expect to see a lot of people during the visit.
+
+On the way back from Himeji, we stopped at the Akashi Kaikyo Bridge, the longest suspension bridge in the world, connecting the main islands Honshu and Shikoku.
+
+<figure>
+  <img src="/img/japan/akashi-kaikyo-bridge.jpg" alt="">
+  <figcaption>And one of the best examples of modern architecture in Japan.</figcaption>
+</figure>
+
+And since we were in the area, we finished the day in Kobe. We stopped there to enjoy the world famous Kobe beef at one of the steakhouses in the city and we strolled around the port area.
+
+Kobe, Osaka and the surrounding cities form one of the biggest metropolitan areas in the country, the second one after Tokyo, with over 20 million inhabitants.
+
 ### Day 6: Nara & Osaka
+
+We started the second day of our Kansai region tour in Nara, another former capital of Japan.
 
 ### Kyoto Temples
 
