@@ -39,13 +39,6 @@
       {% endpostcss %}
     </style>
 
-    {% set js %}
-      {% include "javascript/index.js" %}
-    {% endset %}
-    <script>
-      {{ js | jsmin | safe }}
-    </script>
-
     <script type="application/ld+json">
     {
       "@context" : "http://schema.org",
@@ -61,6 +54,12 @@
     </script>
   </head>
   <body>
+    {% set js %}
+      {% include "javascript/index.js" %}
+    {% endset %}
+    <script>
+      {{ js | jsmin | safe }}
+    </script>
     <a class="skip-link" href="#maincontent">Skip to main content</a>
     <header class="header">
       <div class="left-side" >
