@@ -8,10 +8,10 @@ const themes = {
     textColor: '#2a2a2a'
   },
   dark: {
-    accent: '#ff8906',
-    accentSecondary: '#e53170',
+    accent: '#ef9900',
+    accentSecondary: '#e54670',
     backgroundAccent: '#cf4900',
-    backgroundAccentSecondary: '#c51150',
+    backgroundAccentSecondary: '#b51640',
     background: '#0f0e17',
     textColor: '#fffffe'
   }

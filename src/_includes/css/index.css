@@ -34,10 +34,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --accent: #ff8906;
-    --accent-secondary: #e53170;
+    --accent: #ef9900;
+    --accent-secondary: #e54670;
     --background-accent: #cf4900;
-    --background-accent-secondary: #c51150;
+    --background-accent-secondary: #b51640;
     --background: #0f0e17;
     --text-color: #fffffe;
   }
