@@ -10,7 +10,7 @@ const themes = {
   dark: {
     accent: '#ef9900',
     accentSecondary: '#e54670',
-    backgroundAccent: '#cf4900',
+    backgroundAccent: '#af5900',
     backgroundAccentSecondary: '#b51640',
     background: '#0f0e17',
     textColor: '#fffffe'
