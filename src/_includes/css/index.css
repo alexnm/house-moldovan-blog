@@ -3,8 +3,8 @@
   --font-size-small: 15px;
   --font-size-regular: 16px;
   --font-size-large: 19px;
-  --font-size-xlarge: 23px;
-  --font-size-title: 34px;
+  --font-size-xlarge: 24px;
+  --font-size-title: 36px;
   --font-weight-thin: 300;
   --font-weight-regular: 400;
   --font-weight-bold: 600;
@@ -164,7 +164,7 @@ img {
   display: flex;
   justify-content: space-between;
   padding: 0 1rem;
-  height: 4rem;
+  height: 3.5rem;
   align-items: center;
   box-shadow: var(--box-shadow);
   position: sticky;
@@ -377,7 +377,7 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  min-height: calc(100vh - 6rem);
+  min-height: calc(100vh - 6.5rem);
 }
 
 @media only screen and (min-width: 790px) {
@@ -389,7 +389,7 @@ img {
 .cover-overlay {
   position: absolute;
   top: 0;
-  height: calc(100vh - 6rem);
+  height: calc(100vh - 6.5rem);
   padding: 1rem;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.4);
