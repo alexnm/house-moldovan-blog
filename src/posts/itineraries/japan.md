@@ -172,18 +172,21 @@ The island also houses a few big shopping malls so we spent some time in there. 
 
 ## Days 4-9: Kansai Area
 
-The second leg of our journey began with a 2 hour 40 minutes train ride with the Shinkansen, or bullet-train. We took the train from Tokyo to Kyoto, the old capital of Japan.
-...
+The area around Kyoto and Osaka is called **Kansai** and is one of the most visited regions of Japan. So the second leg of our journey began with a 2 hour 40 minutes train ride with the **Shinkansen**, the japanese bullet-train. We took the train from Tokyo to Kyoto, the old capital of Japan.
 
-The area around Kyoto and Osaka is called Kansai and is one of the most visited regions of Japan. In order to travel inside the region, we recommend the [Kansai Pass](https://www.surutto.com/tickets/kansai_thru_english.html), a super cheap multi-day ticket that gives you access to trains, subways and buses.
+Keep in mind that the train covers over 500km in that timespan, it's quite an experience. Also, keep in mind that trains are pretty expensive in Japan, so be ready to pay over 100 EUR for one long distance ticket. A cheaper alternative, if you don't care that much about the travel time is to use buses. More on that later ...
+
+<div class="info tip">
+  <span>To travel inside the region, we recommend the <a href="https://www.surutto.com/tickets/kansai_thru_english.html" target="_blank" rel="noreferrer noopener">Kansai Pass</a>, a super cheap multi-day ticket that gives you access to trains, subways and buses.</span>
+</div>
 
 Local trains within the region are incredibly convenient. We stayed for six nights at a guesthouse, about half-way between Osaka and Kyoto and we were always 25 to 35 minutes away from the two city centers.
 
-... guest house
+Speaking of saying overnight, we had a great experience at guesthouse, the owners are super kind and will help you out with anything you need during your stay. They speak fluent english and travelled all over the world so they can be really helpful when it comes to explaining cultural differences between Japan and the rest of the world. And believe us, there are a lot of them!
 
-### Day 5: Himeji & Kobe
+### Himeji & Kobe
 
-For the first day, we decided to visit Himeji, the western-most destination in Kansai. The city is famous for the Himeji Castle, one of the most visited sights in the entire country.
+For the first day, we decided to visit Himeji, the western-most destination in Kansai. The city is famous for the **Himeji Castle**, one of the most visited sights in the entire country.
 
 <figure>
   <img src="/img/japan/himeji.jpg" alt="">
@@ -192,28 +195,127 @@ For the first day, we decided to visit Himeji, the western-most destination in K
 
 You can visit the courtyard and the castle itself, all the way to the top floor. Quite an interesting experience. But keep in mind that it is a very popular destination, so expect to see a lot of people during the visit.
 
-On the way back from Himeji, we stopped at the Akashi Kaikyo Bridge, the longest suspension bridge in the world, connecting the main islands Honshu and Shikoku.
+On the way back from Himeji, we stopped at the **Akashi Kaikyo Bridge**, the longest suspension bridge in the world, connecting the main islands Honshu and Shikoku.
 
 <figure>
   <img src="/img/japan/akashi-kaikyo-bridge.jpg" alt="">
   <figcaption>And one of the best examples of modern architecture in Japan.</figcaption>
 </figure>
 
-And since we were in the area, we finished the day in Kobe. We stopped there to enjoy the world famous Kobe beef at one of the steakhouses in the city and we strolled around the port area.
+And since we were in the area, we finished the day in **Kobe**. We stopped there to enjoy the world famous Kobe beef at [one of the steakhouses](https://www.tripadvisor.com/Restaurant_Review-g298562-d6656920-Reviews-Steak_Land_Kobekan-Kobe_Hyogo_Prefecture_Kinki.html) in the city and we strolled around the port area.
 
 Kobe, Osaka and the surrounding cities form one of the biggest metropolitan areas in the country, the second one after Tokyo, with over 20 million inhabitants.
 
-### Day 6: Nara & Osaka
+### Nara & Osaka
 
-We started the second day of our Kansai region tour in Nara, another former capital of Japan.
+We started the second day of our Kansai region tour in **Nara**, another former capital of Japan. Nara is famous for its old temples and shrines and for its deer! Yes, deer roam freely in the old part of Nara, transformed in the late 19th century into the Nara Park.
 
-### Kyoto Temples
+<figure>
+  <img src="/img/japan/nara-deer.jpg" alt="">
+  <figcaption>There are special crackers that you can buy for the deer!</figcaption>
+</figure>
 
-Shrine vs temple, religion in japan
+<div class="info tip">
+  <span>The deer are hungry and active in the morning, trying to steal the crackers from your hands, but become lazy as the day advances.</span>
+</div>
 
-Mount Kurama
+A must-stop in Nara is the **Tōdai-ji** buddhist temple, which houses the largest bronze statue of Buddha in the world. We also recommend a nice walk uphill towards the **Kasuga-taisha** shrine, a beautiful example of shinto architecture.
 
-Arashiyama
+<figure>
+  <img src="/img/japan/nara-temple.jpg" alt="">
+  <figcaption>A lot of people gather at Tōdai-ji during a regular visit day</figcaption>
+</figure>
+
+After this, we moved to Osaka for the rest of the afternoon and evening. We had dinner in the popular **Dōtonbori** area and we walked around the incredibly crowded shopping area of downtown Osaka. Make sure you catch the billboard of the runner crossing the finish line, it somehow become the modern symbol of the city.
+
+<figure>
+  <img src="/img/japan/osaka-dotonbori.jpg" alt="">
+  <figcaption>Yes, it's a crowded city, as most of the big cities in Japan.</figcaption>
+</figure>
+
+The city is comparable with Tokyo, but people here are very proud of their city and of all the small cultural differences between them and the capital. Other popular areas in are: Namba, Umeda and around Osaka Castle.
+
+We wrapped our evening at the Umeda Sky Building, which offers a 360 panorama of the entire city from its 40th floor. Amazing views during the night! The location is also convenient, as the Umeda train station has direct connects to the neighbouring areas.
+
+<figure>
+  <img src="/img/japan/osaka-night-panorama.jpg" alt="">
+  <figcaption>Incredible night panorama of the Osaka metropolitan area.</figcaption>
+</figure>
+
+### Kyoto
+
+Ok, we've been in Kansai for two days, but didn't get to visit Kyoto yet. Kyoto is famous for its temples and shrines and for pretty much being the essential stop for cultural tourism in Japan.
+
+You need around 3-4 days if you want to cover all the spots in Kyoto. Even though the city is not that big, its major attractions are spread around and public transportation is not as efficient as in Tokyo or Osaka. There are a few subway lines and regional trains to travel a bit outside the city.
+
+Unfortunately, while we were there during sakura, the cherries in Kyoto were not in full bloom. Apparently, they bloomed a bit later then expected that year. Plus, the weather was not the friendliest one, so we got a bit of rain here and there. But overall, it was a great experience.
+
+<figure>
+  <img src="/img/japan/kyoto-golden-pavilion.jpg" alt="">
+  <figcaption>Kinkaku-ji, or the Golden Temple, is one of the most famous stops in Kyoto.</figcaption>
+</figure>
+
+The two main religions in Japan are buddhism and shinto. They are both heavily represented with beautiful shrines and temples in Kyoto. The buddhist temples have beautifully decorated gardens around them, making them really popular during the high season.
+
+<div class="info tip">
+  <span>In short, temples are buddhist, while shrines are shinto. However, it is very common for local people to pray both in temples and shrines, as they don't consider themselves strictly buddhist or shinto</span>
+</div>
+
+Temples are recognized by the presense of **Buddha** statues either outside or inside the main building. Shrines are more open and don't have large closed buildings. They are easily recognizable by the **Torii** gates (usually painted in bright red) that you pass under, on your way to them.
+
+#### Buddhist Temples
+
+The Golden Temple, the Silver Temple, Kiyomizu-dera and Ryōan-ji are just a few of the most popular spots that should not be missed while in Kyoto. They are all buddhist temples, most of them belong to the Zen branch of buddhism.
+
+<figure>
+  <img src="/img/japan/kyoto-ryoan-ji.jpg" alt="">
+  <figcaption>Beautiful garden arrangement at Ryoan-ji Temple.</figcaption>
+</figure>
+
+Make up your schedule so that you also have time to wander around lesser known temples. They usually offer a more relaxed and authentic visiting experience, without the crowds and the noise. While visiting the Arashiyama district, we randomly stopped at [Giouji Temple](https://goo.gl/maps/XXJb1AMS8CGPSSqHA), rarely found on tourist maps, and we were amazed by its beautiful garden. We're pretty sure this is not an exception, so give it a try anywhere you are.
+
+#### Mount Kurama
+
+If you spend that extra day in Kyoto, we highly recommend a trip just outside the city, to **Mount Kurama**. There's a local train that takes you north of the city, in a heavily forested area.
+
+Here you will find beautiful temples and shrines and a hiking trail up to **Kurama-dera Temple**, situated at the top of the mountain. Going over the mountain, you can reach the **Kifune Shrine**, another beautiful example of shinto architecture.
+
+#### Fushimi Inari
+
+Speaking of shrines, probably the most visited spot in Kyoto is the **Fushimi Inari Taisha** Shrine. This one is famous for its endless Torii gates that cover the pathways up and down the hill.
+
+<div class="info warning">
+  <span>Make sure you plan enough time for Fushimi Inari, as the site is huge and there are a lot of stairs to go up and down</span>
+</div>
+
+And even though the site is huge, it is also super popular all day long, so expect to see a lot of people going up and down the stairs, trying to take the perfect shot though the gates. We mixed our trip to Mount Kurama with the visit to Fushimi Inari in the same day and it was a long and exhausting one! So make sure you plan enough time in between to fully enjoy the sights.
+
+<figure>
+  <img src="/img/japan/kyoto-fushimi-inari.jpg" alt="Looking through the red torri gates at Fushimi Inari">
+  <figcaption>It takes a lot of effort to take a picture with no one in the frame!</figcaption>
+</figure>
+
+#### Arashiyama
+
+In the west part of the city, you can find the Arashiyama bamboo forest, another very picturesque spot in Kyoto. This is also an area where you can find a lot of smaller temples, worth checking out.
+
+<figure>
+  <img src="/img/japan/kyoto-arashiyama.jpg" alt="">
+  <figcaption>Bamboo forest in Arashiyama</figcaption>
+</figure>
+
+As you cross over the Katsura river, you can enter the Arashiyama Monkey Park. Situated on a hill, this site offers great views towards the city. It is also a place where you can spot the local macaques and even feed them bananas and other treats you can buy from there. However, keep in mind that these are wild animals, try to keep your distance and behave responsibly around them.
+
+<figure>
+  <img src="/img/japan/kyoto-arashiyama-monkey.jpg" alt="">
+  <figcaption>A local macaque waiting for the photoshoot to end</figcaption>
+</figure>
+
+#### Gion
+
+Last but not least, Gion is the famous geisha district in Kyoto. It has a unique vibe and can be packed with tourists at all times. Great food in the area as well. The neighbourhood also has beautiful wooden houses, lined with craft shops.
+
+Keep in mind that the ladies you see dressed up are mostly tourists and not geishas. The real geishas do not walk along the streets and they are very discreet with their public appearance. If you see one sneaking towards a car or out from a restaurant, be respectful and avoid acting as a paparazzi. You can read more about Gion and about the difference between maikos and geikos in this [official travel guide](https://www.japan-guide.com/e/e3902.html).
 
 ## Days 10-13: Takayama
 
@@ -232,3 +334,9 @@ Chuo
 ## Travel tips
 
 Pocket Wi-Fi
+
+Walk and observe
+
+Food
+
+Safety
