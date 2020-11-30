@@ -1,18 +1,18 @@
 <ul class="postlist">
   {% for post in postslist | reverse %}
     <li class="postlist-item">
-      <article class="postcard">
-        <a class="post-image-link" href="{{post.url | url}}" title="{{post.data.pageTitle}}" tabindex="-1" aria-hidden="true">
+      <a class="postcard" href="{{post.url | url}}" title="{{post.data.pageTitle}}">
+        <div class="post-image-wrapper">
           <div class="post-image" style="background-image: url('{{ post.data.coverThumb }}')"></div>
-        </a>
+        </div>
         <div class="post-content">
           <div class="post-title">
             <h2>{{ post.data.pageTitle }}</h2>
           </div>
           <p class="post-text">{{ post.data.headline }}</p>
-          <a class="post-cta link-button" href="{{post.url | url}}" title="{{post.data.pageTitle}}">Explore</a>
+          <span class="post-cta" title="{{post.data.pageTitle}}">Explore</span>
         </div>
-      </article>
+      </a>
     </li>
   {% endfor %}
 </ul>
