@@ -15,6 +15,7 @@ const pluginSvgContents = require('eleventy-plugin-svg-contents')
 const postcss = require('postcss')
 const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
+const { minify } = require("terser");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss)
@@ -58,6 +59,21 @@ module.exports = function(eleventyConfig) {
       .process(code, { from: filepath })
       .then(result => result.css)
   })
+
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error("Terser error: ", err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
+  
 
   eleventyConfig.addCollection('tagList', require('./src/_11ty/getTagList'))
 
