@@ -48,7 +48,7 @@ itinerary:
 Welcome to the most populous city in the world! With close to 38 million inhabitants, the [Tokyo Metropolitan Area](https://en.wikipedia.org/wiki/Tokyo) is a huge urban center.
 
 <figure>
-  <img src="/img/japan/tokyo-panoramic.jpg" alt="">
+  <img src="/img/japan/tokyo-panoramic.jpg" alt="urban landscape, packed with skyscrapers and green patches">
   <figcaption>Tokyo seen from the Metropolitan Government Building.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Further north, Taitō is a more relaxed ward. Two of the most visited spots in T
 We first went to Ueno, but before entering the park we stopped at local market next to the train lines, for some authentic street food. We definitely recommend this place, it's called [Ameya Yokocho Market](https://goo.gl/maps/X7nRsgXRrjRa2BtD7) and it's the perfect introduction into urban Japan.
 
 <figure>
-  <img src="/img/japan/tokyo-ueno.jpg" alt="">
+  <img src="/img/japan/tokyo-ueno.jpg" alt="walking path on top of a lake in the middle of Ueno Park">
   <figcaption>Lake inside Ueno Park.</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Then we did a quick tour of the park, one of the most popular ones in Tokyo duri
 In the second part of the day, we visited one of the oldest neighbourhoods of Tokyo, Asakusa. It is built around the ancient Buddhist temple of Sensō-ji, the oldest one in Tokyo. Great restaurants in the area as well!
 
 <figure>
-  <img src="/img/japan/tokyo-senso-ji.jpg" alt="">
+  <img src="/img/japan/tokyo-senso-ji.jpg" alt="traditional Japanese temple with a big crowd in front">
   <figcaption>Sensō-ji is the oldest surviving temple in Tokyo.</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ Make sure you take a quick tour of a [Pachinko parlor](https://en.wikipedia.org/
 We ended our tour in **Shinjuku Gyoen National Garden**. We haven't been to New York yet, but people say this is the closest thing you get to Central Park. The park was probably our favorite relaxation spot during the trip. It is one of the biggest parks in Tokyo, it has a lot of beautiful gardens in different international styles and a lot of open areas.
 
 <figure>
-  <img src="/img/japan/tokyo-shinjuku-gyoen.jpg" alt="">
+  <img src="/img/japan/tokyo-shinjuku-gyoen.jpg" alt="Beautiful lake in the middle of a park">
   <figcaption>One of the many ponds inside the park.</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ Speaking of staying overnight, we had a great experience at [Kyoto Guest Inn Nag
 For the first day, we decided to visit Himeji, the western-most destination in Kansai. The city is famous for the **Himeji Castle**, one of the most visited sights in the entire country.
 
 <figure>
-  <img src="/img/japan/himeji.jpg" alt="">
+  <img src="/img/japan/himeji.jpg" alt="Japanese style white castle, rising in the middle of a park">
   <figcaption>One of the best examples of medieval architecture in Japan.</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ You can visit the courtyard and the castle itself, all the way to the top floor.
 On the way back from Himeji, we stopped at the **Akashi Kaikyo Bridge**. This is the longest suspension bridge in the world, connecting the main islands Honshu and Shikoku.
 
 <figure>
-  <img src="/img/japan/akashi-kaikyo-bridge.jpg" alt="">
+  <img src="/img/japan/akashi-kaikyo-bridge.jpg" alt="two people sitting in front of the akashi kaikyo bridge">
   <figcaption>And one of the best examples of modern architecture in Japan.</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ Kobe, Osaka and the surrounding cities form one of the biggest metropolitan area
 We started the second day of our Kansai region tour in **Nara**, another former capital of Japan. Nara is famous for its old temples and shrines and for its deer! Yes, deer roam freely in the old part of Nara, transformed in the late 19th century into the Nara Park.
 
 <figure>
-  <img src="/img/japan/nara-deer.jpg" alt="">
+  <img src="/img/japan/nara-deer.jpg" alt="Alex feeding a deer in nara">
   <figcaption>There are special crackers that you can buy for the deer!</figcaption>
 </figure>
 
@@ -224,14 +224,14 @@ We started the second day of our Kansai region tour in **Nara**, another former 
 A must-stop in Nara is the **Tōdai-ji** Buddhist temple, which houses the largest bronze statue of Buddha in the world. We also recommend a nice walk uphill towards the **Kasuga-taisha** shrine, a beautiful example of Shinto architecture.
 
 <figure>
-  <img src="/img/japan/nara-temple.jpg" alt="">
+  <img src="/img/japan/nara-temple.jpg" alt="Japanese temple with a group of people in the foreground">
   <figcaption>A lot of people gather at Tōdai-ji during a regular visit day</figcaption>
 </figure>
 
 After this, we moved to Osaka for the rest of the afternoon and evening. We had dinner in the popular **Dōtonbori** area and we walked around the crowded shopping area of downtown Osaka. Make sure you catch the billboard of the runner crossing the finish line, it somehow become the modern symbol of the city.
 
 <figure>
-  <img src="/img/japan/osaka-dotonbori.jpg" alt="">
+  <img src="/img/japan/osaka-dotonbori.jpg" alt="Crowded shopping center">
   <figcaption>Yes, it's a crowded city, as most of the big cities in Japan.</figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ You need around 3-4 days if you want to cover all the spots in Kyoto. Even thoug
 Unfortunately, while we were there during sakura, the cherries in Kyoto were not in full bloom. Apparently, they bloomed a bit later then expected that year. Plus, the weather was not the friendliest one, so we got a bit of rain here and there. But overall, it was a great experience.
 
 <figure>
-  <img src="/img/japan/kyoto-golden-pavilion.jpg" alt="">
+  <img src="/img/japan/kyoto-golden-pavilion.jpg" alt="Golden temple in the middle of a garden around a pond">
   <figcaption>Kinkaku-ji, or the Golden Temple, is one of the most famous stops in Kyoto.</figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ Temples are recognized by the presence of **Buddha** statues either outside or i
 The Golden Temple, the Silver Temple, Kiyomizu-dera and Ryōan-ji are some of the most popular spots you should not be missed while in Kyoto. They are all Buddhist temples, most of them belonging to the Zen branch of Buddhism.
 
 <figure>
-  <img src="/img/japan/kyoto-ryoan-ji.jpg" alt="">
+  <img src="/img/japan/kyoto-ryoan-ji.jpg" alt="Stones arrangement over rows the white marble stones">
   <figcaption>Beautiful garden arrangement at Ryoan-ji Temple.</figcaption>
 </figure>
 
@@ -302,14 +302,14 @@ The entire site is super popular all day long, so expect to see a lot of people 
 In the west part of the city, you can find the **Arashiyama** bamboo forest, another very picturesque spot in Kyoto.
 
 <figure>
-  <img src="/img/japan/kyoto-arashiyama.jpg" alt="">
+  <img src="/img/japan/kyoto-arashiyama.jpg" alt="high and dense bamboo trees">
   <figcaption>Bamboo forest in Arashiyama</figcaption>
 </figure>
 
 As you cross over the Katsura river, you can enter the Arashiyama Monkey Park. Situated on a hill, this site offers great views towards the city. It is also a place where you can spot the local **macaques** and even feed them bananas and other treats you can buy from there. But these are also wild animals, so try to keep your distance and behave responsibly around them.
 
 <figure>
-  <img src="/img/japan/kyoto-arashiyama-monkey.jpg" alt="">
+  <img src="/img/japan/kyoto-arashiyama-monkey.jpg" alt="A macaque in the foreground with the skyline of kyoto in the background">
   <figcaption>A local macaque waiting for the photo shoot to end</figcaption>
 </figure>
 
@@ -345,14 +345,14 @@ For the second day, we booked a day trip to **Shirakawa-go** and **Gokayama**, t
 The villages are really impressive. It is definitely recommended to enter some of the houses, to understand how people used to live in Japan before the modern age.
 
 <figure>
-  <img src="/img/japan/gokayama.jpg" alt="">
+  <img src="/img/japan/gokayama.jpg" alt="Snowy fields with traditional houses and a mountainous backdrop">
   <figcaption>Gokayama is set against a beautiful mountain backdrop</figcaption>
 </figure>
 
 Most of the houses feature open fire places and you are usually invited to have some tea. It's a Japanese tradition to offer tea to every guest, free of charge.
 
 <figure>
-  <img src="/img/japan/shirakawago.jpg" alt="">
+  <img src="/img/japan/shirakawago.jpg" alt="Traditional houses lined, in a winter setting">
   <figcaption>The houses of Shirakawa-go</figcaption>
 </figure>
 
@@ -389,7 +389,7 @@ Some of the roads were still under deep snow at this time of the year. If you ar
 The last stop in this part of Japan was **Matsumoto**, where we had a 3 hour break, switching the bus on our way back to Tokyo. We took advantage of the break to check out the Matsumoto Castle, one of the most picturesque castles in the entire country.
 
 <figure>
-  <img src="/img/japan/matsumoto.jpg" alt="">
+  <img src="/img/japan/matsumoto.jpg" alt="The black castle surrounded by a moat, framed under a branch of cherry tree">
   <figcaption>The beautiful Matsumoto Castle, with its surrounding moat</figcaption>
 </figure>
 
@@ -417,7 +417,7 @@ Another area worth exploring in Chuo is **Ginza**, one of the big shopping areas
 After this, we did a quick detour towards **Nakameguro**, a long canal lined with cherries in the southern part of the city. This is one of the must-stops during sakura, but beware as it can get very crowded.
 
 <figure>
-  <img src="/img/japan/tokyo-nakameguro.jpg" alt="">
+  <img src="/img/japan/tokyo-nakameguro.jpg" alt="Full bloomed cherry trees from one side to another of a canal">
   <figcaption>Fairy-tale sights on the Nakameguro river.</figcaption>
 </figure>
 
