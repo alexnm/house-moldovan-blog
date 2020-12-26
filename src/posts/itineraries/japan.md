@@ -163,7 +163,7 @@ The third day - wow, it's been only two days since we arrived - was rather ugly,
 
 <figure>
   <img src="/img/japan/tokyo-miraikan.jpg" alt="">
-  <figcaption>Crowd gathered to see Asimo's show.</figcaption>
+  <figcaption>Crowds gathered to see Asimo's show.</figcaption>
 </figure>
 
 The museum is located on an island in another district, called Koto, a bit farther from central Tokyo, in the harbor area. To get there, you can hop on an automated light rail transit service called [Yurikamome](https://www.yurikamome.co.jp/en/).
@@ -223,14 +223,14 @@ A must-stop in Nara is the **Tōdai-ji** Buddhist temple, which houses the large
 
 <figure>
   <img src="/img/japan/nara-temple.jpg" alt="Japanese temple with a group of people in the foreground">
-  <figcaption>A lot of people gather at Tōdai-ji during a regular visit day</figcaption>
+  <figcaption>A lot of people gather at Tōdai-ji during a regular visit day.</figcaption>
 </figure>
 
 After this, we moved to Osaka for the rest of the afternoon and evening. We had dinner in the popular **Dōtonbori** area and we walked around the crowded shopping area of downtown Osaka. Make sure you catch the billboard of the runner crossing the finish line, it somehow become the modern symbol of the city.
 
 <figure>
   <img src="/img/japan/osaka-dotonbori.jpg" alt="Crowded shopping center">
-  <figcaption>Yes, it's a crowded city, as most of the big cities in Japan.</figcaption>
+  <figcaption>Yes, Osaka is a crowded city, as most of the big cities in Japan.</figcaption>
 </figure>
 
 Modern Osaka resembles Tokyo, but people are proud of their city and of all the small cultural differences between it and the capital. Other popular areas in Osaka are: Namba, Umeda and Osaka Castle.
@@ -301,14 +301,14 @@ In the western part of the city, you can find the **Arashiyama** bamboo forest, 
 
 <figure>
   <img src="/img/japan/kyoto-arashiyama.jpg" alt="high and dense bamboo trees">
-  <figcaption>Bamboo forest in Arashiyama</figcaption>
+  <figcaption>Bamboo forest in Arashiyama.</figcaption>
 </figure>
 
 As you cross over the Katsura river, you can enter the Arashiyama Monkey Park. Situated on a hill, this site offers great views towards the city. It is also a place where you can spot the local **macaques** and even feed them bananas and other treats you can buy from there. But these are wild animals, so try to keep your distance and behave responsibly around them.
 
 <figure>
   <img src="/img/japan/kyoto-arashiyama-monkey.jpg" alt="A macaque in the foreground with the skyline of kyoto in the background">
-  <figcaption>A local macaque waiting for the photo shoot to end</figcaption>
+  <figcaption>A local macaque waiting for the photo shoot to end.</figcaption>
 </figure>
 
 #### Gion
@@ -329,7 +329,7 @@ Compared to everything we had experienced so far in Japan, Takayama was a differ
 
 <figure>
   <img src="/img/japan/takayama-mela.jpg" alt="">
-  <figcaption>The small streets of Takayama</figcaption>
+  <figcaption>The small streets of Takayama.</figcaption>
 </figure>
 
 Of course, it has its share of shrines and temples, most of them open to visitors. They aren't spectacular, but they feel more authentic then the ones in Kyoto.
@@ -344,14 +344,14 @@ The villages are really impressive. It is definitely recommended to enter some o
 
 <figure>
   <img src="/img/japan/gokayama.jpg" alt="Snowy fields with traditional houses and a mountainous backdrop">
-  <figcaption>Gokayama is set against a beautiful mountain backdrop</figcaption>
+  <figcaption>Gokayama is set against a beautiful mountain backdrop.</figcaption>
 </figure>
 
 Most of the houses feature open fire places and you are usually invited to have some tea. It's a Japanese tradition to offer tea to every guest, free of charge.
 
 <figure>
   <img src="/img/japan/shirakawago.jpg" alt="Traditional houses lined, in a winter setting">
-  <figcaption>The houses of Shirakawa-go</figcaption>
+  <figcaption>The houses of Shirakawa-go.</figcaption>
 </figure>
 
 We had a guide, so we were able to catch a lot of interesting facts about the villages and their history.
@@ -388,7 +388,7 @@ The last stop in this part of Japan was **Matsumoto**, where we had a 3 hour bre
 
 <figure>
   <img src="/img/japan/matsumoto.jpg" alt="The black castle surrounded by a moat, framed under a branch of cherry tree">
-  <figcaption>The beautiful Matsumoto Castle, with its surrounding moat</figcaption>
+  <figcaption>The beautiful Matsumoto Castle, with its surrounding moat.</figcaption>
 </figure>
 
 The castle is known as the "Crow Castle", due to its distinct dark exterior. It is considered one of the 3 most important traditional castles in Japan. It is surrounded by a moat and a cherry garden, so it looks stunning during the sakura. However, since Matsumoto is closer to the mountains, expect the full bloom to happen a bit later than in Tokyo.
@@ -403,7 +403,7 @@ This is the last of the main wards we visited in Tokyo. We woke up early to catc
 
 <figure>
   <img src="/img/japan/tokyo-hamarikyu-gardens.jpg" alt="Modern buildings rising in the background of Hamarikyu Gardens">
-  <figcaption>One of the hidden gems of Tokyo</figcaption>
+  <figcaption>Hamarikyu Gardens is one of the hidden gems of Tokyo.</figcaption>
 </figure>
 
 From Tsukiji, you can walk for a few minutes towards **Hamarikyu Gardens**, another amazing park. There is a small fee you have to pay at the entrance, but totally worth it as you get a much quieter experience during the sakura.
