@@ -1,8 +1,8 @@
 ---
 layout: layouts/itinerary.njk
-pageTitle: Cherry blossom in Japan
-subTitle: Visit the rising sun country during sakura
-headline: Japan is a unique travel destination, a society and a culture that are radically different  from the rest of the world. It is of the most technologized countries in the world, but at the same time, one where people live in balance with the nature around them. One of the most popular periods for visiting Japan is during sakura, the cherry blossom spring festival.
+pageTitle: Touring Japan During Sakura
+subTitle: Visit the rising sun country during the cherry blossom festival
+headline: Japan is a unique travel destination, famous for its distinct culture and well organized society. It is one of the most technologized countries, but at the same time, one where people live in balance with nature. The most popular period for visiting Japan is during sakura - the cherry blossom spring festival.
 coverThumb: /img/japan/matsumoto.jpg
 coverImage: /img/japan/matsumoto.jpg
 region: 🌏 Japan
@@ -19,7 +19,7 @@ itinerary:
     - Amazing food and friendly people
   summary:
     days: 14
-    period: Mar-Apr, Sept-Nov
+    period: Mar-Apr
     method: Train, Bus
     budget: 2500$ pp
 ---
@@ -60,7 +60,7 @@ For moving around, we recommend the [Tokyo Metro Pass](https://thecupandtheroad.
 
 Fun fact, there is no city officially named Tokyo. The urban area was split into multiple cities, or [wards](https://en.wikipedia.org/wiki/Special_wards_of_Tokyo). The most popular are the ones closest to the geographical center of the area: Chiyoda, Chūō, Minato, Taitō, Shinjuku and Shibuya.
 
-Now, walking is an option and you will do a lot of it during your visit, but you will need public transportation to move from one ward to another.
+Walking is an option and you will do a lot of it during your visit, but you will need public transportation to move from one ward to another.
 
 With this in mind, we spent the first two days in Tokyo wandering around some of the most popular wards. And for our third day we used our backup plan for indoor activities as we had a rainy day.
 
@@ -74,14 +74,14 @@ One interesting part in the north of Chiyoda you should definitely visit is **Ak
 
 Further north, Taitō is a more relaxed ward. Two of the most visited spots in Tokyo can be found here: **Ueno Park** and **Sensō-ji** temple.
 
-We first went to Ueno, but before entering the park we stopped at local market next to the train lines, for some authentic street food. We definitely recommend this place, it's called [Ameya Yokocho Market](https://goo.gl/maps/X7nRsgXRrjRa2BtD7) and it's the perfect introduction into urban Japan.
+We first went to Ueno, but before entering the park we stopped at a local market next to the train lines for some authentic street food. We definitely recommend this place, it's called [Ameya Yokocho Market](https://goo.gl/maps/X7nRsgXRrjRa2BtD7) and it's the perfect introduction into urban Japan.
 
 <figure>
   <img src="/img/japan/tokyo-ueno.jpg" alt="walking path on top of a lake in the middle of Ueno Park">
   <figcaption>Lake inside Ueno Park.</figcaption>
 </figure>
 
-Then we did a quick tour of the park, one of the most popular ones in Tokyo during sakura. However, we were there a couple of days earlier and the cherries were not yet in full blossom. Nevertheless, it's a great spot that should definitely be on your map when visiting Tokyo.
+Then we did a quick tour of the park, one of the most popular in Tokyo during sakura. However, we were there a couple of days early and the cherries were not yet in full blossom. Nevertheless, it's a great spot that should definitely be on your map when visiting Tokyo.
 
 In the second part of the day, we visited one of the oldest neighbourhoods of Tokyo, Asakusa. It is built around the ancient Buddhist temple of Sensō-ji, the oldest one in Tokyo. Great restaurants in the area as well!
 
@@ -90,13 +90,11 @@ In the second part of the day, we visited one of the oldest neighbourhoods of To
   <figcaption>Sensō-ji is the oldest surviving temple in Tokyo.</figcaption>
 </figure>
 
-Not far from Asakusa, you can also visit [Tokyo Skytree](https://en.wikipedia.org/wiki/Tokyo_Skytree), which at 634m is the second tallest structure in the world after Burj Khalifa. But be prepared for a hefty ticket price. When we were there in 2017 it was about 20 USD.
+Not far from Asakusa, you can visit [Tokyo Skytree](https://en.wikipedia.org/wiki/Tokyo_Skytree), which at 634m is the second tallest structure in the world after Burj Khalifa. But be prepared for a hefty ticket price. When we were there in 2017 it was about 20 USD.
 
 ### Minato
 
-Next day we started with a short walk in Minato, a big ward situated in the southern part of the city. Minato is famous for **Tokyo Tower**, its landmark structure that resembles the Eiffel Tower. Truth be told, it doesn't come close to the Eiffel Tower. Although, the red-white color scheme does look beautiful and it is nicely floodlighted in the evenings.
-
-There are multiple buildings which offer a panoramic view of the city, and Tokyo Tower is one of them. However, we decided to skip it. It is not that expensive, at around 8 USD, but we had a recommendation for another viewpoint, which we will talk about later ;)
+Next day we started with a short walk in Minato, a big ward situated in the southern part of the city. Minato is famous for **Tokyo Tower**, a landmark structure that resembles the Eiffel Tower and offers panoramic views of the city. It is not as spectacular as the Eiffel Tower, but the red-white color scheme is beautiful and the tower is nicely floodlighted in the evenings. Going to the top is not that expensive, at around 8 USD, but we skipped it as we had a recommendation for another viewpoint.
 
 <figure>
   <img src="/img/japan/tokyo-tower.jpg" alt="">
@@ -111,7 +109,7 @@ Minato also features some very modern areas like Roppongi and Shiodome. These ne
 
 A visit to Tokyo is not complete without spending a few hours in Shinjuku. For us, it felt like this is the heart of the city, especially during the evenings and late nights when the clubs and karaoke bars open.
 
-But there's more. Shinjuku is also a major train and bus hub and the economic and political center of the Tokyo Metropolitan Area. Speaking of that, the Tokyo Metropolitan Government building, or Tocho as the Japanese call it, offers 360 views of the entire city. There are two towers and each have an elevator to the 55th floor. The best part? it's free and one of them is open until 10pm if you like the night views. Highly recommended!
+But there's more. Shinjuku is also a major train and bus hub and the economic and political center of the Tokyo Metropolitan Area. Speaking of that, the Tokyo Metropolitan Government building, or Tocho as the Japanese call it, offers 360 views of the entire city. There are two towers and each have an elevator to the 55th floor. The best part? it's free and one of them is open until 10pm if you like the night views. We highly recommend it!
 
 <figure>
   <img src="/img/japan/tokyo-panoramic-2.jpg" alt="">
@@ -122,14 +120,16 @@ Fun fact. From the towers, you get a direct view to the Park Hyatt Hotel, which 
 
 After seeing the panoramic sights of the city, we decided to take a walk through the busy streets below us. Shinjuku is one of the many places in Japan where it's just fun to walk and observe the people. Watch their habits and absorb the unique culture of the country.
 
-Make sure you take a quick tour of a [Pachinko parlor](https://en.wikipedia.org/wiki/Pachinko), it's incredibly loud and chaotic. Also in Shinjuku, stop by the [giant Godzilla head](https://www.tokyocreative.com/articles/19691-godzilla-in-shinjuku-japans-world-famous-monster-is-about-to-destroy-tokyo-once-again) on top of the Toho building, owned by the company that created the original movies.
-
 <figure>
   <img src="/img/japan/tokyo-shinjuku-night.jpg" alt="Colorful buildings during the night in Shinjuku">
   <figcaption>Shinjuku is literally the brightest neighbourhood in Tokyo.</figcaption>
 </figure>
 
+Make sure you take a quick tour of a [Pachinko parlor](https://en.wikipedia.org/wiki/Pachinko), it's incredibly loud and chaotic. Also in Shinjuku, stop by the [giant Godzilla head](https://www.tokyocreative.com/articles/19691-godzilla-in-shinjuku-japans-world-famous-monster-is-about-to-destroy-tokyo-once-again) on top of the Toho building, owned by the company that created the original movies.
+
 We ended our tour in **Shinjuku Gyoen National Garden**. We haven't been to New York yet, but people say this is the closest thing you get to Central Park. The park was probably our favorite relaxation spot during the trip. It is one of the biggest parks in Tokyo, it has a lot of beautiful gardens in different international styles and a lot of open areas.
+
+There's a small entrance fee, but that is perfect as it ensures the place is never too crowded, not even during sakura.
 
 <figure>
   <img src="/img/japan/tokyo-shinjuku-gyoen.jpg" alt="Beautiful lake in the middle of a park">
@@ -141,13 +141,11 @@ We ended our tour in **Shinjuku Gyoen National Garden**. We haven't been to New 
   <figcaption>Shinjuku Gyoen is the perfect spot for admiring the nature inside the urban jungle.</figcaption>
 </figure>
 
-There's a small entrance fee, but that is perfect as it ensures the place is never too crowded, not even during sakura.
-
 ### Shibuya
 
 Further south lies Shibuya, another ward not to be missed while in Tokyo. We walked from Shinjuku Gyoen to another green area, split in two between the Shinto shrine of **Meiji Jingu** and **Yoyogi Park**. The latter is usually packed with young people and families practicing various outdoor sports.
 
-We then continued our walk towards the famous **Shibuya crossing**. And yes, we walked a lot during that day! The center of Shibuya is another bustling area, packed with restaurants and shopping centers. And then you get to the crossing, considered the world busiest pedestrian crossing, with an estimate of 2500 people crossing at one time. After crossing a couple of times, because why not? we went to a shopping center and took this video from above:
+We then continued our walk towards the famous **Shibuya crossing**. And yes, we walked a lot during that day! The center of Shibuya is another bustling area, packed with restaurants and shopping centers. And then you get to the crossing, considered the world's busiest pedestrian crossing, with an estimate of 2500 people crossing at a time. After crossing a couple of times, because why not? we went to a shopping center and took this video from above:
 
 <figure>
   <video width="750" controls preload="none">
@@ -168,13 +166,13 @@ The third day - wow, it's been only two days since we arrived - was rather ugly,
   <figcaption>Crowd gathered to see Asimo's show.</figcaption>
 </figure>
 
-The museum is located on an island in another district, called Koto, a bit farther from central Tokyo, in harbor area. To get there, you can hop on to an automated light rail transit service called [Yurikamome](https://www.yurikamome.co.jp/en/).
+The museum is located on an island in another district, called Koto, a bit farther from central Tokyo, in the harbor area. To get there, you can hop on an automated light rail transit service called [Yurikamome](https://www.yurikamome.co.jp/en/).
 
 The island also houses a few big shopping malls so we spent some time in there. Later, we also found a [Toyota museum](https://goo.gl/maps/TUrowiZWxvTYBmst7) nearby, which was fun.
 
 ## Days 4-9: Kansai Area
 
-The second leg of our journey began with a 2 hour 40 minutes train ride with the **Shinkansen**, the Japanese bullet-train. We took the train from Tokyo to Kyoto, the old capital of Japan. The ride covered over 500km in that time span, it's quite an experience. Keep in mind though, that trains are pretty expensive in Japan, so be ready to pay over 100 EUR for a long distance ticket. A cheaper alternative, if you don't care that much about the travel time is to use buses.
+The second leg of our journey began with a 2 hour 40 minutes train ride with the **Shinkansen**, the Japanese bullet-train. We took the train from Tokyo to Kyoto, the old capital of Japan. The ride covered over 500km in that time span, it's quite an experience. Keep in mind that trains are pretty expensive in Japan, so be ready to pay over 100 EUR for a long distance ticket. A cheaper alternative, if you don't care that much about the travel time is to use buses.
 
 The area around Kyoto and Osaka is called **Kansai** and is one of the most visited regions of Japan.
 
@@ -235,7 +233,7 @@ After this, we moved to Osaka for the rest of the afternoon and evening. We had 
   <figcaption>Yes, it's a crowded city, as most of the big cities in Japan.</figcaption>
 </figure>
 
-Modern Osaka resembles Tokyo, but people are proud of their city and of all the small cultural differences between it and the capital. Other popular areas in Osaka are: Namba, Umeda and around Osaka Castle.
+Modern Osaka resembles Tokyo, but people are proud of their city and of all the small cultural differences between it and the capital. Other popular areas in Osaka are: Namba, Umeda and Osaka Castle.
 
 We wrapped our evening at the Umeda Sky Building, which offers a 360 panorama of the entire city from its 40th floor. Amazing views during the night! The location is also convenient, as the Umeda train station has direct connections to the neighbouring cities.
 
@@ -267,7 +265,7 @@ Temples are recognized by the presence of **Buddha** statues either outside or i
 
 #### Buddhist Temples
 
-The Golden Temple, the Silver Temple, Kiyomizu-dera and Ryōan-ji are some of the most popular spots you should not be missed while in Kyoto. They are all Buddhist temples, most of them belonging to the Zen branch of Buddhism.
+The Golden Temple, the Silver Temple, Kiyomizu-dera and Ryōan-ji are some of the most popular spots you should not miss while in Kyoto. They are all Buddhist temples, most of them belonging to the Zen branch of Buddhism.
 
 <figure>
   <img src="/img/japan/kyoto-ryoan-ji.jpg" alt="Stones arrangement over rows the white marble stones">
@@ -299,14 +297,14 @@ The entire site is super popular all day long, so expect to see a lot of people 
 
 #### Arashiyama
 
-In the west part of the city, you can find the **Arashiyama** bamboo forest, another very picturesque spot in Kyoto.
+In the western part of the city, you can find the **Arashiyama** bamboo forest, another very picturesque spot in Kyoto.
 
 <figure>
   <img src="/img/japan/kyoto-arashiyama.jpg" alt="high and dense bamboo trees">
   <figcaption>Bamboo forest in Arashiyama</figcaption>
 </figure>
 
-As you cross over the Katsura river, you can enter the Arashiyama Monkey Park. Situated on a hill, this site offers great views towards the city. It is also a place where you can spot the local **macaques** and even feed them bananas and other treats you can buy from there. But these are also wild animals, so try to keep your distance and behave responsibly around them.
+As you cross over the Katsura river, you can enter the Arashiyama Monkey Park. Situated on a hill, this site offers great views towards the city. It is also a place where you can spot the local **macaques** and even feed them bananas and other treats you can buy from there. But these are wild animals, so try to keep your distance and behave responsibly around them.
 
 <figure>
   <img src="/img/japan/kyoto-arashiyama-monkey.jpg" alt="A macaque in the foreground with the skyline of kyoto in the background">
@@ -321,7 +319,7 @@ Keep in mind that the ladies you see dressed up in the [traditional kimonos](htt
 
 ## Days 10-13: Takayama
 
-For the third leg of our trip, we headed towards the mountainous area of central Japan, around the town of **Takayama** for a different kind of experience. This is the land of: traditional villages, hot springs and snowy capped mountains.
+For the third leg of our trip, we headed towards the mountainous area of central Japan, around the town of **Takayama** for a different kind of experience. This is the land of traditional villages, hot springs and snowy capped mountains.
 
 We took a direct bus from Kyoto to Takayama, as the train was significantly more expensive and required a change in Nagoya. Buses can be taken from the Kyoto train station, there's plenty of information online about different routes and options.
 
@@ -393,7 +391,7 @@ The last stop in this part of Japan was **Matsumoto**, where we had a 3 hour bre
   <figcaption>The beautiful Matsumoto Castle, with its surrounding moat</figcaption>
 </figure>
 
-The castle is known as the "Crow Castle", due to its distinct dark exterior. It is considered one of the 3 most important traditional castles in Japan. It is surrounded by a moat and cherry garden, so it looks stunning during the sakura. However, since Matsumoto is closer to the mountains, expect the full bloom to happen a bit later than in Tokyo.
+The castle is known as the "Crow Castle", due to its distinct dark exterior. It is considered one of the 3 most important traditional castles in Japan. It is surrounded by a moat and a cherry garden, so it looks stunning during the sakura. However, since Matsumoto is closer to the mountains, expect the full bloom to happen a bit later than in Tokyo.
 
 ## Day 14: Tokyo
 
@@ -452,11 +450,11 @@ One of our favorite activities was to walk and observe the people. Every activit
 
 We can write a whole article about food in Japan. We, again, invite you to experiment by yourselves. There are very few restaurants and bars for tourists, so everywhere you go, you're pretty much on your own, as any local person. This can have the downside of not knowing what to order and how to eat it. But people are super friendly, especially when they see foreigners in their restaurants, so don't be afraid to ask.
 
-Some of the famous dishes are: sushi, sashimi, tempura, udon, okonomiyaki, etc. Beef is also amazing, cooked in various forms. Seafood is everywhere and of course you have all sorts of sweets. Also, try hitting a local izakaya pub. You will see a totally different face of the locals.
+Some of the famous dishes are: sushi, sashimi, tempura, udon and okonomiyaki. Beef is also amazing, cooked in various forms. Seafood is everywhere and of course you have all sorts of sweets. Also, try hitting a local izakaya pub. You will see a different face of the locals.
 
 ### Money
 
-The currency in Japan is called the yen. 10000 yen is the equivalent of 78 EUR (in late 2020). One of the big surprises, for us, was that cash is king in Japan. Be ready to exchange money or withdraw from your credit cards directly. Be aware that Japanese ATMs can be confusing at first.
+The currency in Japan is called yen. 10000 yen is the equivalent of 78 EUR (in late 2020). One of the big surprises, for us, was that cash is king in Japan. Be ready to exchange money or withdraw from your credit cards directly. Be aware that Japanese ATMs can be confusing at first.
 
 The prices for food and goods are similar with Western European ones. Accommodations can be on the expensive side, especially during the high season. Also, rooms are super small if you travel on a budget.
 
@@ -464,4 +462,10 @@ The prices for food and goods are similar with Western European ones. Accommodat
 
 If there's one thing that stands out, is the feeling of safety you have everywhere you go. You see people leaving their bikes on the sidewalk, no locks, no safety mechanisms on. You can walk outside alone, day and night and you never feel unsafe in any way. You can leave your phone on the table and go to the bathroom in a crowded place and you will surely find it there when you come back. We never experienced this feeling of complete safety anywhere in the world.
 
-We hope this paints a broad picture of the traveling experience in Japan. It is impossible to capture all the amazing things that make this country a unique destination. Looking back to our all travels outside of Romania, Japan ranks among the top when it comes to the overall experience.
+On top of that, everywhere you go in Japan you find clean and tidy places. There's amazing attention to detail and a lot of people work in cleaning jobs, making the streets, subways, restaurants and public toilets spotless.
+
+### Sakura
+
+The cherry blossom festival is a huge thing in Japan. The act of watching the blooming flowers is called hanami, and it is a centuries old tradition. The period of the sakura is well researched and there are several websites tracking the blossom level across the country. You can plan your trip in such a way that you catch the full bloom in different cities. But as mentioned already, it can get crowded during the full bloom days.
+
+We hope this paints a broad picture of the traveling experience in Japan. It is impossible to capture all the amazing things that make this country a unique destination. Looking back to all our travels outside of Romania, Japan ranks among the top when it comes to the overall experience.
