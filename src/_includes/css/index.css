@@ -234,8 +234,11 @@ img {
   display: none;
 }
 
-.theme-button:hover .theme-overlay,
-.theme-button:focus-visible .theme-overlay {
+.theme-button:focus .theme-overlay {
+  transform: translateX(0);
+}
+
+.theme-button:hover .theme-overlay {
   transform: translateX(0);
 }
 
