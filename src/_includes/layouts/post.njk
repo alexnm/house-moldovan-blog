@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 ---
 <div class="cover-wrapper">
-  <div class="cover-image" style="background-image: url('{{coverImage}}')"></div>
+  <div class="cover-image" style="background-image: url('{{coverImage | fullImageURL}}')"></div>
   <div class="cover-overlay">
     <div>
       <h1>{{pageTitle}}</h1>

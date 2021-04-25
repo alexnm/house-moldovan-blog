@@ -3,7 +3,7 @@
     <li class="postlist-item">
       <a class="postcard" href="{{post.url | url}}" title="{{post.data.pageTitle}}">
         <div class="post-image-wrapper">
-          <div class="post-image" style="background-image: url('{{ post.data.coverThumb }}')"></div>
+          <div class="post-image" style="background-image: url('{{ post.data.coverThumb | fullImageURL }}')"></div>
         </div>
         <div class="post-content">
           <div class="post-title">

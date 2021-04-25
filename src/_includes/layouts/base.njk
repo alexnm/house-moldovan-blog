@@ -9,7 +9,11 @@
     <title>{{ titleFromPage or metadata.fullTitle }}</title>
     <meta name="description" content="{{ subTitle or metadata.description }}">
     {% if coverImage %}
-      {% set coverImageURL = "https://housemoldovan.com" + coverImage %}
+      {% if coverImage[0] === '/' %}
+        {% set coverImageURL = "https://housemoldovan.com" + coverImage %}
+      {% else %}
+        {% set coverImageURL = "https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/" + coverImage %}
+      {% endif %}
     {% endif %}
     
     {% set fontURL = "https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap&subset=latin" %}
@@ -93,6 +97,9 @@
       <span>© {% currentYear %} House Moldovan</span>
       <a href="/about" class="link accent about-us">About us</a>
       <div class="social">
+        <a target="_blank" rel="noopener noreferrer" aria-label="Subscribe to our YouTube channel"  title="Subscribe to our YouTube channel" href="https://www.youtube.com/channel/UC_qFWG8O1lQ282W6EyVU9aA">
+          {{ "/img/icons/youtube.svg" | svgContents | safe }}
+        </a>
         <a target="_blank" rel="noopener noreferrer" aria-label="Follow us on Instagram" title="Follow us on Instagram" href="https://www.instagram.com/housemoldovan/">
           {{ "/img/icons/instagram.svg" | svgContents | safe }}
         </a>

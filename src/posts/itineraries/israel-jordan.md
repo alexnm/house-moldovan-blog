@@ -3,8 +3,8 @@ layout: layouts/itinerary.njk
 pageTitle: A Taste of the Middle East
 subTitle: Spending 10 days in Israel and Jordan
 headline: This itinerary will take you through Israel and Jordan, in 10 days packed with religious monuments of global importance, amazing desert landscapes, ancient cities and cosmopolitan urban centers.
-coverThumb: /img/israel/jerusalem-mount-of-olives-thumb.jpg
-coverImage: /img/middle-east-cover.jpg
+coverThumb: israel/jerusalem-mount-of-olives-thumb_s6a8wi.jpg
+coverImage: middle-east-cover_rnzgml.jpg
 region: 🌍 Middle East
 mapsLink: https://www.google.com/maps/@31.497481,35.2795334,7.5z
 date: 2020-05-03
@@ -47,10 +47,7 @@ We decided to split our days between Tel Aviv and Jerusalem and we ended up visi
 
 When you think of the Middle East, Tel Aviv is probably not what you have in mind. But spending two days in the city was totally worth it, as we were able to understand better the culture of Israel, outside of the religious and political turmoils.
 
-<figure>
-  <img src="/img/israel/tel-aviv-panorama.jpg" alt="">
-  <figcaption>Tel Aviv sea front.</figcaption>
-</figure>
+{% responsiveImage "israel/tel-aviv-panorama_bmbmra", "", "Tel Aviv sea front" %}
 
 Tel Aviv is a modern city and is in fact the ecomonic and financial heart of the state of Israel. There's a laid back atmosphere in the entire city that you can't really find in other places in Israel. People are super relaxed and very welcoming. The most interesting aspect is seeing how the city was built for people: with parks, pedestrian alleys and tons of places for social interaction.
 
@@ -68,29 +65,17 @@ Going north from Tel Aviv, along the Mediterranean coast, you have a lot of impr
 
 We booked a day trip with [a local company](https://www.click-tours.com/tour/caesarea-haifa-acre-and-rosh-hanikra/) so we had a professional guide for the entire day. Renting a car is also an option if you want to explore on your own. The first stop was the ancient roman city of Caesarea, built by king Herod and dedicated to emperor Octavian.
 
-<figure>
-  <img src="/img/israel/caesarea.jpg" alt="">
-  <figcaption>The roman ruins at Caesarea.</figcaption>
-</figure>
+{% responsiveImage "israel/caesarea_yufjcg", "", "The roman ruins at Caesarea" %}
 
 Then we continued north, towards the border with Lebanon where we went down with a cable car to the caves of Rosh Hanikra, a natural monument dug by the sea water in the white limestone hills. Our next stop was in the old city of Akko or Acre, where we had lunch and a quick tour of the impressive crusader citadel.
 
-<figure>
-  <img src="/img/israel/coast.jpg" alt="">
-  <figcaption>The mediterranean coast at the border with Lebanon.</figcaption>
-</figure>
+{% responsiveImage "israel/coast_r3sxxe", "", "The mediterranean coast at the border with Lebanon" %}
 
-<figure>
-  <img src="/img/israel/rosh-hanikra.jpg" alt="">
-  <figcaption>The rock caves of Rosh Hanikra.</figcaption>
-</figure>
+{% responsiveImage "israel/rosh-hanikra_hnevjx", "", "The rock caves of Rosh Hanikra" %}
 
 Finally, we ended our tour with a panoramic view of the Bahá'í Gardens in Haifa, a spectacular sight built by an [enigmatic religious group](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith), overlooking Israel's third largest city and a very important economic center for the country.
 
-<figure>
-  <img src="/img/israel/haifa.jpg" alt="">
-  <figcaption>Bahá'í Gardens overlooking the port of Haifa.</figcaption>
-</figure>
+{% responsiveImage "israel/haifa_wdba1o", "", "Bahá'í Gardens overlooking the port of Haifa" %}
 
 ### Jaffa
 
@@ -98,10 +83,7 @@ As the modern city of Tel Aviv grew, it engulfed the old port town of Jaffa. Jaf
 
 If you are staying in the central area of Tel Aviv, Jaffa is 40 to 60 minutes away by foot, depending on your location of course. You can take a relaxing walk on the promenade of the Mediterranean Sea among cyclists, runners, families and people with pets.
 
-<figure>
-  <img src="/img/israel/jaffa.jpg" alt="">
-  <figcaption>The old town of Jaffa.</figcaption>
-</figure>
+{% responsiveImage "israel/jaffa_stsghs", "Sandstone stairs that lead to a plaza", "The old town of Jaffa" %}
 
 The old town is quite small, but there's a great [2 hour free walking tour](https://www.neweuropetours.eu/sandemans-tours/tel-aviv/free-tour-of-tel-aviv/) that you can take to understand more about the history of the city. The same company is running similar free tours in Jerusalem and in other European cities and they are really well organized. Israeli tour guides are generally super friendly and tend to be as objective as they can when it comes to the information they give you, so don't be afraid to ask more delicate questions if you are curious.
 
@@ -117,24 +99,15 @@ Whether you are a believer or not, Jerusalem is one of the destinations you have
 
 The fortified Old Town is impressive even before entiring, as you get close to the old city walls built during the Ottoman period. Inside, the city is split in four quarters: the armenian, the jewish, the muslim and the christian quarter.
 
-<figure>
-  <img src="/img/israel/jerusalem-old-town.jpg" alt="">
-  <figcaption>Damascus Gate.</figcaption>
-</figure>
+{% responsiveImage "israel/jerusalem-old-town_rgaera", "Old town gate", "Damascus Gate" %}
 
 A free walking tour starting from Jaffa Gate will give you all the broad information you need about the history of the old city and about the religious monuments. The old city is pedestrian only and can get really crowded in the high season.
 
 The muslim quarter is the biggest one and houses about 3/4 of the population inside the city walls. There isn't any clear separation between the quarters, so you will find yourself moving from one site to another without worrying too much about this. You will also see jews, christians and muslims in all the neighbourhoods and although the tension is still there, our guide summed it perfectly when he said that Jerusalem is the best example of co-existence, not co-operation.
 
-<figure>
-  <img src="/img/israel/jerusalem-western-wall.jpg" alt="">
-  <figcaption>The remaining Western Wall section of the Jewish Temple.</figcaption>
-</figure>
+{% responsiveImage "israel/jerusalem-western-wall_m4a696", "crowds of people praying at the jewish western wall", "The remaining Western Wall section of the Jewish Temple" %}
 
-<figure>
-  <img src="/img/israel/jerusalem-holy-sepulchre.jpg" alt="">
-  <figcaption>The Church of the Holy Sepulchre.</figcaption>
-</figure>
+{% responsiveImage "israel/jerusalem-holy-sepulchre_oo1ogc", "Church tower and entrance below", "The Church of the Holy Sepulchre" %}
 
 Just outside the armenian quarter, there are a lot of interesting sights on Mount Zion, including King David's Tomb, the Room of the Last Supper and the Protestant Cemetery where you can find the [grave of Oskar Schindler](https://goo.gl/maps/fPFCQb4MW68PxNZMA), featured at the end of the [1993 movie](https://youtu.be/7z2Ignq93nE?t=134).
 
@@ -148,10 +121,7 @@ Other recommended activities:
 
 The Dome of the Rock and Al-Aqsa Mosque are built during the islamic rule on top of the ruins of the Second Jewish Temple. For muslims, it's the third holiest site in the world after Mecca and Medina. For jews, it's the constant reminder of their lost temple. Sadly, it is also one of the centers of discord between the two religious groups.
 
-<figure>
-  <img src="/img/israel/jerusalem-dome-of-the-rock.jpg" alt="">
-  <figcaption>Dome of the Rock, early in the morning.</figcaption>
-</figure>
+{% responsiveImage "israel/jerusalem-dome-of-the-rock_jskbtb", "Golden topped islamic dome", "Dome of the Rock, early in the morning" %}
 
 This whole area on the East side of the old town is run by the Jordanian military and has a pretty strict visiting schedule, but we encourage everyone to take the time and visit as it is truly a unique place. The site is open for toursists early in the morning 8:30 - 10:30 and between 13:30 - 14:30. Otherwise, only muslism are allowed during prayer times.
 
@@ -163,19 +133,13 @@ On the other side of the old town, lies a hill full of religious meaning for chr
 
 Mount of Olives also gives you a great panoramic view of the Temple Mount and the old city.
 
-<figure>
-  <img src="/img/israel/jerusalem-mount-of-olives.jpg" alt="">
-  <figcaption>Panoramic view of Jerusalem from Mount of Olives.</figcaption>
-</figure>
+{% responsiveImage "israel/jerusalem-mount-of-olives_asz9sy", "", "Panoramic view of Jerusalem from Mount of Olives" %}
 
 ### Holocaust Museum
 
 For our last day in Jerusalem, we decided to visit the Holocaust Remembrace Center or Yad Vashem. The museum is located on [Mount Herzl](https://goo.gl/maps/X3TGvSHzR36punJr6), outside the central Jerusalem area, but quite accessible via the new light rail system.
 
-<figure>
-  <img src="/img/israel/jerusalem-yad-vashem.jpg" alt="">
-  <figcaption>The Hall of Names with all the victims of the Holocaust.</figcaption>
-</figure>
+{% responsiveImage "israel/jerusalem-yad-vashem_uu72wn", "Circular dome interior with hundreds of images of victims of the Holocaust", "The Hall of Names with all the victims of the Holocaust" %}
 
 The entire area is built not only as a museum, but also as an educational center and memorial. It tells the complete story of the jewish communities during the horrors of the Second World War in Europe.
 
@@ -183,10 +147,7 @@ The entire area is built not only as a museum, but also as an educational center
 
 At the southern-most point of Israel, Eilat is the capital of sunny days and sea activities. With an amazing shoreline at the Red Sea and the north-most coral reef in the world, tourists are welcome to enjoy a variety of water sports and activities.
 
-<figure>
-  <img src="/img/israel/eilat.jpg" alt="">
-  <figcaption>The coral reef in Eilat.</figcaption>
-</figure>
+{% responsiveImage "israel/eilat_rdfhtl", "Clear blue waters and coral reefs", "The coral reef in Eilat" %}
 
 Eilat has a sea front of 10km with multiple different beaches, some public and some private. There's a public bus (numbers 15 and 30) that you can take from the city center to reach the farthest beaches. While there, we recommend a visit to the [Underwater Marine Observatory Park](https://goo.gl/maps/mm7aELdofbKFU5yz5). Being so close to the coral reef is an amazing experience. You can also see a lot of marine species that are endemic to the Red Sea: sharks, stingrays, sea turtles, etc.
 
@@ -198,10 +159,7 @@ Images cannot really capture the beauty of Petra and the amazing rock carvings d
 
 We wrote extensively about our two day experience in Petra and Wadi Rum in our [Jordan spotlight](/travel/ancient-petra-and-wadi-rum-desert/).
 
-<figure>
-  <img src="/img/jordan/petra.jpg" alt="">
-  <figcaption>Petra from above.</figcaption>
-</figure>
+{% responsiveImage "jordan/petra_m88tn5", "Rock carved facade at Petra, Jordan", "Petra from above" %}
 
 ## Day 10: Red Canyon
 
@@ -209,10 +167,7 @@ On our final day in Eilat, we spent the morning hiking through a short but spect
 
 From the bus stop, you walk half an hour to reach the entrance to the canyon and then you need another half hour to cross the main section of the canyon. At this point, you can choose to return the same way or continue on a longer circuit back to the bus stop which takes about an hour and a half.
 
-<figure>
-  <img src="/img/israel/red-canyon.jpg" alt="">
-  <figcaption>The Red Canyon at its narrowest point.</figcaption>
-</figure>
+{% responsiveImage "israel/red-canyon_w5ov8z", "Narrow dry canyon", "The Red Canyon at its narrowest point" %}
 
 ## Travel tips
 

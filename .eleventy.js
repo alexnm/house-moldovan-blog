@@ -1,128 +1,152 @@
-const { DateTime } = require('luxon')
-const path = require('path')
-const fs = require('fs')
-const pluginRss = require('@11ty/eleventy-plugin-rss')
-const pluginNavigation = require('@11ty/eleventy-navigation')
-const markdownIt = require('markdown-it')
-const markdownItAnchor = require('markdown-it-anchor')
-const markdownItLinkAttributes = require('markdown-it-link-attributes')
-const pluginReadingTime = require('eleventy-plugin-reading-time')
-const pluginSVG = require('eleventy-plugin-svg-contents')
-const pluginTOC = require('eleventy-plugin-toc')
-const pluginLazyImages = require('eleventy-plugin-lazyimages')
-const pluginSvgContents = require('eleventy-plugin-svg-contents')
+const { DateTime } = require("luxon");
+const path = require("path");
+const fs = require("fs");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginNavigation = require("@11ty/eleventy-navigation");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+const markdownItLinkAttributes = require("markdown-it-link-attributes");
+const pluginReadingTime = require("eleventy-plugin-reading-time");
+const pluginSVG = require("eleventy-plugin-svg-contents");
+const pluginTOC = require("eleventy-plugin-toc");
+const pluginLazyImages = require("eleventy-plugin-lazyimages");
+const pluginSvgContents = require("eleventy-plugin-svg-contents");
 
-const postcss = require('postcss')
-const autoprefixer = require('autoprefixer')
-const cssnano = require('cssnano')
+const postcss = require("postcss");
+const autoprefixer = require("autoprefixer");
+const cssnano = require("cssnano");
 const { minify } = require("terser");
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(pluginRss)
-  eleventyConfig.addPlugin(pluginNavigation)
-  eleventyConfig.addPlugin(pluginReadingTime)
-  eleventyConfig.addPlugin(pluginSVG)
-  eleventyConfig.addPlugin(pluginTOC)
-  eleventyConfig.addPlugin(pluginLazyImages)
-  eleventyConfig.addPlugin(pluginSvgContents)
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(pluginReadingTime);
+  eleventyConfig.addPlugin(pluginSVG);
+  eleventyConfig.addPlugin(pluginTOC);
+  eleventyConfig.addPlugin(pluginLazyImages);
+  eleventyConfig.addPlugin(pluginSvgContents);
 
-  eleventyConfig.addFilter('readableDate', dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('dd LLL yyyy')
-  })
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "dd LLL yyyy"
+    );
+  });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter('htmlDateString', dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd')
-  })
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+  });
 
   // Get the first `n` elements of a collection.
-  eleventyConfig.addFilter('head', (array, n, currentUrl) => {
-    let allPosts = array
+  eleventyConfig.addFilter("head", (array, n, currentUrl) => {
+    let allPosts = array;
     if (currentUrl) {
-      allPosts = allPosts.filter(post => post.url !== currentUrl)
+      allPosts = allPosts.filter((post) => post.url !== currentUrl);
     }
 
     if (n < 0) {
-      return allPosts.slice(n)
+      return allPosts.slice(n);
     }
 
-    return allPosts.slice(0, n)
-  })
+    return allPosts.slice(0, n);
+  });
 
   // Update dynamic function for footer year
-  eleventyConfig.addShortcode('currentYear', () => new Date().getFullYear().toString())
+  eleventyConfig.addShortcode("currentYear", () =>
+    new Date().getFullYear().toString()
+  );
+
+  eleventyConfig.addFilter("fullImageURL", (path) => {
+    if (path[0] === "/") {
+      return path;
+    }
+
+    return `https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/${path}`;
+  });
+
+  eleventyConfig.addShortcode("responsiveImage", (path, alt, caption) => {
+    return `
+<figure>
+  <picture>
+    <source srcset="https://res.cloudinary.com/house-moldovan/image/upload/w_600/${path}.webp"
+            media="(max-width: 768px)">
+    <source srcset="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/${path}.webp">
+    <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/${path}.jpg" alt="${alt}" />
+  </picture>
+  <figcaption>${caption}.</figcaption>
+</figure>`;
+  });
 
   // Add postcss block declaration
-  eleventyConfig.addPairedAsyncShortcode('postcss', async code => {
-    const filepath = path.join(__dirname, 'src/_includes/css/index.css')
+  eleventyConfig.addPairedAsyncShortcode("postcss", async (code) => {
+    const filepath = path.join(__dirname, "src/_includes/css/index.css");
     return await postcss([autoprefixer, cssnano])
       .process(code, { from: filepath })
-      .then(result => result.css)
-  })
-
-  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
-    code,
-    callback
-  ) {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error("Terser error: ", err);
-      // Fail gracefully.
-      callback(null, code);
-    }
+      .then((result) => result.css);
   });
-  
 
-  eleventyConfig.addCollection('tagList', require('./src/_11ty/getTagList'))
+  eleventyConfig.addNunjucksAsyncFilter(
+    "jsmin",
+    async function (code, callback) {
+      try {
+        const minified = await minify(code);
+        callback(null, minified.code);
+      } catch (err) {
+        console.error("Terser error: ", err);
+        // Fail gracefully.
+        callback(null, code);
+      }
+    }
+  );
 
-  eleventyConfig.addPassthroughCopy('img')
-  eleventyConfig.addPassthroughCopy('src/robots.txt')
+  eleventyConfig.addCollection("tagList", require("./src/_11ty/getTagList"));
 
-  eleventyConfig.addWatchTarget('src/css')
+  eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+
+  eleventyConfig.addWatchTarget("src/css");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   })
     .use(markdownItAnchor, {
       // permalink: true,
-      permalinkClass: 'direct-link',
+      permalinkClass: "direct-link",
       permalinkBefore: false,
-      permalinkSymbol: '#'
+      permalinkSymbol: "#",
     })
     .use(markdownItLinkAttributes, {
       pattern: /^http/,
       attrs: {
-        target: '_blank',
-        rel: 'noopener noreferrer'
-      }
-    })
-  eleventyConfig.setLibrary('md', markdownLibrary)
-  eleventyConfig.setDataDeepMerge(true)
+        target: "_blank",
+        rel: "noopener noreferrer",
+      },
+    });
+  eleventyConfig.setLibrary("md", markdownLibrary);
+  eleventyConfig.setDataDeepMerge(true);
 
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
-      ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('dist/404.html')
+      ready: function (err, browserSync) {
+        const content_404 = fs.readFileSync("dist/404.html");
 
-        browserSync.addMiddleware('*', (req, res) => {
+        browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
-          res.write(content_404)
-          res.end()
-        })
-      }
+          res.write(content_404);
+          res.end();
+        });
+      },
     },
     ui: false,
-    ghostMode: false
-  })
+    ghostMode: false,
+  });
 
   return {
-    templateFormats: ['md', 'njk', 'html', 'liquid', 'css'],
+    templateFormats: ["md", "njk", "html", "liquid", "css"],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about those.
@@ -134,16 +158,16 @@ module.exports = function(eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
     // pathPrefix: "/",
 
-    markdownTemplateEngine: 'liquid',
-    htmlTemplateEngine: 'njk',
-    dataTemplateEngine: 'njk',
+    markdownTemplateEngine: "liquid",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
 
     // These are all optional, defaults are shown:
     dir: {
-      input: 'src',
-      includes: '_includes',
-      data: '_data',
-      output: 'dist'
-    }
-  }
-}
+      input: "src",
+      includes: "_includes",
+      data: "_data",
+      output: "dist",
+    },
+  };
+};
