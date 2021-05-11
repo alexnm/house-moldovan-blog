@@ -17,7 +17,7 @@ tags:
 
 Echipament minim de drumetie
 Diferenta de nivel vs lungime. Timp necesar (de multe ori km sunt irelevanti)
-Timpii estimati sunt pentru intreg traseul dus-intors
+Timpii estimati sunt pentru intreg traseul dus-intors sau circuit, fara pauze.
 Marcaje
 
 ## Pentru toata familia
