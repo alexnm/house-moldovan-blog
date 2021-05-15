@@ -105,19 +105,66 @@ Un alt traseu usor se gaseste si in zona Baisoara. De data asta urcam la altitud
 
 Traseul este marcat cu punct galben, dar si cu banda rosie. Prima parte a traseului este comunca cu drumul forestier care duce spre varful Muntele Mare, usor de recunoscut dupa cupola alba din varf care apartine unei unitati militare. La un moment dat se ajunge la o intersectie cu un drum secundar care o ia in stanga, acela este traseul spre varful Pietrele Marunte. Din varf se deschide o panorama superba spre toata zona sudica a muntilor Apuseni.
 
+### Pasul Vartop - Groapa Ruginoasa
+
+- Lungime: 2km
+- Diferenta de nivel: 140m
+- Timp Estimat: 1.5h
+- Marcaj: Banda Galbena
+
+Marcaj: https://muntii-nostri.ro/ro/routeinfo/groapa-ruginoasa
+
 ## Pentru incepatori
 
-Urmatoarele trasee sunt ideale pentru care care sunt la primele experiente montane, dar au o conditie fizica cat de cat buna pentru a face fata unei perioade de 3-4 ore de efort.
+Urmatoarele trasee sunt ideale pentru cei care sunt la primele experiente montane, dar au o conditie fizica cat de cat buna, pentru a face fata unui efort susținut, timp de 3-4 ore.
 
-- Cheile Turzii - versant drept + chei
-- Cheile Valisoarei - circuit versant drept
-- Vartop - Groapa Ruginoasa
-- Valul Miresei - vf Lespezi
-- Buscat - Muntele Mare
+### Cheile Turzii - Circuit versant + chei
+
+- Lungime: 7-8km
+- Diferenta de nivel: 350m
+- Timp Estimat: 3-4h
+- Marcaj: Punct Rosu
+
+Pe lângă traversarea cheilor, există trasee care urcă pe cei 2 versanți care formează spectaculoasa formă de relief. Ambii versanți sunt oarecum similari ca dificultate. Noi vă recomandăm să urcați pe versantul drept (vestic), cu plecare din Petrești și cu întoarcerea prin chei. Versantul stâng (estic) este mai abrupt și mai scurt, însa versantul drept vine cu o priveliște deosebită asupra cheilor, dintr-un punct numit La Dos.
+
+Din parcarea improvizată la intrarea pe traseu se poate traversa un pod de lemn peste râu, iar apoi începe urcarea pe deal spre un stâlp vizibil la marginea pădurii. O dată ce ajungeți la stâlp, intrați pe traseul marcat cu punct roșu. Se urcă puțin prin pădure, apoi pe o potecă care șerpuiește încet spre cea mai înaltă zonă a traseului, cu câteva puncte de belvedere superbe. Coborârea se face prin pădure, până la intrarea pe traseul ce străbate cheile înapoi spre Petrești.
+
+GPX: https://connect.garmin.com/modern/activity/6547732696 (cu un round trip pana la masina dupa 300 de metri pentru ca mi-am uitat telefonul)
+
+### Rimetea - Piatra Secuiului - Coltii Trascaului
+
+- Lungime: 7.2km
+- Diferenta de nivel: 580m
+- Timp Estimat: 4h
+- Marcaj: Cruce Albastra + Banda Rosie
+
+Unul dintre cele mai spectaculoase, dar si populare trasee din Muntii Trascau.
+
+https://muntii-nostri.ro/ro/routeinfo/circuitul-pietrei-secuiului
+
+### Cheile Valisoarei - Circuit versant drept
+
+- Lungime: 4.2km
+- Diferenta de nivel: 510m
+- Timp Estimat: 3h
+- Marcaj: Punct Rosu
+
+Muntii Trascau sunt plini de surprize! Cheile Valisoarei au fost o descoperire minunata pentru noi si ne-am intors cu drag de cate ori am putut in zona. In Valisoara se ajunge pe drumul judetean 107M, care face legatura dintre Buru si Aiud si trece si prin satul Rimetea. Spre deosebire de Cheile Turzii, aici drumul principal trece direct prin chei. Versantul drept a fost re-marcat recent cu punct rosu.
+
+Fiind circuit, se poate urma in ambele sensuri. Noi recomandam varianta marcata pe muntii nostri, in sens invers acelor de ceasornic. In acest sens, portiunea cea mai abrupta este in urcare, fiind mai putin solicitanta pentru genunchi fata de varianta de coborare.
+
+Intrarea pe traseu se face din drumul asfaltat, incepand cu o urcare destul de abrupta la baza peretelui drept al cheilor. In punctul de maxim al traseului se ajunge la un punct de belvedere marcat cu o cruce metalica. Traseul apoi serpuieste prin padure spre o alta zona de belvedere situata la iesirea din chei.
+
+Pana aici se poate ajunge si intr-o tura mai scurta pornind de langa Castelul Templul Cavalerilor, situat in mijlocul cheilor, pe un drum secundar care porneste din drumul asfaltat.
+
+Marcaj: https://muntii-nostri.ro/ro/routeinfo/circuit-cheile-valisoarei-aiudului-versantul-drept
+
+### Cascada Valul Miresei - Varful Lespezi
+
+### Buscat - Varful Muntele Mare
 
 ## Pentru cei mai temerari
 
-- Rimetea - Piatra Secuiului - Coltii Trascaului
 - Rimetea - Ardascheia
 - Scarita Belioara - circuit
 - Arieseni - Curcubata Mare
