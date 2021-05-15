@@ -15,23 +15,25 @@ tags:
   - inspiration
 ---
 
-Incercam in articolul urmator sa facem o lista cu drumetii de o zi in zona muntilor Apuseni, perfect pentru cei care locuiesc in zona Clujului, dar si pentru cei din orasele si judetele invecinate. Impartim lista in 3 subcategorii:
+În ultimii ani am încercat să fugim la munte mai des, și am făcut, printre altele, multe drumeții de o zi în zona munților Apuseni. Împărtășim cu voi în acest articol o listă rezultată din experiențele noastre, listă ce poate fi utilă mai ales pentru cei care locuiesc în zona Clujului, dar și pentru cei din orașele și județele învecinate.
 
-- drumetii pentru toata familia, care nu prezinta dificultati majore si pot fi parcurse cu copii mici sau cu persoane mai in varsta
-- drumetii pentru incepatori: trasee mai scurte sau mai putin abrupte, perfecte pentru cei care nu au experienta anterioara pe munte
-- drumetii pentru experimentati: trasee ceva mai dificile, dar abordabile intr-o zi
+În funcție de dificultatea și durata traseului, împărțim lista în 3 subcategorii:
 
-Indiferent de traseu, recomandam intotdeauna un minim de echipament de munte: papuci sport, cu talpa groasa, preferabil bocanci pentru drumetiile cu diferenta de nivel mai mare si in zonele mai pietroase. De asemenea, recomandam straturi multiple de haine, in functie de vreme, o pelerina/foita subtire care poate fi folosita in caz de ploaie dar nu ingreuneaza.
+- drumeții pentru toată familia: nu prezintă dificultăți majore și pot fi parcurse cu copii mici sau cu persoane mai în vârstă
+- drumeții pentru începători: trasee scurte sau mai puțin abrupte, perfecte pentru cei care nu au experiență anterioară pe munte
+- drumeții pentru cei experimentați: trasee mai dificile, dar abordabile într-o zi.
 
-Recomandare pantaloni lungi (insecte, capuse, traversare poteci inguste, vipere, etc.)
+Indiferent de traseu, recomandăm să purtați întotdeauna un minim de echipament de munte. Încălțămintea să fie sport, cu talpa groasă, iar pentru drumețiile cu diferență de nivel mai mare și în zonele mai pietroase cei mai potriviți sunt bocancii de munte. De asemenea, vă recomandăm să purtați mai multe straturi de haine, în funcție de vreme: tricou, polar, wind stopper, geacă de puf. În plus, e nevoie de o pelerină sau foiță subțire care să poată fi folosită în caz de ploaie.
 
-Traseele montane se masoara deobicei in timp si in diferenta de nivel, mai putin in distanta parcursa. Un traseu de 4-5km poate dura putin peste o ora, daca e intr-o zona relativ plata, sau poate dura 3-4 ore daca necesita abordarea unei pante abrupte. Drept urmare, mai importanta devine diferenta de nivel cumulata, sau cu alte cuvinte, suma tuturor urcarilor de pe traseu.
+Chiar și vara e recomandat să aveți la voi cel puțin două straturi (fără să socotim pelerina). Pantalonii e indicat să fie lungi, pentru a vă proteja de insecte, căpușe, zgârieturi atunci când traversați poteci înguste, și chiar și de vipere în unele zone.
 
-Traseele pot fi liniare, ceea ce inseamna ca se parcurg dus-intors, sau pot fi sub forma de circuit, unde pornesti si te intorci in acelasi punct. Traseele montane pot fi marcate cu: punct, banda/linie, cruce sau triunghi, de culoare rosie, galbena sau albastra. Punctul este folosit deobicei pentru traseele de tip circuit, banda reprezinta deobicei traseele liniare importante din zona, iar traseele marcate cu triunghi sau cruce deobicei intersecteaza alte trasee din zona.
+Pentru fiecare dintre traseele descrise în articol, o să menționăm și o estimare de timp. Aceasta se bazează atât pe experiența personală, cât și pe modul în care se măsoară de obicei traseele montane. Contează mai puțin distanța parcursă, și mai mult diferența de nivel cumulată sau, cu alte cuvinte, suma tuturor urcărilor de pe traseu. De exemplu, un traseu de 4-5 km poate dura puțin peste o oră dacă e într-o zonă relativ plată, sau poate dura 3-4 ore dacă necesită abordarea unei pante abrupte. Nu sunt de neglijat nici coborârile abrupte, care necesită o atenție sporită.
 
-Applicatii? muntii-nostri,
+Traseele pot fi liniare, ceea ce înseamnă că vor trebui parcurse dus-întors, sau pot fi sub formă de circuit, unde la final ajungi în locul din care ai pornit, fără să parcurgi de două ori același drum. Referitor la timpii estimați de noi, aceștia sunt pentru întreg traseul dus-întors sau circuit, fără pauze.
 
-Timpii estimati sunt pentru intreg traseul dus-intors sau circuit, fara pauze.
+Traseele montane sunt marcate cu punct, bandă / linie, cruce sau triunghi, de culoare roșie, galbenă sau albastră. Punctul este folosit de obicei pentru traseele de tip circuit, banda reprezintă în general traseele liniare importante în zonă, iar traseele marcate cu triunghi sau cruce de obicei intersectează alte trasee din zonă.
+
+De cele mai multe ori, traseele sunt bine marcate, iar șansele de a vă rătăci sunt foarte mici. Dacă doriți totuși să aveți posibilitatea de a ști în orice moment cât anume mai aveți de parcurs din traseu, vă recomandăm aplicația [munții-noștri](https://muntii-nostri.ro/). Nu întotdeauna veți găsi un traseu identic cu ce vă doriți voi să parcurgeți, dar e foarte utilă pentru a vă orienta atunci când sunteți pe munte.
 
 ## Pentru toata familia
 
