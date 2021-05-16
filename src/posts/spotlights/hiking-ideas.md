@@ -229,22 +229,82 @@ Ultima categorie de trasee este potrivita pentru cei care au la activ cateva dru
 
 {% responsiveImage "romania/apuseni/rimetea-ardascheia_jios4k", "", "Privind de pe Ardascheia spre Piatra Secuiului si Coltesti" %}
 
-### Circuit Scarita Belioara
+- Lungime: 8-9km
+- Diferență de nivel: 620m
+- Timp Estimat: 4h
+- Marcaj: Banda Rosie + nemarcat
 
-{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versantii impresionanti care formeaza Scarita Belioara" %}
+Pe partea opusa Pietrei Secuiului, gasim o alta urcare frumoasa dar foarte diferita de data asta. Varful Ardascheia este ceva mai inalt decat Piatra Secuiului, insa panta este putin mai moale. Traseul e ceva mai lung, incepe din satul Rimetea si urca pe langa o padure de amestec de conifere si foioase. Dupa 2.5km trebuie sa parasim marcajul cu banda rosie pentru a urma o poteca nemarcata spre culmea Ardascheia.
 
-### Arieseni - Varful Curcubata Mare
-
-{% responsiveImage "romania/apuseni/bihor-mountain-top_ychfys", "", "Acoperisul Apusenilor, varful Cucurbata Mare" %}
-
-### Padis - Circuitul Galbenei
-
-{% responsiveImage "romania/apuseni/cheile-galbenei_e0afdp", "", "Trecerea prin cheile Galbenei" %}
+https://connect.garmin.com/modern/activity/5858746076
 
 ### Cabana Vladeasa - Varful Vladeasa
 
 {% responsiveImage "romania/apuseni/vladeasa_ep8i0f", "", "Varful Vladeasa pe final de toamna" %}
 
+- Lungime: 14-15km
+- Diferență de nivel: 600m
+- Timp Estimat: 5h
+- Marcaj: Punct Rosu
+
+Un alt traseu popular in zona incepe din preajma Cabanei Vladeasa si urca pana pe varful cu acelasi nume. Pana aici se ajunge pe E60 spre Huedin, apoi pe drumul judetean ce leaga satele Sancrai, Secuieu si Rogojelu. Din Rogojelu incepe un drum neasfaltat destul de ingust si tehnic pana la Cabana Vladeasa.
+
+Noi am urcat in trecut si cu un Ford Focus, deci nu e imposibil, dar trebuie putina atentie la urcare. Masinile se pot lasa si pe marginea drumului inainte de a ajunge la Cabana. Noi deobicei "parcam" la ultima iesire din padure cand ne apare cabana si intreg golul alpin in fata.
+
+Traseul poate fi facut in orice perioada a anului cu conditia sa fie vreme buna. Punctul maxim este la 1836m, al doilea varf din Apuseni. Pe varf se gaseste si cabana meteo Vladeasa. Trecand peste varf se poate cobori spre zona Pietrele Albe, de unde un alt drum forestier se intoarce serpuind prin padure spre cabana de unde am pornit.
+
+https://muntii-nostri.ro/ro/routeinfo/cabana-vladeasa-vf-vladeasa-pietrele-albe-cabana-vladeasa
+
+### Circuit Scarita Belioara
+
+{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versantii impresionanti care formeaza Scarita Belioara" %}
+
+- Lungime: 8.5km
+- Diferență de nivel: 630m
+- Timp Estimat: 5-6h
+- Marcaj: Punct Rosu
+
+Traseul de la Scarita Belioara este unul dintre favoritele noastre. Accesul se face tot de pe DN75 dinspre Turda, spre satul Posaga de Sus. Aici in capatul satului se lasa masinile la marginea drumului si se intra direct pe traseu spre stanga, printr-o poarta de lemn. Urmeaza mai multe urcari destul de abrupte prin padure sau expuse, insa fara mari dificultati tehnice.
+
+Ajunsi in punctul maxim, intersectam drumul forestier care vine din Statiunea Muntele Baisorii. Continuam spre cea mai frumoasa zona, portiunea de creasta a scaritei. Ultima partea a traseului este desigur, in coborare, pe la baza pesterii Cosul Boului.
+
+https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
+
 ### Circuit Pietrele Albe
 
 {% responsiveImage "romania/apuseni/pietrele-albe_kooti6", "", "Pietrele Albe vazute de la intrarea pe circuit" %}
+
+- Lungime: 12-13km
+- Diferență de nivel: 600m
+- Timp Estimat: 6-7h
+- Marcaj: Punct Albastru + Punct Galben
+
+https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca
+
+### Arieseni - Varful Curcubata Mare
+
+{% responsiveImage "romania/apuseni/bihor-mountain-top_ychfys", "", "Acoperisul Apusenilor, varful Cucurbata Mare" %}
+
+- Lungime: 15km
+- Diferență de nivel: 1000m
+- Timp Estimat: 7-8h
+- Marcaj: Banda Albastra
+
+Cucurbata Mare sau Bihorul Mare este cel mai inalt punct al muntilor Apuseni. Exista mai multe trasee care ajung in varf, noi l-am facut pe unul din cele mai scurte, care porneste din zona cabanelor din Arieseni. De altfel, se poate ajunge si cu masina pe varf pe acelasi drum forestier neasfaltat pe care se afla si prima bucata de traseu marcat cu banda albastra.
+
+Noi am lasat masina destul de jos si am prefera sa urcam 3-4km pe jos. Oricum, panta nu este foarte mare in aceasta portiune comuna de drum. Traseul devine mai abrupt o data cu parasirea drumului forestier si urca constant pana pe creasta Muntilor Bihor.
+
+https://muntii-nostri.ro/ro/routeinfo/valea-ariesul-mare-cucurbata-mare-vf-bihor
+
+### Padis - Circuitul Galbenei
+
+{% responsiveImage "romania/apuseni/cheile-galbenei_e0afdp", "", "Trecerea prin cheile Galbenei" %}
+
+- Lungime: 17.5km
+- Diferență de nivel: 1300m
+- Timp Estimat: 9-10h
+- Marcaj: Punct Galben
+
+Chiar daca am fost in Padis ultima oara in 2016, traseul asta merita mentionat aici. Este un tur de forta a zonei Padis, trecand pe la Cetatile Ponorului, Ghetarul Focul Viu si Izbucul si Cheile Galbenei. Traseul poate fi facut si din zona de camping Glavoi si este ceva mai scurt. Pentru traversarea Cheilor Galbenei sunt utile niste sandale de apa, dar se poate face trecerea si pe lanturi cu putin efort.
+
+https://muntii-nostri.ro/ro/routeinfo/circuitul-vaii-galbena
