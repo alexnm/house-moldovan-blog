@@ -140,86 +140,86 @@ Marcaj: https://muntii-nostri.ro/ro/routeinfo/groapa-ruginoasa
 
 Banda galbenă ne duce prin pădure într-o urcare ușoară spre Groapa Ruginoasă: o zonă foarte interesantă formată natural prin alunecări treptate de teren datorate unui sol argilos instabil. În funcție de condițiile meteo, întreaga zonă descoperită oferă culori deosebite amatorilor de fotografie.
 
-## Pentru incepatori
+## Pentru începători
 
-Urmatoarele trasee sunt ideale pentru cei care sunt la primele experiente montane, dar au o conditie fizica cat de cat buna, pentru a face fata unui efort susținut, timp de 3-4 ore.
+Următoarele trasee sunt ideale pentru cei care sunt la primele experiențe montane, dar au o condiție fizică suficient de bună pentru a face față unui efort susținut, timp de 3-4 ore.
 
-### Cheile Turzii - Circuit Versant + Traversare
+### Cheile Turzii - Circuit Versant Drept și întoarcerea prin chei
 
-{% responsiveImage "romania/apuseni/cheile-turzii-dos_qlujc2", "", "Privelistea de deasupra cheilor" %}
+{% responsiveImage "romania/apuseni/cheile-turzii-dos_qlujc2", "", "Priveliștea de deasupra cheilor" %}
 
 - Lungime: 7-8km
-- Diferenta de nivel: 350m
+- Diferență de nivel: 350m
 - Timp Estimat: 3-4h
-- Marcaj: Punct Rosu
+- Marcaj: Punct roșu
 
-Pe lângă traversarea cheilor, există trasee care urcă pe cei 2 versanți care formează spectaculoasa formă de relief. Ambii versanți sunt oarecum similari ca dificultate. Noi vă recomandăm să urcați pe versantul drept (vestic), cu plecare din Petrești și cu întoarcerea prin chei. Versantul stâng (estic) este mai abrupt și mai scurt, însa versantul drept vine cu o priveliște deosebită asupra cheilor, dintr-un punct numit La Dos.
+Pe lângă traversarea cheilor, există trasee care urcă pe cei doi versanți care formează spectaculoasa formă de relief. Traseele de pe cei doi versanți sunt similare ca dificultate, dar noi vă recomandăm să urcați pe versantul drept (vestic), cu plecare din Petrești și cu întoarcerea prin chei. Versantul stâng (estic) este mai abrupt și mai scurt, însa versantul drept vine cu o priveliște deosebită asupra cheilor, dintr-un punct numit La Dos 🙃.
 
-Din parcarea improvizată la intrarea pe traseu se poate traversa un pod de lemn peste râu, iar apoi începe urcarea pe deal spre un stâlp vizibil la marginea pădurii. O dată ce ajungeți la stâlp, intrați pe traseul marcat cu punct roșu. Se urcă puțin prin pădure, apoi pe o potecă care șerpuiește încet spre cea mai înaltă zonă a traseului, cu câteva puncte de belvedere superbe. Coborârea se face prin pădure, până la intrarea pe traseul ce străbate cheile înapoi spre Petrești.
+Din parcarea improvizată la intrarea pe traseu puteți trece pe un pod de lemn peste râu, iar apoi începe urcarea pe deal spre un stâlp care se află la marginea pădurii. O dată ce ajungeți la stâlp, intrați pe traseul marcat cu punct roșu. Urmează o urcare scurtă prin pădure, apoi pe o potecă care șerpuiește încet spre cea mai înaltă zonă a traseului, unde sunt câteva puncte de belvedere superbe. Coborârea se face prin pădure, până la intrarea pe traseul ce străbate cheile înapoi spre Petrești.
 
-GPX: https://connect.garmin.com/modern/activity/6547732696 (cu un round trip pana la masina dupa 300 de metri pentru ca mi-am uitat telefonul)
+GPX: https://connect.garmin.com/modern/activity/6547732696 (cu un round-trip până la mașină după 300 de metri, după telefon 🙃)
 
-### Rimetea - Piatra Secuiului - Coltii Trascaului
+### Rîmetea - Piatra Secuiului - Colții Trascăului
 
-{% responsiveImage "romania/apuseni/piatra-secuiului_gxaqru", "", "Satul Rimetea vazut din saua dintre varfuri" %}
+{% responsiveImage "romania/apuseni/piatra-secuiului_gxaqru", "", "Satul Rîmetea văzut din șaua dintre vârfuri" %}
 
 - Lungime: 7.2km
-- Diferenta de nivel: 580m
+- Diferență de nivel: 580m
 - Timp Estimat: 4h
-- Marcaj: Cruce Albastra + Banda Rosie
+- Marcaj: Cruce albastră + Bandă roșie
 
-Unul dintre cele mai spectaculoase, dar si populare trasee din Muntii Trascau. Toata lumea care ajunge in Rimetea este imediat atrasa de masivitatea versantului estic al muntilor Trascau.
+Traseul ce urcă pe Piatra Secuiului este, pe bună dreptate, unul dintre cele mai spectaculoase și populare din Munții Trascău, toată lumea care ajunge la Rîmetea fiind imediat atrasă de masivitatea versantului estic.
 
-Din Rimetea pleaca poteca marcata cu cruce albastra care urca destul de abrupt pe alocuri pana in saua dintre cele 2 varfuri. In dreapta se continua spre Piatra Secuiului, iar la intoarcere se poate continua pe creasta pe banda rosie, pana pe Coltii Trascaului, apoi se coboara prin padure pe o poteca mai putin abrupta si se inconjoara muntele pe la baza lui.
+Traseul începe chiar din centrul satului și este marcat cu cruce albastră. Drumul de schimbă curând în potecă, după care începe urcarea propriu-zisă. Sunt câteva porțiuni destul de abrupte, dar priveliștea de sus merită efortul. După ce ajungeți în șaua dintre cele două vârfuri, faceți dreapta pentru a urca până pe vârful Pietrei Secuiului. La întoarcere, puteți continua pe creastă pe banda roșie, până pe Colții Trascăului, după care urmează coborârea prin pădure, pe o potecă mai puțin abruptă.
 
-Atentie: Traseul de coborare devine foarte alunecos in perioadele ploiase
+Atenție: Traseul de coborâre devine foarte alunecos în perioadele ploioase.
 
 https://muntii-nostri.ro/ro/routeinfo/circuitul-pietrei-secuiului
 
-### Cheile Valisoarei - Circuit Versant
+### Cheile Vălișoarei - Circuit versant drept
 
-{% responsiveImage "romania/apuseni/valisoara_hglx83", "", "Cheile Valisoarei pe final de primavara" %}
+{% responsiveImage "romania/apuseni/valisoara_hglx83", "", "Cheile Vălișoarei pe final de primăvară" %}
 
 - Lungime: 4.2km
-- Diferenta de nivel: 510m
+- Diferență de nivel: 510m
 - Timp Estimat: 3h
-- Marcaj: Punct Rosu
+- Marcaj: Punct roșu
 
-Muntii Trascau sunt plini de surprize! Cheile Valisoarei au fost o descoperire minunata pentru noi si ne-am intors cu drag de cate ori am putut in zona. In Valisoara se ajunge pe drumul judetean 107M, care face legatura dintre Buru si Aiud si trece si prin satul Rimetea. Spre deosebire de Cheile Turzii, aici drumul principal trece direct prin chei. Versantul drept a fost re-marcat recent cu punct rosu.
+Cheile Vălișoarei au fost o descoperire minunată pentru noi, la care ne-am întors cu drag de câte ori am putut. În Vălișoara se ajunge pe drumul județean 107M, care face legătura dintre Buru și Aiud și trece și prin satul Rîmetea. Spre deosebire de Cheile Turzii, aici drumul principal trece direct prin chei. Versantul drept (vestic) oferă priveliști spectaculoase, și a fost (re)marcat recent cu punct roșu.
 
-Fiind circuit, se poate urma in ambele sensuri. Noi recomandam varianta marcata pe muntii nostri, in sens invers acelor de ceasornic. In acest sens, portiunea cea mai abrupta este in urcare, fiind mai putin solicitanta pentru genunchi fata de varianta de coborare.
+Fiind circuit, traseul poate fi urmat în ambele sensuri. Vă recomandăm varianta marcată pe [munții noștri](https://muntii-nostri.ro/ro/routeinfo/circuit-cheile-valisoarei-aiudului-versantul-drept), în sens invers acelor de ceasornic. În acest fel, porțiunea cea mai abruptă este în urcare, fiind mai puțin solicitantă pentru genunchi față de varianta de coborâre.
 
-Intrarea pe traseu se face din drumul asfaltat, incepand cu o urcare destul de abrupta la baza peretelui drept al cheilor. In punctul de maxim al traseului se ajunge la un punct de belvedere marcat cu o cruce metalica. Traseul apoi serpuieste prin padure spre o alta zona de belvedere situata la iesirea din chei.
+Intrarea pe traseu se face din drumul asfaltat, și începe cu o urcare destul de abruptă la baza peretelui drept al cheilor, urmată de o altă urcare, prin pădure. Veți ajunge apoi la primul loc de belvedere, în punctul cel mai înalt al traseului, marcat cu o cruce metalică. Traseul șerpuiește apoi prin pădure spre o altă zonă de belvedere situată la ieșirea din chei.
 
-Pana aici se poate ajunge si intr-o tura mai scurta pornind de langa Castelul Templul Cavalerilor, situat in mijlocul cheilor, pe un drum secundar care porneste din drumul asfaltat.
+Pentru o tură mai scurtă, de 45min dus-întors, puteți merge doar la al doilea punct de belvedere. Urcarea începe de la Castelul Templul Cavalerilor, ce este situat în mijlocul cheilor, pe un drum secundar care pornește din DJ 107M.
 
 Marcaj: https://muntii-nostri.ro/ro/routeinfo/circuit-cheile-valisoarei-aiudului-versantul-drept
 
-### Cascada Valul Miresei - Varful Lespezi
+### Cascada Vălul Miresei - Vârful Lespezi
 
-{% responsiveImage "romania/apuseni/rachitele-lespezi_qjgbpp", "", "Varful Lespezi vazut din zona Cascadei Valul Miresei" %}
+{% responsiveImage "romania/apuseni/rachitele-lespezi_qjgbpp", "", "Vârful Lespezi văzut din zona Cascadei Vălul Miresei" %}
 
 - Lungime: 4.2km
-- Diferenta de nivel: 510m
+- Diferență de nivel: 510m
 - Timp Estimat: 3h
-- Marcaj: Punct Rosu, Cruce Rosie
+- Marcaj: Punct roșu, Cruce roșie
 
 https://connect.garmin.com/modern/activity/5358932390
 
-Daca ajungeti in zona Rachitele/Valul Miresei si cautati un traseu scurt dar cu privelisti deosebite, Varful Lespezi este destinatia perfecta. El se inalta deasupra cascadei ca un perete vertical, care pare ametitor de inalt la prima vedere. Totusi, traseul este destul de lin, cu o singura panta mai abrupta aproape de varf.
+Dacă ajungeți în zona Răchițele / Vălul Miresei și căutați un traseu scurt dar cu priveliști deosebite, Vârful Lespezi este destinația perfectă. El se înalță deasupra cascadei ca un perete vertical ce pare amețitor de înalt la prima vedere. Totuși, traseul este destul de lin, cu o singură pantă mai abruptă aproape de vârf.
 
-Urmati drumul forestier marcat cu punct rosu care urca prin stanga cascadei. Imediat dupa refugiul salvamont aflat pe partea stanga, marcajul cu punct rosu paraseste drumul forestier si intra pe o poteca prin padure. Dupa aproximativ 20 de minute ajungem la o intersectie si o luam la dreapta pe cruce rosie spre varful Lespezi, unde se deschide o panorama asupra intregii vai.
+Urmați drumul forestier marcat cu punct roșu care urcă prin stânga cascadei. Imediat după refugiul salvamont aflat pe partea stângă, marcajul cu punct roșu părăsește drumul forestier și intră pe o potecă prin pădure. După aproximativ 20 de minute ajungeți la o intersecție, unde o luați la dreapta pe cruce roșie spre vârful Lespezi. Acolo, se deschide o panoramă asupra întregii văi.
 
 ### Buscat - Muntele Mare
 
-{% responsiveImage "romania/apuseni/muntele-mare_gplczw", "", "Baza militara din varf" %}
+{% responsiveImage "romania/apuseni/muntele-mare_gplczw", "", "Baza militară din vârf" %}
 
 - Lungime: 14km
-- Diferenta de nivel: 270m
+- Diferență de nivel: 270m
 - Timp Estimat: 4h
-- Marcaj: Banda Rosie
+- Marcaj: Bandă roșie
 
-Muntele Mare (1826m) este al treilea varf ca inaltime din Carpatii Occidentali. Traseul spre varf este insa surprinzator de accesibil. De la partia Buscat se urmareste banda rosie, care urca incet spre baza militara aflata pe varf. Varful este mai degraba un platou imens, fara un loc reprezentativ care poate fi numit varf (cu exceptia unei movile din interiorul bazei militare :)). Recomandam traseul acesta si in conditii de iarna, mai ales cand e aerul curat si vizibilitate buna spre crestele Carpatilor Meridionali.
+Muntele Mare (1826m) este al treilea vârf ca înălțime din Carpații Occidentali. Traseul spre vârf este însă surprinzător de accesibil. De la pârtia Buscat se urmărește banda roșie, care urcă încet spre baza militară aflată pe vârf. Vârful este mai degrabă un platou imens, fără un loc reprezentativ care poate fi numit vârf (cu excepția unei movile din interiorul bazei militare 😆). Recomandăm traseul acesta și în condiții de iarnă, mai ales când e aerul curat și vizibilitatea bună spre crestele Carpaților Meridionali.
 
 ## Pentru cei mai experimentati
 
