@@ -39,18 +39,24 @@ De cele mai multe ori, traseele sunt bine marcate, iar șansele de a vă rătăc
 
 Prima categorie se adreseaza incepatorilor, iar majoritatea nu necesita o conditie fizica deosebita, fiind mai mult plimbari in natura decat drumetii montane. Totusi, unele din ele necesita si traversarea unor portiuni mai dificile, cu pietre, trunchiuri de copaci, etc.
 
-### Platou Salicea - Izvor Bilascu - vf Peana
+### Padurea Faget - Izvor Bilascu
 
-- Lungime: 6.5km
-- Diferenta de nivel: 172m
+{% responsiveImage "romania/apuseni/faget_dgdhev", "padure la mijloc de toamna", "Padurea Faget merita vizitata in orice anotimp" %}
+
+- Lungime: 5km
+- Diferenta de nivel: 50m
 - Timp Estimat: 2h
-- Marcaj:
+- Marcaj: nemarcat
 
-Traseul incepe de la drumul judetean 107R, iesirea din Cluj-Napoca spre satul Salicea. O data ajunsi pe platou se poate intra in padure, pe o poteca deosebit de frumoasa in toate anotimpurile.
+Traseul incepe de la drumul judetean 107R, iesirea din Cluj-Napoca spre satul Salicea. O data ajunsi pe platou se poate intra in padure, pe o poteca deosebit de frumoasa in toate anotimpurile. Traseul este marcat din loc in loc cu sageti spre Izvorul Bilascu. Noi am alergat mult prin zona si avem un GPX dupa care va puteti orienta.
 
 GPX: https://connect.garmin.com/modern/activity/4152453814
 
-### Cheile Turzii - prin chei
+Tot in zona se poate ajunge pe diferite poteci prin padure in zona varfului Peana si in zona Magura.
+
+### Cheile Turzii - Traversare
+
+{% responsiveImage "romania/apuseni/cheile-turzii_icvh8j", "poteca ingusta sapata in stanca", "Una din portiunile inguste din chei" %}
 
 - Lungime: 4km
 - Diferenta de nivel: 70m
@@ -61,9 +67,13 @@ Poate cel mai cunoscut traseu de pe langa Cluj, trecerea prin Cheile Turzii este
 
 Traseul poate fi facut in ambele sensuri, dinspre cabana Cheile Turzii (Turda) sau dinspre satul Petrestii de Jos. Noi deobicei mergem cu masina in Petresti, e mult mai rapid accesul spre chei venind dinspre Cluj. Masina se lasa intr-o parcare improvizata pe camp la intrarea pe poteca marcata cu punct rosu. Diferenta de nivel este neglijabila, traseul necesita mai multa atentie decat efort fizic. In zona de mijloc, exista 2-3 portiuni mai inguste unde va puteti ajuta de niste cabluri sau prize de metal fixate in peretele de stanca.
 
-Notice: In zilele de weekend, in special la mijlocul zilei se aglomereaza destul de tare, iar durata de traversare creste semnificativ deoarece se astepta coloana in zonele mai inguste.
+<div class="info warning">
+  <span>In zilele de weekend, in special la mijlocul zilei se aglomereaza destul de tare, iar durata de traversare creste semnificativ deoarece se astepta coloana in zonele mai inguste.</span>
+</div>
 
 ### Salciua de Jos - Cascada de Travertin
+
+{% responsiveImage "romania/apuseni/salciua-travertin_ieillj", "fire de apa curgand peste stanca", "Cascada de Travertin" %}
 
 - Lungime: 4km
 - Diferenta de nivel: 200m
@@ -72,9 +82,11 @@ Notice: In zilele de weekend, in special la mijlocul zilei se aglomereaza destul
 
 In zona Salciua se gasesc foarte multe trasee montane spre creasta muntilor Trascau. Unul dintre cele mai accesibile este traseul marcat cu Cruce Rosie care porneste din capatul satului spre Cascada de Travertin, numita si Cascada Sipote de Sus (Exista si o cascada Sipote la baza muntelui, vizibila din DN75, drumul de acces in zona)
 
-Traseul spre cascada este o poteca prin padure, care
+Traseul spre cascada este o poteca prin padure, care trece prin Poiana Sipote, iar mai apoi ajunge in zona cascadei. Traseul este si amenejat ca o poteca tematica, cu panouri informationale din loc in loc. Cascada este un veritabil Bigar de Apuseni, cu o multitudine de cursuri diferite de apa aflate in cadere libera printre pietre, plante si muschi.
 
 ### Platou Salciua - Cascada Vanatarile Ponorului
+
+{% responsiveImage "romania/apuseni/salciua-platou_borbum", "", "Priveliste spre creasta Trascaului" %}
 
 - Lungime: 1.5km
 - Diferenta de nivel: 100m
@@ -85,16 +97,20 @@ Tot in zona Salciua, se poate vizita si Cascada Vanatarile Ponorului. Aici e o t
 
 ### Rachitele - Cascada Valul Miresei
 
+{% responsiveImage "romania/apuseni/valul-miresei_ctaihi", "", "O cascada frumoasa indiferent de anotimp" %}
+
 - Lungime: 2km
 - Diferenta de nivel: 50m
 - Timp Estimat: 1h
 - Marcaj: Punct Rosu
 
-Poate cea mai frumoasa cascada din Apuseni, Valul Miresei se afla la intrarea in Parcul Natural Apuseni, la approximativ 5km de satul Rachitele. Accesul se face cu masina pana la intrarea in Parc, unde exista mai multe locuri de parcare. Atentie insa! In weekend, in perioada calda a anului, zona se aglomereaza incredibil de mult si riscati sa ramaneti blocati cu masina pe acest drum de acces.
+Poate cea mai frumoasa cascada din Apuseni, Valul Miresei se afla la intrarea in Parcul Natural Apuseni, la approximativ 5km de satul Rachitele. Accesul se face cu masina pana la intrarea in Parc, unde exista mai multe locuri de parcare.
 
-Traseul in sine este foarte lejer si nu necesita efort fizic considerabil.
+Traseul in sine este foarte lejer si nu necesita efort fizic considerabil. Atentie insa! In weekend, in perioada calda a anului, zona se aglomereaza incredibil de mult si riscati sa ramaneti blocati cu masina pe acest drum de acces.
 
-### Baisoara/Buscat - Pietrele Marunte
+### Buscat - Varful Pietrele Marunte
+
+{% responsiveImage "romania/apuseni/pietrele-marunte_dbkgdi", "", "Punctul de belvedere din capatul traseului de pe Pietrele Marunte" %}
 
 - Lungime: 2.5km
 - Diferenta de nivel: 150m
@@ -107,6 +123,8 @@ Traseul este marcat cu punct galben, dar si cu banda rosie. Prima parte a traseu
 
 ### Pasul Vartop - Groapa Ruginoasa
 
+{% responsiveImage "romania/apuseni/groapa-ruginoasa_dc485x", "", "Groapa Ruginoasa" %}
+
 - Lungime: 2km
 - Diferenta de nivel: 140m
 - Timp Estimat: 1.5h
@@ -114,11 +132,17 @@ Traseul este marcat cu punct galben, dar si cu banda rosie. Prima parte a traseu
 
 Marcaj: https://muntii-nostri.ro/ro/routeinfo/groapa-ruginoasa
 
+In fine, in zona Padis - Muntii Bihor gasim un alt traseu foarte lejer cu pornire din Pasul Vartop, de la DN75, din localitatea cu acelasi nume. DN75 face legatura dintre judetele Cluj, Alba si Bihor, prin inima muntilor Apuseni, asadar accesul se poate face si dinspre Turda si dinspre Beius.
+
+Banda galbena ne duce prin padure intr-o urcare usoara spre Groapa Ruginoasa, o zona foarte interesanta formata natural prin alunecari treptate de teren, datorate unui sol argilos instabil. In functie de conditiile meteo, intreaga zona descoperita ofera culori deosebite amatorilor de fotografie.
+
 ## Pentru incepatori
 
 Urmatoarele trasee sunt ideale pentru cei care sunt la primele experiente montane, dar au o conditie fizica cat de cat buna, pentru a face fata unui efort susținut, timp de 3-4 ore.
 
-### Cheile Turzii - Circuit versant + chei
+### Cheile Turzii - Circuit Versant + Traversare
+
+{% responsiveImage "romania/apuseni/cheile-turzii-dos_qlujc2", "", "Privelistea de deasupra cheilor" %}
 
 - Lungime: 7-8km
 - Diferenta de nivel: 350m
@@ -133,16 +157,24 @@ GPX: https://connect.garmin.com/modern/activity/6547732696 (cu un round trip pan
 
 ### Rimetea - Piatra Secuiului - Coltii Trascaului
 
+{% responsiveImage "romania/apuseni/piatra-secuiului_gxaqru", "", "Satul Rimetea vazut din saua dintre varfuri" %}
+
 - Lungime: 7.2km
 - Diferenta de nivel: 580m
 - Timp Estimat: 4h
 - Marcaj: Cruce Albastra + Banda Rosie
 
-Unul dintre cele mai spectaculoase, dar si populare trasee din Muntii Trascau.
+Unul dintre cele mai spectaculoase, dar si populare trasee din Muntii Trascau. Toata lumea care ajunge in Rimetea este imediat atrasa de masivitatea versantului estic al muntilor Trascau.
+
+Din Rimetea pleaca poteca marcata cu cruce albastra care urca destul de abrupt pe alocuri pana in saua dintre cele 2 varfuri. In dreapta se continua spre Piatra Secuiului, iar la intoarcere se poate continua pe creasta pe banda rosie, pana pe Coltii Trascaului, apoi se coboara prin padure pe o poteca mai putin abrupta si se inconjoara muntele pe la baza lui.
+
+Atentie: Traseul de coborare devine foarte alunecos in perioadele ploiase
 
 https://muntii-nostri.ro/ro/routeinfo/circuitul-pietrei-secuiului
 
-### Cheile Valisoarei - Circuit versant drept
+### Cheile Valisoarei - Circuit Versant
+
+{% responsiveImage "romania/apuseni/valisoara_hglx83", "", "Cheile Valisoarei pe final de primavara" %}
 
 - Lungime: 4.2km
 - Diferenta de nivel: 510m
@@ -161,13 +193,54 @@ Marcaj: https://muntii-nostri.ro/ro/routeinfo/circuit-cheile-valisoarei-aiudului
 
 ### Cascada Valul Miresei - Varful Lespezi
 
-### Buscat - Varful Muntele Mare
+{% responsiveImage "romania/apuseni/rachitele-lespezi_qjgbpp", "", "Varful Lespezi vazut din zona Cascadei Valul Miresei" %}
 
-## Pentru cei mai temerari
+- Lungime: 4.2km
+- Diferenta de nivel: 510m
+- Timp Estimat: 3h
+- Marcaj: Punct Rosu, Cruce Rosie
 
-- Rimetea - Ardascheia
-- Scarita Belioara - circuit
-- Arieseni - Curcubata Mare
-- Padis - Circuitul Galbenei
-- Cabana Vladeasa - Varf - Pietrele Albe
-- Rachitele - Circuitul Pietrelor Albe
+https://connect.garmin.com/modern/activity/5358932390
+
+Daca ajungeti in zona Rachitele/Valul Miresei si cautati un traseu scurt dar cu privelisti deosebite, Varful Lespezi este destinatia perfecta. El se inalta deasupra cascadei ca un perete vertical, care pare ametitor de inalt la prima vedere. Totusi, traseul este destul de lin, cu o singura panta mai abrupta aproape de varf.
+
+Urmati drumul forestier marcat cu punct rosu care urca prin stanga cascadei. Imediat dupa refugiul salvamont aflat pe partea stanga, marcajul cu punct rosu paraseste drumul forestier si intra pe o poteca prin padure. Dupa aproximativ 20 de minute ajungem la o intersectie si o luam la dreapta pe cruce rosie spre varful Lespezi, unde se deschide o panorama asupra intregii vai.
+
+### Buscat - Muntele Mare
+
+{% responsiveImage "romania/apuseni/muntele-mare_gplczw", "", "Baza militara din varf" %}
+
+- Lungime: 14km
+- Diferenta de nivel: 270m
+- Timp Estimat: 4h
+- Marcaj: Banda Rosie
+
+Muntele Mare (1826m) este al treilea varf ca inaltime din Carpatii Occidentali. Traseul spre varf este insa surprinzator de accesibil. De la partia Buscat se urmareste banda rosie, care urca incet spre baza militara aflata pe varf. Varful este mai degraba un platou imens, fara un loc reprezentativ care poate fi numit varf (cu exceptia unei movile din interiorul bazei militare :)). Recomandam traseul acesta si in conditii de iarna, mai ales cand e aerul curat si vizibilitate buna spre crestele Carpatilor Meridionali.
+
+## Pentru cei mai experimentati
+
+Ultima categorie de trasee este potrivita pentru cei care au la activ cateva drumetii in zone muntoase. Nu sunt trasee grele, insa necesita un efort mai mare si o pregatire si planificare mai buna. Rasplata este insa si ea pe masura!
+
+### Rimetea - Varful Ardascheia
+
+{% responsiveImage "romania/apuseni/rimetea-ardascheia_jios4k", "", "Privind de pe Ardascheia spre Piatra Secuiului si Coltesti" %}
+
+### Circuit Scarita Belioara
+
+{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versantii impresionanti care formeaza Scarita Belioara" %}
+
+### Arieseni - Varful Curcubata Mare
+
+{% responsiveImage "romania/apuseni/bihor-mountain-top_ychfys", "", "Acoperisul Apusenilor, varful Cucurbata Mare" %}
+
+### Padis - Circuitul Galbenei
+
+{% responsiveImage "romania/apuseni/cheile-galbenei_e0afdp", "", "Trecerea prin cheile Galbenei" %}
+
+### Cabana Vladeasa - Varful Vladeasa
+
+{% responsiveImage "romania/apuseni/vladeasa_ep8i0f", "", "Varful Vladeasa pe final de toamna" %}
+
+### Circuit Pietrele Albe
+
+{% responsiveImage "romania/apuseni/pietrele-albe_kooti6", "", "Pietrele Albe vazute de la intrarea pe circuit" %}
