@@ -35,106 +35,110 @@ Traseele montane sunt marcate cu punct, bandă / linie, cruce sau triunghi, de c
 
 De cele mai multe ori, traseele sunt bine marcate, iar șansele de a vă rătăci sunt foarte mici. Dacă doriți totuși să aveți posibilitatea de a ști în orice moment cât anume mai aveți de parcurs din traseu, vă recomandăm aplicația [munții-noștri](https://muntii-nostri.ro/). Nu întotdeauna veți găsi un traseu identic cu ce vă doriți voi să parcurgeți, dar e foarte utilă pentru a vă orienta atunci când sunteți pe munte.
 
-## Pentru toata familia
+## Pentru toată familia
 
-Prima categorie se adreseaza incepatorilor, iar majoritatea nu necesita o conditie fizica deosebita, fiind mai mult plimbari in natura decat drumetii montane. Totusi, unele din ele necesita si traversarea unor portiuni mai dificile, cu pietre, trunchiuri de copaci, etc.
+Prima categorie se adresează începătorilor. Efectuarea traseelor nu necesită o condiție fizică deosebită, fiind mai mult plimbări în natură decât drumeții montane. Totuși, unele dintre ele presupun și traversarea unor porțiuni mai dificile, cu pietre, trunchiuri căzute de copaci sau zone (scurte) mai abrupte.
 
 ### Padurea Faget - Izvor Bilascu
 
-{% responsiveImage "romania/apuseni/faget_dgdhev", "padure la mijloc de toamna", "Padurea Faget merita vizitata in orice anotimp" %}
+{% responsiveImage "romania/apuseni/faget_dgdhev", "pădure la mijloc de toamnă", "Pădurea Făget merită vizitată în orice anotimp" %}
 
 - Lungime: 5km
-- Diferenta de nivel: 50m
+- Diferență de nivel: 50m
 - Timp Estimat: 2h
 - Marcaj: nemarcat
 
-Traseul incepe de la drumul judetean 107R, iesirea din Cluj-Napoca spre satul Salicea. O data ajunsi pe platou se poate intra in padure, pe o poteca deosebit de frumoasa in toate anotimpurile. Traseul este marcat din loc in loc cu sageti spre Izvorul Bilascu. Noi am alergat mult prin zona si avem un GPX dupa care va puteti orienta.
+Traseul începe de la drumul judetean 107R, la ieșirea din Cluj-Napoca spre satul Sălicea. De pe platoul Sălicea începe o potecă prin pădure, marcată din loc în loc cu săgeți spre Izvorul Bilașcu. Traseul este foarte frumos în toate anotimpurile, motiv pentru care noi am alergat mult pe acolo. Rezultatul, printre altele, este un GPX după care vă puteți orienta: https://connect.garmin.com/modern/activity/4152453814.
 
-GPX: https://connect.garmin.com/modern/activity/4152453814
-
-Tot in zona se poate ajunge pe diferite poteci prin padure in zona varfului Peana si in zona Magura.
+Dacă vă doriți să prelungiți plimbarea, e destul de ușor de ajuns de acolo, prin pădure, în zona vârfului Peana. Ajungeți așa la aproximativ 6.5km și diferență de nivel cumulată de 172m.
 
 ### Cheile Turzii - Traversare
 
-{% responsiveImage "romania/apuseni/cheile-turzii_icvh8j", "poteca ingusta sapata in stanca", "Una din portiunile inguste din chei" %}
+{% responsiveImage "romania/apuseni/cheile-turzii_icvh8j", "potecă îngustă săpată în stancă", "Una din porțiunile înguste din chei" %}
 
 - Lungime: 4km
-- Diferenta de nivel: 70m
+- Diferență de nivel: 70m
 - Timp Estimat: 1.5h
-- Marcaj: Punct Rosu
+- Marcaj: Punct roșu
 
-Poate cel mai cunoscut traseu de pe langa Cluj, trecerea prin Cheile Turzii este deosebit de frumoasa si nu necesita efort fizic considerabil, doar atentie sporita datorita portiunilor de pietre pe alocuri alunecoase de pe malul raului.
+Unul dintre cele mai cunoscute trasee de lângă Cluj este cel din Cheile Turzii. Trecerea prin chei este deosebit de frumoasă și nu necesită efort fizic considerabil, însă e nevoie de atenție sporită în câteva zone.
 
-Traseul poate fi facut in ambele sensuri, dinspre cabana Cheile Turzii (Turda) sau dinspre satul Petrestii de Jos. Noi deobicei mergem cu masina in Petresti, e mult mai rapid accesul spre chei venind dinspre Cluj. Masina se lasa intr-o parcare improvizata pe camp la intrarea pe poteca marcata cu punct rosu. Diferenta de nivel este neglijabila, traseul necesita mai multa atentie decat efort fizic. In zona de mijloc, exista 2-3 portiuni mai inguste unde va puteti ajuta de niste cabluri sau prize de metal fixate in peretele de stanca.
+Traseul poate fi făcut în ambele sensuri, dinspre cabana Cheile Turzii (Turda), sau dinspre satul Petreștii de Jos. De obicei, noi preferăm să mergem cu mașina în Petrești, accesul spre chei fiind mai rapid pe acolo. Mașina se lasă într-o parcare improvizată pe câmp, la intrarea pe poteca marcată cu punct roșu.
+
+Diferența de nivel este neglijabilă, traseul necesitând, cum spuneam mai sus, mai multă atenție decât efort fizic. În zona de mijloc, există câteva porțiuni mai înguste, unde, pentru a trece mai ușor, vă puteți ajuta de cabluri sau prize de metal fixate în peretele de stâncă. Există și niște porțiuni cu pietre alunecoase, care însă nu pun probleme dacă aveți încălțăminte aderentă și dacă sunteți atenți la fiecare pas.
 
 <div class="info warning">
-  <span>In zilele de weekend, in special la mijlocul zilei se aglomereaza destul de tare, iar durata de traversare creste semnificativ deoarece se astepta coloana in zonele mai inguste.</span>
+  <span>În weekend, în special la mijlocul zilei traseul se aglomerează destul de tare, iar durata de traversare crește semnificativ deoarece se așteaptă coloana în zonele mai înguste.</span>
 </div>
 
-### Salciua de Jos - Cascada de Travertin
+### Sălciua de Jos - Cascada de Travertin
 
-{% responsiveImage "romania/apuseni/salciua-travertin_ieillj", "fire de apa curgand peste stanca", "Cascada de Travertin" %}
+{% responsiveImage "romania/apuseni/salciua-travertin_ieillj", "fire de apă curgând peste stancă", "Cascada de Travertin" %}
 
 - Lungime: 4km
-- Diferenta de nivel: 200m
+- Diferența de nivel: 200m
 - Timp Estimat: 3h
-- Marcaj: Cruce Rosie
+- Marcaj: Cruce roșie
 
-In zona Salciua se gasesc foarte multe trasee montane spre creasta muntilor Trascau. Unul dintre cele mai accesibile este traseul marcat cu Cruce Rosie care porneste din capatul satului spre Cascada de Travertin, numita si Cascada Sipote de Sus (Exista si o cascada Sipote la baza muntelui, vizibila din DN75, drumul de acces in zona)
+În zona Salciua sunt foarte multe trasee montane ce duc spre creasta munților Trascău. Unul dintre cele mai accesibile este traseul marcat cu Cruce Rosie care pornește din capătul satului spre Cascada de Travertin, numită și Cascada Șipote de Sus. Nu trebuie confundată cu o altă cascadă Șipote care se află la baza muntelui și este vizibilă de pe DN75 - drumul de acces în zonă.
 
-Traseul spre cascada este o poteca prin padure, care trece prin Poiana Sipote, iar mai apoi ajunge in zona cascadei. Traseul este si amenejat ca o poteca tematica, cu panouri informationale din loc in loc. Cascada este un veritabil Bigar de Apuseni, cu o multitudine de cursuri diferite de apa aflate in cadere libera printre pietre, plante si muschi.
+Cascada Șipote de Sus este un veritabil Bigăr de Apuseni, cu o multitudine de cursuri diferite de apă aflate în cădere printre pietre, plante și mușchi.
+
+Traseul spre cascadă este o potecă prin pădure, care trece prin Poiana Șipote, iar mai apoi ajunge în zona cascadei. Un lucru ce face traseul și mai atractiv, mai ales pentru cei mici, este faptul că este amenajat ca o potecă tematică. Asta înseamnă că de-a lungul potecii Pietrele Vorbitoare, veți găsi din loc în loc panouri cu informații despre peisajul, flora și fauna din zonă.
 
 ### Platou Salciua - Cascada Vanatarile Ponorului
 
-{% responsiveImage "romania/apuseni/salciua-platou_borbum", "", "Priveliste spre creasta Trascaului" %}
+{% responsiveImage "romania/apuseni/salciua-platou_borbum", "", "Priveliște spre creasta Trascăului" %}
 
 - Lungime: 1.5km
-- Diferenta de nivel: 100m
+- Diferența de nivel: 100m
 - Timp Estimat: 1h
-- Marcaj: Banda Albastra
+- Marcaj: Bandă albastră
 
-Tot in zona Salciua, se poate vizita si Cascada Vanatarile Ponorului. Aici e o tura mult mai scurta, dar ceva mai abrupta. Se urca cu masina pana la un platou deasupra satului, unde deja va veti bucura de niste privelisti deosebite. Traseul marcat cu banda albastra coboara de aici spre o zona impadurita si stancoasa. Cascada poate fi admirata de la un balcon care reprezinta si capatul traseului marcat. Cascada nu are un debit foarte mare, asa ca recomandam vizitarea ei in perioada de primavara sau in perioadele mai ploiase din an.
+Tot în zona Salciua se poate vizita și Cascada Vânătările Ponorului. Traseul este mult mai scurt, dar semnificativ mai abrupt. Primul pas e să urcați (cu mașina) până ajungeți la un platou situat deasupra satului, unde deja vă veți bucura de o priveliște deosebită. Apoi începe traseul propriu-zis, marcat cu bandă albastră, ce coboară spre o zonă împădurită și stâncoasă.
 
-### Rachitele - Cascada Valul Miresei
+Cascada poate fi admirată de la un balcon care reprezintă și capătul traseului. Cascada nu are un debit foarte mare, așa că recomandăm vizitarea ei primăvara sau în perioadele mai ploioase din an.
 
-{% responsiveImage "romania/apuseni/valul-miresei_ctaihi", "", "O cascada frumoasa indiferent de anotimp" %}
+### Răchițele - Cascada Vălul Miresei
+
+{% responsiveImage "romania/apuseni/valul-miresei_ctaihi", "", "O cascadă frumoasă indiferent de anotimp" %}
 
 - Lungime: 2km
-- Diferenta de nivel: 50m
+- Diferență de nivel: 50m
 - Timp Estimat: 1h
-- Marcaj: Punct Rosu
+- Marcaj: Punct roșu
 
-Poate cea mai frumoasa cascada din Apuseni, Valul Miresei se afla la intrarea in Parcul Natural Apuseni, la approximativ 5km de satul Rachitele. Accesul se face cu masina pana la intrarea in Parc, unde exista mai multe locuri de parcare.
+Poate cea mai frumoasă cascadă din Apuseni, Vălul Miresei se află la intrarea în Parcul Natural Apuseni, la aproximativ 5 km de satul Răchițele. Accesul se face cu mașina până la intrarea în Parc, unde există mai multe locuri de parcare.
 
-Traseul in sine este foarte lejer si nu necesita efort fizic considerabil. Atentie insa! In weekend, in perioada calda a anului, zona se aglomereaza incredibil de mult si riscati sa ramaneti blocati cu masina pe acest drum de acces.
+Traseul în sine este foarte ușor și nu necesită efort fizic considerabil. E important de menționat că în weekend, mai ales în perioada caldă a anului, zona se aglomerează incredibil de mult. Din acest motiv, vă recomandăm să evitați vizitarea cascadei, mai ales în mijlocul zilei, pentru a nu risca să rămaneti blocați cu mașina pe drumul de acces.
 
-### Buscat - Varful Pietrele Marunte
+### Buscat - Vârful Pietrele Mărunte
 
-{% responsiveImage "romania/apuseni/pietrele-marunte_dbkgdi", "", "Punctul de belvedere din capatul traseului de pe Pietrele Marunte" %}
+{% responsiveImage "romania/apuseni/pietrele-marunte_dbkgdi", "", "Punctul de belvedere din capătul traseului, de pe Pietrele Mărunte" %}
 
 - Lungime: 2.5km
-- Diferenta de nivel: 150m
+- Diferență de nivel: 150m
 - Timp Estimat: 2.5h
-- Marcaj: Banda Rosie / Punct Galben
+- Marcaj: Bandă roșie / Punct galben
 
-Un alt traseu usor se gaseste si in zona Baisoara. De data asta urcam la altitudine mai mare pana pe Varful Pietrele Marunte, la 1731m. Nu e insa nimic de speriat, deoarece intrarea pe traseu se face de la partia Buscat, situata la approximativ 1600m. Atentie in perioada iernii, cand partia este deschisa, zona se poate aglomera foarte usor in weekend.
+Un alt traseu ușor se găsește în zona Băișoara. De data asta urcăm la altitudine mai mare până pe Vârful Pietrele Mărunte, la 1731m. Nu e însă nimic de speriat, deoarece intrarea pe traseu se face de la pârtia Buscat, situată la aproximativ 1600m. Traseul, deși foarte frumos în orice anotimp, necesită mai multă planificare în perioada iernii, când pârtia este deschisă, deoarece zona se poate aglomera în weekend.
 
-Traseul este marcat cu punct galben, dar si cu banda rosie. Prima parte a traseului este comunca cu drumul forestier care duce spre varful Muntele Mare, usor de recunoscut dupa cupola alba din varf care apartine unei unitati militare. La un moment dat se ajunge la o intersectie cu un drum secundar care o ia in stanga, acela este traseul spre varful Pietrele Marunte. Din varf se deschide o panorama superba spre toata zona sudica a muntilor Apuseni.
+Traseul este marcat cu punct galben, dar și cu bandă roșie. Prima parte a traseului este comună cu drumul forestier care duce spre vârful Muntele Mare, vârf ușor de recunoscut după cupola albă care aparține unei unități militare. După aproximativ o jumătate de oră, se ajunge la o intersecție cu un drum secundar care o ia la stânga. Acela este traseul spre vârful Pietrele Marunte. Finalul traseului este ușor de recunoscut, după panorama superbă care se deschide spre toată zona sudică a munților Apuseni.
 
-### Pasul Vartop - Groapa Ruginoasa
+### Pasul Vârtop - Groapa Ruginoasă
 
-{% responsiveImage "romania/apuseni/groapa-ruginoasa_dc485x", "", "Groapa Ruginoasa" %}
+{% responsiveImage "romania/apuseni/groapa-ruginoasa_dc485x", "", "Groapa Ruginoasă" %}
 
 - Lungime: 2km
-- Diferenta de nivel: 140m
+- Diferență de nivel: 140m
 - Timp Estimat: 1.5h
 - Marcaj: Banda Galbena
 
 Marcaj: https://muntii-nostri.ro/ro/routeinfo/groapa-ruginoasa
 
-In fine, in zona Padis - Muntii Bihor gasim un alt traseu foarte lejer cu pornire din Pasul Vartop, de la DN75, din localitatea cu acelasi nume. DN75 face legatura dintre judetele Cluj, Alba si Bihor, prin inima muntilor Apuseni, asadar accesul se poate face si dinspre Turda si dinspre Beius.
+În final, în zona Padiș - Munții Bihor găsim un alt traseu foarte lejer cu pornire din Pasul Vârtop, din localitatea cu același nume. Pasul Vârtop se află pe DN75, drum care face legătura dintre județele Cluj, Alba și Bihor, prin inima munților Apuseni. Așadar, accesul se poate face și dinspre Turda și dinspre Beiuș.
 
-Banda galbena ne duce prin padure intr-o urcare usoara spre Groapa Ruginoasa, o zona foarte interesanta formata natural prin alunecari treptate de teren, datorate unui sol argilos instabil. In functie de conditiile meteo, intreaga zona descoperita ofera culori deosebite amatorilor de fotografie.
+Banda galbenă ne duce prin pădure într-o urcare ușoară spre Groapa Ruginoasă: o zonă foarte interesantă formată natural prin alunecări treptate de teren datorate unui sol argilos instabil. În funcție de condițiile meteo, întreaga zonă descoperită oferă culori deosebite amatorilor de fotografie.
 
 ## Pentru incepatori
 
