@@ -39,7 +39,7 @@ De cele mai multe ori, traseele sunt bine marcate, iar șansele de a vă rătăc
 
 Prima categorie se adresează tuturor. Efectuarea traseelor nu necesită o condiție fizică deosebită, fiind mai mult plimbări în natură decât drumeții montane. Totuși, unele dintre ele presupun și traversarea unor porțiuni mai dificile, cu pietre, trunchiuri căzute de copaci sau zone (scurte) mai abrupte.
 
-### Pădurea Faget - Izvor Bilașcu
+### Pădurea Făget - Izvor Bilașcu
 
 {% responsiveImage "romania/apuseni/faget_dgdhev", "pădure la mijloc de toamnă", "Pădurea Făget merită vizitată în orice anotimp" %}
 
@@ -71,6 +71,32 @@ Traseul poate fi făcut în ambele sensuri: dinspre cabana Cheile Turzii (Turda)
   <span>În weekend, în special la mijlocul zilei traseul se aglomerează destul de tare, iar durata de traversare crește semnificativ deoarece se așteaptă în coloană în zonele mai înguste.</span>
 </div>
 
+### Răchițele - Cascada Vălul Miresei
+
+{% responsiveImage "romania/apuseni/valul-miresei_ctaihi", "", "O cascadă frumoasă indiferent de anotimp" %}
+
+- Lungime: 2km
+- Diferență de nivel: 50m
+- Timp Estimat: 1h
+- Marcaj: Punct roșu
+
+Poate cea mai frumoasă cascadă din Apuseni, Vălul Miresei, se află la intrarea în Parcul Natural Apuseni, la aproximativ 5 km de satul Răchițele. Accesul se face cu mașina până la intrarea în parc, unde există mai multe locuri de parcare.
+
+Traseul în sine este foarte ușor și nu necesită efort fizic considerabil. E important de menționat că în weekend, mai ales în perioada caldă a anului, zona se aglomerează incredibil de mult. Din acest motiv, vă recomandăm să evitați vizitarea cascadei, mai ales în mijlocul zilei, pentru a nu risca să rămaneti blocați cu mașina pe drumul de acces.
+
+### Buscat - Vârful Pietrele Mărunte
+
+{% responsiveImage "romania/apuseni/pietrele-marunte_dbkgdi", "", "Punctul de belvedere din capătul traseului, de pe Pietrele Mărunte" %}
+
+- Lungime: 2.5km
+- Diferență de nivel: 150m
+- Timp Estimat: 2.5h
+- Marcaj: Bandă roșie / Punct galben
+
+Un alt traseu ușor se găsește în zona Băișoara. De data asta urcăm la altitudine mai mare până pe Vârful Pietrele Mărunte, la 1731m. Nu e însă nimic de speriat, deoarece intrarea pe traseu se face de la pârtia Buscat, situată la aproximativ 1600m. Traseul, deși foarte frumos în orice anotimp, necesită mai multă planificare în perioada iernii, când pârtia este deschisă și zona se aglomerează în weekend.
+
+Traseul este marcat cu punct galben, dar și cu bandă roșie. Prima parte este comună cu drumul forestier care duce spre vârful Muntele Mare, vârf ușor de recunoscut după cupola albă care aparține unei unități militare. După aproximativ o jumătate de oră, se ajunge la o intersecție cu un drum secundar spre stânga. Acela este traseul spre vârful Pietrele Marunte, de unde se deschide o panoramă superbă spre toată zona sudică a munților Apuseni.
+
 ### Sălciua de Jos - Cascada Șipote de Sus
 
 {% responsiveImage "romania/apuseni/salciua-travertin_ieillj", "fire de apă curgând peste stancă", "Cascadele de Travertin" %}
@@ -98,32 +124,6 @@ Un lucru ce face traseul și mai atractiv, mai ales pentru cei mici, este faptul
 Tot în zona Sălciua se poate vizita și Cascada Vânătările Ponorului. Traseul este mult mai scurt, dar semnificativ mai abrupt. Primul pas e să urcați (cu mașina) până ajungeți la un platou situat deasupra satului, unde deja vă veți bucura de o priveliște deosebită. Apoi începe traseul propriu-zis, marcat cu bandă albastră, ce coboară spre o zonă împădurită și stâncoasă.
 
 Cascada poate fi admirată de la un balcon care reprezintă și capătul traseului. Debitul nu este foarte mare, așa că recomandăm vizitarea ei primăvara sau în perioadele mai ploioase din an.
-
-### Răchițele - Cascada Vălul Miresei
-
-{% responsiveImage "romania/apuseni/valul-miresei_ctaihi", "", "O cascadă frumoasă indiferent de anotimp" %}
-
-- Lungime: 2km
-- Diferență de nivel: 50m
-- Timp Estimat: 1h
-- Marcaj: Punct roșu
-
-Poate cea mai frumoasă cascadă din Apuseni, Vălul Miresei, se află la intrarea în Parcul Natural Apuseni, la aproximativ 5 km de satul Răchițele. Accesul se face cu mașina până la intrarea în parc, unde există mai multe locuri de parcare.
-
-Traseul în sine este foarte ușor și nu necesită efort fizic considerabil. E important de menționat că în weekend, mai ales în perioada caldă a anului, zona se aglomerează incredibil de mult. Din acest motiv, vă recomandăm să evitați vizitarea cascadei, mai ales în mijlocul zilei, pentru a nu risca să rămaneti blocați cu mașina pe drumul de acces.
-
-### Buscat - Vârful Pietrele Mărunte
-
-{% responsiveImage "romania/apuseni/pietrele-marunte_dbkgdi", "", "Punctul de belvedere din capătul traseului, de pe Pietrele Mărunte" %}
-
-- Lungime: 2.5km
-- Diferență de nivel: 150m
-- Timp Estimat: 2.5h
-- Marcaj: Bandă roșie / Punct galben
-
-Un alt traseu ușor se găsește în zona Băișoara. De data asta urcăm la altitudine mai mare până pe Vârful Pietrele Mărunte, la 1731m. Nu e însă nimic de speriat, deoarece intrarea pe traseu se face de la pârtia Buscat, situată la aproximativ 1600m. Traseul, deși foarte frumos în orice anotimp, necesită mai multă planificare în perioada iernii, când pârtia este deschisă și zona se aglomerează în weekend.
-
-Traseul este marcat cu punct galben, dar și cu bandă roșie. Prima parte este comună cu drumul forestier care duce spre vârful Muntele Mare, vârf ușor de recunoscut după cupola albă care aparține unei unități militare. După aproximativ o jumătate de oră, se ajunge la o intersecție cu un drum secundar spre stânga. Acela este traseul spre vârful Pietrele Marunte, de unde se deschide o panoramă superbă spre toată zona sudică a munților Apuseni.
 
 ### Pasul Vârtop - Groapa Ruginoasa
 
@@ -238,6 +238,21 @@ Tot din satul Rîmetea, dar în partea opusă Pietrei Secuiului, începe o urcar
 
 https://connect.garmin.com/modern/activity/5858746076
 
+### Circuit Scărița Belioara
+
+{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versanții impresionanți care formează Scărița Belioara" %}
+
+- Lungime: 8.5km
+- Diferență de nivel: 630m
+- Timp Estimat: 5-6h
+- Marcaj: Punct roșu
+
+Traseul de la Scărița Belioara este unul dintre favoritele noastre. Accesul se face de pe DN75 dinspre Turda, spre satul Poșaga de Sus. În capătul satului, va trebui să lăsați mașina fie în mini-parcarea de acolo, fie pe marginea drumului. De acolo se intră direct pe traseu, spre stânga, printr-o poartă de lemn. Urmează mai multe urcări destul de abrupte prin pădure, însă fără mari dificultăți tehnice.
+
+După ieșirea din pădure, traseul intersectează un drum forestier ce vine din Stațiunea Muntele Băișorii. Continuă apoi spre cea mai frumoasă zonă: porțiunea de creastă a Scăriței, iar ultima parte este coborârea până în sat, pe la baza peșterii Coșul Boului.
+
+https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
+
 ### Cabana Vlădeasa - Vârful Vlădeasa
 
 {% responsiveImage "romania/apuseni/vladeasa_ep8i0f", "", "Vârful Vlădeasa pe final de toamnă" %}
@@ -254,21 +269,6 @@ De la Cluj până la cabană se ajunge pe E60 spre Huedin, apoi pe drumul județ
 https://muntii-nostri.ro/ro/routeinfo/cabana-vladeasa-vf-vladeasa-pietrele-albe-cabana-vladeasa
 https://muntii-nostri.ro/ro/routeinfo/rogojel-cabana-vladeasa
 
-### Circuit Scărița Belioara
-
-{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versanții impresionanți care formează Scărița Belioara" %}
-
-- Lungime: 8.5km
-- Diferență de nivel: 630m
-- Timp Estimat: 5-6h
-- Marcaj: Punct roșu
-
-Traseul de la Scărița Belioara este unul dintre favoritele noastre. Accesul se face de pe DN75 dinspre Turda, spre satul Poșaga de Sus. În capătul satului, va trebui să lăsați mașina fie în mini-parcarea de acolo, fie pe marginea drumului. De acolo se intră direct pe traseu, spre stânga, printr-o poartă de lemn. Urmează mai multe urcări destul de abrupte prin pădure, însă fără mari dificultăți tehnice.
-
-După ieșirea din pădure, traseul intersectează un drum forestier ce vine din Stațiunea Muntele Băișorii. Continuă apoi spre cea mai frumoasă zonă: porțiunea de creastă a Scăriței, iar ultima parte este coborârea până în sat, pe la baza peșterii Coșul Boului.
-
-https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
-
 ### Circuit Pietrele Albe
 
 {% responsiveImage "romania/apuseni/pietrele-albe_kooti6", "", "Pietrele Albe văzute de la intrarea pe circuit" %}
@@ -280,7 +280,7 @@ https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
 
 https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca
 
-### Arieșeni - Vârful Curcubăta Mare
+### Arieșeni - Vârful Cucurbăta Mare
 
 {% responsiveImage "romania/apuseni/bihor-mountain-top_ychfys", "", "Acoperișul Apusenilor, vârful Cucurbăta Mare" %}
 
