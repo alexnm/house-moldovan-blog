@@ -221,90 +221,89 @@ Urmați drumul forestier marcat cu punct roșu care urcă prin stânga cascadei.
 
 Muntele Mare (1826m) este al treilea vârf ca înălțime din Carpații Occidentali. Traseul spre vârf este însă surprinzător de accesibil. De la pârtia Buscat se urmărește banda roșie, care urcă încet spre baza militară aflată pe vârf. Vârful este mai degrabă un platou imens, fără un loc reprezentativ care poate fi numit vârf (cu excepția unei movile din interiorul bazei militare 😆). Recomandăm traseul acesta și în condiții de iarnă, când vizibilitatea este mai bună, pentru a admira inclusiv crestele Carpaților Meridionali.
 
-## Pentru cei mai experimentati
+## Pentru cei mai experimentați
 
-Ultima categorie de trasee este potrivita pentru cei care au la activ cateva drumetii in zone muntoase. Nu sunt trasee grele, insa necesita un efort mai mare si o pregatire si planificare mai buna. Rasplata este insa si ea pe masura!
+Ultima categorie de trasee este potrivită pentru cei care au la activ câteva drumeții în zone muntoase. Nu sunt trasee grele, însă, comparativ cu traseele de la categoria anterioară, necesită un efort mai mare și o pregătire și planificare mai bună. Răsplata este însă și ea pe măsură!
 
-### Rimetea - Varful Ardascheia
+### Rîmetea - Vârful Ardășcheia
 
-{% responsiveImage "romania/apuseni/rimetea-ardascheia_jios4k", "", "Privind de pe Ardascheia spre Piatra Secuiului si Coltesti" %}
+{% responsiveImage "romania/apuseni/rimetea-ardascheia_jios4k", "", "Privind de pe Ardășcheia spre Piatra Secuiului și Colțești" %}
 
 - Lungime: 8-9km
 - Diferență de nivel: 620m
 - Timp Estimat: 4h
-- Marcaj: Banda Rosie + nemarcat
+- Marcaj: Bandă roșie și nemarcat
 
-Pe partea opusa Pietrei Secuiului, gasim o alta urcare frumoasa dar foarte diferita de data asta. Varful Ardascheia este ceva mai inalt decat Piatra Secuiului, insa panta este putin mai moale. Traseul e ceva mai lung, incepe din satul Rimetea si urca pe langa o padure de amestec de conifere si foioase. Dupa 2.5km trebuie sa parasim marcajul cu banda rosie pentru a urma o poteca nemarcata spre culmea Ardascheia.
+Tot din satul Rîmetea, dar în partea opusă Pietrei Secuiului, începe o urcare foarte frumoasă spre vârful Ardășcheia. Acesta este puțin mai înalt decât Piatra Secuiului, dar panta nu este atât de abruptă. Traseul urmărește banda roșie și urcă pe marginea unei păduri de amestec de foioase și conifere. După aproximativ 2.5km, poteca se abate de la marcaj, și urmează o urcare mai abruptă până pe vârf.
 
 https://connect.garmin.com/modern/activity/5858746076
 
-### Cabana Vladeasa - Varful Vladeasa
+### Cabana Vlădeasa - Vârful Vlădeasa
 
-{% responsiveImage "romania/apuseni/vladeasa_ep8i0f", "", "Varful Vladeasa pe final de toamna" %}
+{% responsiveImage "romania/apuseni/vladeasa_ep8i0f", "", "Vârful Vlădeasa pe final de toamnă" %}
 
 - Lungime: 14-15km
 - Diferență de nivel: 600m
 - Timp Estimat: 5h
-- Marcaj: Punct Rosu
+- Marcaj: Punct roșu
 
-Un alt traseu popular in zona incepe din preajma Cabanei Vladeasa si urca pana pe varful cu acelasi nume. Pana aici se ajunge pe E60 spre Huedin, apoi pe drumul judetean ce leaga satele Sancrai, Secuieu si Rogojelu. Din Rogojelu incepe un drum neasfaltat destul de ingust si tehnic pana la Cabana Vladeasa.
+Un alt traseu popular începe de la Cabana Vlădeasa și urcă până pe vârful cu același nume. Altitudinea lui este de 1836m, fiind al doilea ca înălțime din Apuseni. Deloc surprinzător pentru această zonă, vârful este de fapt un platou, ușor de recunoscut după cabana meteo care se află acolo. După traversarea platoului, traseul coboară prin pădure până la Pietrele Albe. De acolo, un drum forestier - lung dar fără urcări sau coborâri abrupte - duce înapoi spre cabana de la început.
 
-Noi am urcat in trecut si cu un Ford Focus, deci nu e imposibil, dar trebuie putina atentie la urcare. Masinile se pot lasa si pe marginea drumului inainte de a ajunge la Cabana. Noi "parcam" la ultima iesire din padure cand ne apare cabana si intreg golul alpin in fata.
-
-Traseul poate fi facut in orice perioada a anului cu conditia sa fie vreme buna. Punctul maxim este la 1836m, al doilea varf din Apuseni. Pe varf se gaseste si cabana meteo Vladeasa. Trecand peste varf se poate cobori spre zona Pietrele Albe, de unde un alt drum forestier se intoarce serpuind prin padure spre cabana de unde am pornit.
+De la Cluj până la cabană se ajunge pe E60 spre Huedin, apoi pe drumul județean ce leagă satele Sâncrai, Secuieu și Rogojelu. Din Rogojelu începe un drum neasfaltat destul de îngust, până la Cabana Vlădeasa. Versiunea de mai sus a traseului presupune că reușiți să urcați cu mașina până acolo. Nu este imposibil - noi am urcat în trecut cu un Ford Focus, dar trebuie atenție la urcare. Mașinile se pot lăsa și pe marginea drumului după ieșirea din pădure, înainte de a ajunge la cabană. Acela este locul în care am preferat noi să o lăsăm. De asemenea, drumul neasfaltat poate fi urcat și pe jos, însă se adaugă aproximativ 450m diferență de nivel pozitivă și 7km dus-întors.
 
 https://muntii-nostri.ro/ro/routeinfo/cabana-vladeasa-vf-vladeasa-pietrele-albe-cabana-vladeasa
+https://muntii-nostri.ro/ro/routeinfo/rogojel-cabana-vladeasa
 
-### Circuit Scarita Belioara
+### Circuit Scărița Belioara
 
-{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versantii impresionanti care formeaza Scarita Belioara" %}
+{% responsiveImage "romania/apuseni/scarita-belioara_emswkv", "", "Unul din versanții impresionanți care formează Scărița Belioara" %}
 
 - Lungime: 8.5km
 - Diferență de nivel: 630m
 - Timp Estimat: 5-6h
-- Marcaj: Punct Rosu
+- Marcaj: Punct roșu
 
-Traseul de la Scarita Belioara este unul dintre favoritele noastre. Accesul se face tot de pe DN75 dinspre Turda, spre satul Posaga de Sus. Aici in capatul satului se lasa masinile la marginea drumului si se intra direct pe traseu spre stanga, printr-o poarta de lemn. Urmeaza mai multe urcari destul de abrupte prin padure sau expuse, insa fara mari dificultati tehnice.
+Traseul de la Scărița Belioara este unul dintre favoritele noastre. Accesul se face de pe DN75 dinspre Turda, spre satul Poșaga de Sus. În capătul satului, va trebui să lăsați mașina fie în mini-parcarea de acolo, fie pe marginea drumului. De acolo se intră direct pe traseu, spre stânga, printr-o poartă de lemn. Urmează mai multe urcări destul de abrupte prin pădure, însă fără mari dificultăți tehnice.
 
-Ajunsi in punctul maxim, intersectam drumul forestier care vine din Statiunea Muntele Baisorii. Continuam spre cea mai frumoasa zona, portiunea de creasta a scaritei. Ultima partea a traseului este desigur, in coborare, pe la baza pesterii Cosul Boului.
+După ieșirea din pădure, traseul intersectează un drum forestier ce vine din Stațiunea Muntele Băișorii. Continuă apoi spre cea mai frumoasă zonă: porțiunea de creastă a Scăriței, iar ultima parte este coborârea până în sat, pe la baza peșterii Coșul Boului.
 
 https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
 
 ### Circuit Pietrele Albe
 
-{% responsiveImage "romania/apuseni/pietrele-albe_kooti6", "", "Pietrele Albe vazute de la intrarea pe circuit" %}
+{% responsiveImage "romania/apuseni/pietrele-albe_kooti6", "", "Pietrele Albe văzute de la intrarea pe circuit" %}
 
 - Lungime: 12-13km
 - Diferență de nivel: 600m
 - Timp Estimat: 6-7h
-- Marcaj: Punct Albastru + Punct Galben
+- Marcaj: Punct albastru, punct galben
 
 https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca
 
-### Arieseni - Varful Curcubata Mare
+### Arieșeni - Vârful Curcubăta Mare
 
-{% responsiveImage "romania/apuseni/bihor-mountain-top_ychfys", "", "Acoperisul Apusenilor, varful Cucurbata Mare" %}
+{% responsiveImage "romania/apuseni/bihor-mountain-top_ychfys", "", "Acoperișul Apusenilor, vârful Cucurbăta Mare" %}
 
 - Lungime: 15km
 - Diferență de nivel: 1000m
 - Timp Estimat: 7-8h
-- Marcaj: Banda Albastra
+- Marcaj: Bandă albastra
 
-Cucurbata Mare sau Bihorul Mare este cel mai inalt punct al muntilor Apuseni. Exista mai multe trasee care ajung in varf, noi l-am facut pe unul din cele mai scurte, care porneste din zona cabanelor din Arieseni. De altfel, se poate ajunge si cu masina pe varf pe acelasi drum forestier neasfaltat pe care se afla si prima bucata de traseu marcat cu banda albastra.
+Cucurbăta Mare sau Bihorul Mare este cel mai înalt punct al munților Apuseni. Există mai multe trasee care ajung pe vârf. Noi am ales unul dintre cele mai scurte, care pornește din zona cabanelor din Arieșeni. De altfel, se poate ajunge și cu mașina pe vârf, pe același drum forestier neasfaltat pe care se află și prima bucată a traseului marcat cu banda albastră.
 
-Noi am lasat masina destul de jos si am prefera sa urcam 3-4km pe jos. Oricum, panta nu este foarte mare in aceasta portiune comuna de drum. Traseul devine mai abrupt o data cu parasirea drumului forestier si urca constant pana pe creasta Muntilor Bihor.
+Am lăsat mașina destul de jos, în zona în care încă erau cabane, și am preferat să urcăm 3-4km în plus, panta fiind foarte accesibilă. Traseul devine mai abrupt o dată cu părăsirea drumului forestier și urcă constant până pe creastă.
 
 https://muntii-nostri.ro/ro/routeinfo/valea-ariesul-mare-cucurbata-mare-vf-bihor
 
-### Padis - Circuitul Galbenei
+### Padiș - Circuitul Galbenei
 
 {% responsiveImage "romania/apuseni/cheile-galbenei_e0afdp", "", "Trecerea prin cheile Galbenei" %}
 
 - Lungime: 17.5km
 - Diferență de nivel: 1300m
 - Timp Estimat: 9-10h
-- Marcaj: Punct Galben
+- Marcaj: Punct galben
 
-Chiar daca am fost in Padis ultima oara in 2016, traseul asta merita mentionat aici. Este un tur de forta a zonei Padis, trecand pe la Cetatile Ponorului, Ghetarul Focul Viu si Izbucul si Cheile Galbenei. Traseul poate fi facut si din zona de camping Glavoi si este ceva mai scurt. Pentru traversarea Cheilor Galbenei sunt utile niste sandale de apa, dar se poate face trecerea si pe lanturi cu putin efort.
+Chiar dacă am fost în Padiș ultima oară în 2016, acest traseu merită menționat. Este un tur de forta al zonei Padiș, trecând pe la Cetățile Ponorului, Ghețarul Focul Viu și Izbucul și Cheile Galbenei. Traseul poate fi făcut și din zona de camping Glăvoi și este puțin mai scurt. Din punctul de vedere al echipamentului, pentru traversarea Cheilor Galbenei sunt utile sandalele de apă, dar se poate face trecerea și pe lanțuri, fără prea mult efort.
 
 https://muntii-nostri.ro/ro/routeinfo/circuitul-vaii-galbena
