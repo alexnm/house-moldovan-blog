@@ -1,0 +1,38 @@
+---
+layout: layouts/base.njk
+permalink: /romania/
+pageTitle: Traveling in Romania
+eleventyNavigation:
+  key: Romania
+  order: 1
+---
+
+<div class="wide-content">
+  <div class="spacer-vertical-1"></div>
+
+  <div class="page-content">
+    <h3>Description</h3>
+    <p>
+      Our travel blog is becoming bilingual 🎉 Because of the pandemic, but also because our long-time wish to explore the outdoors, we spent a lot of our weekends and holidays hiking in the Romanian mountains. We've had a lot of amazing experiences, in places that are accessible for a lot of Romanians. In this context, we don't want the language to be a barrier for sharing these experiences with them.
+    </p>
+    <p>
+      The long term plan is to have all articles written in both Romanian and English. Given the amount of work needed for that, it's not realistic to say we'll have that ready soon, unfortunately. We seem to have more energy for travelling and hiking then for writing articles 🙃.
+    </p>
+  </div>
+
+  <div class="page-content">
+    <h3>Descriere</h3>
+    <p>
+      Blogul nostru de călătorii devine bilingv 🎉 O dată cu pandemia, dar și cu dorința noastră de a face mai multă mișcare în natură, ne-am petrecut weekendurile și concediile prin munții românești. Am adunat multe experiențe super frumoase, în locuri accesibile pentru foarte mulți români. Ne dorim ca limba să nu fie o barieră în împărtășirea acestor experiențe.   
+    </p>
+    <p>
+      Planul pe termen lung este ca toate articolele să fie scrise atât în română cât și în engleză. Din păcate, având în vedere efortul necesar pentru asta, nu credem că îl vom putea îndeplini foarte curând. Se pare că avem mai mult spor la drumeții decât la scris articole 🙃.
+    </p>
+  </div>
+
+  <div class="spacer-vertical-1"></div>
+
+  {% set postslist = collections.romania %}
+  {% include "components/postslist.njk" %}
+
+</div>

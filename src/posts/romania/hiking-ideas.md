@@ -1,21 +1,19 @@
 ---
 layout: layouts/spotlight.njk
-pageTitle: Hiking ideas around Cluj
-subTitle: Day hikes for everyone
-headline: TBC
-coverImage: /img/romania/bihor-panorama.jpg
-coverThumb: /img/romania/valisoara.jpg
-region: 🌍 Romania
+pageTitle: Drumeții de o zi in Apuseni
+subTitle: Idei de ture la munte pentru toată lumea
+headline: În ultimii ani am încercat să fugim la munte mai des, și am făcut, printre altele, multe drumeții de o zi în zona munților Apuseni. Împărtășim cu voi în acest articol o listă rezultată din experiențele noastre, listă ce poate fi utilă mai ales pentru cei care locuiesc în zona Clujului, dar și pentru cei din orașele și județele învecinate.
+coverImage: romania/apuseni/piatra-secuiului_gxaqru.jpg
+coverThumb: romania/apuseni/valul-miresei_ctaihi.jpg
+region: 🌍 Apuseni
 mapsLink: https://www.google.com/maps/@46.4698044,22.6475011,107239m/data=!3m1!1e3
 date: 2021-05-14
 tags:
   - hiking
   - nature
-  - romania
-  - inspiration
+  - apuseni
+  - ture de o zi
 ---
-
-În ultimii ani am încercat să fugim la munte mai des, și am făcut, printre altele, multe drumeții de o zi în zona munților **Apuseni**. Împărtășim cu voi în acest articol o listă rezultată din experiențele noastre, listă ce poate fi utilă mai ales pentru cei care locuiesc în zona Clujului, dar și pentru cei din orașele și județele învecinate.
 
 În funcție de dificultatea și durata traseului, împărțim lista în 3 subcategorii:
 
