@@ -41,10 +41,9 @@ Prima categorie se adresează tuturor. Efectuarea traseelor nu necesită o condi
 
 {% responsiveImage "romania/apuseni/faget_dgdhev", "pădure la mijloc de toamnă", "Pădurea Făget merită vizitată în orice anotimp" %}
 
-- Lungime: 5km
-- Diferență de nivel: 50m
-- Timp Estimat: 2h
-- Marcaj: nemarcat
+{% trackDetails "5km", "50m", "2h" %}
+{% marking "nemarcat" %}
+{% endtrackDetails %}
 
 Traseul începe de la drumul judetean 107R, la ieșirea din Cluj-Napoca spre satul Sălicea. De pe platoul Sălicea începe o potecă prin pădure, marcată din loc în loc cu săgeți spre Izvorul Bilașcu. Traseul este foarte frumos în toate anotimpurile, motiv pentru care noi am alergat mult pe acolo.
 
@@ -54,10 +53,9 @@ Dacă doriți să prelungiți plimbarea, e destul de ușor de ajuns de acolo, pr
 
 {% responsiveImage "romania/apuseni/cheile-turzii_icvh8j", "potecă îngustă săpată în stancă", "Una din porțiunile înguste din chei" %}
 
-- Lungime: 4km
-- Diferență de nivel: 70m
-- Timp Estimat: 1.5h
-- Marcaj: Punct roșu
+{% trackDetails "4km", "70m", "1.5h" %}
+{% marking "cercRosu" %}
+{% endtrackDetails %}
 
 Unul dintre cele mai cunoscute trasee de lângă Cluj este cel din Cheile Turzii. Trecerea prin chei este deosebit de frumoasă și nu necesită efort fizic considerabil, însă e nevoie de atenție sporită în câteva zone.
 
