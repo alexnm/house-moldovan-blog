@@ -17,6 +17,8 @@ const autoprefixer = require("autoprefixer");
 const cssnano = require("cssnano");
 const { minify } = require("terser");
 
+const romanianMarkings = require('./src/_data/romanian-markings');
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginNavigation);
@@ -75,6 +77,35 @@ module.exports = function (eleventyConfig) {
   </picture>
   <figcaption>${caption}.</figcaption>
 </figure>`;
+  });
+
+  // we can have at most 3 types of markings on the same track
+  eleventyConfig.addShortcode("marking", (marking1, marking2, marking3) => {
+    return marking1 && romanianMarkings[marking1] && romanianMarkings[marking1].imgName ?
+      `<img src="${romanianMarkings[marking1].imgName}" alt="${romanianMarkings[marking1].altText}" />` :
+      `<span>${romanianMarkings[marking1].altText}</span>`;
+  });
+
+  eleventyConfig.addPairedShortcode("trackDetails", (markings, length, levelDifference, time) => {
+    return `
+<div class="trackDetails">
+    <div>
+      <span>Lungime</span>
+      <span>${length}</span>
+    </div>
+    <div>
+      <span>Diferență de nivel</span>
+      <span>${levelDifference}</span>
+    </div>
+    <div>
+      <span>Timp estimat</span>
+      <span>${time}</span>
+    </div>
+    <div>
+      <span>Marcaj</span>
+      <span>${markings}</span>
+    </div>
+</div>`;
   });
 
   // Add postcss block declaration
