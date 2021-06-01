@@ -1,5 +1,5 @@
 ---
-layout: layouts/spotlight.njk
+layout: layouts/romania.njk
 pageTitle: Drumeții de o zi in Apuseni
 subTitle: Idei de ture la munte pentru toată lumea
 headline: În ultimii ani am încercat să fugim la munte mai des, și am făcut, printre altele, multe drumeții de o zi în zona munților Apuseni. Împărtășim cu voi în acest articol o listă rezultată din experiențele noastre, listă ce poate fi utilă mai ales pentru cei care locuiesc în zona Clujului, dar și pentru cei din orașele și județele învecinate.
@@ -253,7 +253,7 @@ https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
 
 ### Cabana Vlădeasa - Vârful Vlădeasa
 
-{% responsiveImage "romania/apuseni/vladeasa_ep8i0f", "", "Vârful Vlădeasa pe final de toamnă" %}
+{% responsiveImage "romania/apuseni/vladeasa_a3ldkh", "", "Vârful Vlădeasa pe final de toamnă" %}
 
 - Lungime: 14-15km
 - Diferență de nivel: 600m
@@ -269,12 +269,16 @@ https://muntii-nostri.ro/ro/routeinfo/rogojel-cabana-vladeasa
 
 ### Circuit Pietrele Albe
 
-{% responsiveImage "romania/apuseni/pietrele-albe_kooti6", "", "Pietrele Albe văzute de la intrarea pe circuit" %}
+{% responsiveImage "romania/apuseni/pietrele-albe_b7ctit", "", "Pietrele Albe cu vârful Vlădeasa în spate" %}
 
 - Lungime: 12-13km
 - Diferență de nivel: 600m
 - Timp Estimat: 6-7h
 - Marcaj: Punct albastru, punct galben
+
+Tot în zona Răchițele - Vlădeasa puteți opta pentru un traseu mai variat la Pietrele Albe. Circuitul Pietrelor Albe este o potecă destul de solicitantă care urcă din Valea Seacă și trece peste creasta Pietrelor Albe oferind niște priveliști spectaculoase de la mare înălțime.
+
+Circuitul propriu zis este marcat cu punct galben și durează cam 4-5 ore, însa accesul se face pe drumul forestier de la Cascada Vălul Miresei, deci se mai adaugă 2-3 ore la traseul total. De la cascadă până la intrarea pe circuit, urmați marcajul cu punct albastru.
 
 https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca
 
