@@ -965,3 +965,30 @@ img {
 .about-images img:first-child {
   margin-right: 1rem;
 }
+
+.track-details {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.track-details > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.track-details .paths-icons {
+  display: flex;
+}
+
+.track-details .paths-icons > * + * {
+  margin-left: 0.5rem;
+}
+
+.track-details svg {
+  width: 24px;
+  height: 24px;
+  display: block;
+}

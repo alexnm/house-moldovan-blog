@@ -1,18 +1,14 @@
 module.exports = {
-    "bandaRosie": {
-        imgName: "banda-rosie",
-        altText: "Bandă Roșie"
-    },
-    "cruceRosie": {
-        imgName: "cruce-rosie",
-        altText: "Cruce Roșie"
-    },
-    "cercRosu": {
-        imgName: "cerc-rosu",
-        altText: "Cerc Roșu"
-    },
-    "nemarcat": {
-        imgName: "",
-        altText: "Nemarcat"
-    }
-}
+  ba: "./img/icons/banda-albastra.svg",
+  br: "./img/icons/banda-rosie.svg",
+  bg: "./img/icons/banda-galbena.svg",
+  cr: "./img/icons/cruce-rosie.svg",
+  ca: "./img/icons/cruce-albastra.svg",
+  cg: "./img/icons/cruce-galbena.svg",
+  pr: "./img/icons/punct-rosu.svg",
+  pg: "./img/icons/punct-galben.svg",
+  pa: "./img/icons/punct-albastru.svg",
+  tr: "./img/icons/triunghi-rosu.svg",
+  tg: "./img/icons/triunghi-galben.svg",
+  ta: "./img/icons/triunghi-albastru.svg",
+};

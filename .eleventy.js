@@ -17,7 +17,7 @@ const autoprefixer = require("autoprefixer");
 const cssnano = require("cssnano");
 const { minify } = require("terser");
 
-const romanianMarkings = require('./src/_data/romanian-markings');
+const romanianMarkings = require("./src/_data/romanian-markings");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -80,15 +80,35 @@ module.exports = function (eleventyConfig) {
   });
 
   // we can have at most 3 types of markings on the same track
-  eleventyConfig.addShortcode("marking", (marking1, marking2, marking3) => {
-    return marking1 && romanianMarkings[marking1] && romanianMarkings[marking1].imgName ?
-      `<img src="${romanianMarkings[marking1].imgName}" alt="${romanianMarkings[marking1].altText}" />` :
-      `<span>${romanianMarkings[marking1].altText}</span>`;
+  eleventyConfig.addShortcode("paths", (...paths) => {
+    if (paths[0] === "nemarcat") {
+      return `<span>Nemarcat</span>`;
+    }
+
+    return paths
+      .map((path) => {
+        if (!romanianMarkings[path]) {
+          throw new Error(`Invalid path "${path}" exists`);
+        }
+
+        let relativeFilePath = romanianMarkings[path];
+
+        let data = fs.readFileSync(relativeFilePath, function (err, contents) {
+          if (err) return err;
+          return contents;
+        });
+
+        const svg = data.toString("utf8");
+        return svg;
+      })
+      .join("");
   });
 
-  eleventyConfig.addPairedShortcode("trackDetails", (markings, length, levelDifference, time) => {
-    return `
-<div class="trackDetails">
+  eleventyConfig.addPairedShortcode(
+    "trackDetails",
+    (paths, length, levelDifference, time) => {
+      return `
+<div class="track-details">
     <div>
       <span>Lungime</span>
       <span>${length}</span>
@@ -103,10 +123,11 @@ module.exports = function (eleventyConfig) {
     </div>
     <div>
       <span>Marcaj</span>
-      <span>${markings}</span>
+      <span class="paths-icons">${paths}</span>
     </div>
 </div>`;
-  });
+    }
+  );
 
   // Add postcss block declaration
   eleventyConfig.addPairedAsyncShortcode("postcss", async (code) => {
