@@ -1,7 +1,7 @@
 ---
 layout: layouts/spotlight.njk
-pageTitle: Hiking ideas in Apuseni
-subTitle: A few ideas for day trips in Romania's Apuseni Mountains
+pageTitle: 3 ideas for day trips in Apuseni
+subTitle: In case you want to escape the city
 headline: Our hometown, Cluj-Napoca, is minutes away from some of the most picturesque places in Romania, in the Apuseni mountains. While the mountains are not tall, they have the most accessible and beginner friendly hiking trails in our country.
 coverImage: /img/romania/bihor-panorama.jpg
 coverThumb: /img/romania/valisoara.jpg
