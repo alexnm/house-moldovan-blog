@@ -1,9 +1,9 @@
 ---
 layout: layouts/romania.njk
 pageTitle: Drumeții de o zi in Apuseni
-subTitle: Idei de ture la munte pentru toată lumea
+subTitle: Idei de ture la munte cât pentru o vară întreagă
 headline: În ultimii ani am încercat să fugim la munte mai des, și am făcut, printre altele, multe drumeții de o zi în zona munților Apuseni. Împărtășim cu voi în acest articol o listă rezultată din experiențele noastre, listă ce poate fi utilă mai ales pentru cei care locuiesc în zona Clujului, dar și pentru cei din orașele și județele învecinate.
-coverImage: romania/apuseni/piatra-secuiului_gxaqru.jpg
+coverImage: romania/apuseni/pietrele-marunte_dbkgdi.jpg
 coverThumb: romania/apuseni/valul-miresei_ctaihi.jpg
 region: 🌍 Apuseni
 mapsLink: https://www.google.com/maps/@46.4698044,22.6475011,107239m/data=!3m1!1e3
@@ -31,7 +31,7 @@ Traseele pot fi liniare, ceea ce înseamnă că vor trebui parcurse dus-întors,
 
 Traseele montane sunt marcate cu punct, bandă, cruce sau triunghi, de culoare roșie, galbenă sau albastră. Punctul este folosit de obicei pentru traseele de tip circuit, banda reprezintă în general traseele liniare importante în zonă, iar traseele marcate cu triunghi sau cruce de obicei intersectează alte trasee din zonă.
 
-De cele mai multe ori, traseele sunt bine marcate, iar șansele de a vă rătăci sunt foarte mici. Totuși, vă recomandăm aplicația și site-ul[munții-noștri](https://muntii-nostri.ro/) pentru a vă orienta atunci când sunteți pe munte.
+De cele mai multe ori, traseele sunt bine marcate, iar șansele de a vă rătăci sunt foarte mici. Totuși, vă recomandăm aplicația și site-ul [munții-noștri](https://muntii-nostri.ro/) pentru a vă orienta atunci când sunteți pe munte.
 
 ## Pentru toată familia
 
@@ -42,12 +42,12 @@ Prima categorie se adresează tuturor. Efectuarea traseelor nu necesită o condi
 {% responsiveImage "romania/apuseni/faget_dgdhev", "pădure la mijloc de toamnă", "Pădurea Făget merită vizitată în orice anotimp" %}
 
 {% trackDetails "5km", "50m", "2h" %}
-{% paths "nemarcat" %}
+{% paths "ba" %}
 {% endtrackDetails %}
 
 Traseul începe de la drumul judetean 107R, la ieșirea din Cluj-Napoca spre satul Sălicea. De pe platoul Sălicea începe o potecă prin pădure, marcată din loc în loc cu săgeți spre Izvorul Bilașcu. Traseul este foarte frumos în toate anotimpurile, motiv pentru care noi am alergat mult pe acolo.
 
-Dacă doriți să prelungiți plimbarea, e destul de ușor de ajuns de acolo, prin pădure, în zona vârfului Peana. În total veți parcurge aproximativ 6.5km cu diferență de nivel de 172m (GPX: https://connect.garmin.com/modern/activity/4152453814)
+Dacă doriți să prelungiți plimbarea, e destul de ușor de ajuns de acolo, prin pădure, în zona vârfului Peana. În total veți parcurge aproximativ 6.5km cu diferență de nivel de 172m. Vă puteți orienta după [traseul](https://connect.garmin.com/modern/activity/4152453814) pe care (obișnuiam 🙃 să) alergăm.
 
 ### Cheile Turzii - Traversare
 
@@ -59,7 +59,7 @@ Dacă doriți să prelungiți plimbarea, e destul de ușor de ajuns de acolo, pr
 
 Unul dintre cele mai cunoscute trasee de lângă Cluj este cel din Cheile Turzii. Trecerea prin chei este deosebit de frumoasă și nu necesită efort fizic considerabil, însă e nevoie de atenție sporită în câteva zone.
 
-Traseul poate fi făcut în ambele sensuri: dinspre cabana Cheile Turzii (Turda), sau dinspre satul Petreștii de Jos. Noi preferăm să mergem cu mașina în Petrești, accesul spre chei fiind mai rapid pe acolo. Mașina se lasă într-o parcare improvizată pe câmp, la intrarea pe poteca marcată cu punct roșu.
+[Traseul](https://muntii-nostri.ro/node/1426) poate fi făcut în ambele sensuri: dinspre cabana Cheile Turzii (Turda), sau dinspre satul Petreștii de Jos. Noi preferăm să mergem cu mașina în Petrești, accesul spre chei fiind mai rapid pe acolo. Mașina se lasă într-o parcare improvizată pe câmp, la intrarea pe poteca marcată cu punct roșu.
 
 În zona de mijloc, există câteva porțiuni mai înguste, unde, pentru a trece mai ușor, vă puteți ajuta de cabluri sau prize de metal fixate în peretele de stâncă. Există și niște porțiuni cu pietre alunecoase, care însă nu pun probleme dacă aveți încălțăminte aderentă și dacă sunteți atenți la fiecare pas.
 
@@ -125,9 +125,7 @@ Cascada poate fi admirată de la un balcon care reprezintă și capătul traseul
 {% paths "bg" %}
 {% endtrackDetails %}
 
-Marcaj: https://muntii-nostri.ro/ro/routeinfo/groapa-ruginoasa
-
-În final, în zona Padiș - Munții Bihor găsim un alt traseu foarte lejer cu pornire din Pasul Vârtop, din localitatea cu același nume. Accesul se face dinspre Turda sau dinspre Beiuș pe DN75, drum care leagă județele Cluj, Alba și Bihor, prin inima munților Apuseni.
+În final, în zona Padiș - Munții Bihor găsim [un alt traseu](https://muntii-nostri.ro/ro/routeinfo/groapa-ruginoasa) foarte lejer cu pornire din Pasul Vârtop, din localitatea cu același nume. Accesul se face dinspre Turda sau dinspre Beiuș pe DN75, drum care leagă județele Cluj, Alba și Bihor, prin inima munților Apuseni.
 
 Banda galbenă ne duce prin pădure într-o urcare ușoară spre Groapa Ruginoasa: o zonă formată natural prin alunecări treptate de teren datorate unui sol argilos instabil. În funcție de condițiile meteo, întreaga zonă descoperită oferă culori deosebite amatorilor de fotografie.
 
@@ -147,7 +145,7 @@ Pe lângă traversarea cheilor, există și trasee care urcă pe cei doi versan�
 
 Din parcarea improvizată la intrarea pe traseu puteți trece pe un pod de lemn peste râu, iar apoi începe urcarea pe deal spre un stâlp care se află la marginea pădurii. O dată ce ajungeți la stâlp, intrați pe traseul marcat cu punct roșu. Urmează o urcare scurtă prin pădure, apoi pe o potecă care șerpuiește încet spre cea mai înaltă zonă a traseului, unde sunt câteva puncte de belvedere superbe. Coborârea se face prin pădure, până la intrarea pe traseul ce străbate cheile înapoi spre Petrești.
 
-GPX: https://connect.garmin.com/modern/activity/6547732696 (cu un round-trip până la mașină după 300 de metri, după telefon 🙃)
+Recent am înregistrat [întregul traseu](https://connect.garmin.com/modern/activity/6547732696), cu un "round-trip" până la mașină după 300 de metri, după telefon 🙃.
 
 ### Rîmetea - Piatra Secuiului - Colții Trascăului
 
@@ -157,13 +155,13 @@ GPX: https://connect.garmin.com/modern/activity/6547732696 (cu un round-trip pâ
 {% paths "ca" "br" %}
 {% endtrackDetails %}
 
-Traseul ce urcă pe Piatra Secuiului este, pe bună dreptate, unul dintre cele mai spectaculoase și populare din Munții Trascău. Acesta începe chiar din centrul satului și este marcat cu cruce albastră. Drumul se schimbă curând în potecă, după care începe urcarea propriu-zisă. Sunt câteva porțiuni destul de abrupte, dar priveliștea de sus merită efortul.
+[Traseul](https://muntii-nostri.ro/ro/routeinfo/circuitul-pietrei-secuiului) ce urcă pe Piatra Secuiului este, pe bună dreptate, unul dintre cele mai spectaculoase și populare din Munții Trascău. Acesta începe chiar din centrul satului și este marcat cu cruce albastră. Drumul se schimbă curând în potecă, după care începe urcarea propriu-zisă. Sunt câteva porțiuni destul de abrupte, dar priveliștea de sus merită efortul.
 
 După ce ajungeți în șaua dintre cele două vârfuri, faceți dreapta pentru a urca pe Piatra Secuiului. La întoarcere, puteți continua pe creastă pe banda roșie, până pe Colții Trascăului, după care coborâți prin pădure, tot pe bandă roșie.
 
-Atenție: Traseul de coborâre devine foarte alunecos în perioadele ploioase.
-
-https://muntii-nostri.ro/ro/routeinfo/circuitul-pietrei-secuiului
+<div class="info warning">
+  <span>Traseul de coborâre devine foarte alunecos în perioadele ploioase.</span>
+</div>
 
 ### Cheile Vălișoarei - Circuit versant drept
 
@@ -181,8 +179,6 @@ Traseul începe de la șosea cu o urcare destul de abruptă la baza peretelui de
 
 Pentru o tură mai scurtă, de 45min dus-întors, puteți merge doar la al doilea punct de belvedere. Urcarea începe de la Castelul Templul Cavalerilor, situat în mijlocul cheilor.
 
-Marcaj: https://muntii-nostri.ro/ro/routeinfo/circuit-cheile-valisoarei-aiudului-versantul-drept
-
 ### Cascada Vălul Miresei - Vârful Lespezi
 
 {% responsiveImage "romania/apuseni/rachitele-lespezi_qjgbpp", "", "Vârful Lespezi văzut din zona Cascadei Vălul Miresei" %}
@@ -191,9 +187,7 @@ Marcaj: https://muntii-nostri.ro/ro/routeinfo/circuit-cheile-valisoarei-aiudului
 {% paths "pr" "cr" %}
 {% endtrackDetails %}
 
-https://connect.garmin.com/modern/activity/5358932390
-
-Dacă ajungeți în zona Răchițele / Vălul Miresei și căutați un traseu scurt dar cu priveliști deosebite, Vârful Lespezi este destinația perfectă. El se înalță deasupra cascadei ca un perete vertical ce pare amețitor de înalt la prima vedere. Totuși, traseul este destul de lin, cu o singură pantă mai abruptă aproape de vârf.
+Dacă ajungeți în zona Răchițele / Vălul Miresei și căutați un traseu scurt dar cu priveliști deosebite, Vârful Lespezi este destinația perfectă. El se înalță deasupra cascadei ca un perete vertical ce pare amețitor de înalt la prima vedere. Totuși, [traseul](https://connect.garmin.com/modern/activity/5358932390) este destul de lin, cu o singură pantă mai abruptă aproape de vârf.
 
 Urmați drumul forestier marcat cu punct roșu care urcă prin stânga cascadei. Imediat după refugiul salvamont, aflat pe partea stângă, părăsiți drumul forestier și intrați pe o potecă prin pădure. După aproximativ 20 de minute ajungeți la o intersecție, unde o luați la dreapta pe cruce roșie spre vârful Lespezi.
 
@@ -221,7 +215,7 @@ Ultima categorie de trasee este potrivită pentru cei care au la activ câteva d
 
 Tot din satul Rîmetea, dar în partea opusă Pietrei Secuiului, începe o urcare foarte frumoasă spre vârful Ardășcheia. Acesta este puțin mai înalt decât Piatra Secuiului, dar panta nu este atât de abruptă. Traseul urmărește banda roșie și urcă pe marginea unei păduri de amestec de foioase și conifere. După aproximativ 2.5km, poteca se abate de la marcaj, și urmează o urcare mai abruptă până pe vârf.
 
-https://connect.garmin.com/modern/activity/5858746076
+Pentru a găsi mai ușor poteca nemarcată, urmați [GPX-ul](https://connect.garmin.com/modern/activity/5858746076) înregistrat cu ocazia primei zăpezi din 2020 🙃.
 
 ### Circuit Scărița Belioara
 
@@ -231,11 +225,9 @@ https://connect.garmin.com/modern/activity/5858746076
 {% paths "pr" %}
 {% endtrackDetails %}
 
-Traseul de la Scărița Belioara este unul dintre favoritele noastre. Accesul se face de pe DN75 dinspre Turda, spre satul Poșaga de Sus. În capătul satului, va trebui să lăsați mașina fie în mini-parcarea de acolo, fie pe marginea drumului. De acolo se intră direct pe traseu, spre stânga, printr-o poartă de lemn. Urmează mai multe urcări destul de abrupte prin pădure, însă fără mari dificultăți tehnice.
+[Traseul de la Scărița Belioara](https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara) este unul dintre favoritele noastre. Accesul se face de pe DN75 dinspre Turda, spre satul Poșaga de Sus. În capătul satului, va trebui să lăsați mașina fie în mini-parcarea de acolo, fie pe marginea drumului. De acolo se intră direct pe traseu, spre stânga, printr-o poartă de lemn. Urmează mai multe urcări destul de abrupte prin pădure, însă fără mari dificultăți tehnice.
 
 După ieșirea din pădure, traseul intersectează un drum forestier ce vine din Stațiunea Muntele Băișorii. Continuă apoi spre cea mai frumoasă zonă: porțiunea de creastă a Scăriței, iar ultima parte este coborârea până în sat, pe la baza peșterii Coșul Boului.
-
-https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
 
 ### Cabana Vlădeasa - Vârful Vlădeasa
 
@@ -245,12 +237,9 @@ https://muntii-nostri.ro/ro/routeinfo/circuitul-scarita-belioara
 {% paths "pr" %}
 {% endtrackDetails %}
 
-Un alt traseu popular începe de la Cabana Vlădeasa și urcă până pe vârful cu același nume. Altitudinea lui este de 1836m, fiind al doilea ca înălțime din Apuseni. Deloc surprinzător pentru această zonă, vârful este de fapt un platou, ușor de recunoscut după cabana meteo care se află acolo. După traversarea platoului, traseul coboară prin pădure până la Pietrele Albe. De acolo, un drum forestier - lung dar fără urcări sau coborâri abrupte - duce înapoi spre cabana de la început.
+Un alt [traseu popular](https://muntii-nostri.ro/ro/routeinfo/cabana-vladeasa-vf-vladeasa-pietrele-albe-cabana-vladeasa) începe de la Cabana Vlădeasa și urcă până pe vârful cu același nume. Altitudinea lui este de 1836m, fiind al doilea ca înălțime din Apuseni. Deloc surprinzător pentru această zonă, vârful este de fapt un platou, ușor de recunoscut după cabana meteo care se află acolo. După traversarea platoului, traseul coboară prin pădure până la Pietrele Albe. De acolo, un drum forestier - lung dar fără urcări sau coborâri abrupte - duce înapoi spre cabana de la început.
 
 De la Cluj până la cabană se ajunge pe E60 spre Huedin, apoi pe drumul județean ce leagă satele Sâncrai, Secuieu și Rogojelu. Din Rogojelu începe un drum neasfaltat destul de îngust, până la Cabana Vlădeasa. Versiunea de mai sus a traseului presupune că reușiți să urcați cu mașina până acolo. Nu este imposibil - noi am urcat în trecut cu un Ford Focus, dar trebuie atenție la urcare. Mașinile se pot lăsa și pe marginea drumului după ieșirea din pădure, înainte de a ajunge la cabană. Acela este locul în care am preferat noi să o lăsăm. De asemenea, drumul neasfaltat poate fi urcat și pe jos, însă se adaugă aproximativ 450m diferență de nivel pozitivă și 7km dus-întors.
-
-https://muntii-nostri.ro/ro/routeinfo/cabana-vladeasa-vf-vladeasa-pietrele-albe-cabana-vladeasa
-https://muntii-nostri.ro/ro/routeinfo/rogojel-cabana-vladeasa
 
 ### Circuit Pietrele Albe
 
@@ -260,11 +249,9 @@ https://muntii-nostri.ro/ro/routeinfo/rogojel-cabana-vladeasa
 {% paths "pa" "pg" %}
 {% endtrackDetails %}
 
-Tot în zona Răchițele - Vlădeasa puteți opta pentru un traseu mai variat la Pietrele Albe. Circuitul Pietrelor Albe este o potecă destul de solicitantă care urcă din Valea Seacă și trece peste creasta Pietrelor Albe oferind niște priveliști spectaculoase de la mare înălțime.
+Tot în zona Răchițele - Vlădeasa puteți opta pentru [Circuitul Pietrelor Albe](https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca). Acesta este un traseu destul de solicitant care urcă din Valea Seacă și trece peste creasta Pietrelor Albe oferind priveliști spectaculoase de la mare înălțime.
 
-Circuitul propriu zis este marcat cu punct galben și durează cam 4-5 ore, însa accesul se face pe drumul forestier de la Cascada Vălul Miresei, deci se mai adaugă 2-3 ore la traseul total. De la cascadă până la intrarea pe circuit, urmați marcajul cu punct albastru.
-
-https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca
+Circuitul este marcat cu punct galben și durează 4-5 ore. La asta se adaugă 1 oră (2 dus-întors) necesară pentru a ajunge de la Cascada Vălul Miresei până la intrarea pe traseu. Pe această porțiune urmați marcajul cu punct albastru.
 
 ### Arieșeni - Vârful Cucurbăta Mare
 
@@ -274,11 +261,9 @@ https://muntii-nostri.ro/ro/routeinfo/v-seaca-pietrele-albe-v-seaca
 {% paths "ba" %}
 {% endtrackDetails %}
 
-Cucurbăta Mare sau Bihorul Mare este cel mai înalt punct al munților Apuseni. Există mai multe trasee care ajung pe vârf. Noi am ales unul dintre cele mai scurte, care pornește din zona cabanelor din Arieșeni. De altfel, se poate ajunge și cu mașina pe vârf, pe același drum forestier neasfaltat pe care se află și prima bucată a traseului marcat cu banda albastră.
+Cucurbăta Mare sau Bihorul Mare este cel mai înalt punct al munților Apuseni. Există mai multe trasee care ajung pe vârf. Noi am ales [unul dintre cele mai scurte](https://muntii-nostri.ro/ro/routeinfo/valea-ariesul-mare-cucurbata-mare-vf-bihor), care pornește din zona cabanelor din Arieșeni. De altfel, se poate ajunge și cu mașina pe vârf, pe același drum forestier neasfaltat pe care se află și prima bucată a traseului marcat cu banda albastră.
 
 Am lăsat mașina destul de jos, în zona în care încă erau cabane, și am preferat să urcăm 3-4km în plus, panta fiind foarte accesibilă. Traseul devine mai abrupt o dată cu părăsirea drumului forestier și urcă constant până pe creastă.
-
-https://muntii-nostri.ro/ro/routeinfo/valea-ariesul-mare-cucurbata-mare-vf-bihor
 
 ### Padiș - Circuitul Galbenei
 
@@ -288,6 +273,4 @@ https://muntii-nostri.ro/ro/routeinfo/valea-ariesul-mare-cucurbata-mare-vf-bihor
 {% paths "pg" %}
 {% endtrackDetails %}
 
-Chiar dacă am fost în Padiș ultima oară în 2016, acest traseu merită menționat. Este un tur de forta al zonei Padiș, trecând pe la Cetățile Ponorului, Ghețarul Focul Viu și Izbucul și Cheile Galbenei. Traseul poate fi făcut și din zona de camping Glăvoi și este puțin mai scurt. Din punctul de vedere al echipamentului, pentru traversarea Cheilor Galbenei sunt utile sandalele de apă, dar se poate face trecerea și pe lanțuri, fără prea mult efort.
-
-https://muntii-nostri.ro/ro/routeinfo/circuitul-vaii-galbena
+Chiar dacă am fost în Padiș ultima oară în 2016, acest traseu merită menționat. Este un [tur de forța](https://muntii-nostri.ro/ro/routeinfo/circuitul-vaii-galbena) al zonei Padiș, trecând pe la Cetățile Ponorului, Ghețarul Focul Viu și Izbucul și Cheile Galbenei. Traseul poate fi făcut și din zona de camping Glăvoi și este puțin mai scurt. Din punctul de vedere al echipamentului, pentru traversarea Cheilor Galbenei sunt utile sandalele de apă, dar se poate face trecerea și pe lanțuri, fără prea mult efort.

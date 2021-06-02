@@ -287,10 +287,16 @@ img {
 
 @media only screen and (min-width: 390px) {
   .nav > li:not(:last-child) {
-    margin-right: 1rem;
+    margin-right: 0.5rem;
   }
 
   .nav > li:first-child {
+    display: inline;
+  }
+}
+
+@media (min-width: 510px) {
+  .house {
     display: inline;
   }
 }
@@ -302,10 +308,6 @@ img {
 
   .nav > li:not(:last-child) {
     margin-right: 2rem;
-  }
-
-  .house {
-    display: inline;
   }
 }
 
@@ -969,7 +971,12 @@ img {
 .track-details {
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
+  align-items: flex-start;
+  padding: 1rem 0;
+  margin-top: 2rem;
+  border-radius: var(--border-radius);
+  background: #ffefbc;
+  box-shadow: var(--box-shadow);
 }
 
 .track-details > div {
@@ -977,6 +984,10 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.track-details > div > span:last-child {
+  font-weight: var(--font-weight-bold);
 }
 
 .track-details .paths-icons {
