@@ -771,19 +771,9 @@ img {
   .text-content {
     margin: auto 2rem;
   }
-
-  .markdown-content img,
-  .markdown-content video {
-    max-width: 95%;
-  }
 }
 
 @media only screen and (min-width: 790px) {
-  .markdown-content img,
-  .markdown-content video {
-    max-width: 90%;
-  }
-
   .text-content {
     margin: auto;
   }
