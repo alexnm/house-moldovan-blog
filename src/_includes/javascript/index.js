@@ -2,8 +2,8 @@ const themes = {
   light: {
     accent: '#ffc946',
     accentSecondary: '#ff9f8c',
-    backgroundAccent: '#ffc946',
-    backgroundAccentSecondary: '#ff9f8c',
+    backgroundAccent: '#ffefbc',
+    backgroundAccentSecondary: '#ffcfac',
     background: '#fffffe',
     textColor: '#2a2a2a'
   },

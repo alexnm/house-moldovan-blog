@@ -25,7 +25,7 @@
   --accent-secondary: #ff9f8c;
   --neutral: #dddded;
   --background: #fffffe;
-  --background-accent: #ffc946;
+  --background-accent: #ffefbc;
   --background-accent-secondary: #ff9f8c;
   --text-color: #2a2a2a;
   --text-color-on-accent: #0f0e17;
@@ -965,7 +965,7 @@ img {
   padding: 1rem 0;
   margin-top: 2rem;
   border-radius: var(--border-radius);
-  background: #ffefbc;
+  background: var(--background-accent);
   box-shadow: var(--box-shadow);
 }
 
