@@ -118,7 +118,7 @@ module.exports = function (eleventyConfig) {
       <span>${levelDifference}</span>
     </div>
     <div>
-      <span>Timp estimat</span>
+      <span>Timp</span>
       <span>${time}</span>
     </div>
     <div>
