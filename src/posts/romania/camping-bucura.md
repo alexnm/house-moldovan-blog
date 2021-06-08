@@ -4,7 +4,7 @@ pageTitle: Camping at Lake Bucura
 subTitle: A great mountain experience in the most beautiful alpine region in Romania
 headline: Retezat Mountains were on our list for a long time and the 2020 travel restrictions created the perfect opportunity. So at the end of August, we packed our camping gear and headed to the mountains. We stayed for 3 nights under the starry sky by the shore of Lake Bucura, at an altitude of over 2000 meters.
 coverImage: /img/romania/retezat/bucura-panorama.jpg
-coverThumb: /img/romania/retezat/bucura-campsite.jpg
+coverThumb: /img/romania/retezat/bucurel.jpg
 region: 🌍 Romania
 mapsLink: https://goo.gl/maps/YEk6UjaeCmFf3QMG8
 date: 2020-09-16
@@ -12,7 +12,6 @@ tags:
   - hiking
   - nature
   - camping
-  - inspiration
 ---
 
 ## Introduction
@@ -72,7 +71,11 @@ We stayed for 3 nights so we had 2 full days of hiking in between. We decided to
 
 ### Day 1 - Retezat Peak
 
-After enjoying the morning sun and having breakfast by the tent, we decided to hike on the yellow line trail. The trail starts from Bucura and ends on the Retezat peak at 2482m. The hike takes 2 to 3 hours one way and has about 600 meters of vertical gain.
+After enjoying the morning sun and having breakfast by the tent, we decided to hike on the yellow line trail. The trail starts from Bucura and ends on the Retezat peak at 2482m.
+
+{% trackDetailsEn "9.5km", "716m", "6h" %}
+{% paths "bg" "br" "ba" %}
+{% endtrackDetailsEn %}
 
 The first part is pretty relaxing, as you pass by Lake Bucurel towards Tăul Porții. This is one of the most beautiful lakes in the entire Bucura glacier valley.
 
@@ -124,6 +127,10 @@ All in all, we spent about 5-6 hours hiking and 2 hours resting. We were back at
 ### Day 2 - Peleaga and Păpușa
 
 We decided to leave for the second hike early in the morning, around 8:00am. Our goal was to arrive at Peleaga peak (2509m) and have breakfast there before too many people get to the top. On Friday a lot of people arrived at Bucura, so by Saturday morning there were close to 100 tents in the area.
+
+{% trackDetailsEn "10.5km", "1050m", "8h" %}
+{% paths "cg" "br" "cr" %}
+{% endtrackDetailsEn %}
 
 Starting the mountain rescue cabin, the path towards Peleaga is marked with a yellow cross. It goes up on Valea Berbecilor until you take a sharp turn right and start going up on a very steep path towards the ridge.
 

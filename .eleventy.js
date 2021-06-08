@@ -118,11 +118,36 @@ module.exports = function (eleventyConfig) {
       <span>${levelDifference}</span>
     </div>
     <div>
-      <span>Timp estimat</span>
+      <span>Timp</span>
       <span>${time}</span>
     </div>
     <div>
       <span>Marcaj</span>
+      <span class="paths-icons">${paths}</span>
+    </div>
+</div>`;
+    }
+  );
+
+  eleventyConfig.addPairedShortcode(
+    "trackDetailsEn",
+    (paths, length, levelDifference, time) => {
+      return `
+<div class="track-details">
+    <div>
+      <span>Track Length</span>
+      <span>${length}</span>
+    </div>
+    <div>
+      <span>Elevation Gain</span>
+      <span>${levelDifference}</span>
+    </div>
+    <div>
+      <span>Time</span>
+      <span>${time}</span>
+    </div>
+    <div>
+      <span>Marking</span>
       <span class="paths-icons">${paths}</span>
     </div>
 </div>`;

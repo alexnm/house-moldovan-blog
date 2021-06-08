@@ -80,7 +80,8 @@ h1 {
   margin: 0;
 }
 
-h2 {
+h2,
+.heading2 {
   font-size: var(--font-size-xlarge);
   font-weight: var(--font-weight-bold);
   margin: 0;
@@ -641,18 +642,30 @@ img {
   margin: auto 1rem;
 }
 
+.markdown-content figure {
+  margin: 0 -1rem;
+}
+
 .markdown-content img,
 .markdown-content video {
   max-width: 100%;
   display: block;
   margin: 1rem auto 0.5rem auto;
   box-shadow: var(--box-shadow);
-  border-radius: var(--border-radius);
+  border-radius: 0;
+}
+
+@media (min-width: 480px) {
+  .markdown-content img,
+  .markdown-content video {
+    border-radius: var(--border-radius);
+  }
 }
 
 .markdown-content figcaption {
   font-size: var(--font-size-small);
   text-align: center;
+  margin: 0 1rem;
 }
 
 .markdown-content h1,
@@ -889,12 +902,18 @@ img {
 
 .info {
   font-size: var(--font-size-small);
-  margin: 1rem 0;
-  border-radius: var(--border-radius);
+  margin: 1rem -1rem;
+  border-radius: 0;
   padding: 0.5rem;
   box-shadow: var(--box-shadow);
   display: flex;
   align-items: center;
+}
+
+@media (min-width: 480px) {
+  .info {
+    border-radius: var(--border-radius);
+  }
 }
 
 .info span {
@@ -962,11 +981,18 @@ img {
   display: flex;
   justify-content: space-evenly;
   align-items: flex-start;
+  font-size: var(--font-size-small);
   padding: 1rem 0;
-  margin-top: 2rem;
-  border-radius: var(--border-radius);
+  margin: 1rem -1rem;
+  border-radius: 0;
   background: var(--background-accent);
   box-shadow: var(--box-shadow);
+}
+
+@media (min-width: 480px) {
+  .track-details {
+    border-radius: var(--border-radius);
+  }
 }
 
 .track-details > div {
@@ -992,4 +1018,10 @@ img {
   width: 24px;
   height: 24px;
   display: block;
+}
+
+@media (min-width: 390px) {
+  .track-details {
+    font-size: var(--font-size-regular);
+  }
 }

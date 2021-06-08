@@ -47,7 +47,7 @@ layout: layouts/base.njk
   <h2>You might also enjoy</h2>
   <div class="spacer-vertical-3"></div>
 
-  {% set postslist = collections.spotlights | head(-3, page.url) %}
+  {% set postslist = collections[suggestion] | head(-3, page.url) %}
   {% include "components/postslist.njk" %}
 </div>
 

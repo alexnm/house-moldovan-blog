@@ -20,6 +20,18 @@ layout: layouts/base.njk
   <div class="spacer-vertical-3"></div>
 
   <div class="text-content text-center">
+    <h2>Spotlight: Romania</h2>
+    <p>Stories from our home country, both in English and Romanian</p>
+  </div>
+
+  <div class="spacer-vertical-3"></div>
+
+  {% set postslist = collections.romania | head(-3) %}
+  {% include "components/postslist.njk" %}
+  
+  <div class="spacer-vertical-5"></div>
+
+  <div class="text-content text-center">
     <h2>Latest spotlights</h2>
     <p>All you need to know about the places you are going to visit</p>
   </div>
