@@ -80,7 +80,8 @@ h1 {
   margin: 0;
 }
 
-h2 {
+h2,
+.heading2 {
   font-size: var(--font-size-xlarge);
   font-weight: var(--font-weight-bold);
   margin: 0;

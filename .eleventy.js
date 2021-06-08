@@ -129,6 +129,31 @@ module.exports = function (eleventyConfig) {
     }
   );
 
+  eleventyConfig.addPairedShortcode(
+    "trackDetailsEn",
+    (paths, length, levelDifference, time) => {
+      return `
+<div class="track-details">
+    <div>
+      <span>Track Length</span>
+      <span>${length}</span>
+    </div>
+    <div>
+      <span>Elevation Gain</span>
+      <span>${levelDifference}</span>
+    </div>
+    <div>
+      <span>Time</span>
+      <span>${time}</span>
+    </div>
+    <div>
+      <span>Marking</span>
+      <span class="paths-icons">${paths}</span>
+    </div>
+</div>`;
+    }
+  );
+
   // Add postcss block declaration
   eleventyConfig.addPairedAsyncShortcode("postcss", async (code) => {
     const filepath = path.join(__dirname, "src/_includes/css/index.css");

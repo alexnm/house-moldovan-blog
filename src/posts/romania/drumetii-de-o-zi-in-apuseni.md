@@ -5,6 +5,7 @@ subTitle: Idei de ture la munte cât pentru o vară întreagă
 headline: În ultimii ani am încercat să fugim la munte mai des, și am făcut, printre altele, multe drumeții de o zi în zona munților Apuseni. Împărtășim cu voi în acest articol o listă rezultată din experiențele noastre, listă ce poate fi utilă mai ales pentru cei care locuiesc în zona Clujului, dar și pentru cei din orașele și județele învecinate.
 coverImage: romania/apuseni/pietrele-marunte_dbkgdi.jpg
 coverThumb: romania/apuseni/valul-miresei_ctaihi.jpg
+language: ro
 region: 🌍 Munții Apuseni
 mapsLink: https://www.google.com/maps/@46.4698044,22.6475011,107239m/data=!3m1!1e3
 date: 2021-05-14

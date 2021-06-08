@@ -5,6 +5,7 @@ subTitle: Final de iunie la peste 2000 de metri în Munții Rodnei
 headline: Munții Rodnei se îmbracă în fiecare sfârșit de iunie într-un roz intens, specific bujorului de munte, numit și Smârdar. În 2020 am luat-o spre crestele Rodnei în căutarea faimoaselor flori. Am profitat de ocazie să ajungem și pe Ineu, unul dintre principalele vârfuri din zonă.
 coverImage: romania/rodnei/ineu-panoramic_mktwea.jpg
 coverThumb: romania/rodnei/ineu-ineut-thumb_jgd7nr.jpg
+language: ro
 region: 🌍 Munții Rodnei
 mapsLink: https://goo.gl/maps/YkRZEEXcpwEgT2Q98
 date: 2021-06-08
