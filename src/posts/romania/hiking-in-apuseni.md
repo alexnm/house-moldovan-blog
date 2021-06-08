@@ -11,8 +11,6 @@ date: 2020-07-14
 tags:
   - hiking
   - nature
-  - europe
-  - inspiration
 ---
 
 A lot of people from Cluj and the neighbouring cities know famous spots like: Cheile Turzii, Piatra Secuiului or Tarnița Lake. But we're going to talk today about 3 lesser-known destinations that are really capturing the beauty of these mountains.

@@ -12,7 +12,6 @@ tags:
   - hiking
   - nature
   - camping
-  - inspiration
 ---
 
 ## Introduction

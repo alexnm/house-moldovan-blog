@@ -12,8 +12,6 @@ date: 2021-05-14
 tags:
   - hiking
   - nature
-  - apuseni
-  - ture de o zi
 ---
 
 În funcție de dificultatea și durata traseului, împărțim lista în 3 subcategorii:
