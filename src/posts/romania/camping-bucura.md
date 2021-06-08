@@ -4,7 +4,7 @@ pageTitle: Camping at Lake Bucura
 subTitle: A great mountain experience in the most beautiful alpine region in Romania
 headline: Retezat Mountains were on our list for a long time and the 2020 travel restrictions created the perfect opportunity. So at the end of August, we packed our camping gear and headed to the mountains. We stayed for 3 nights under the starry sky by the shore of Lake Bucura, at an altitude of over 2000 meters.
 coverImage: /img/romania/retezat/bucura-panorama.jpg
-coverThumb: /img/romania/retezat/bucura-campsite.jpg
+coverThumb: /img/romania/retezat/bucurel.jpg
 region: 🌍 Romania
 mapsLink: https://goo.gl/maps/YEk6UjaeCmFf3QMG8
 date: 2020-09-16
