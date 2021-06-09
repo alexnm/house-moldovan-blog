@@ -2,7 +2,7 @@
 layout: layouts/romania.njk
 pageTitle: Pe creasta Rodnei în căutarea bujorului de munte
 subTitle: Final de iunie la peste 2000 de metri în Munții Rodnei
-headline: Munții Rodnei se îmbracă în fiecare sfârșit de iunie într-un roz intens, specific bujorului de munte, numit și Smârdar. În 2020 am luat-o spre crestele Rodnei în căutarea faimoaselor flori. Am profitat de ocazie să ajungem și pe Ineu, unul dintre principalele vârfuri din zonă.
+headline: Munții Rodnei se îmbracă în fiecare sfârșit de iunie într-un roz intens, specific bujorului de munte, numit și smârdar. În 2020 am luat-o spre crestele Rodnei în căutarea faimoaselor flori. Am profitat de ocazie să ajungem și pe Ineu, unul dintre principalele vârfuri din zonă.
 coverImage: romania/rodnei/ineu-panoramic_mktwea.jpg
 coverThumb: romania/rodnei/ineu-ineut-thumb_jgd7nr.jpg
 language: ro
