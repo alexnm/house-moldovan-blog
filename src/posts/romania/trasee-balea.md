@@ -52,54 +52,58 @@ O data ajunsi pe vârf, vă puteți bucura de o priveliște de 360 de grade asup
 
 Returul se face pe același traseu: cruce albastră până în Șaua Caprei, apoi coborârea spre Bâlea. Atenție la coborâre, este destul de abruptă și poate deveni mai dificilă după 2-3 ore de efort.
 
-## Circuit de creastă
+## Iezerul Caprei - Paltinul
 
 {% responsiveImage "romania/fagaras/balea-din-creasta_gennyv", "", "Lacul Bâlea văzut din creastă" %}
 
-Daca nu va place sa va intoarceti pe unde ati pornit, puteti opta pentru un circuit care va duce pe deasupra vaii glaciare Balea. Varianta asta de traseu va va duce pe doua varfuri de 2400 de metri si va va deschide o priveliste deosebita asupra Transfagarasanului si a crestei Fagarasului.
+Dacă nu vă place să vă întoarceți pe același traseu, puteți opta pentru un circuit care vă duce pe deasupra văii glaciare Bâlea. Veți ajunge pe două vârfuri de peste 2400 de metri și vă veți bucura de o priveliște deosebită asupra Transfăgărășanului și a crestei Fagarașului.
 
 {% trackDetails "3.5km", "500m", "2.5h" %}
 {% paths "ta" "br" "ba" %}
 {% endtrackDetails %}
 
-Pentru ca traseul spre Saua Caprei este destul de abrupt, recomandam sa urcati pe aici, pentru ca la coborare sa aveti un traseu mai domol. Asadar, puteti urca pana in sa pe triunghi albastru, dupa care continuati la stanga de data asta, pe banda rosie. Prima urcare va duce pe varful Iezerul Caprei (2417m).
+Pentru că traseul spre Șaua Caprei este destul de abrupt, recomandăm să urcați pe aici pentru ca la coborâre să aveți un traseu mai domol. Așadar, puteți urca până în șa pe triunghi albastru, după care continuați la dreapta, pe banda roșie. Prima urcare vă duce pe vârful Iezerul Caprei (2417m).
 
-Urmeaza segmentul cel mai frumos, intre Iezerul Caprei si varful Paltinul (2399m). Aici puteti experimenta, in deplina siguranta, un superb traseu de creasta. Banda rosie este principalul marcaj turistic, o veritabila colonana vertebrala est-vest a muntilor Fagaras.
+Urmează segmentul cel mai frumos, între Iezerul Caprei și vârful Paltinul (2399m). Aici puteți experimenta, în deplină siguranță, un superb traseu de creastă.
 
-{% responsiveImage "romania/fagaras/creasta-paltinu_xzhgjp", "", "Când traseul si creasta sunt același lucru" %}
+{% responsiveImage "romania/fagaras/creasta-paltinu_xzhgjp", "", "Când traseul și creasta sunt același lucru" %}
 
-Dupa ce treceti prin cel mai jos punct, la Fereastra Balei, incepeti urcarea pe varful Paltinul. Acesta este mai putin abrupt decat Iezerul Caprei, insa ofera si el un punct de belvedere superb asupra vailor din zona. Spre vest, tot pe vreme buna, se poate vedea "zidul" perpendicular pe creasta format din Lespezi, Cornul Caltunului si Negoiu (vedeti tura pe Laitel pentru mai multe detalii)
+După ce treceți prin cel mai jos punct, la Fereastra Bâlei, începeți urcarea pe vârful Paltinul. Acesta este mai puțin abrupt decât Iezerul Caprei, însă oferă și el un punct de belvedere superb asupra văilor din zonă. Spre vest, tot pe vreme bună, se poate vedea "zidul" perpendicular pe creastă format din Lespezi, Cornul Călțunului și Negoiu (vedeți secțiunea despre Lăițel pentru mai multe detalii).
 
-{% responsiveImage "romania/fagaras/balea-din-creasta-toamna_u1mxpt", "", "Toamna nu-i ca vara" %}
+{% responsiveImage "romania/fagaras/balea-din-creasta-toamna_u1mxpt", "", "Toamna nu-i ca vara - vedere de pe vârful Paltinul" %}
 
-La coborarea de pe Paltin, se poate urma marcajul de banda albastra pe sub creasta pana inapoi la cabana Balea. Coborarea este mult mult mai lina decat cea prin Saua Caprei. Daca preferati totusi o ruta mai rapida, se poate opta si pentru o coborare directa spre cabana salvamont pe cruce rosie.
+La coborârea de pe Paltin puteți urma marcajul bandă albastră pe sub creastă pana înapoi la cabana Bâlea. Coborârea este mult mai lină decat cea prin Șaua Caprei. Daca preferați totuși o rută mai rapidă, se poate opta și pentru o coborâre directă spre cabana salvamont pe cruce roșie.
 
-## Vârful Lăițel
+## Lăițel
 
 {% responsiveImage "romania/fagaras/viewpoint-laitel_h883s4", "", "Lespezi si Cornul Călțunului în stânga, Negoiu în dreapta" %}
 
-Nu, vârful Lăițel nu se găsește în imaginea de mai sus, însă priveliștea asta deosebita (poate preferata noastra din muntii Romaniei) este de pe vârful cu pricina. Laitelul este ultimul varf dintr-o portiune mai lunga de creasta continua. De aici incepe un traseu destul de fragmentat si ceva mai dificil al crestei Fagarasului.
+Nu, vârful Lăițel nu se găsește în imaginea de mai sus, însă priveliștea asta deosebită (poate preferata noastră din munții României) este de pe vârful cu pricina. Lăițelul este ultimul vârf dintr-o porțiune de creastă lungă și domoală. De aici începe un traseu destul de fragmentat și mai dificil al crestei Făgărașului.
 
 {% trackDetails "8km", "450m", "4h" %}
 {% paths "ba" "br" %}
 {% endtrackDetails %}
 
-Pentru aceasta varianta de traseu, incepem din nou de la Balea. Puteti urca fie pe banda albastra inconjurand caldarea, sau mai abrupt direct spre Saua Doamnei, pe crucea rosie. Cele doua trasee se intersecteaza mai sus de Saua Doamnei, apoi continua pana in Saua Paltinului, unde intrati pe banda rosie spre Laitel.
+Și această variantă de traseu începe tot de la Bâlea. Puteți urca fie pe bandă albastră înconjurând căldarea, sau mai abrupt direct spre Șaua Doamnei, pe crucea roșie. Cele două trasee se intersectează mai sus de Șaua Doamnei, apoi continuă până în Șaua Paltinului, unde intersectează pe banda roșie spre Lăițel.
 
 {% responsiveImage "romania/fagaras/valea-doamnei_ngct15", "", "Valea Doamnei, văzută din Șaua Paltinului" %}
 
-Creasta dintre Paltin si Laitel este destul de lina, cu cateva urcari si coborari. Se trece pe langa Turnul Paltinului si se continua pe sub varful Laita. Chiar inainte de urcarea pe Laitel, exista o portiune mai tehnica amenajata cu lanturi, insa nu foarte dificila.
+Creasta dintre Paltin și Lăițel este destul de lină, cu câteva urcușuri și coborâșuri. Traseul trece pe lângă Turnul Paltinului, apoi continuă pe sub vârful Laița. Chiar înainte de urcarea pe Lăițel, există o porțiune mai tehnică amenajată cu lanțuri, însă nu este dificilă.
 
-{% responsiveImage "romania/fagaras/muchia-laitel_u4hivw", "", "Singura portiune tehnica de pe traseu, la baza Laitelului" %}
+{% responsiveImage "romania/fagaras/muchia-laitel_u4hivw", "", "Singura porțiune tehnică de pe traseu, la baza Lăițelului" %}
 
-Urcarea pe Laitel este ceva mai abrupta, poteca serpuind usor pana in varf, de unde se deschide si acea panorama superba.
+Urcarea pe Lăițel este puțin mai abruptă, poteca șerpuind ușor până în vârf, de unde se deschide și acea panoramă superbă.
 
-{% responsiveImage "romania/fagaras/laitel_lzqxjs", "", "Varful Laitel" %}
+{% responsiveImage "romania/fagaras/laitel_lzqxjs", "", "Vârful Lăițel" %}
 
-Fiecare din cele 3 trasee se pot face lejer intr-o zi, fara prea mare graba si cu timp suficient petrecut la mare inaltime pentru a admira cea mai inalta zona a Romaniei. Recomandam sa va instalati aplicatia muntii-nostri pentru a va orienta in teren. De asemenea, va puteti astepta sa gasiti mereu alte persoane pe traseu in zona respectiva, asa ca intrebati cu curaj daca nu stiti pe unde sa o luati.
+Întoarcerea ...
+
+<hr />
+
+Fiecare din cele 3 trasee se pot face lejer într-o zi, fără prea mare grabă și cu timp suficient petrecut la mare înălțime pentru a admira cea mai înaltă zonă a României. Recomandăm să vă instalați aplicația [muntii-nostri](https://muntii-nostri.ro/) pentru a vă orienta în teren. De asemenea, vă puteți aștepta să găsiți mereu alte persoane pe traseu în zona respectivă, așa că întrebați cu curaj dacă nu știți pe unde să o luați.
 
 <a href="https://www.google.com/maps/d/u/2/viewer?mid=1DK87zB06oNZ1Ngub8wxLnEsW4uiWsqUK&ll=45.597566725799666%2C24.614403153223105&z=15" target="_blank" rel="noopener noreferrer">
 {% responsiveImage "romania/fagaras/balea-harta_sojn3y", "", "Click pe hartă pentru a o deschide în google maps" %}
 </a>
 
-Lacul Balea este punctul de pornire si pentru alte trasee de creasta, mai lungi, atat spre est spre cabana Podragu, si varfurile Vistea si Moldoveanu, cat si spre vest, spre lacul Caltun si zona varfurilor Negoiu-Lespezi. Insa despre acestea, revenim in curand cu un alt articol mai detaliat.
+Lacul Bâlea este punctul de pornire și pentru alte trasee de creastă, mai lungi, atât spre est spre cabana Podragu, și vârfurile Viștea și Moldoveanu, cât și spre vest, spre lacul Călțun și zona vârfurilor Negoiu-Lespezi. Însă despre acestea revenim în curând cu un alt articol mai detaliat.
