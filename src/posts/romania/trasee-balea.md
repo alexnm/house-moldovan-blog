@@ -30,27 +30,27 @@ Zona este accesibilă (fără să fie nevoie de echipament special) cam de la î
 
 {% responsiveImage "romania/fagaras/vanatarea-lui-buteanu_yblrt0", "", "Vânătarea lui Buteanu văzut de pe Iezerul Caprei" %}
 
-Dacă tot ați ajuns la așa altitudine mare, ce-ar fi să treceți si de 2500m? În România avem [13 vârfuri](https://ro.wikipedia.org/wiki/Lista_v%C3%A2rfurilor_muntoase_din_Rom%C3%A2nia_dup%C4%83_%C3%AEn%C4%83l%C8%9Bime#V%C3%A2rfuri_de_peste_2.500_metri) care trec de 2500m, iar Vânătarea (după unii Vânătoarea, long story...) lui Buteanu este unul din ele (2507m). Este și, probabil, cel mai accesibil dintre toate, sau cel care necesită cel mai mic efort pentru a fi atins.
+Dacă tot ați ajuns la așa altitudine mare, ce-ar fi să treceți și de 2500m? În România sunt [13 vârfuri](https://ro.wikipedia.org/wiki/Lista_v%C3%A2rfurilor_muntoase_din_Rom%C3%A2nia_dup%C4%83_%C3%AEn%C4%83l%C8%9Bime#V%C3%A2rfuri_de_peste_2.500_metri) care trec de 2500m, iar Vânătarea (sau, după unii, Vânătoarea) lui Buteanu este unul din ele (2507m). Acesta este, probabil, cel care necesită cel mai mic efort pentru a fi atins.
 
 {% trackDetails "3km", "450m", "2.5h" %}
 {% paths "ta" "ca" %}
 {% endtrackDetails %}
 
-Traseul incepe din dreptul cabanei Balea, drept in sus pe triunghi albastru spre Șaua Caprei. Urcarea este destul de abruptă, in special in ultima portiune, unde si poteca se pierde pe alocuri printre placile de pietre sparte. Ajunsi in șa, puteti continua inainte spre Lacul Capra.
+Traseul începe din dreptul cabanei Bâlea, drept în sus pe triunghi albastru spre Șaua Caprei. Urcarea este destul de abruptă, în special în ultima porțiune, unde și poteca se pierde pe alocuri printre plăcile de pietre sparte. Ajunși în șa, puteți continua înainte spre Lacul Capra.
 
 {% responsiveImage "romania/fagaras/capra_onnava", "", "Șaua Caprei, vedere spre lacurile Capra si Căprița" %}
 
-Traseul spre Vânatare continuă spre stânga pe poteca marcata cu cruce albastra, pe sub vârful Văiuga. Peisajul este deosebit si aici, cu lacul Capra pe dreapta si cu caldarea Vaiugii pe stanga.
+Traseul spre Vânatare continuă spre stânga pe poteca marcată cu cruce albastră, pe sub vârful Văiuga. Peisajul este deosebit și aici, cu vedere spre lacul Capra pe dreapta și spre căldarea Văiugii pe stânga.
 
-Urcarea devine mai abrupta aproape de varf unde se ajunge la o spintecatura intre Vanatarea lui Buteanu (orientat spre nord) si varful Capra (2945m), care e orientat spre sud. Aici este si singura dificultate tehnica de pe traseu. Trebuie catarata o stanca de 2 metri. Nu este dificil, insa necesita putina atentie. Din pacate lipseste un lant sau 2-3 prinderi de metal care sa faciliteze urcarea/coborarea.
+Urcarea devine mai abruptă aproape de vârf, unde se ajunge la o spintecătură între Vânătarea lui Buteanu (orientat spre nord) și vârful Capra (2945m) - orientat spre sud. Aici este și singura dificultate tehnică de pe traseu: trebuie cățărată o stâncă de 2 metri. Nu este dificil, însă necesită puțină atenție, și, din păcate, lipsește un lanț sau 2-3 prinderi de metal care să faciliteze urcarea/coborârea.
 
 {% responsiveImage "romania/fagaras/buteanu-catarare_omadqg", "", "Stânca de pe Buteanu, la descățărat" %}
 
-O data ajunsi pe varf insa, va puteti bucura de o priveliste de 360 de grade asupra intregii creste a Fagarasului. Datorita pozitionarii varfului mai la nord fata de axul central al crestei, puteti vedea toate varfurile la est si la vest. In functie de conditiile meteo, puteti surprinde varfurile Moldoveanu si Negoiu intr-o singura poza panoramica :)
+O data ajunsi pe vârf, vă puteți bucura de o priveliște de 360 de grade asupra întregii creste a Făgărașului. Datorită poziționării vârfului mai la nord față de axul central al acesteia, puteți vedea toate vârfurile la est și la vest. În funcție de condițiile meteo, puteți surprinde vârfurile Moldoveanu și Negoiu într-o singură poză panoramică 😍.
 
 {% responsiveImage "romania/fagaras/vanatarea-lui-buteanu-view_h7bhh6", "", "Creasta Făgărașului, trapezul Viștea-Moldoveanu în plan îndepărtat" %}
 
-Drumul retur se face pe acelasi traseu, cruce albastra pana in Saua Caprei, apoi coborarea spre Balea. Atentie la coborare, este destul de abrupta si poate deveni mai dificila dupa 2-3 ore de efort.
+Returul se face pe același traseu: cruce albastră până în Șaua Caprei, apoi coborârea spre Bâlea. Atenție la coborâre, este destul de abruptă și poate deveni mai dificilă după 2-3 ore de efort.
 
 ## Circuit de creastă
 
