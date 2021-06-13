@@ -14,17 +14,17 @@ tags:
   - nature
 ---
 
-Munții Făgăraș au o grămadă de trasee de dificultate majoră, care străbat de la nord la sud si de la est la vest semețele vârfuri. Puteți însă profita din plin de Transfăgărășan, care vă duce in inima munților la peste 2000 de metri altitudine.
+Cum bine spun manualele de geografie, Munții Făgăraș sunt renumiți pentru văile adânci și vârfurile ascuțite. Există o mulțime de trasee care-i străbat, atât de la nord la sud, cât și de la est la vest. Marea majoritate a traseelor sunt destul de dificile, însă e de mare ajutor Transfăgărășanul, șoseaua ce ajunge în inima munților, la peste 2000 de metri altitudine.
+
+De la Bâlea Lac, punctul cel mai înalt al Transfăgărășanului, există mai multe trasee care cu siguranță vă vor deschide apetitul pentru munții înalți și pentru drumețiile mai dificile din Carpați.
+
+Zona este accesibilă (fără să fie nevoie de echipament special) cam de la începutul lunii iulie, până prin octombrie-noiembrie, în funcție de cât de repede se depune zăpada. Peisajele din iulie sunt poate cele mai frumoase, cu creste verzi și pâlcuri de zăpadă rămase din primăvară. Însă tot luna iulie e și cea mai instabilă. După mijlocul lui august până la final de septembrie prognoza meteo devine mult mai predictibilă. Noi am făcut o tură de la Bâlea pe Negoiu și retur într-o zi de final de septembrie și nu a fost nici un nor pe cer toată ziua. Însa majoritatea pozelor din articol sunt dintr-o tură de la început de iulie, când am ajuns și pe Lăițel prima dată.
+
+Înainte să trecem la descrierea traseelor, reamintim că la munte se recomandă să purtați încălțăminte cu talpă groasă și să aveți la voi un polar și o pelerină de ploaie, indiferent de condițiile meteo de la fața locului. Vremea la munte se schimbă repede, iar în Făgăraș se schimbă cel mai repede. După cum se vede și în pozele din acest articol, masele de nori circulă foarte repede și îmbracă crestele pe neașteptate.
 
 <div class="info warning">
-  <span>Evitați zilele de weekend, in special in perioada sezonului estival. E păcat să stați ore în șir bară la bară</span>
+  <span>Evitați călătoriile pe Transfăgărășan în zilele de weekend, în special în perioada sezonului estival. Cel mai probabil, o să stați ore în șir bară la bară.</span>
 </div>
-
-De la Bâlea Lac, există mai multe trasee care cu siguranță vă vor deschide apetitul pentru munții înalți și pentru trasee mai dificile in Carpați. Așa că lăsați mașina în parcare și bucurați-vă de cele mai frumoase peisaje alpine din România.
-
-Înainte sa trecem la descrierea traseelor, recomandam incaltaminte adecvata si pelerina de ploaie, indiferent de conditiile meteo de la fata locului. Vremea la munte se schimba repede, iar in Fagaras se schimba cel mai repede! Dupa cum se vede si in pozele din acest articol, masele de nori circula foarte repede si imbraca crestele pe neasteptate.
-
-Zona este accesibila cam de la inceputul lunii iulie, pana prin Octombrie-Noiembrie, in functie de cat de repede se depune zapada. Peisajele din iulie sunt poate cele mai frumoase, cu creste verzi si palcuri de zapada ramase din primavara. Insa tot luna iulie e si cea mai instabila. Dupa mijlocul lui August, pana pe final de Septembrie prognoza meteo devine mult mai predictibila. Noi am facut o tura de la Balea pe Negoiu si retur intr-o zi de final de septembrie si nu am avut nici un nor pe cer toata ziua. Insa majoritatea pozelor din articol sunt dintr-o tura de la inceput de iulie, cand am ajuns si pe Laitel prima data.
 
 ## Vânătarea lui Buteanu
 
