@@ -98,4 +98,8 @@ Urcarea pe Laitel este ceva mai abrupta, poteca serpuind usor pana in varf, de u
 
 Fiecare din cele 3 trasee se pot face lejer intr-o zi, fara prea mare graba si cu timp suficient petrecut la mare inaltime pentru a admira cea mai inalta zona a Romaniei. Recomandam sa va instalati aplicatia muntii-nostri pentru a va orienta in teren. De asemenea, va puteti astepta sa gasiti mereu alte persoane pe traseu in zona respectiva, asa ca intrebati cu curaj daca nu stiti pe unde sa o luati.
 
+<a href="https://www.google.com/maps/d/u/2/viewer?mid=1DK87zB06oNZ1Ngub8wxLnEsW4uiWsqUK&ll=45.597566725799666%2C24.614403153223105&z=15" target="_blank" rel="noopener noreferrer">
+{% responsiveImage "romania/fagaras/balea-harta_sojn3y", "", "Click pe hartă pentru a o deschide în google maps" %}
+</a>
+
 Lacul Balea este punctul de pornire si pentru alte trasee de creasta, mai lungi, atat spre est spre cabana Podragu, si varfurile Vistea si Moldoveanu, cat si spre vest, spre lacul Caltun si zona varfurilor Negoiu-Lespezi. Insa despre acestea, revenim in curand cu un alt articol mai detaliat.
