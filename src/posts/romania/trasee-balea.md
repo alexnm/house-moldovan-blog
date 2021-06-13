@@ -96,7 +96,7 @@ Urcarea pe Lăițel este puțin mai abruptă, poteca șerpuind ușor până în 
 
 {% responsiveImage "romania/fagaras/laitel_lzqxjs", "", "Vârful Lăițel" %}
 
-Întoarcerea ...
+Întoarcerea la Bâlea se face pe același traseu. Puteți opta să coborâți prin Șaua Doamnei spre cabana salvamont, sau pe marcajul bandă albastră până la cabana Bâlea.
 
 <hr />
 
