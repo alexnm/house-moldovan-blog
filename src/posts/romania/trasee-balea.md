@@ -14,15 +14,23 @@ tags:
   - nature
 ---
 
-Zona munților Făgăraș este accesibilă (fără să fie nevoie de echipament special) cam de la începutul lunii iulie, până prin octombrie-noiembrie, în funcție de cât de repede se depune zăpada.
+Zona munților Făgăraș este accesibilă (fără să fie nevoie de echipament special) cam de la începutul lunii iulie până prin octombrie-noiembrie, în funcție de cât de repede se depune zăpada.
 
-Peisajele din iulie sunt poate cele mai frumoase, cu creste verzi și pâlcuri de zăpadă rămase din primăvară. Însă tot luna iulie e și cea mai instabilă. După mijlocul lui august până la final de septembrie prognoza meteo devine mult mai predictibilă. Noi am făcut o tură de la Bâlea pe Negoiu și retur într-o zi de final de septembrie și nu a fost niciun nor pe cer toată ziua. Însă majoritatea pozelor din articol sunt dintr-o tură de la început de iulie, când am ajuns și pe Lăițel prima dată.
+Peisajele din iulie sunt poate cele mai frumoase, cu creste verzi și pâlcuri de zăpadă rămase din primăvară. Luna iulie e, însă, și cea mai instabilă, urmând ca după mijlocul lui august până la final de septembrie prognoza meteo să fie mult mai predictibilă. Noi am făcut o tură de la Bâlea pe Negoiu și retur într-o zi de final de septembrie și nu a fost niciun nor pe cer toată ziua, însă majoritatea pozelor din articol sunt dintr-o drumeție de la început de iulie.
 
 <div class="info tip">
   <span>Evitați călătoriile pe Transfăgărășan în zilele de weekend, în special în perioada sezonului estival. Cel mai probabil, o să stați mult timp în trafic.</span>
 </div>
 
 Înainte să trecem la descrierea traseelor, pentru abordarea lor vă recomandăm să purtați încălțăminte cu talpă groasă (preferabil bocanci) și să aveți la voi un polar și o pelerină de ploaie, indiferent de condițiile meteo de la fața locului. Vremea la munte se schimbă repede, iar în Făgăraș se schimbă cel mai repede.
+
+<hr />
+
+Fiecare dintre cele trei trasee pe care urmează să le descriem sunt marcate pe harta de mai jos. Vă recomandăm să o folosiți pentru a identifica mai ușor vârfurile și văile menționate.
+
+<a href="https://www.google.com/maps/d/u/2/viewer?mid=1DK87zB06oNZ1Ngub8wxLnEsW4uiWsqUK&ll=45.597566725799666%2C24.614403153223105&z=15" target="_blank" rel="noopener noreferrer">
+{% responsiveImage "romania/fagaras/balea-harta_sojn3y", "", "Click pe hartă pentru a o deschide în Google Maps" %}
+</a>
 
 ## Vânătarea lui Buteanu
 
@@ -40,7 +48,7 @@ Traseul începe din dreptul cabanei Bâlea, drept în sus pe triunghi albastru s
 
 Traseul spre Vânatare continuă spre stânga pe poteca marcată cu cruce albastră, pe sub vârful Văiuga. Peisajul este deosebit și aici, cu vedere spre lacul Capra pe dreapta și spre căldarea Văiugii pe stânga.
 
-Urcarea devine mai abruptă aproape de vârf, unde se ajunge la o spintecătură între Vânătarea lui Buteanu (orientat spre nord) și vârful Capra (2945m) - orientat spre sud. Aici este și singura dificultate tehnică de pe traseu: trebuie cățărată o stâncă de 2 metri. Nu este dificil, însă necesită puțină atenție și, din păcate, lipsește un lanț sau 2-3 prinderi de metal care să faciliteze urcarea/coborârea.
+Urcarea devine mai abruptă aproape de vârf, unde se ajunge la o spintecătură între Vânătarea lui Buteanu (orientat spre nord) și vârful Capra (2495m) - orientat spre sud. Aici este și singura dificultate tehnică de pe traseu: trebuie cățărată o stâncă de 2 metri. Nu este dificil, însă necesită puțină atenție și, din păcate, lipsește un lanț sau 2-3 prinderi de metal care să faciliteze urcarea/coborârea.
 
 {% responsiveImage "romania/fagaras/buteanu-catarare_omadqg", "", "Stânca de pe Buteanu, la descățărat" %}
 
@@ -54,9 +62,9 @@ Returul se face pe același traseu: cruce albastră până în Șaua Caprei, apo
 
 {% responsiveImage "romania/fagaras/balea-din-creasta_gennyv", "", "Lacul Bâlea văzut din creastă" %}
 
-Dacă nu vă place să vă întoarceți pe același traseu, puteți opta pentru un circuit care vă duce pe deasupra văii glaciare Bâlea. Veți ajunge pe două vârfuri de peste 2400 de metri și vă veți bucura de o priveliște deosebită asupra Transfăgărășanului și a crestei Fagarașului.
+Dacă nu vă place să vă întoarceți pe același traseu, puteți opta pentru un circuit care vă duce pe deasupra văii glaciare Bâlea. Veți ajunge pe două vârfuri de 2400 de metri și vă veți bucura de o priveliște deosebită asupra Transfăgărășanului și a crestei Făgărașului.
 
-{% trackDetails "3.5km", "500m", "2.5h" %}
+{% trackDetails "4km", "500m", "3h" %}
 {% paths "ta" "br" "ba" %}
 {% endtrackDetails %}
 
@@ -70,7 +78,7 @@ După ce treceți prin cel mai jos punct, la Fereastra Bâlei, începeți urcare
 
 {% responsiveImage "romania/fagaras/balea-din-creasta-toamna_u1mxpt", "", "Toamna nu-i ca vara - vedere de pe vârful Paltinul" %}
 
-La coborârea de pe Paltin puteți urma marcajul bandă albastră pe sub creastă pana înapoi la cabana Bâlea. Coborârea este mult mai lină decat cea prin Șaua Caprei. Daca preferați totuși o rută mai rapidă, puteți opta pentru o coborâre directă spre cabana salvamont pe cruce roșie.
+La coborârea de pe Paltin puteți urma marcajul bandă albastră pe sub creastă până înapoi la cabana Bâlea. Coborârea este mult mai lină decat cea prin Șaua Caprei. Dacă preferați totuși o rută mai rapidă, puteți opta pentru o coborâre directă spre cabana salvamont pe cruce roșie.
 
 ## Lăițel
 
@@ -78,7 +86,7 @@ La coborârea de pe Paltin puteți urma marcajul bandă albastră pe sub creast�
 
 Nu, vârful Lăițel nu se găsește în imaginea de mai sus, însă priveliștea asta deosebită (poate preferata noastră din munții României) este de pe vârful cu pricina. Lăițelul este ultimul vârf dintr-o porțiune de creastă lungă și domoală. De aici începe un traseu destul de fragmentat și mai dificil al crestei Făgărașului, spre lacul Călțun, vizibil și el de pe vârf.
 
-{% trackDetails "8km", "450m", "4h" %}
+{% trackDetails "7km", "450m", "4h" %}
 {% paths "cr" "ba" "br" %}
 {% endtrackDetails %}
 
@@ -98,10 +106,6 @@ Urcarea pe Lăițel este puțin mai abruptă, poteca șerpuind ușor până în 
 
 <hr />
 
-Fiecare din cele 3 trasee se pot face lejer într-o zi, fără prea mare grabă și cu timp suficient petrecut la mare înălțime pentru a admira cea mai înaltă zonă a României. Recomandăm să vă instalați aplicația [muntii-nostri](https://muntii-nostri.ro/) pentru a vă orienta în teren. De asemenea, vă puteți aștepta să găsiți mereu alte persoane pe traseu în zona respectivă, așa că întrebați cu curaj dacă nu știți pe unde să o luați.
-
-<a href="https://www.google.com/maps/d/u/2/viewer?mid=1DK87zB06oNZ1Ngub8wxLnEsW4uiWsqUK&ll=45.597566725799666%2C24.614403153223105&z=15" target="_blank" rel="noopener noreferrer">
-{% responsiveImage "romania/fagaras/balea-harta_sojn3y", "", "Click pe hartă pentru a o deschide în google maps" %}
-</a>
+Fiecare din cele 3 trasee se pot face lejer într-o zi, fără prea mare grabă și cu timp suficient pentru a admira cea mai înaltă zonă a României. Recomandăm să vă instalați aplicația [muntii-nostri](https://muntii-nostri.ro/) pentru a vă orienta în teren. De asemenea, vă puteți aștepta să găsiți alte persoane pe traseu în zona respectivă, așa că întrebați cu curaj dacă nu știți pe unde să o luați.
 
 Lacul Bâlea este punctul de pornire și pentru alte trasee de creastă, mai lungi, atât spre est spre cabana Podragu, și vârfurile Viștea și Moldoveanu, cât și spre vest, spre lacul Călțun și zona vârfurilor Negoiu-Lespezi. Însă despre acestea revenim în curând cu un alt articol mai detaliat.
