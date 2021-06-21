@@ -162,6 +162,10 @@ img {
 
 /* Header */
 
+.header-wrapper {
+  overflow-y: scroll;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -173,6 +177,7 @@ img {
   top: 0;
   z-index: 1;
   background: var(--background);
+  min-width: 520px;
 }
 
 [data-theme="dark"] .header {
@@ -247,7 +252,7 @@ img {
 
 .house {
   margin-left: 1rem;
-  display: none;
+  /* display: none; */
   border-top: var(--underline-width) solid transparent;
   border-bottom: var(--underline-width) solid transparent;
   transition: border var(--motion-fade-speed) var(--motion-fade-function);
@@ -267,7 +272,7 @@ img {
 }
 
 .nav > li:first-child {
-  display: none;
+  /* display: none; */
 }
 
 .nav-item a {
