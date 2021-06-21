@@ -163,7 +163,30 @@ img {
 /* Header */
 
 .header-wrapper {
+  position: relative;
+}
+
+.header-scrollable {
   overflow-y: scroll;
+}
+
+.header-fade-left,
+.header-fade-right {
+  position: absolute;
+  top: 0;
+  bottom: 1px;
+  width: 1rem;
+  z-index: 1;
+}
+
+.header-fade-left {
+  left: 0;
+  background: linear-gradient(90deg, var(--background), transparent);
+}
+
+.header-fade-right {
+  right: 0;
+  background: linear-gradient(90deg, transparent, var(--background));
 }
 
 .header {

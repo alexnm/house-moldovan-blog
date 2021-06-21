@@ -66,29 +66,34 @@
     </script>
     <a class="skip-link" href="#maincontent">Skip to main content</a>
     <div class="header-wrapper">
-      <header class="header">
-        <div class="left-side" >
-          <button class="theme-button" onclick="switchTheme()" title="Change theme">
-            <img src="/img/logo.jpg" alt="House Moldovan" />
-            <div class="theme-overlay">
-              <div class="icon moon">{{ "/img/icons/moon.svg" | svgContents | safe }}</div>
-              <div class="icon sun">{{ "/img/icons/sun.svg" | svgContents | safe }}</div>
-            </div>
-          </button>
+      <div class="header-scrollable">
+        <header class="header">
+          <div class="left-side" >
+            <button class="theme-button" onclick="switchTheme()" title="Change theme">
+              <img src="/img/logo.jpg" alt="House Moldovan" />
+              <div class="theme-overlay">
+                <div class="icon moon">{{ "/img/icons/moon.svg" | svgContents | safe }}</div>
+                <div class="icon sun">{{ "/img/icons/sun.svg" | svgContents | safe }}</div>
+              </div>
+            </button>
+            
+            <a href="{{ '/' | url }}" class="nav-item house">
+              {{ metadata.title }}
+            </a>
+          </div>
           
-          <a href="{{ '/' | url }}" class="nav-item house">
-            {{ metadata.title }}
-          </a>
-        </div>
+          <nav>
+            <ul class="nav">
+            {%- for entry in collections.all | eleventyNavigation %}
+              <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+            {%- endfor %}
+            </ul>
+          </nav>
+        </header>
         
-        <nav>
-          <ul class="nav">
-          {%- for entry in collections.all | eleventyNavigation %}
-            <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-          {%- endfor %}
-          </ul>
-        </nav>
-      </header>
+      </div>
+      <div class="header-fade-left"></div>
+      <div class="header-fade-right"></div>
     </div>
 
     <main class="main" id="maincontent">
