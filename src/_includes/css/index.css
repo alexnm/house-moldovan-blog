@@ -821,6 +821,12 @@ img {
   }
 }
 
+@media (max-width: 768px) {
+  .mobile-hidden {
+    display: none;
+  }
+}
+
 /* Styling */
 
 .text-center {

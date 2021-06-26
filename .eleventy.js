@@ -67,6 +67,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("responsiveImage", (path, alt, caption) => {
+    const figcaption = caption ? `<figcaption>${caption}.</figcaption>` : "";
     return `
 <figure>
   <picture>
@@ -75,7 +76,7 @@ module.exports = function (eleventyConfig) {
     <source srcset="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/${path}.webp">
     <img src="https://res.cloudinary.com/house-moldovan/image/upload/v1591633244/${path}.jpg" alt="${alt}" />
   </picture>
-  <figcaption>${caption}.</figcaption>
+  ${figcaption}
 </figure>`;
   });
 
