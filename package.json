@@ -32,6 +32,6 @@
     "markdown-it-anchor": "^5.2.5",
     "markdown-it-link-attributes": "^3.0.0",
     "postcss": "^8.2.10",
-    "terser": "^5.5.0"
+    "terser": "^5.14.2"
   }
 }
